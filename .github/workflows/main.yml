@@ -1,6 +1,7 @@
 name: cron
 
 on:
+  issues: [opened]
   schedule:
     - cron: '*/10 * * * *'
 
