@@ -1,9 +1,10 @@
 name: cron
 
 on:
-  issues: [opened]
+  issues:
+    types: [opened, edited]
   schedule:
-    - cron: '*/10 * * * *'
+    - cron: '*/30 * * * *'
 
 jobs:
   cron:
