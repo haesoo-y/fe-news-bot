@@ -4,7 +4,7 @@ on:
   issues:
     types: [opened, edited]
   schedule:
-    - cron: '*/30 * * * *'
+    - cron: '0 23 * * *'
 
 jobs:
   cron:
@@ -18,7 +18,6 @@ jobs:
         uses: actions/setup-node@v1
         with:
           node-version: ${{ matrix.node-version }}
-          github-token: ${{secrets.GITHUB_TOKEN}}
 
       - name: Run Cron
         run: |
@@ -29,6 +28,6 @@ jobs:
           git config --global user.name "haesoo9410"
           git config --global user.email "haesoo9410@gmail.com"
           git pull origin main
-          git add -A
+          git add .
           git commit -m ":memo: 리드미 업데이트" || exit 0
           git push
