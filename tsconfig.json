@@ -3,7 +3,7 @@
     "target": "es5",
     "module": "commonjs",
     "downlevelIteration": true,
-    // "isolatedModules": true,
+    "isolatedModules": true,
     "strict": true,
     "esModuleInterop": true,
     "experimentalDecorators": true,
@@ -14,5 +14,5 @@
     "baseUrl": "./",
     "paths": { "@/*": ["src/*"] }
   },
-  "include": ["src"]
+  "include": ["src", "app.ts"]
 }
