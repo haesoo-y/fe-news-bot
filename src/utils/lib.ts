@@ -12,7 +12,7 @@ export const getHtml = async (url: string) => {
 
 export const makeMarkDown = (lst: ObjType[]) => {
   let result = '# 오늘의 포스팅 \n';
-  result += getKoreaTime() + ' 기준 \n';
+  result += getKoreaTime() + '기준 \n\n';
   for (const obj of lst) {
     result += `### ${obj.title} \n ${obj.desc} \n\n [바로가기](${obj.url}) \n`;
   }
@@ -26,12 +26,12 @@ const getKoreaTime = () => {
   const koreaTime = new Date(now.getTime() + diffConfig + diffKorea);
   return (
     koreaTime.getFullYear() +
-    '년' +
-    koreaTime.getMonth() +
-    '월' +
-    koreaTime.getDay() +
-    '일' +
+    '년 ' +
+    (koreaTime.getMonth() + 1) +
+    '월 ' +
+    koreaTime.getDate() +
+    '일 ' +
     koreaTime.getHours() +
-    '시'
+    '시 '
   );
 };
