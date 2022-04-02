@@ -31,4 +31,6 @@ jobs:
           git add -A
           git commit -m ":memo: 리드미 업데이트" || exit 0
           git push
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
           
