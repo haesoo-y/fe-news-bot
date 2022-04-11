@@ -25,7 +25,7 @@ jobs:
           npm start
       - name: Push Github
         run: |
-          git config --global user.name "haesoo9410"
+          git config --global user.name "haesoo-y"
           git config --global user.email "haesoo9410@gmail.com"
           git pull origin main
           git add .
