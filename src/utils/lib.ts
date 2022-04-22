@@ -14,7 +14,7 @@ export const makeMarkDown = (lst: ObjType[]) => {
   let result = '# 오늘의 포스팅 \n';
   result += getKoreaTime() + '기준 \n\n';
   for (const obj of lst) {
-    result += `### ${obj.title} \n ${obj.desc} \n\n [바로가기](${obj.url}) \n`;
+    result += `### ${obj.title} \n\n ${obj.desc} \n\n [바로가기](${obj.url}) \n\n`;
   }
   fs.writeFileSync('README.md', result, 'utf-8');
 };
