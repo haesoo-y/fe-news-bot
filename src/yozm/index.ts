@@ -1,7 +1,6 @@
 import { ObjType } from '@/type';
 import { getHtml } from '@/utils/lib';
 import * as cheerio from 'cheerio';
-import { Url } from 'url';
 
 export const getYozmList = async () => {
   const yozm = 'https://yozm.wishket.com';
