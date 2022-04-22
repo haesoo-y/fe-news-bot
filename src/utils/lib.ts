@@ -22,7 +22,7 @@ export const makeMarkDown = (lst: ObjType[]) => {
 };
 
 const getReferenceText = (refList: BlogType[]) => {
-  let result = '### 참조 링크 \n\n';
+  let result = '---\n\n**참조 링크**\n\n';
   for (const blog of refList) {
     result += `- [${blog.name}](${blog.url}) \n\n`;
   }
