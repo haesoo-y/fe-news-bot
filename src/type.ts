@@ -4,3 +4,8 @@ export type ObjType = {
   url: string;
   image?: string;
 };
+
+export type BlogType = {
+  name: string;
+  url: string;
+};
