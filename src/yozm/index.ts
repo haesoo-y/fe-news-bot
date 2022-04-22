@@ -1,5 +1,6 @@
 import { ObjType } from '@/type';
 import { getHtml } from '@/utils/lib';
+import { MAX_DESC_LENGTH } from '@/utils/static';
 import * as cheerio from 'cheerio';
 
 export const getYozmList = async () => {
@@ -12,7 +13,7 @@ export const getYozmList = async () => {
   $bodyList.each((i, elem) => {
     result.push({
       title: $(elem).find('.list-item .item-main a.item-title').text(),
-      desc: $(elem).find('.list-item .item-description').text().slice(0, 50) + '...',
+      desc: $(elem).find('.list-item .item-description').text().slice(0, MAX_DESC_LENGTH) + '...',
       url: yozm + $(elem).find('.list-item .item-main a.item-title').attr('href'),
     });
   });

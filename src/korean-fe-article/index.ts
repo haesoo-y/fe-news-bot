@@ -1,5 +1,6 @@
 import { ObjType } from '@/type';
 import { getHtml } from '@/utils/lib';
+import { MAX_DESC_LENGTH } from '@/utils/static';
 import * as cheerio from 'cheerio';
 
 export const getKFAList = async () => {
@@ -13,7 +14,7 @@ export const getKFAList = async () => {
   $bodyList.each((i, elem) => {
     result.push({
       title: $(elem).find('a.post-preview-title').text().replace(kfaTitle, ''),
-      desc: $(elem).find('a.post-preview-description').text().slice(0, 50) + '...',
+      desc: $(elem).find('a.post-preview-description').text().slice(0, MAX_DESC_LENGTH) + '...',
       url: '' + $(elem).find('a.post-preview-title').attr('href'),
     });
   });
