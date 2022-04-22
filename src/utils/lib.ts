@@ -1,6 +1,7 @@
 import axios from 'axios';
 import fs from 'fs';
-import { ObjType } from '@/type';
+import { BlogType, ObjType } from '@/type';
+import { DEV_BLOG_LIST } from './static';
 
 export const getHtml = async (url: string) => {
   try {
@@ -16,7 +17,16 @@ export const makeMarkDown = (lst: ObjType[]) => {
   for (const obj of lst) {
     result += `### ${obj.title} \n\n ${obj.desc} \n\n [바로가기](${obj.url}) \n\n`;
   }
+  result += getReferenceText(DEV_BLOG_LIST);
   fs.writeFileSync('README.md', result, 'utf-8');
+};
+
+const getReferenceText = (refList: BlogType[]) => {
+  let result = '### 참조 링크 \n\n';
+  for (const blog of refList) {
+    result += `- [${blog.name}](${blog.url}) \n\n`;
+  }
+  return result;
 };
 
 const getKoreaTime = () => {
