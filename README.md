@@ -1,5 +1,11 @@
 # 오늘의 포스팅 
-2022년 4월 23일 14시 기준 
+2022년 4월 24일 9시 기준 
+
+###  Remix: 리액트의 음에 양을 
+
+ 글 링크 : https://bit.ly/3xVhftM 소개 Remix에 대해서 처음 들어보셨나요? 혹은 들어봤더라도 어떤 이유때문에 등장하게 됐고 왜 사용하는지 궁금하신가요? 그렇... 
+
+ [바로가기](https://kofearticle.substack.com/p/korean-fe-article-remix-) 
 
 ###  자바스크립트 함수 합성, 뭐가 그렇게 대단할까? 
 
@@ -12,12 +18,6 @@
  글 링크: https://velog.io/@eunbinn/when-does-react-render-your-component 소개 정확히 언제 그리고 왜 리액트는 컴포넌트를 렌더링... 
 
  [바로가기](https://kofearticle.substack.com/p/korean-fe-article--b7a) 
-
-###  웹 접근성의 기본 사항 
-
- 웹 사이트를 개선하고 보다 쉽게 접근성을 높일 수 있는 팁과 도구... 
-
- [바로가기](https://kofearticle.substack.com/p/korean-fe-article--e19) 
 
 ### ConsoleMe: 스타트업에서 AWS IAM 권한 관리 잘하는 법 
 
