@@ -1,5 +1,11 @@
 # 오늘의 포스팅 
-2022년 4월 24일 9시 기준 
+2022년 4월 25일 9시 기준 
+
+###  TypeScript의 유틸리티 타입은 어떻게 구현될까요? 
+
+ 글 링크: https://bit.ly/3v6mbKK 소개 이번 글은 타입스크립트의 유틸리티 타입에 대해서 설명한 글입니다. 타입스크립트로 개발을 진행하면 유틸리티 타입을 사용하여 ... 
+
+ [바로가기](https://kofearticle.substack.com/p/korean-fe-article-typescript-) 
 
 ###  Remix: 리액트의 음에 양을 
 
@@ -12,12 +18,6 @@
  글 링크: https://bit.ly/3ErzlVS 소개 함수형 자바스크립트 프로그래밍에 관심이 있으신가요? 이 글은 자바스크립트 함수 합성에 사용하는 함수를 소개하고 이를 통해 ... 
 
  [바로가기](https://kofearticle.substack.com/p/korean-fe-article--eb3) 
-
-###  리액트는 언제 컴포넌트를 렌더링 하나요? 
-
- 글 링크: https://velog.io/@eunbinn/when-does-react-render-your-component 소개 정확히 언제 그리고 왜 리액트는 컴포넌트를 렌더링... 
-
- [바로가기](https://kofearticle.substack.com/p/korean-fe-article--b7a) 
 
 ### ConsoleMe: 스타트업에서 AWS IAM 권한 관리 잘하는 법 
 
