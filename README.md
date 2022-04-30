@@ -1,5 +1,11 @@
 # 오늘의 포스팅 
-2022년 4월 29일 9시 기준 
+2022년 4월 30일 9시 기준 
+
+###  입문자를 위한 Axios vs Fetch 
+
+ 글 링크: https://velog.io/@eunbinn/Axios-vs-Fetch 소개 Axios와 Fetch API에 대해 소개하고 비교하는 글입니다. 제목에서도 알 수 있듯이... 
+
+ [바로가기](https://kofearticle.substack.com/p/korean-fe-article-axios-vs-fetch) 
 
 ###  TypeScript의 유틸리티 타입은 어떻게 구현될까요? 
 
@@ -13,11 +19,11 @@
 
  [바로가기](https://kofearticle.substack.com/p/korean-fe-article-remix-) 
 
-###  자바스크립트 함수 합성, 뭐가 그렇게 대단할까? 
+### ‘네카라쿠배’로 보는 개발자가 선호하는 문화 5가지 
 
- 글 링크: https://bit.ly/3ErzlVS 소개 함수형 자바스크립트 프로그래밍에 관심이 있으신가요? 이 글은 자바스크립트 함수 합성에 사용하는 함수를 소개하고 이를 통해 ... 
+ 개발자는 어떤 기업에서 일하는 것을 선호할까요? 개발자 취업 준비생에게 선호도 높은 기업으로 ‘네카라쿠배'가 자주 언급됩니다. 이는 네이버, 카카오, 라인, 쿠팡, 배달의민족(우아... 
 
- [바로가기](https://kofearticle.substack.com/p/korean-fe-article--eb3) 
+ [바로가기](https://yozm.wishket.com/magazine/detail/1458/) 
 
 ### 고객의 불편함이 제품으로 되기까지, Airbridge API 팀의 개발 프로세스 
 
@@ -30,12 +36,6 @@
  처음 AB180 백엔드 팀에 들어왔을 때 AWS 상의 거의 모든 권한을 가지고 개발할 수 있었습니다. 풍부한 권한으로 불편함 없이 지내던 중 외부 회사와 파트너십을 맺기 위해 보안... 
 
  [바로가기](https://yozm.wishket.com/magazine/detail/1447/) 
-
-### 단일 프로세스에서 NUMA가 야기한 성능 저하 
-
- 2022년을 살아가는 우리가 접하는 PC나 서버는 대부분 멀티코어 CPU를 장착하고 있습니다. 각 코어는 연산을 위해 메모리 컨트롤러를 거쳐 메모리에 접근합니다. 이때, 코어가 메... 
-
- [바로가기](https://yozm.wishket.com/magazine/detail/1444/) 
 
 ---
 
