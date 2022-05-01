@@ -1,5 +1,11 @@
 # 오늘의 포스팅 
-2022년 4월 30일 9시 기준 
+2022년 5월 1일 9시 기준 
+
+###  자바스크립트에서 전략 디자인 패턴의 힘 
+
+ 글 링크:https://velog.io/@lky5697/the-power-of-strategy-design-pattern-in-javascript 소개 자바스크립트에서 전략 디자인... 
+
+ [바로가기](https://kofearticle.substack.com/p/korean-fe-article) 
 
 ###  입문자를 위한 Axios vs Fetch 
 
@@ -12,12 +18,6 @@
  글 링크: https://bit.ly/3v6mbKK 소개 이번 글은 타입스크립트의 유틸리티 타입에 대해서 설명한 글입니다. 타입스크립트로 개발을 진행하면 유틸리티 타입을 사용하여 ... 
 
  [바로가기](https://kofearticle.substack.com/p/korean-fe-article-typescript-) 
-
-###  Remix: 리액트의 음에 양을 
-
- 글 링크 : https://bit.ly/3xVhftM 소개 Remix에 대해서 처음 들어보셨나요? 혹은 들어봤더라도 어떤 이유때문에 등장하게 됐고 왜 사용하는지 궁금하신가요? 그렇... 
-
- [바로가기](https://kofearticle.substack.com/p/korean-fe-article-remix-) 
 
 ### ‘네카라쿠배’로 보는 개발자가 선호하는 문화 5가지 
 
