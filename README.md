@@ -1,5 +1,11 @@
 # 오늘의 포스팅 
-2022년 5월 1일 9시 기준 
+2022년 5월 2일 9시 기준 
+
+###  프론트엔드 테스팅 전략 
+
+ 글 링크: https://doong-jo.github.io/posts/front-end_testing_strategy/ 소개 프론트엔드 생태계는 최근 몇 년 동안 큰 변화가 있었습... 
+
+ [바로가기](https://kofearticle.substack.com/p/korean-fe-article--4a7) 
 
 ###  자바스크립트에서 전략 디자인 패턴의 힘 
 
@@ -12,12 +18,6 @@
  글 링크: https://velog.io/@eunbinn/Axios-vs-Fetch 소개 Axios와 Fetch API에 대해 소개하고 비교하는 글입니다. 제목에서도 알 수 있듯이... 
 
  [바로가기](https://kofearticle.substack.com/p/korean-fe-article-axios-vs-fetch) 
-
-###  TypeScript의 유틸리티 타입은 어떻게 구현될까요? 
-
- 글 링크: https://bit.ly/3v6mbKK 소개 이번 글은 타입스크립트의 유틸리티 타입에 대해서 설명한 글입니다. 타입스크립트로 개발을 진행하면 유틸리티 타입을 사용하여 ... 
-
- [바로가기](https://kofearticle.substack.com/p/korean-fe-article-typescript-) 
 
 ### ‘네카라쿠배’로 보는 개발자가 선호하는 문화 5가지 
 
