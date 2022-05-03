@@ -1,5 +1,11 @@
 # 오늘의 포스팅 
-2022년 5월 2일 9시 기준 
+2022년 5월 3일 9시 기준 
+
+###  이번 주는 쉬어갑니다!  
+
+ 그래도 한 번 열어서 읽어보시겠어요? 👇... 
+
+ [바로가기](https://kofearticle.substack.com/p/korean-fe-article--d86) 
 
 ###  프론트엔드 테스팅 전략 
 
@@ -12,12 +18,6 @@
  글 링크:https://velog.io/@lky5697/the-power-of-strategy-design-pattern-in-javascript 소개 자바스크립트에서 전략 디자인... 
 
  [바로가기](https://kofearticle.substack.com/p/korean-fe-article) 
-
-###  입문자를 위한 Axios vs Fetch 
-
- 글 링크: https://velog.io/@eunbinn/Axios-vs-Fetch 소개 Axios와 Fetch API에 대해 소개하고 비교하는 글입니다. 제목에서도 알 수 있듯이... 
-
- [바로가기](https://kofearticle.substack.com/p/korean-fe-article-axios-vs-fetch) 
 
 ### ‘네카라쿠배’로 보는 개발자가 선호하는 문화 5가지 
 
