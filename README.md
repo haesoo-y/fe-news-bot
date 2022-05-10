@@ -1,5 +1,11 @@
 # 오늘의 포스팅 
-2022년 5월 9일 9시 기준 
+2022년 5월 10일 9시 기준 
+
+###  네 시대의 자바스크립트 프레임워크 
+
+ 글 링크: https://bit.ly/3speopr 소개 지난 20년간 프런트엔드 생태계는 너무나도 빠르게 많은 변화가 있었는데요. Ember.js 코어 개발자였던 @pzuraq는... 
+
+ [바로가기](https://kofearticle.substack.com/p/korean-fe-article--af0) 
 
 ###  이번 주는 쉬어갑니다!  
 
@@ -12,12 +18,6 @@
  글 링크: https://doong-jo.github.io/posts/front-end_testing_strategy/ 소개 프론트엔드 생태계는 최근 몇 년 동안 큰 변화가 있었습... 
 
  [바로가기](https://kofearticle.substack.com/p/korean-fe-article--4a7) 
-
-###  자바스크립트에서 전략 디자인 패턴의 힘 
-
- 글 링크:https://velog.io/@lky5697/the-power-of-strategy-design-pattern-in-javascript 소개 자바스크립트에서 전략 디자인... 
-
- [바로가기](https://kofearticle.substack.com/p/korean-fe-article) 
 
 ### [인터뷰] 김병규 빅픽처인터렉티브 개발본부장 “회사의 성장은 구성원의 성장으로부터” 
 
