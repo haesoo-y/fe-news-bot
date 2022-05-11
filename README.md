@@ -1,5 +1,11 @@
 # 오늘의 포스팅 
-2022년 5월 10일 9시 기준 
+2022년 5월 11일 9시 기준 
+
+###  자바스크립트 엔진이 뛰어난 성능을 달성하는 방법 
+
+ 글 링크 : https://velog.io/@sehyunny/how-js-engine-achieve-great-performance 소개 자바스크립트 엔진은 우리가 작성한 자바스크... 
+
+ [바로가기](https://kofearticle.substack.com/p/korean-fe-article--51e) 
 
 ###  네 시대의 자바스크립트 프레임워크 
 
@@ -13,11 +19,11 @@
 
  [바로가기](https://kofearticle.substack.com/p/korean-fe-article--d86) 
 
-###  프론트엔드 테스팅 전략 
+### “솔직히 우리가 하는 것은 스크럼이 아닙니다!” 
 
- 글 링크: https://doong-jo.github.io/posts/front-end_testing_strategy/ 소개 프론트엔드 생태계는 최근 몇 년 동안 큰 변화가 있었습... 
+ 많은 회사가 스크럼 방법론을 도입했기 때문에 자신들이 애자일 조직이라고 주장합니다. 그러나 이 중에 스크럼을 제대로 이해하고 사용하는 회사가 얼마나 되는지 의심스럽습니다. 스크럼 ... 
 
- [바로가기](https://kofearticle.substack.com/p/korean-fe-article--4a7) 
+ [바로가기](https://yozm.wishket.com/magazine/detail/1474/) 
 
 ### [인터뷰] 김병규 빅픽처인터렉티브 개발본부장 “회사의 성장은 구성원의 성장으로부터” 
 
@@ -30,12 +36,6 @@
  매우 협소한 저의 작업 환경은 WSL2로 부족함이 없으리라 생각했었습니다. 하지만 몹쓸 호기심이 발동해, 동일한 OS가 올라간 VM(Virtual Machine)이 여러 개 필요한... 
 
  [바로가기](https://yozm.wishket.com/magazine/detail/1466/) 
-
-### ‘네카라쿠배’로 보는 개발자가 선호하는 문화 5가지 
-
- 개발자는 어떤 기업에서 일하는 것을 선호할까요? 개발자 취업 준비생에게 선호도 높은 기업으로 ‘네카라쿠배'가 자주 언급됩니다. 이는 네이버, 카카오, 라인, 쿠팡, 배달의민족(우아... 
-
- [바로가기](https://yozm.wishket.com/magazine/detail/1458/) 
 
 ---
 
