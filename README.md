@@ -1,5 +1,11 @@
 # 오늘의 포스팅 
-2022년 5월 16일 9시 기준 
+2022년 5월 17일 9시 기준 
+
+###  자바스크립트 번들러 만들기 
+
+ 글 링크 : https://bit.ly/3lcttH2 소개 Jest의 패키지 중 일부를 활용해서 JavaScript 번들러가 동작하는 방식에 대해서 알 수 있습니다. 이 글에서는 ... 
+
+ [바로가기](https://kofearticle.substack.com/p/korean-fe-article--503) 
 
 ###  자바스크립트 엔진이 뛰어난 성능을 달성하는 방법 
 
@@ -13,11 +19,11 @@
 
  [바로가기](https://kofearticle.substack.com/p/korean-fe-article--af0) 
 
-###  이번 주는 쉬어갑니다!  
+### AWS EventBridge를 활용한 업무 자동화 
 
- 그래도 한 번 열어서 읽어보시겠어요? 👇... 
+ AWS가 제공하는 서비스들은 대부분 모니터링 및 로깅을 제공합니다. 하지만 AWS 리소스에서 CloudWatch로 로그를 수집할 경우, 보관 주기를 CloudWatch의 AWS 콘... 
 
- [바로가기](https://kofearticle.substack.com/p/korean-fe-article--d86) 
+ [바로가기](https://yozm.wishket.com/magazine/detail/1483/) 
 
 ### “임금님 귀는 당나귀 귀!”...대나무숲 슬랙 앱 만들기 
 
@@ -30,12 +36,6 @@
  사실 원활한 업무를 위해서는 개발 환경이 구성된 PC가 꼭 필요하다. 그래서 보통 개발 환경 구성이 끝난 노트북을 들고 다니면서 업무를 하기 마련이다. 그러나 업무 특성상 근무 시... 
 
  [바로가기](https://yozm.wishket.com/magazine/detail/1478/) 
-
-### 리액트 네이티브 개발자들이 겪는 가장 빈번한 5가지 문제와 해결책 
-
- 리액트 네이티브는 리액트나 뷰(Vue)와 같은 다른 자바스크립트 라이브러리와 비교하면 커뮤니티가 크지 않으며, 개발 과정에서 마주치는 문제에 대한 해결책을 찾는데 종종 어려움을 겪... 
-
- [바로가기](https://yozm.wishket.com/magazine/detail/1476/) 
 
 ---
 
