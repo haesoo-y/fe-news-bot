@@ -1,5 +1,11 @@
 # 오늘의 포스팅 
-2022년 5월 25일 9시 기준 
+2022년 5월 26일 9시 기준 
+
+###  이미지 최적화에 대한 명확한 가이드 
+
+ 글 링크 : https://velog.io/@sehyunny/the-definitive-guide-to-image-optimization 소개 다들 한 번쯤 웹사이트의 느린 이미지... 
+
+ [바로가기](https://kofearticle.substack.com/p/korean-fe-article--3fc) 
 
 ###  모든 개발자가 알아야 하는 7가지 ES6 스프레드 연산자 트릭 
 
@@ -12,12 +18,6 @@
  글 링크: https://velog.io/@lky5697/how-to-render-a-list 소개 프런트엔드의 여러 가지 프레임워크 별로 각각 리스트를 렌더링하는 방법과 그에 ... 
 
  [바로가기](https://kofearticle.substack.com/p/-react-angular-vue-svelte-) 
-
-###  useEvent 리액트 훅이란 (또 무엇이 아닌지) 
-
- 글 링크: https://velog.io/@eunbinn/what-the-useevent-react-hook-is-and-isnt 소개 useEvent RFC가 발표되었습니다. 아... 
-
- [바로가기](https://kofearticle.substack.com/p/korean-fe-article-useevent-) 
 
 ### 생산성 있는 Review 문화가 되기까지 
 
