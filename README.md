@@ -1,5 +1,11 @@
 # 오늘의 포스팅 
-2022년 5월 26일 9시 기준 
+2022년 5월 27일 9시 기준 
+
+###  :where() :is() :has()? 당신의 삶을 더 쉽게 만들어 줄 새로운 CSS 선택자 
+
+ 글 링크: https://bit.ly/3NBpsrR 소개 저뿐만 아니라 CSS를 어려워하는 프런트엔드 개발자가 많은 것으로 알고 있는데요. 글에서 나오는 것처럼 CSS를 어렵게 만... 
+
+ [바로가기](https://kofearticle.substack.com/p/korean-fe-article-where-is-has-css) 
 
 ###  이미지 최적화에 대한 명확한 가이드 
 
@@ -12,12 +18,6 @@
  글 링크: https://velog.io/@jonghunbok/모든 개발자가 알아야 하는 7가지 ES6 스프레드 연산자 트릭 소개 점 세 개(…)로 이루어진 스프레드 연산자, 자주... 
 
  [바로가기](https://kofearticle.substack.com/p/korean-fe-article-7-es6-) 
-
-###  React, Angular, Vue, Svelte에서 리스트를 렌더링하는 방법 
-
- 글 링크: https://velog.io/@lky5697/how-to-render-a-list 소개 프런트엔드의 여러 가지 프레임워크 별로 각각 리스트를 렌더링하는 방법과 그에 ... 
-
- [바로가기](https://kofearticle.substack.com/p/-react-angular-vue-svelte-) 
 
 ### 생산성 있는 Review 문화가 되기까지 
 
