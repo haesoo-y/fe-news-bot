@@ -1,5 +1,11 @@
 # 오늘의 포스팅 
-2022년 6월 1일 9시 기준 
+2022년 6월 2일 9시 기준 
+
+###  리액트 폼 성능 개선 
+
+ 글링크 : https://velog.io/@superlipbalm/improve-the-performance-of-your-react-forms 소개 웹에서 사용자로부터 데이터를 ... 
+
+ [바로가기](https://kofearticle.substack.com/p/korean-fe-article--1e7) 
 
 ###  :where() :is() :has()? 당신의 삶을 더 쉽게 만들어 줄 새로운 CSS 선택자 
 
@@ -12,12 +18,6 @@
  글 링크 : https://velog.io/@sehyunny/the-definitive-guide-to-image-optimization 소개 다들 한 번쯤 웹사이트의 느린 이미지... 
 
  [바로가기](https://kofearticle.substack.com/p/korean-fe-article--3fc) 
-
-###  모든 개발자가 알아야 하는 7가지 ES6 스프레드 연산자 트릭 
-
- 글 링크: https://velog.io/@jonghunbok/모든 개발자가 알아야 하는 7가지 ES6 스프레드 연산자 트릭 소개 점 세 개(…)로 이루어진 스프레드 연산자, 자주... 
-
- [바로가기](https://kofearticle.substack.com/p/korean-fe-article-7-es6-) 
 
 ### 생산성 있는 Review 문화가 되기까지 
 
