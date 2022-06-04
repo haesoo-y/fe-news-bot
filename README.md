@@ -1,5 +1,11 @@
 # 오늘의 포스팅 
-2022년 6월 3일 9시 기준 
+2022년 6월 4일 9시 기준 
+
+###  레이아웃 RFC 
+
+ 글 링크: https://bit.ly/3xdVtRl 소개 React 18 버전이 릴리스되면서 유용한 여러 기능들이 추가되었고, React에 의존성을 가지고 있는 라이브러리나 프레임... 
+
+ [바로가기](https://kofearticle.substack.com/p/korean-fe-article-rfc) 
 
 ###  리액트 폼 성능 개선 
 
@@ -13,29 +19,23 @@
 
  [바로가기](https://kofearticle.substack.com/p/korean-fe-article-where-is-has-css) 
 
-###  이미지 최적화에 대한 명확한 가이드 
+### 프론트엔드 개발자에게도 알고리즘 공부가 중요할까? 
 
- 글 링크 : https://velog.io/@sehyunny/the-definitive-guide-to-image-optimization 소개 다들 한 번쯤 웹사이트의 느린 이미지... 
+ 우리는 왜 알고리즘을 공부할까요? 기초 소양을 쌓기 위해서? 좀 더 나은 개발자가 되기 위해서? 아주 틀린 이야기는 아니지만, 좀 더 솔직하게 얘기해 보겠습니다. 아마 대부분은 코... 
 
- [바로가기](https://kofearticle.substack.com/p/korean-fe-article--3fc) 
+ [바로가기](https://yozm.wishket.com/magazine/detail/1513/) 
+
+### AWS로 클라우드 시작하기: ⑤IAM & Organizations 
+
+ 기존 온프레미스에 익숙한 개발자들에게 클라우드는 설정할 것들이 너무 많은 어려운 존재인데요. AWS를 처음 접하는 개발자들이 AWS를 친숙하게 이해하고, 클라우드 설계를 진행할 수... 
+
+ [바로가기](https://yozm.wishket.com/magazine/detail/1511/) 
 
 ### 생산성 있는 Review 문화가 되기까지 
 
  리뷰가 좋은 것은 다들 알지만 실제로는 문화로 잘 자리 잡기 어렵습니다. 많은 회사에서 ‘바쁘다’거나 ‘그 시간에 코드 한 줄을 더 작성하는 낫다’라는 이유로 하지 못하기도 합니다... 
 
  [바로가기](https://yozm.wishket.com/magazine/detail/1497/) 
-
-### 데이터 엔지니어는 무슨 일을 할까? 
-
- 데이터 직군은 21세기에 가장 매력적인 직업으로 주목받고 있습니다. 그렇지만 정작 ‘어떤 일을 하는지’에 대해서는 덜 알려진 편입니다. 특히 데이터 직군 중 하나인 ‘데이터 엔지니... 
-
- [바로가기](https://yozm.wishket.com/magazine/detail/1496/) 
-
-### Airbridge API 개발팀의 Monorepo 도입기 
-
- SaaS를 만들어 고객에게 제공하는 과정에서 한 개로 시작한 컴포넌트가 필요에 따라 여러 개로 나누어져 관리하는 경우를 흔히 볼 수 있습니다. 이렇게 나누어진 컴포넌트 사이에는 연... 
-
- [바로가기](https://yozm.wishket.com/magazine/detail/1487/) 
 
 ---
 
