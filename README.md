@@ -1,5 +1,11 @@
 # 오늘의 포스팅 
-2022년 6월 4일 9시 기준 
+2022년 6월 5일 9시 기준 
+
+###  훅을 사용할 때 주의할 점 
+
+ 글 링크: https://velog.io/@lky5697/hooks-considered-harmful 소개 리엑트에서 함수형 컴포넌트에서 흔히 사용하는 훅을 사용할 때 주의해야 할... 
+
+ [바로가기](https://kofearticle.substack.com/p/korean-fe-article--05c) 
 
 ###  레이아웃 RFC 
 
@@ -12,12 +18,6 @@
  글링크 : https://velog.io/@superlipbalm/improve-the-performance-of-your-react-forms 소개 웹에서 사용자로부터 데이터를 ... 
 
  [바로가기](https://kofearticle.substack.com/p/korean-fe-article--1e7) 
-
-###  :where() :is() :has()? 당신의 삶을 더 쉽게 만들어 줄 새로운 CSS 선택자 
-
- 글 링크: https://bit.ly/3NBpsrR 소개 저뿐만 아니라 CSS를 어려워하는 프런트엔드 개발자가 많은 것으로 알고 있는데요. 글에서 나오는 것처럼 CSS를 어렵게 만... 
-
- [바로가기](https://kofearticle.substack.com/p/korean-fe-article-where-is-has-css) 
 
 ### 프론트엔드 개발자에게도 알고리즘 공부가 중요할까? 
 
