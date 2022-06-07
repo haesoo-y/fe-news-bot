@@ -1,5 +1,11 @@
 # 오늘의 포스팅 
-2022년 6월 6일 9시 기준 
+2022년 6월 7일 9시 기준 
+
+###  리액트로 점진적 이미지 로딩 구현하기: 튜토리얼 
+
+ 글 링크: https://velog.io/@eunbinn/progressive-image-loading-react-tutorial 소개 고화질의 이미지는 존재만으로도 사용자 경험을... 
+
+ [바로가기](https://kofearticle.substack.com/p/korean-fe-article--022) 
 
 ###  훅을 사용할 때 주의할 점 
 
@@ -12,12 +18,6 @@
  글 링크: https://bit.ly/3xdVtRl 소개 React 18 버전이 릴리스되면서 유용한 여러 기능들이 추가되었고, React에 의존성을 가지고 있는 라이브러리나 프레임... 
 
  [바로가기](https://kofearticle.substack.com/p/korean-fe-article-rfc) 
-
-###  리액트 폼 성능 개선 
-
- 글링크 : https://velog.io/@superlipbalm/improve-the-performance-of-your-react-forms 소개 웹에서 사용자로부터 데이터를 ... 
-
- [바로가기](https://kofearticle.substack.com/p/korean-fe-article--1e7) 
 
 ### 프론트엔드 개발자에게도 알고리즘 공부가 중요할까? 
 
