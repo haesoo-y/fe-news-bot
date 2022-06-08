@@ -1,5 +1,11 @@
 # 오늘의 포스팅 
-2022년 6월 7일 9시 기준 
+2022년 6월 8일 9시 기준 
+
+###  타입스크립트 컴파일러가 컴파일하는 방법 
+
+ 글 링크 : https://velog.io/@sehyunny/how-ts-compiler-compiles 소개 타입스크립트를 사용할 때 아마 한 번쯤 tsc 명령어를 입력해보셨을 ... 
+
+ [바로가기](https://kofearticle.substack.com/p/korean-fe-article--5bb) 
 
 ###  리액트로 점진적 이미지 로딩 구현하기: 튜토리얼 
 
@@ -12,12 +18,6 @@
  글 링크: https://velog.io/@lky5697/hooks-considered-harmful 소개 리엑트에서 함수형 컴포넌트에서 흔히 사용하는 훅을 사용할 때 주의해야 할... 
 
  [바로가기](https://kofearticle.substack.com/p/korean-fe-article--05c) 
-
-###  레이아웃 RFC 
-
- 글 링크: https://bit.ly/3xdVtRl 소개 React 18 버전이 릴리스되면서 유용한 여러 기능들이 추가되었고, React에 의존성을 가지고 있는 라이브러리나 프레임... 
-
- [바로가기](https://kofearticle.substack.com/p/korean-fe-article-rfc) 
 
 ### 프론트엔드 개발자에게도 알고리즘 공부가 중요할까? 
 
