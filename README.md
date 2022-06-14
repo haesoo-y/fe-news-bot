@@ -1,5 +1,11 @@
 # 오늘의 포스팅 
-2022년 6월 13일 9시 기준 
+2022년 6월 14일 9시 기준 
+
+###  자바스크립트 에러 핸들링 방법 
+
+ 글 링크: bit.ly/3aVHxD3 소개 견고하고 안정적인 서비스를 만들기 위해서는 에러 핸들링이 필요합니다. 자바스크립트 에러 핸들링은 비교적 간단하지만 종종 미스테리하게 느껴... 
+
+ [바로가기](https://kofearticle.substack.com/p/korean-fe-article--e82) 
 
 ###  타입스크립트 컴파일러가 컴파일하는 방법 
 
@@ -13,11 +19,11 @@
 
  [바로가기](https://kofearticle.substack.com/p/korean-fe-article--022) 
 
-###  훅을 사용할 때 주의할 점 
+### 여러분을 더 나은 플러터 개발자로 만들어줄 7가지 프로젝트 
 
- 글 링크: https://velog.io/@lky5697/hooks-considered-harmful 소개 리엑트에서 함수형 컴포넌트에서 흔히 사용하는 훅을 사용할 때 주의해야 할... 
+ 본문은 요즘IT와 번역가 윌리(Willy)가 함께 만든 해외 번역 콘텐츠입니다. 이 글의 필자인 Farhan Tanvir는 현재 일본에서 소프트웨어 엔지니어로 일하고 있으며, 모바... 
 
- [바로가기](https://kofearticle.substack.com/p/korean-fe-article--05c) 
+ [바로가기](https://yozm.wishket.com/magazine/detail/1525/) 
 
 ### SQL 가독성을 높이는 다섯 가지 사소한 습관 
 
@@ -30,12 +36,6 @@
  우리는 왜 알고리즘을 공부할까요? 기초 소양을 쌓기 위해서? 좀 더 나은 개발자가 되기 위해서? 아주 틀린 이야기는 아니지만, 좀 더 솔직하게 얘기해 보겠습니다. 아마 대부분은 코... 
 
  [바로가기](https://yozm.wishket.com/magazine/detail/1513/) 
-
-### AWS로 클라우드 시작하기: ⑤IAM & Organizations 
-
- 기존 온프레미스에 익숙한 개발자들에게 클라우드는 설정할 것들이 너무 많은 어려운 존재인데요. AWS를 처음 접하는 개발자들이 AWS를 친숙하게 이해하고, 클라우드 설계를 진행할 수... 
-
- [바로가기](https://yozm.wishket.com/magazine/detail/1511/) 
 
 ---
 
