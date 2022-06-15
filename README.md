@@ -1,5 +1,11 @@
 # 오늘의 포스팅 
-2022년 6월 14일 9시 기준 
+2022년 6월 15일 9시 기준 
+
+### [번역] Reduce에 대한 10가지 필수 JavaScript 트릭 및 팁 
+
+ 글 링크: https://bit.ly/3MIdxYs 소개 프런트엔드 개발자라면 Array 메서드인 Reduce를 한 번쯤은 사용해보셨을 거로 생각합니다. Reduce를 사용하면 간... 
+
+ [바로가기](https://kofearticle.substack.com/p/-reduce-10-javascript-) 
 
 ###  자바스크립트 에러 핸들링 방법 
 
@@ -13,11 +19,11 @@
 
  [바로가기](https://kofearticle.substack.com/p/korean-fe-article--5bb) 
 
-###  리액트로 점진적 이미지 로딩 구현하기: 튜토리얼 
+### 내 웹사이트를 슬랙에서 돋보이게 해줄 메타 태그 8가지 
 
- 글 링크: https://velog.io/@eunbinn/progressive-image-loading-react-tutorial 소개 고화질의 이미지는 존재만으로도 사용자 경험을... 
+ 링크를 입력했을 때 나오는 제목과 부제목, 썸네일은 웹사이트의 첫인상을 결정하는 요소입니다. 또한 사용자가 클릭 전에 대략적인 정보를 요약해 미리 파악할 수 있고, 기본적인 SEO... 
 
- [바로가기](https://kofearticle.substack.com/p/korean-fe-article--022) 
+ [바로가기](https://yozm.wishket.com/magazine/detail/1526/) 
 
 ### 여러분을 더 나은 플러터 개발자로 만들어줄 7가지 프로젝트 
 
@@ -30,12 +36,6 @@
  지독하게 읽기 힘든 SQL 문을 해석해 본 적 있으신가요? 마치 암호를 읽는 것처럼 어렵습니다. 파이선처럼 들여쓰기와 띄어쓰기를 문법적으로 강제하는 언어를 사용해 봤다면 SQL의 ... 
 
  [바로가기](https://yozm.wishket.com/magazine/detail/1519/) 
-
-### 프론트엔드 개발자에게도 알고리즘 공부가 중요할까? 
-
- 우리는 왜 알고리즘을 공부할까요? 기초 소양을 쌓기 위해서? 좀 더 나은 개발자가 되기 위해서? 아주 틀린 이야기는 아니지만, 좀 더 솔직하게 얘기해 보겠습니다. 아마 대부분은 코... 
-
- [바로가기](https://yozm.wishket.com/magazine/detail/1513/) 
 
 ---
 
