@@ -1,5 +1,11 @@
 # 오늘의 포스팅 
-2022년 6월 15일 9시 기준 
+2022년 6월 16일 9시 기준 
+
+###  자바스크립트 하이드레이션은 임시방편이지 해결책이 아닙니다 
+
+ by Miško Hevery... 
+
+ [바로가기](https://kofearticle.substack.com/p/korean-fe-article--093) 
 
 ### [번역] Reduce에 대한 10가지 필수 JavaScript 트릭 및 팁 
 
@@ -12,12 +18,6 @@
  글 링크: bit.ly/3aVHxD3 소개 견고하고 안정적인 서비스를 만들기 위해서는 에러 핸들링이 필요합니다. 자바스크립트 에러 핸들링은 비교적 간단하지만 종종 미스테리하게 느껴... 
 
  [바로가기](https://kofearticle.substack.com/p/korean-fe-article--e82) 
-
-###  타입스크립트 컴파일러가 컴파일하는 방법 
-
- 글 링크 : https://velog.io/@sehyunny/how-ts-compiler-compiles 소개 타입스크립트를 사용할 때 아마 한 번쯤 tsc 명령어를 입력해보셨을 ... 
-
- [바로가기](https://kofearticle.substack.com/p/korean-fe-article--5bb) 
 
 ### 내 웹사이트를 슬랙에서 돋보이게 해줄 메타 태그 8가지 
 
