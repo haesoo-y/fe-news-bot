@@ -1,5 +1,11 @@
 # 오늘의 포스팅 
-2022년 6월 21일 9시 기준 
+2022년 6월 22일 9시 기준 
+
+###  엣지(Edge) 컴퓨팅이 뭘까요? 강아지 모자를 뜨개질하는 것과 같습니다. 
+
+ 엣지 컴퓨팅은 컴퓨팅 기술의 새로운 영역입니다. 이 글에서는 귀여운 강아지 사진과 함께 엣지 컴퓨팅이 무엇인지, 왜 멋진지에 관해 설명합니다.... 
+
+ [바로가기](https://kofearticle.substack.com/p/korean-fe-article-edge-) 
 
 ###  리액트 코드에서 버그를 줄이는 방법 
 
@@ -13,11 +19,11 @@
 
  [바로가기](https://kofearticle.substack.com/p/korean-fe-article--093) 
 
-### [번역] Reduce에 대한 10가지 필수 JavaScript 트릭 및 팁 
+### 간단하지만 까다로운 언리얼 엔진 개발 환경 구축 
 
- 글 링크: https://bit.ly/3MIdxYs 소개 프런트엔드 개발자라면 Array 메서드인 Reduce를 한 번쯤은 사용해보셨을 거로 생각합니다. Reduce를 사용하면 간... 
+ 넷마블은 물론이고, 여러 회사에서 언리얼 엔진을 사용해 게임을 개발하고 서비스합니다. 그래서 언리얼 엔진 기반으로 개발하는 게임을 마주한다면, 직접 게임을 개발하는 개발자가 아니더... 
 
- [바로가기](https://kofearticle.substack.com/p/-reduce-10-javascript-) 
+ [바로가기](https://yozm.wishket.com/magazine/detail/1537/) 
 
 ### 개발자가 블로그를 운영하면 좋은 점 
 
@@ -30,12 +36,6 @@
  요즘IT를 포함한 많은 글이 이에 대한 장점과 필요성, 조금 더 나아가 데이터를 다루는 이론적인 방법이나 공공기관에서도 적용한 사례 등을 다루고 있습니다. 데이터를 잘 활용해서 더... 
 
  [바로가기](https://yozm.wishket.com/magazine/detail/1533/) 
-
-### Atomic Design Pattern의 Best Practice 여정기 
-
- 좋은 폴더 구조에 관한 이야기는 개발자들 간의 끊임없는 떡밥입니다. 정답이 있지 않고 프로젝트의 특징이나 크기, 주관적인 해석에 따라 정말 여러 가지 방법들이 존재하기 때문입니다.... 
-
- [바로가기](https://yozm.wishket.com/magazine/detail/1531/) 
 
 ---
 
