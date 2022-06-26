@@ -1,5 +1,11 @@
 # 오늘의 포스팅 
-2022년 6월 25일 9시 기준 
+2022년 6월 26일 9시 기준 
+
+###  AbortController는 당신의 친구입니다 
+
+ 글 링크 : https://velog.io/@sehyunny/abort-controller-is-your-friend 소개 이 글에서는 네트워크 요청을 취소할 수 있도록 도와주는 ... 
+
+ [바로가기](https://kofearticle.substack.com/p/korean-fe-article-abortcontroller) 
 
 ###  엣지(Edge) 컴퓨팅이 뭘까요? 강아지 모자를 뜨개질하는 것과 같습니다. 
 
@@ -12,12 +18,6 @@
  글 링크: https://bit.ly/39D3gz6 소개 리액트를 사용하면서 마주칠 수 있는 문제 상황들을 정리하고 그에 대한 해결 방법을 정리한 글 입니다. 우리가 무의식적으로 ... 
 
  [바로가기](https://kofearticle.substack.com/p/korean-fe-article--675) 
-
-###  자바스크립트 하이드레이션은 임시방편이지 해결책이 아닙니다 
-
- by Miško Hevery... 
-
- [바로가기](https://kofearticle.substack.com/p/korean-fe-article--093) 
 
 ### 웹 개발 생산성을 높이기 위한 방법 
 
