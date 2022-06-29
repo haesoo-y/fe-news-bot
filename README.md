@@ -1,5 +1,17 @@
 # 오늘의 포스팅 
-2022년 6월 28일 9시 기준 
+2022년 6월 29일 9시 기준 
+
+###  React Labs: 우리가 작업 중인것 – 2022년 6월 
+
+ 글 링크 : https://velog.io/@superlipbalm/React-Labs-What-Weve-Been-Working-On-June-2022 소개 얼마 전 React 1... 
+
+ [바로가기](https://kofearticle.substack.com/p/korean-fe-article-react-labs-2022) 
+
+###  리액트 프로파일러를 활용한 리액트 앱 성능 향상 
+
+ 글 링크: https://bit.ly/39UyBNV 소개 성능 최적화는 서비스를 만드는데 가장 신경써야할 것 중 하나입니다. 이 때문에 리액트에도 성능 최적화를 위한 다양한 방법과... 
+
+ [바로가기](https://kofearticle.substack.com/p/korean-fe-article--aea) 
 
 ###  Lerna는 공식적으로 죽었다. 모노레포여 영원하길 
 
@@ -7,17 +19,11 @@
 
  [바로가기](https://kofearticle.substack.com/p/korean-fe-article-lerna-) 
 
-###  AbortController는 당신의 친구입니다 
+### 화해의 Data Warehouse를 소개합니다 
 
- 글 링크 : https://velog.io/@sehyunny/abort-controller-is-your-friend 소개 이 글에서는 네트워크 요청을 취소할 수 있도록 도와주는 ... 
+ 화해팀에는 다양한 직군이 있지만, 대부분의 직군이 업무에 데이터를 활용하고 있는 공통점이 있습니다. 데이터팀에서는 화해팀이 데이터를 더 쉽게, 더 잘 접근할 수 있도록 환경을 구축... 
 
- [바로가기](https://kofearticle.substack.com/p/korean-fe-article-abortcontroller) 
-
-###  엣지(Edge) 컴퓨팅이 뭘까요? 강아지 모자를 뜨개질하는 것과 같습니다. 
-
- 엣지 컴퓨팅은 컴퓨팅 기술의 새로운 영역입니다. 이 글에서는 귀여운 강아지 사진과 함께 엣지 컴퓨팅이 무엇인지, 왜 멋진지에 관해 설명합니다.... 
-
- [바로가기](https://kofearticle.substack.com/p/korean-fe-article-edge-) 
+ [바로가기](https://yozm.wishket.com/magazine/detail/1550/) 
 
 ### (비 개발자가) 개발자와 대화하기 위한 준비 
 
@@ -30,12 +36,6 @@
  웹 개발 프로젝트는 일정 관리가 중요합니다. 충분한 프로젝트 기간 확보와 개발 생산성이 전체 프로젝트 성과에 큰 영향을 미치게 되는 것이죠. 이번 글에서는 웹 개발 일정 관리와 개... 
 
  [바로가기](https://yozm.wishket.com/magazine/detail/1542/) 
-
-### [인터뷰] 이규원 강남언니 CTO "나와 조직의 발전에 방해가 되는 문제들을 해결하기 위해 일하고 공부한다" 
-
- 이번 글의 주인공은 메디컬뷰티 플랫폼 '강남언니'를 운영하는 힐링페이퍼의 이규원 CTO입니다. 강남언니는 미용의료 정보를 전문으로 제공하는 앱으로, 메디컬뷰티 시장의 정보 비대칭 ... 
-
- [바로가기](https://yozm.wishket.com/magazine/detail/1541/) 
 
 ---
 
