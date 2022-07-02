@@ -1,5 +1,5 @@
 # 오늘의 포스팅 
-2022년 7월 1일 9시 기준 
+2022년 7월 2일 9시 기준 
 
 ###  React Labs: 우리가 작업 중인것 – 2022년 6월 
 
@@ -19,23 +19,23 @@
 
  [바로가기](https://kofearticle.substack.com/p/korean-fe-article-lerna-) 
 
+### 브랜치 전략 수립을 위한 전문가의 조언들 
+
+ 개발자라면 누가 언급하지 않더라도 자연스레 알아야 하는 지식이 생기죠? 그중에서 브랜치 전략에 대해 되돌아보는 시간을 가지려고 해요. 이미 갖추어진 환경에서 일한다면 크게 고민해보... 
+
+ [바로가기](https://yozm.wishket.com/magazine/detail/1558/) 
+
+### 웹 서비스를 위한 Node.js 병렬처리 구현 
+
+ 최근 Non-Blocking I/O 모델을 채택한 Node.js의 사용이 많다. Node.js는 사용자가 직접 스레드를 제어하지 못하는 한계로 인해 클라이언트로부터 요청이 증가할수... 
+
+ [바로가기](https://yozm.wishket.com/magazine/detail/1556/) 
+
 ### 자바 언어의 장단점과 2022년 트렌드 
 
  개발자는 표준화된 객체 지향 언어인 자바를 사용해 강력한 고성능 애플리케이션을 개발할 수 있습니다. 자바는 플랫폼에 구애받지 않으며 JVM(Java Virtual Machine)이... 
 
  [바로가기](https://yozm.wishket.com/magazine/detail/1555/) 
-
-### 데브옵스(DevOps) vs 데브섹옵스(DevSecOps) 
-
- 데브옵스(DevOps)와 데브섹옵스(DevSecOps), 두 가지 방법론은 얼핏 비슷해 보이지만 사실 상당히 다른 접근방식을 취하고 있습니다. 둘 다 신속한 개발이라는 목표가 있으... 
-
- [바로가기](https://yozm.wishket.com/magazine/detail/1553/) 
-
-### 화해의 Data Warehouse를 소개합니다 
-
- 화해팀에는 다양한 직군이 있지만, 대부분의 직군이 업무에 데이터를 활용하고 있는 공통점이 있습니다. 데이터팀에서는 화해팀이 데이터를 더 쉽게, 더 잘 접근할 수 있도록 환경을 구축... 
-
- [바로가기](https://yozm.wishket.com/magazine/detail/1550/) 
 
 ---
 
