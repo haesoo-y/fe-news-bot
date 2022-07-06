@@ -1,5 +1,11 @@
 # 오늘의 포스팅 
-2022년 7월 5일 9시 기준 
+2022년 7월 6일 9시 기준 
+
+###  새로운 클래스 필드를 통한 더 빠른 인스턴스 초기화 
+
+ 글 링크: https://bit.ly/3In1Vth 소개 V8은 v7.2부터 클래스 필드에 대한 지원을 제공했는데요. 클래스 필드의 초기화가 일반 객체 프로퍼티 할당보다 훨씬 느려... 
+
+ [바로가기](https://kofearticle.substack.com/p/korean-fe-article--7e2) 
 
 ###  사용 중인 디자인 패턴을 보여주는 11가지 자바스크립트 예제 소스 코드 
 
@@ -12,12 +18,6 @@
  글 링크 : https://velog.io/@superlipbalm/React-Labs-What-Weve-Been-Working-On-June-2022 소개 얼마 전 React 1... 
 
  [바로가기](https://kofearticle.substack.com/p/korean-fe-article-react-labs-2022) 
-
-###  리액트 프로파일러를 활용한 리액트 앱 성능 향상 
-
- 글 링크: https://bit.ly/39UyBNV 소개 성능 최적화는 서비스를 만드는데 가장 신경써야할 것 중 하나입니다. 이 때문에 리액트에도 성능 최적화를 위한 다양한 방법과... 
-
- [바로가기](https://kofearticle.substack.com/p/korean-fe-article--aea) 
 
 ### 브랜치 전략 수립을 위한 전문가의 조언들 
 
