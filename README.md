@@ -1,5 +1,5 @@
 # 오늘의 포스팅 
-2022년 7월 8일 9시 기준 
+2022년 7월 9일 9시 기준 
 
 ###  주의 깊게 XMLHttpRequest 재시도하기 
 
@@ -19,23 +19,23 @@
 
  [바로가기](https://kofearticle.substack.com/p/korean-fe-article-11-) 
 
-### 데이터 분석이란 무엇일까? 
+### ECMAScript 2022 살펴보기 
 
- 오늘날 데이터는 어디에나 있습니다. 그리고 우리가 생산하는 데이터는 해를 거듭할수록 증가하고 있습니다. 우리가 사용할 수 있는 데이터의 양은 방대하지만, 이 모든 데이터로 무엇을 ... 
+ 자바스크립트(JavaScript)는 ECMAScript를 준수하는 언어이기 때문에, 이번 발표는 JavaScript 사양의 변경으로도 해석할 수 있습니다. 사실 표준이 되기 전에도... 
 
- [바로가기](https://yozm.wishket.com/magazine/detail/1567/) 
+ [바로가기](https://yozm.wishket.com/magazine/detail/1570/) 
 
-### Flutter로 UI를 구현하는 방법 
+### 최고의 오픈 소스 개발 도구 Top 8 
 
- 이 글에서는 이미지를 포함한 모든 종류의 UI를 Flutter 코드로 변환하는 방법에 대해 소개할 예정입니다. 미리 말하자면 이 글은 앱 개발 튜토리얼이 아니며, 다양한 UI의 기... 
+ 소프트웨어 개발 프로세스에는 많은 인기 있는 오픈 소스 개발 도구가 있습니다. 이러한 도구 중 대부분은 유사한 기능을 가지고 있으며 소프트웨어 개발에 대한 다양한 접근 방식을 제공... 
 
- [바로가기](https://yozm.wishket.com/magazine/detail/1566/) 
+ [바로가기](https://yozm.wishket.com/magazine/detail/1569/) 
 
-### BDD? SDD? 팀 프로젝트 다 같이 개발∙설계하는 방법 
+### ECS Task Rebalancing을 이용한 EC2 비용 최적화 
 
- 오늘 해볼 이야기는 ‘어떻게 하면 조금 더 효율적으로 다 같이 개발을 설계하고 진행할 수 있을지’에 대한 이야기입니다. 아이디어를 구체화하고 기획 구현을 시작하면 이제 ‘이걸 어떻... 
+ AWS ECS는 꽤 편리하고 생각보다 여러 곳이 사용하고 있는 운영 환경입니다. 그런데도 클라우드 환경에서는 매우 중요한 Auto Scaling과 관련하여 아쉬움이 많았던 서비스인... 
 
- [바로가기](https://yozm.wishket.com/magazine/detail/1565/) 
+ [바로가기](https://yozm.wishket.com/magazine/detail/1568/) 
 
 ---
 
