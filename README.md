@@ -1,5 +1,11 @@
 # 오늘의 포스팅 
-2022년 7월 10일 9시 기준 
+2022년 7월 11일 9시 기준 
+
+###  Ecma 인터네셔널에서 ECMAScript 2022를 승인했습니다. 새로운 기능은 무엇인가요? 
+
+ Note. 이전 글에서 실수로 다른 분의 링크를 잘못 첨부하는 바람에 글을 다시 작성하게 되었습니다. 저의 실수로 인해 Korean FE Article 구독자분들께 중복된 메일을... 
+
+ [바로가기](https://kofearticle.substack.com/p/korean-fe-article-ecma-ecmascript) 
 
 ###  주의 깊게 XMLHttpRequest 재시도하기 
 
@@ -12,12 +18,6 @@
  글 링크: https://bit.ly/3In1Vth 소개 V8은 v7.2부터 클래스 필드에 대한 지원을 제공했는데요. 클래스 필드의 초기화가 일반 객체 프로퍼티 할당보다 훨씬 느려... 
 
  [바로가기](https://kofearticle.substack.com/p/korean-fe-article--7e2) 
-
-###  사용 중인 디자인 패턴을 보여주는 11가지 자바스크립트 예제 소스 코드 
-
- 글 링크 : https://velog.io/@lky5697/11-javascript-examples-to-source-code-that-reveal-design-patterns-i... 
-
- [바로가기](https://kofearticle.substack.com/p/korean-fe-article-11-) 
 
 ### ECMAScript 2022 살펴보기 
 
