@@ -1,5 +1,11 @@
 # 오늘의 포스팅 
-2022년 7월 11일 9시 기준 
+2022년 7월 12일 9시 기준 
+
+###  프론트엔드 렌더링: SSG vs ISG vs SSR vs CSR - 언제 어떤 것을 사용해야 할까요? 
+
+ 글 링크: https://bit.ly/3nRZbKY 소개 프론트엔드 렌더링 방법으로 CSR과 SSR만 알고 있었다면 주목해주세요! 😁 렌더링할 수 있는 더 다양한 방법들이 있습니... 
+
+ [바로가기](https://kofearticle.substack.com/p/korean-fe-article-ssg-vs-isg-vs-ssr) 
 
 ###  Ecma 인터네셔널에서 ECMAScript 2022를 승인했습니다. 새로운 기능은 무엇인가요? 
 
@@ -13,11 +19,11 @@
 
  [바로가기](https://kofearticle.substack.com/p/korean-fe-article-xmlhttprequest) 
 
-###  새로운 클래스 필드를 통한 더 빠른 인스턴스 초기화 
+### 데이터 분석가는 무슨 일을 할까요? 
 
- 글 링크: https://bit.ly/3In1Vth 소개 V8은 v7.2부터 클래스 필드에 대한 지원을 제공했는데요. 클래스 필드의 초기화가 일반 객체 프로퍼티 할당보다 훨씬 느려... 
+ 오늘날 데이터를 우리의 삶과 때어 놓는다는 것은 불가능합니다. 데이터는 우리가 하는 대부분의 일에 영향을 주고 편리함을 제공하기 때문에 기업은 데이터에서 정보를 처리하고 미래 트랜... 
 
- [바로가기](https://kofearticle.substack.com/p/korean-fe-article--7e2) 
+ [바로가기](https://yozm.wishket.com/magazine/detail/1571/) 
 
 ### ECMAScript 2022 살펴보기 
 
@@ -30,12 +36,6 @@
  소프트웨어 개발 프로세스에는 많은 인기 있는 오픈 소스 개발 도구가 있습니다. 이러한 도구 중 대부분은 유사한 기능을 가지고 있으며 소프트웨어 개발에 대한 다양한 접근 방식을 제공... 
 
  [바로가기](https://yozm.wishket.com/magazine/detail/1569/) 
-
-### ECS Task Rebalancing을 이용한 EC2 비용 최적화 
-
- AWS ECS는 꽤 편리하고 생각보다 여러 곳이 사용하고 있는 운영 환경입니다. 그런데도 클라우드 환경에서는 매우 중요한 Auto Scaling과 관련하여 아쉬움이 많았던 서비스인... 
-
- [바로가기](https://yozm.wishket.com/magazine/detail/1568/) 
 
 ---
 
