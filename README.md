@@ -1,5 +1,11 @@
 # 오늘의 포스팅 
-2022년 7월 13일 9시 기준 
+2022년 7월 14일 9시 기준 
+
+###  XHTML 방식이 아닌 HTML을 HTML의 방식으로 작성하세요. 
+
+ 글 링크: https://bit.ly/3v7pGjR 소개 HTML은 오랜 역사를 가지고 있고 중대한 몇가지 변화를 겪었습니다. 1990년대에는 HTML이 있었습니다. 2000년대에... 
+
+ [바로가기](https://kofearticle.substack.com/p/korean-fe-article-xhtml-html-html) 
 
 ###  프론트엔드 렌더링: SSG vs ISG vs SSR vs CSR - 언제 어떤 것을 사용해야 할까요? 
 
@@ -12,12 +18,6 @@
  Note. 이전 글에서 실수로 다른 분의 링크를 잘못 첨부하는 바람에 글을 다시 작성하게 되었습니다. 저의 실수로 인해 Korean FE Article 구독자분들께 중복된 메일을... 
 
  [바로가기](https://kofearticle.substack.com/p/korean-fe-article-ecma-ecmascript) 
-
-###  주의 깊게 XMLHttpRequest 재시도하기 
-
- 글 링크: https://bit.ly/3NPju6u 소개 XMLHttpRequest나 fetch을 사용하다보면 실패에 대한 대응이 필요한 경우가 있습니다. 응답이 올때까지 특정 시... 
-
- [바로가기](https://kofearticle.substack.com/p/korean-fe-article-xmlhttprequest) 
 
 ### 코드 리뷰 문화 
 
