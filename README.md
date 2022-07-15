@@ -1,5 +1,11 @@
 # 오늘의 포스팅 
-2022년 7월 14일 9시 기준 
+2022년 7월 15일 9시 기준 
+
+###  리액트 훅(React Hooks)의 클로저 트랩(Closure Trap) 이해하기 
+
+ 고전적 문제 파고들기... 
+
+ [바로가기](https://kofearticle.substack.com/p/korean-fe-article-react-hooks-closure) 
 
 ###  XHTML 방식이 아닌 HTML을 HTML의 방식으로 작성하세요. 
 
@@ -13,11 +19,11 @@
 
  [바로가기](https://kofearticle.substack.com/p/korean-fe-article-ssg-vs-isg-vs-ssr) 
 
-###  Ecma 인터네셔널에서 ECMAScript 2022를 승인했습니다. 새로운 기능은 무엇인가요? 
+### [여기보기] 뿌리 깊은 리눅스의 근본, 루트 계정을 지켜라 
 
- Note. 이전 글에서 실수로 다른 분의 링크를 잘못 첨부하는 바람에 글을 다시 작성하게 되었습니다. 저의 실수로 인해 Korean FE Article 구독자분들께 중복된 메일을... 
+ 리눅스에서 root 계정은 여러 사용자가 사용하는 서버 전체를 관리하고 총괄하는 막대한 권한을 가진, 유일한 특별 계정입니다. 제한 없이 사용자 계정을 생성할 수 있고, 소프트웨어... 
 
- [바로가기](https://kofearticle.substack.com/p/korean-fe-article-ecma-ecmascript) 
+ [바로가기](https://yozm.wishket.com/magazine/detail/1583/) 
 
 ### 코드 리뷰 문화 
 
@@ -30,12 +36,6 @@
  오늘날 데이터를 우리의 삶과 때어 놓는다는 것은 불가능합니다. 데이터는 우리가 하는 대부분의 일에 영향을 주고 편리함을 제공하기 때문에 기업은 데이터에서 정보를 처리하고 미래 트렌... 
 
  [바로가기](https://yozm.wishket.com/magazine/detail/1571/) 
-
-### ECMAScript 2022 살펴보기 
-
- 자바스크립트(JavaScript)는 ECMAScript를 준수하는 언어이기 때문에, 이번 발표는 JavaScript 사양의 변경으로도 해석할 수 있습니다. 사실 표준이 되기 전에도... 
-
- [바로가기](https://yozm.wishket.com/magazine/detail/1570/) 
 
 ---
 
