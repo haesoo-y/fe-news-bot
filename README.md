@@ -1,5 +1,11 @@
 # 오늘의 포스팅 
-2022년 7월 18일 9시 기준 
+2022년 7월 19일 9시 기준 
+
+###  프런트엔드 웹 퍼포먼스: 필수 요소(1) 
+
+ 글 링크: https://velog.io/@eunbinn/Frontend-Web-Performance-The-Essentials-1 소개 웹 퍼포먼스는 좋은 사용자 경험을 제공하는... 
+
+ [바로가기](https://kofearticle.substack.com/p/korean-fe-article-1) 
 
 ###  리액트 훅(React Hooks)의 클로저 트랩(Closure Trap) 이해하기 
 
@@ -13,11 +19,11 @@
 
  [바로가기](https://kofearticle.substack.com/p/korean-fe-article-xhtml-html-html) 
 
-###  프론트엔드 렌더링: SSG vs ISG vs SSR vs CSR - 언제 어떤 것을 사용해야 할까요? 
+### 2022년 프론트엔드 개발 동향 
 
- 글 링크: https://bit.ly/3nRZbKY 소개 프론트엔드 렌더링 방법으로 CSR과 SSR만 알고 있었다면 주목해주세요! 😁 렌더링할 수 있는 더 다양한 방법들이 있습니... 
+ 이번에 소개해 드릴 프론트엔드 개발 트렌드는 앱 개발 진행과정을 더욱 빠르고 간결하게 만들어줍니다. 또한 업계에 지속해서 영향력을 미치는 것을 목표로 하는 개발자에게 있어서 최신 ... 
 
- [바로가기](https://kofearticle.substack.com/p/korean-fe-article-ssg-vs-isg-vs-ssr) 
+ [바로가기](https://yozm.wishket.com/magazine/detail/1590/) 
 
 ### 하이퍼링크를 신뢰할 수 없다면? noopener, noreferrer, nofollow 
 
@@ -30,12 +36,6 @@
  앞서 작성한 웹 개발 생산성을 높이기 위한 방법에 이어서 이번에는 웹 개발 시간을 줄여주는 몇 가지 팁을 살펴볼까 합니다. 항상 일정이 타이트한 웹 개발 프로젝트에서 조금이라도 시... 
 
  [바로가기](https://yozm.wishket.com/magazine/detail/1585/) 
-
-### [여기보기] 뿌리 깊은 리눅스의 근본, 루트 계정을 지켜라 
-
- 리눅스에서 root 계정은 여러 사용자가 사용하는 서버 전체를 관리하고 총괄하는 막대한 권한을 가진, 유일한 특별 계정입니다. 제한 없이 사용자 계정을 생성할 수 있고, 소프트웨어... 
-
- [바로가기](https://yozm.wishket.com/magazine/detail/1583/) 
 
 ---
 
