@@ -1,5 +1,11 @@
 # 오늘의 포스팅 
-2022년 7월 19일 9시 기준 
+2022년 7월 20일 9시 기준 
+
+###  리액트 상태 관리의 새로운 흐름 
+
+ 글 링크: https://bit.ly/3aM6YHx 소개 프런트엔드 웹 애플리케이션에서 리액트는 빠져서는 안되는 중요한 기술중의 하나입니다. 그리고 애플리케이션의 규모가 커질수록... 
+
+ [바로가기](https://kofearticle.substack.com/p/korean-fe-article--2ec) 
 
 ###  프런트엔드 웹 퍼포먼스: 필수 요소(1) 
 
@@ -13,11 +19,11 @@
 
  [바로가기](https://kofearticle.substack.com/p/korean-fe-article-react-hooks-closure) 
 
-###  XHTML 방식이 아닌 HTML을 HTML의 방식으로 작성하세요. 
+### 좋은 개발 스터디를 운영하는 법 
 
- 글 링크: https://bit.ly/3v7pGjR 소개 HTML은 오랜 역사를 가지고 있고 중대한 몇가지 변화를 겪었습니다. 1990년대에는 HTML이 있었습니다. 2000년대에... 
+ 좋은 개발 스터디그룹을 찾기란 하늘의 별 따기이다. 개발자라면 공감할 것이다. 누구나 자신과 실력이 비슷하고 열정 있는 스터디원들을 만나 재미있게 공부하고 싶지만, 대부분 중간에 ... 
 
- [바로가기](https://kofearticle.substack.com/p/korean-fe-article-xhtml-html-html) 
+ [바로가기](https://yozm.wishket.com/magazine/detail/1593/) 
 
 ### 2022년 프론트엔드 개발 동향 
 
@@ -30,12 +36,6 @@
  여러분이 자주 방문하는 웹사이트에 접속하여 개발자 도구를 한 번 켜서 HTML 요소 검사기에서 하이퍼링크(<a>, 앵커 태그)들을 한 번 살펴보시기 바랍니다. 아마 전부는 아니지만... 
 
  [바로가기](https://yozm.wishket.com/magazine/detail/1586/) 
-
-### 웹 개발 시간을 줄여주는 팁 4가지 
-
- 앞서 작성한 웹 개발 생산성을 높이기 위한 방법에 이어서 이번에는 웹 개발 시간을 줄여주는 몇 가지 팁을 살펴볼까 합니다. 항상 일정이 타이트한 웹 개발 프로젝트에서 조금이라도 시... 
-
- [바로가기](https://yozm.wishket.com/magazine/detail/1585/) 
 
 ---
 
