@@ -1,5 +1,11 @@
 # 오늘의 포스팅 
-2022년 7월 25일 9시 기준 
+2022년 7월 26일 9시 기준 
+
+###  Microsoft는 JavaScript와 TypeScript를 어떻게 바꾸고 싶어하는가 
+
+ 글 링크: https://bit.ly/3OqqMxO 소개 JavaScript의 역사와 그에 따라 TypeScript의 등장이 한편으로는 왜 장애물이 되었는지 알아봅니다. 그리고 M... 
+
+ [바로가기](https://kofearticle.substack.com/p/korean-fe-article-microsoft-javascript) 
 
 ###  리액트 상태 관리의 새로운 흐름 
 
@@ -12,12 +18,6 @@
  글 링크: https://velog.io/@eunbinn/Frontend-Web-Performance-The-Essentials-1 소개 웹 퍼포먼스는 좋은 사용자 경험을 제공하는... 
 
  [바로가기](https://kofearticle.substack.com/p/korean-fe-article-1) 
-
-###  리액트 훅(React Hooks)의 클로저 트랩(Closure Trap) 이해하기 
-
- 고전적 문제 파고들기... 
-
- [바로가기](https://kofearticle.substack.com/p/korean-fe-article-react-hooks-closure) 
 
 ### 좋은 개발 스터디를 운영하는 법 
 
