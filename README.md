@@ -1,5 +1,11 @@
 # 오늘의 포스팅 
-2022년 7월 26일 9시 기준 
+2022년 7월 27일 9시 기준 
+
+###  React에 SOLID 원칙 적용하기 
+
+ Note. 링크가 잘못되어 메일을 다시 보내드립니다. 글 링크 : https://bit.ly/3BfSV7E 소개 SOLID 원칙은 로버트 마틴이 정의한 다섯 가지 기본 원칙으로, ... 
+
+ [바로가기](https://kofearticle.substack.com/p/korean-fe-article-react-solid-) 
 
 ###  Microsoft는 JavaScript와 TypeScript를 어떻게 바꾸고 싶어하는가 
 
@@ -13,11 +19,11 @@
 
  [바로가기](https://kofearticle.substack.com/p/korean-fe-article--2ec) 
 
-###  프런트엔드 웹 퍼포먼스: 필수 요소(1) 
+### 파이썬 초보자가 저지르는 10가지 실수 
 
- 글 링크: https://velog.io/@eunbinn/Frontend-Web-Performance-The-Essentials-1 소개 웹 퍼포먼스는 좋은 사용자 경험을 제공하는... 
+ 파이썬을 처음 배울 때, 우리는 자신도 모르게 몇 개의 나쁜 코딩 습관들을 갖게 됩니다. 처음에는 문제없이 작동했지만, 나중에 정상적으로 작동하지 않거나 뒤늦게 문제를 더 쉽게 해... 
 
- [바로가기](https://kofearticle.substack.com/p/korean-fe-article-1) 
+ [바로가기](https://yozm.wishket.com/magazine/detail/1605/) 
 
 ### 좋은 개발 스터디를 운영하는 법 
 
@@ -30,12 +36,6 @@
  이번에 소개해 드릴 프론트엔드 개발 트렌드는 앱 개발 진행과정을 더욱 빠르고 간결하게 만들어줍니다. 또한 업계에 지속해서 영향력을 미치는 것을 목표로 하는 개발자에게 있어서 최신 ... 
 
  [바로가기](https://yozm.wishket.com/magazine/detail/1590/) 
-
-### 하이퍼링크를 신뢰할 수 없다면? noopener, noreferrer, nofollow 
-
- 여러분이 자주 방문하는 웹사이트에 접속하여 개발자 도구를 한 번 켜서 HTML 요소 검사기에서 하이퍼링크(<a>, 앵커 태그)들을 한 번 살펴보시기 바랍니다. 아마 전부는 아니지만... 
-
- [바로가기](https://yozm.wishket.com/magazine/detail/1586/) 
 
 ---
 
