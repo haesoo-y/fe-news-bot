@@ -1,23 +1,23 @@
 # 오늘의 포스팅 
-2022년 8월 1일 9시 기준 
+2022년 8월 2일 9시 기준 
+
+###  이번 주는 방학입니다! 
+
+ 그래도 한 번 열어보시겠어요? 😉... 
+
+ [바로가기](https://kofearticle.substack.com/p/korean-fe-article--b9d) 
+
+###  Remix는 무엇이고 Next.js와 어떻게 다른가요? 
+
+ 글 링크: https://velog.io/@eunbinn/look-remix-differences-next 소개 서버사이드 렌더링(SSR) 자바스크립트 프로젝트를 만드는 프레임워크... 
+
+ [바로가기](https://kofearticle.substack.com/p/korean-fe-article-remix-nextjs-) 
 
 ###  프런트엔드 애플리케이션 간에 컴포넌트를 공유하는 방법 
 
  컴포넌트를 재사용하여 개발 속도를 높히는 방법... 
 
  [바로가기](https://kofearticle.substack.com/p/korean-fe-article--46c) 
-
-###  React에 SOLID 원칙 적용하기 
-
- Note. 링크가 잘못되어 메일을 다시 보내드립니다. 글 링크 : https://bit.ly/3BfSV7E 소개 SOLID 원칙은 로버트 마틴이 정의한 다섯 가지 기본 원칙으로, ... 
-
- [바로가기](https://kofearticle.substack.com/p/korean-fe-article-react-solid-) 
-
-###  Microsoft는 JavaScript와 TypeScript를 어떻게 바꾸고 싶어하는가 
-
- 글 링크: https://bit.ly/3OqqMxO 소개 JavaScript의 역사와 그에 따라 TypeScript의 등장이 한편으로는 왜 장애물이 되었는지 알아봅니다. 그리고 M... 
-
- [바로가기](https://kofearticle.substack.com/p/korean-fe-article-microsoft-javascript) 
 
 ### [여기보기] 알리바바가 외친 “열려라! 참깨”에는 열리지 않는 문 
 
