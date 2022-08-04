@@ -1,5 +1,5 @@
 # 오늘의 포스팅 
-2022년 8월 3일 9시 기준 
+2022년 8월 4일 9시 기준 
 
 ###  이번 주는 방학입니다! 
 
@@ -19,6 +19,12 @@
 
  [바로가기](https://kofearticle.substack.com/p/korean-fe-article--46c) 
 
+### 쿠버네티스에서 노드가 추가될 때마다 슬랙 알람 쏘기 
+
+ AWS의 Elastic Kubernetes Service나 GCP의 Google Kubernetes Engine 등 대부분의 대형 클라우드 서비스는 독자적인 관리형 쿠버네티스 서비... 
+
+ [바로가기](https://yozm.wishket.com/magazine/detail/1623/) 
+
 ### Vite 이야기(feat. Svelte) 
 
  이번 글은 ‘비트(Vite)’에 관한 내용입니다. 최근 ‘스벨트(Svelte)’와 관련한 사내 발표 내용 중 다들 재미있어했던 Vite에 관한 이야기를 블로그 형식으로 각색하여 다... 
@@ -30,12 +36,6 @@
  아라비안나이트에 나오는 ‘알리바바와 40인의 도둑’ 이야기를 잠시 떠올려보겠습니다. 도둑이 멀리서 외치는 암호가 알리바바에게 유출됐고, 유출된 암호였던 “열려라! 참깨”는 계속 재... 
 
  [바로가기](https://yozm.wishket.com/magazine/detail/1616/) 
-
-### 워크스페이스를 이용한 망분리 환경 구축하기 
-
- 화해 서비스가 성장하면서 개인정보보호법에 따라 화해는 개인정보의 기술적・관리적 보호조치를 위한 망분리 적용 대상이 되었습니다. 내부적으로도 ‘사용자의 개인정보를 더욱 안전한 환경에... 
-
- [바로가기](https://yozm.wishket.com/magazine/detail/1613/) 
 
 ---
 
