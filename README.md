@@ -1,5 +1,11 @@
 # 오늘의 포스팅 
-2022년 8월 13일 9시 기준 
+2022년 8월 14일 9시 기준 
+
+###  타입스크립트 프로젝트를 위한 궁극적인 클린 아키텍처 템플릿 
+
+ 클린 아키텍처 원칙에 따른 레이어 기반의 타입스크립트 프로젝트 템플릿 생성 가이드... 
+
+ [바로가기](https://kofearticle.substack.com/p/korean-fe-article--55d) 
 
 ###  이번 주는 방학입니다! 
 
@@ -12,12 +18,6 @@
  글 링크: https://velog.io/@eunbinn/look-remix-differences-next 소개 서버사이드 렌더링(SSR) 자바스크립트 프로젝트를 만드는 프레임워크... 
 
  [바로가기](https://kofearticle.substack.com/p/korean-fe-article-remix-nextjs-) 
-
-###  프런트엔드 애플리케이션 간에 컴포넌트를 공유하는 방법 
-
- 컴포넌트를 재사용하여 개발 속도를 높히는 방법... 
-
- [바로가기](https://kofearticle.substack.com/p/korean-fe-article--46c) 
 
 ### 개발자를 위한 AWS 클라우드 보안: ②로깅 및 모니터링과 데이터 보호 
 
