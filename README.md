@@ -1,5 +1,11 @@
 # 오늘의 포스팅 
-2022년 8월 14일 9시 기준 
+2022년 8월 15일 9시 기준 
+
+###  자바스크립트 Import Map에 대해 알아야 할 모든 것 
+
+ 글 링크 : https://velog.io/@superlipbalm/everything-you-need-to-know-about-javascript-import-maps 소개 Im... 
+
+ [바로가기](https://kofearticle.substack.com/p/korean-fe-article-import-map-) 
 
 ###  타입스크립트 프로젝트를 위한 궁극적인 클린 아키텍처 템플릿 
 
@@ -12,12 +18,6 @@
  그래도 한 번 열어보시겠어요? 😉... 
 
  [바로가기](https://kofearticle.substack.com/p/korean-fe-article--b9d) 
-
-###  Remix는 무엇이고 Next.js와 어떻게 다른가요? 
-
- 글 링크: https://velog.io/@eunbinn/look-remix-differences-next 소개 서버사이드 렌더링(SSR) 자바스크립트 프로젝트를 만드는 프레임워크... 
-
- [바로가기](https://kofearticle.substack.com/p/korean-fe-article-remix-nextjs-) 
 
 ### 개발자를 위한 AWS 클라우드 보안: ②로깅 및 모니터링과 데이터 보호 
 
