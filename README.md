@@ -1,5 +1,11 @@
 # 오늘의 포스팅 
-2022년 8월 15일 9시 기준 
+2022년 8월 16일 9시 기준 
+
+###  소프트웨어 변경에 대해 이야기하는 방법 
+
+ 작업을 시연하기 위한 4가지 핵심개요... 
+
+ [바로가기](https://kofearticle.substack.com/p/korean-fe-article--828) 
 
 ###  자바스크립트 Import Map에 대해 알아야 할 모든 것 
 
@@ -12,12 +18,6 @@
  클린 아키텍처 원칙에 따른 레이어 기반의 타입스크립트 프로젝트 템플릿 생성 가이드... 
 
  [바로가기](https://kofearticle.substack.com/p/korean-fe-article--55d) 
-
-###  이번 주는 방학입니다! 
-
- 그래도 한 번 열어보시겠어요? 😉... 
-
- [바로가기](https://kofearticle.substack.com/p/korean-fe-article--b9d) 
 
 ### 개발자를 위한 AWS 클라우드 보안: ②로깅 및 모니터링과 데이터 보호 
 
