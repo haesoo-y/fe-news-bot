@@ -1,5 +1,17 @@
 # 오늘의 포스팅 
-2022년 8월 17일 9시 기준 
+2022년 8월 18일 9시 기준 
+
+###  V8 함수 최적화 
+
+ 글 링크: https://junghan92.medium.com/%EB%B2%88%EC%97%AD-v8-%ED%95%A8%EC%88%98-%EC%B5%9C%EC%A0%81%ED%99... 
+
+ [바로가기](https://kofearticle.substack.com/p/korean-fe-article-v8-) 
+
+###  테스트 가능한 프론트엔드: 좋은 것, 나쁜 것, 깨지기 쉬운 것 
+
+ 프론트엔드 테스팅의 좋은 것과 나쁜 것 그리고 깨지기 쉬운 것에 대해 알아봅니다.... 
+
+ [바로가기](https://kofearticle.substack.com/p/korean-fe-article--965) 
 
 ###  소프트웨어 변경에 대해 이야기하는 방법 
 
@@ -7,17 +19,11 @@
 
  [바로가기](https://kofearticle.substack.com/p/korean-fe-article--828) 
 
-###  자바스크립트 Import Map에 대해 알아야 할 모든 것 
+### 나에게 맞는 웹 기술 스택을 고르는 방법 
 
- 글 링크 : https://velog.io/@superlipbalm/everything-you-need-to-know-about-javascript-import-maps 소개 Im... 
+ 세상에는 웹 개발을 하기 위한 많고도 다양한 기술 스택이 존재합니다. 그러나 어떤 스택을 채택해야 하는지, 언제 그것을 사용할 수 있는지를 아는 것은 특히 초보자에게 어려운 일입니... 
 
- [바로가기](https://kofearticle.substack.com/p/korean-fe-article-import-map-) 
-
-###  타입스크립트 프로젝트를 위한 궁극적인 클린 아키텍처 템플릿 
-
- 클린 아키텍처 원칙에 따른 레이어 기반의 타입스크립트 프로젝트 템플릿 생성 가이드... 
-
- [바로가기](https://kofearticle.substack.com/p/korean-fe-article--55d) 
+ [바로가기](https://yozm.wishket.com/magazine/detail/1645/) 
 
 ### 개발자를 위한 AWS 클라우드 보안: ②로깅 및 모니터링과 데이터 보호 
 
@@ -30,12 +36,6 @@
  오늘 인터뷰는 AI 이루다로 유명한 ‘스캐터랩’의 황성구 CTO입니다. 스캐터랩은 AI 소셜 챗봇 '이루다'를 만든 루다팀, 모바일 셀프케어 서비스를 제공하는 블림프팀, 사람들이 ... 
 
  [바로가기](https://yozm.wishket.com/magazine/detail/1635/) 
-
-### “세상 참 좋아졌네”…깃허브 코파일럿 리뷰 
-
- 웹 개발 생산성을 높이기 위한 방법이라는 글에서 ‘깃허브 코파일럿(GitHub Copilot)’에 대해서 소개한 적이 있습니다. GitHub Copilot은 ‘깃허브(GitHub)... 
-
- [바로가기](https://yozm.wishket.com/magazine/detail/1634/) 
 
 ---
 
