@@ -1,5 +1,11 @@
 # 오늘의 포스팅 
-2022년 8월 23일 9시 기준 
+2022년 8월 24일 9시 기준 
+
+###  Record & Tuple: 불변성을 가지는 자바스크립트의 자료구조 
+
+ 글 링크: https://velog.io/@eunbinn/Record-Tuple-Immutable-Data-Structures-in-JS 소개 TC39의 stage2 프로세스를 진... 
+
+ [바로가기](https://kofearticle.substack.com/p/korean-fe-article-record-and-tuple) 
 
 ###  React는 컴포넌트를 언제 다시 리렌더링 할까요? 
 
@@ -12,12 +18,6 @@
  글 링크: https://junghan92.medium.com/%EB%B2%88%EC%97%AD-v8-%ED%95%A8%EC%88%98-%EC%B5%9C%EC%A0%81%ED%99... 
 
  [바로가기](https://kofearticle.substack.com/p/korean-fe-article-v8-) 
-
-###  테스트 가능한 프론트엔드: 좋은 것, 나쁜 것, 깨지기 쉬운 것 
-
- 프론트엔드 테스팅의 좋은 것과 나쁜 것 그리고 깨지기 쉬운 것에 대해 알아봅니다.... 
-
- [바로가기](https://kofearticle.substack.com/p/korean-fe-article--965) 
 
 ### 소프트웨어의 복잡한 설계를 관리하는 도구 
 
