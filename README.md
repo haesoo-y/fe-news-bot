@@ -1,5 +1,11 @@
 # 오늘의 포스팅 
-2022년 8월 24일 9시 기준 
+2022년 8월 25일 9시 기준 
+
+###  Vuex와 비교한 Pinia의 장점 
+
+ Pinia가 Vue.js의 공식 상태 관리 라이브러리로 인정됨에 따라 프로젝트에 Pinia를 도입하는 사례가 늘어나고 있습니다. 이 글에서는 Pinia의 장점과 특징을 기존 공식 ... 
+
+ [바로가기](https://kofearticle.substack.com/p/korean-fe-article-vuex-pinia-) 
 
 ###  Record & Tuple: 불변성을 가지는 자바스크립트의 자료구조 
 
@@ -13,11 +19,11 @@
 
  [바로가기](https://kofearticle.substack.com/p/korean-fe-article-react--89d) 
 
-###  V8 함수 최적화 
+### [인터뷰] 김시준 레몬베이스 개발자 “즐거운 마음으로 함께 성장할 신념 있는 동료를 기다립니다!” 
 
- 글 링크: https://junghan92.medium.com/%EB%B2%88%EC%97%AD-v8-%ED%95%A8%EC%88%98-%EC%B5%9C%EC%A0%81%ED%99... 
+ 이번 인터뷰의 주인공은 성과관리 소프트웨어 운영사 '레몬베이스'의 김시준 개발자입니다. 레몬베이스는 기업명과 동일한 소프트웨어 '레몬베이스'를 서비스하는 기업으로, 회사와 구성원의... 
 
- [바로가기](https://kofearticle.substack.com/p/korean-fe-article-v8-) 
+ [바로가기](https://yozm.wishket.com/magazine/detail/1657/) 
 
 ### 소프트웨어의 복잡한 설계를 관리하는 도구 
 
@@ -30,12 +36,6 @@
  핑퐁팀에서 AWS 보안 강화를 위해 작업했던 내용을 AWS Well-Architected Framework와 함께 소개하는 마지막 글로, 인프라 보안 영역과 사고 대응 영역을 소개... 
 
  [바로가기](https://yozm.wishket.com/magazine/detail/1650/) 
-
-### 자바스크립트 개발자가 알고리즘을 C언어로 푸는 이유 
-
- 사용법이 간단하고 최적화된 메서드 덕분에 자바스크립트로만 프로그래밍하면 알고리즘의 필요성을 느끼기 어렵다. 지난 세 달간 호기심이 생겨서 C언어를 공부하고 알고리즘 문제를 풀어보았... 
-
- [바로가기](https://yozm.wishket.com/magazine/detail/1651/) 
 
 ---
 
