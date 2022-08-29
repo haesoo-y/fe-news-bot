@@ -1,5 +1,11 @@
 # 오늘의 포스팅 
-2022년 8월 28일 9시 기준 
+2022년 8월 29일 9시 기준 
+
+###  모든 개발자가 알아야 하는 61가지 프론트엔드 웹 개발 트렌드 용어 
+
+ 글 링크: https://bit.ly/3RcIbwh 소개 이 글은 61가지 프론트엔드 웹 개발 트렌드 용어(Buzz word)를 소개하고 있습니다. 자주 사용되는 알짜배기 용어들이... 
+
+ [바로가기](https://kofearticle.substack.com/p/korean-fe-article-61-) 
 
 ###  Vuex와 비교한 Pinia의 장점 
 
@@ -12,12 +18,6 @@
  글 링크: https://velog.io/@eunbinn/Record-Tuple-Immutable-Data-Structures-in-JS 소개 TC39의 stage2 프로세스를 진... 
 
  [바로가기](https://kofearticle.substack.com/p/korean-fe-article-record-and-tuple) 
-
-###  React는 컴포넌트를 언제 다시 리렌더링 할까요? 
-
- 리액트의 렌더링에 대한 주요 개념과 리렌더링이 발생하는 시점에 대해 알아봅니다.... 
-
- [바로가기](https://kofearticle.substack.com/p/korean-fe-article-react--89d) 
 
 ### 프론트엔드 아키텍처의 가장 최근 트렌드는? 
 
