@@ -1,23 +1,23 @@
 # 오늘의 포스팅 
-2022년 8월 30일 9시 기준 
+2022년 8월 31일 9시 기준 
+
+###  리액트 성능 최적화, 500ms 에서 1.7ms 까지 : 그 여정과 체크리스트 
+
+ 글 링크 : https://ykss.netlify.app/translation/500ms-to-1.7ms-in-react:-a-journey-and-a-checklist/ 소개 리... 
+
+ [바로가기](https://kofearticle.substack.com/p/korean-fe-article-500ms-17ms) 
+
+###  왜 리액트에서 리렌더링이 발생하는가 
+
+ 글 링크: https://bit.ly/3Rjt2IV 소개 현재 프론트엔드 개발에 있어서 리액트는 아주 중요한 역할을 하고 있는 도구입니다. 그만큼 많이 익숙해졌고 많은 전문가들이 ... 
+
+ [바로가기](https://kofearticle.substack.com/p/korean-fe-article--ef8) 
 
 ###  모든 개발자가 알아야 하는 61가지 프론트엔드 웹 개발 트렌드 용어 
 
  글 링크: https://bit.ly/3RcIbwh 소개 이 글은 61가지 프론트엔드 웹 개발 트렌드 용어(Buzz word)를 소개하고 있습니다. 자주 사용되는 알짜배기 용어들이... 
 
  [바로가기](https://kofearticle.substack.com/p/korean-fe-article-61-) 
-
-###  Vuex와 비교한 Pinia의 장점 
-
- Pinia가 Vue.js의 공식 상태 관리 라이브러리로 인정됨에 따라 프로젝트에 Pinia를 도입하는 사례가 늘어나고 있습니다. 이 글에서는 Pinia의 장점과 특징을 기존 공식 ... 
-
- [바로가기](https://kofearticle.substack.com/p/korean-fe-article-vuex-pinia-) 
-
-###  Record & Tuple: 불변성을 가지는 자바스크립트의 자료구조 
-
- 글 링크: https://velog.io/@eunbinn/Record-Tuple-Immutable-Data-Structures-in-JS 소개 TC39의 stage2 프로세스를 진... 
-
- [바로가기](https://kofearticle.substack.com/p/korean-fe-article-record-and-tuple) 
 
 ### GitHub Actions로 App 자동으로 배포하기 
 
