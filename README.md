@@ -1,5 +1,11 @@
 # 오늘의 포스팅 
-2022년 9월 1일 9시 기준 
+2022년 9월 2일 9시 기준 
+
+###  반응형 사이트 생성기(Reactive Site Generator) Gatsby를 (다시) 소개합니다 
+
+ 글 링크 : https://velog.io/@superlipbalm/re-introducing-gatsby-a-reactive-site-generator 소개 Gatsby는 Rea... 
+
+ [바로가기](https://kofearticle.substack.com/p/korean-fe-article-reactive-site-generator) 
 
 ###  리액트 성능 최적화, 500ms 에서 1.7ms 까지 : 그 여정과 체크리스트 
 
@@ -13,11 +19,11 @@
 
  [바로가기](https://kofearticle.substack.com/p/korean-fe-article--ef8) 
 
-###  모든 개발자가 알아야 하는 61가지 프론트엔드 웹 개발 트렌드 용어 
+### (비개발자를 위한) GitHub의 역사와 기능 
 
- 글 링크: https://bit.ly/3RcIbwh 소개 이 글은 61가지 프론트엔드 웹 개발 트렌드 용어(Buzz word)를 소개하고 있습니다. 자주 사용되는 알짜배기 용어들이... 
+ GitHub(깃허브)는 개발자와 떼려야 뗄 수 없는 관계에 있는 서비스로, 개발자가 아닌 사람들조차 GitHub를 어렴풋이 들어본 적이 있을 정도로 유명합니다. 이 글은 ‘GitH... 
 
- [바로가기](https://kofearticle.substack.com/p/korean-fe-article-61-) 
+ [바로가기](https://yozm.wishket.com/magazine/detail/1674/) 
 
 ### Jetpack Compose, 뭐가 좋은데? 
 
@@ -30,12 +36,6 @@
  핑퐁팀은 2022년 상반기에 루다와 유저를 만나게 하는 수단으로 더 이상 페이스북 메신저를 사용하지 않고 자체 메신저 앱을 개발하기로 결정했습니다. 빠르게 MVP 형식의 메신저 앱... 
 
  [바로가기](https://yozm.wishket.com/magazine/detail/1666/) 
-
-### 프론트엔드 아키텍처의 가장 최근 트렌드는? 
-
- 처음에는 그냥 기능 구현을 하면 되지만 프로젝트의 크기가 커지다 보면 ‘제대로 정리해두지 않으면 정말 안 될 것 같은 순간’들을 맞이하게 됩니다. 그냥 만들면 쉬운 요구사항도 기존... 
-
- [바로가기](https://yozm.wishket.com/magazine/detail/1663/) 
 
 ---
 
