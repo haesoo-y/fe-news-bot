@@ -1,5 +1,11 @@
 # 오늘의 포스팅 
-2022년 9월 5일 10시 기준 
+2022년 9월 6일 9시 기준 
+
+###  클린 아키텍처로 TypeScript 웹 앱을 구현하는 방법  
+
+ 여러분들의 웹 애플리케이션 구조에 대한 자세한 가이드... 
+
+ [바로가기](https://kofearticle.substack.com/p/korean-fe-article-typescript) 
 
 ###  반응형 사이트 생성기(Reactive Site Generator) Gatsby를 (다시) 소개합니다 
 
@@ -12,12 +18,6 @@
  글 링크 : https://ykss.netlify.app/translation/500ms-to-1.7ms-in-react:-a-journey-and-a-checklist/ 소개 리... 
 
  [바로가기](https://kofearticle.substack.com/p/korean-fe-article-500ms-17ms) 
-
-###  왜 리액트에서 리렌더링이 발생하는가 
-
- 글 링크: https://bit.ly/3Rjt2IV 소개 현재 프론트엔드 개발에 있어서 리액트는 아주 중요한 역할을 하고 있는 도구입니다. 그만큼 많이 익숙해졌고 많은 전문가들이 ... 
-
- [바로가기](https://kofearticle.substack.com/p/korean-fe-article--ef8) 
 
 ### [여기보기] 파일과 디렉터리에는 정확한 소유권과 적당한 권한을 부여하라 
 
