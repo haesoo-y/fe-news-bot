@@ -1,23 +1,23 @@
 # 오늘의 포스팅 
-2022년 9월 7일 9시 기준 
+2022년 9월 8일 9시 기준 
+
+###  타입스크립트 Typeof 연산자를 위한 5가지 유용한 트릭 
+
+ 글 링크: https://velog.io/@surim014/5-very-useful-tricks-for-thetypescript-typeof-operator 다음 주부터 월화-목금... 
+
+ [바로가기](https://kofearticle.substack.com/p/korean-fe-article-typeof-5) 
+
+###  재개 가능성(Resumability), 그게 뭐야? 
+
+ 글 링크: https://bit.ly/3TRrHeK 다음 주부터 월화-목금 오전 9시 반 고정으로 글이 배포될 예정입니다. 권한 승인 및 리뷰 과정이 지연되어 글이 배포되지 않는 ... 
+
+ [바로가기](https://kofearticle.substack.com/p/korean-fe-article-resumability) 
 
 ###  CSS 안에 자바스크립트 넣기 
 
  글 링크: https://doong-jo.github.io/posts/putting-javascript-in-your-css Photo by Jackson Sophat on Uns... 
 
  [바로가기](https://kofearticle.substack.com/p/korean-fe-article-css) 
-
-###  클린 아키텍처로 TypeScript 웹 앱을 구현하는 방법  
-
- 여러분들의 웹 애플리케이션 구조에 대한 자세한 가이드... 
-
- [바로가기](https://kofearticle.substack.com/p/korean-fe-article-typescript) 
-
-###  반응형 사이트 생성기(Reactive Site Generator) Gatsby를 (다시) 소개합니다 
-
- 글 링크 : https://velog.io/@superlipbalm/re-introducing-gatsby-a-reactive-site-generator 소개 Gatsby는 Rea... 
-
- [바로가기](https://kofearticle.substack.com/p/korean-fe-article-reactive-site-generator) 
 
 ### [여기보기] etc 디렉터리에 있는 소중한 아이들 
 
