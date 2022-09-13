@@ -1,5 +1,11 @@
 # 오늘의 포스팅 
-2022년 9월 12일 9시 기준 
+2022년 9월 13일 9시 기준 
+
+###  자바스크립트 모듈에서 default export는 끔찍합니다 
+
+ 글 링크: https://velog.io/@eunbinn/default-exports-in-javascript-modules-are-terrible 소개 자바스크립트 모듈에서 왜 ... 
+
+ [바로가기](https://kofearticle.substack.com/p/korean-fe-article-default-export) 
 
 ###  타입스크립트 Typeof 연산자를 위한 5가지 유용한 트릭 
 
@@ -12,12 +18,6 @@
  글 링크: https://bit.ly/3TRrHeK 다음 주부터 월화-목금 오전 9시 반 고정으로 글이 배포될 예정입니다. 권한 승인 및 리뷰 과정이 지연되어 글이 배포되지 않는 ... 
 
  [바로가기](https://kofearticle.substack.com/p/korean-fe-article-resumability) 
-
-###  CSS 안에 자바스크립트 넣기 
-
- 글 링크: https://doong-jo.github.io/posts/putting-javascript-in-your-css Photo by Jackson Sophat on Uns... 
-
- [바로가기](https://kofearticle.substack.com/p/korean-fe-article-css) 
 
 ### 웹 개발자라면 알고 있어야 할 HTTP의 진화 과정 
 
