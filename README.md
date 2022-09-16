@@ -1,5 +1,11 @@
 # 오늘의 포스팅 
-2022년 9월 15일 9시 기준 
+2022년 9월 16일 9시 기준 
+
+###  Blob API에 대한 소개와 활용 사례 
+
+ 혹시 Blob에 대해서 알고 계시나요? Blob은 바이너리 타입의 큰 객체로 일반적으로 이미지, 소리, 멀티미디어 파일을 나타냅니다. 이 글에서는 Blob API에 대한 간단한 소... 
+
+ [바로가기](https://kofearticle.substack.com/p/korean-fe-article-blob-api) 
 
 ###  자바스크립트 모듈에서 default export는 끔찍합니다 
 
@@ -13,11 +19,11 @@
 
  [바로가기](https://kofearticle.substack.com/p/korean-fe-article-typeof-5) 
 
-###  재개 가능성(Resumability), 그게 뭐야? 
+### [여기보기] 내 서버도 머글이 지나갈 수 없는 9와 4분의 3 승강장처럼 
 
- 글 링크: https://bit.ly/3TRrHeK 다음 주부터 월화-목금 오전 9시 반 고정으로 글이 배포될 예정입니다. 권한 승인 및 리뷰 과정이 지연되어 글이 배포되지 않는 ... 
+ 리눅스 서버도 호그와트처럼 특정 조건이 부합할 때만 접근할 수 있는 9와 4분의 4 승강장이 있다면 어떨까요? 혹시라도 뚫고 들어온 머글이 있다면, 어떻게 들어왔는지 흔적을 빨리빨... 
 
- [바로가기](https://kofearticle.substack.com/p/korean-fe-article-resumability) 
+ [바로가기](https://yozm.wishket.com/magazine/detail/1692/) 
 
 ### GraphQL을 이용한 OLAP Star Schema의 설계 
 
@@ -30,12 +36,6 @@
  하나의 웹 사이트에서 왜 이렇게 다른 버전의 HTTP가 사용되고 있는 걸까요? 각 버전에는 무슨 차이가 있는 걸까요? 왜 HTTP의 버전은 1, 2, 3으로 딱 나누어 떨어지지 않... 
 
  [바로가기](https://yozm.wishket.com/magazine/detail/1686/) 
-
-### [여기보기] etc 디렉터리에 있는 소중한 아이들 
-
- 리눅스에서 ‘etc’ 디렉터리는 정반대입니다. 디렉터리 이름과 달리, 이 속에는 시스템 설정 관련 파일이 있습니다. 시스템 부팅 전반에 걸쳐 영향을 주는 파일이 대부분이죠. [여기... 
-
- [바로가기](https://yozm.wishket.com/magazine/detail/1679/) 
 
 ---
 
