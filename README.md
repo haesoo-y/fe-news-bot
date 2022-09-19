@@ -1,5 +1,11 @@
 # 오늘의 포스팅 
-2022년 9월 18일 9시 기준 
+2022년 9월 19일 9시 기준 
+
+###  JavaScript 패키지 매니저 비교 - npm, Yarn 또는 pnpm? 
+
+ 글 링크 : https://bit.ly/3UkBPwr 소개 오늘날 주요 패키지 매니저로 npm, Yarn Classic, Yarn Berry, pnpm 등이 있습니다. 이 글에서는... 
+
+ [바로가기](https://kofearticle.substack.com/p/korean-fe-article-javascript-npm) 
 
 ###  Blob API에 대한 소개와 활용 사례 
 
@@ -12,12 +18,6 @@
  글 링크: https://velog.io/@eunbinn/default-exports-in-javascript-modules-are-terrible 소개 자바스크립트 모듈에서 왜 ... 
 
  [바로가기](https://kofearticle.substack.com/p/korean-fe-article-default-export) 
-
-###  타입스크립트 Typeof 연산자를 위한 5가지 유용한 트릭 
-
- 글 링크: https://velog.io/@surim014/5-very-useful-tricks-for-thetypescript-typeof-operator 다음 주부터 월화-목금... 
-
- [바로가기](https://kofearticle.substack.com/p/korean-fe-article-typeof-5) 
 
 ### 왜 내가 작성한 JavaScript Date 코드가 서버에서는 다르게 보이는 거죠? 
 
