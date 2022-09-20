@@ -1,5 +1,5 @@
 # 오늘의 포스팅 
-2022년 9월 19일 9시 기준 
+2022년 9월 20일 9시 기준 
 
 ###  JavaScript 패키지 매니저 비교 - npm, Yarn 또는 pnpm? 
 
@@ -19,6 +19,12 @@
 
  [바로가기](https://kofearticle.substack.com/p/korean-fe-article-default-export) 
 
+### 개발자는 페어 프로그래밍으로 성장한다 
+
+ 개발자로 살다 보면 한 번쯤 ‘페어 프로그래밍’을 하게 된다. 페어 프로그래밍은 두 사람이 파트너가 되어 함께 의논하면서 코드를 작성하는 활동이다. 계속 대화하는 것도 쉽지 않은 ... 
+
+ [바로가기](https://yozm.wishket.com/magazine/detail/1698/) 
+
 ### 왜 내가 작성한 JavaScript Date 코드가 서버에서는 다르게 보이는 거죠? 
 
  프론트엔드에서 날짜와 시간을 다루는 작업은 매우 흔한 일입니다. 그래서 ‘자바스크립트(JavaScript)’에서는 Date 객체가 빌트인으로 존재하죠. 하지만 JavaScript의... 
@@ -30,12 +36,6 @@
  리눅스 서버도 호그와트처럼 특정 조건이 부합할 때만 접근할 수 있는 9와 4분의 4 승강장이 있다면 어떨까요? 혹시라도 뚫고 들어온 머글이 있다면, 어떻게 들어왔는지 흔적을 빨리빨... 
 
  [바로가기](https://yozm.wishket.com/magazine/detail/1692/) 
-
-### GraphQL을 이용한 OLAP Star Schema의 설계 
-
- 비즈니스는 ‘애자일(Agile)한 방식으로 점차 빠른 구현과 검증을 요구하는 형태로 변화하고 있다. 이에 따라 ‘애플리케이션(Application)’도 빠른 대응을 위한 유연한 구... 
-
- [바로가기](https://yozm.wishket.com/magazine/detail/1689/) 
 
 ---
 
