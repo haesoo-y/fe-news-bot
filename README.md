@@ -1,5 +1,11 @@
 # 오늘의 포스팅 
-2022년 9월 21일 9시 기준 
+2022년 9월 22일 9시 기준 
+
+###  Jest, React 및 Typescript를 사용한 단위 테스트 
+
+ 글 링크: https://ykss.netlify.app/translation/unit-testing-with-jest-react-and-typescript/ 소개 이번 글은 소프트... 
+
+ [바로가기](https://kofearticle.substack.com/p/korean-fe-article-jest-react-typescript) 
 
 ###  JavaScript 패키지 매니저 비교 - npm, Yarn 또는 pnpm? 
 
@@ -13,11 +19,11 @@
 
  [바로가기](https://kofearticle.substack.com/p/korean-fe-article-blob-api) 
 
-###  자바스크립트 모듈에서 default export는 끔찍합니다 
+### 개발자에게 물어봤습니다: ① 함께 일하고 싶은 개발자 
 
- 글 링크: https://velog.io/@eunbinn/default-exports-in-javascript-modules-are-terrible 소개 자바스크립트 모듈에서 왜 ... 
+ 이번 시리즈에서는 다양한 직무와 협업하는 IT 기업 직장인 중에서 개발자가 함께 일하고 싶어 하는 동료에 대해 다루고자 합니다. 오늘은 그중에서 개발자가 생각하는 ‘함께 일하고 싶... 
 
- [바로가기](https://kofearticle.substack.com/p/korean-fe-article-default-export) 
+ [바로가기](https://yozm.wishket.com/magazine/detail/1702/) 
 
 ### 자바 빌드 도구 ‘Gradle’의 특징과 사용 팁 
 
@@ -30,12 +36,6 @@
  개발자로 살다 보면 한 번쯤 ‘페어 프로그래밍’을 하게 된다. 페어 프로그래밍은 두 사람이 파트너가 되어 함께 의논하면서 코드를 작성하는 활동이다. 계속 대화하는 것도 쉽지 않은 ... 
 
  [바로가기](https://yozm.wishket.com/magazine/detail/1698/) 
-
-### 왜 내가 작성한 JavaScript Date 코드가 서버에서는 다르게 보이는 거죠? 
-
- 프론트엔드에서 날짜와 시간을 다루는 작업은 매우 흔한 일입니다. 그래서 ‘자바스크립트(JavaScript)’에서는 Date 객체가 빌트인으로 존재하죠. 하지만 JavaScript의... 
-
- [바로가기](https://yozm.wishket.com/magazine/detail/1695/) 
 
 ---
 
