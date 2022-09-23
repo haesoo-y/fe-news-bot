@@ -1,5 +1,11 @@
 # 오늘의 포스팅 
-2022년 9월 22일 9시 기준 
+2022년 9월 23일 9시 기준 
+
+###  useMemo 그리고 useCallback 이해하기 
+
+ 글 링크: https://bit.ly/3dAAJwc 소개 이전에 번역했던 왜 리엑트에서 리렌더링이 발생하는가 글의 후속 시리즈입니다. 성능 최적화를 위해 많이 사용하고 있는 use... 
+
+ [바로가기](https://kofearticle.substack.com/p/korean-fe-article-usememo-usecallback) 
 
 ###  Jest, React 및 Typescript를 사용한 단위 테스트 
 
@@ -13,11 +19,11 @@
 
  [바로가기](https://kofearticle.substack.com/p/korean-fe-article-javascript-npm) 
 
-###  Blob API에 대한 소개와 활용 사례 
+### 랜섬웨어 뭣이 중헌디: ①돈과 데이터 사냥꾼 랜섬웨어 
 
- 혹시 Blob에 대해서 알고 계시나요? Blob은 바이너리 타입의 큰 객체로 일반적으로 이미지, 소리, 멀티미디어 파일을 나타냅니다. 이 글에서는 Blob API에 대한 간단한 소... 
+ 랜섬웨어의 강렬한 존재감은 비단 2017년에 국한된 것이 아니다. 지금까지도 공공, 금융, 제조, 통신, 교육 등 다양한 산업분야에서 랜섬웨어로 인한 피해규모가 매년 사상 최고치에... 
 
- [바로가기](https://kofearticle.substack.com/p/korean-fe-article-blob-api) 
+ [바로가기](https://yozm.wishket.com/magazine/detail/1704/) 
 
 ### 개발자에게 물어봤습니다: ① 함께 일하고 싶은 개발자 
 
@@ -30,12 +36,6 @@
  자바 프로젝트를 진행하다 보면 다양한 빌드 도구(Build Tool)를 접하게 됩니다. 이번 글에서는 자바 프로젝트에서 사용되는 빌드 도구의 종류와 차이점을 살펴보고, 그중에서도 ... 
 
  [바로가기](https://yozm.wishket.com/magazine/detail/1700/) 
-
-### 개발자는 페어 프로그래밍으로 성장한다 
-
- 개발자로 살다 보면 한 번쯤 ‘페어 프로그래밍’을 하게 된다. 페어 프로그래밍은 두 사람이 파트너가 되어 함께 의논하면서 코드를 작성하는 활동이다. 계속 대화하는 것도 쉽지 않은 ... 
-
- [바로가기](https://yozm.wishket.com/magazine/detail/1698/) 
 
 ---
 
