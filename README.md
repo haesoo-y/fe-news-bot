@@ -1,5 +1,11 @@
 # 오늘의 포스팅 
-2022년 9월 25일 9시 기준 
+2022년 9월 26일 9시 기준 
+
+###  자바스크립트의 역설 
+
+ 글 링크: https://velog.io/@superlipbalm/the-javascript-paradox 소개 오늘날 웹은 데스크톱뿐만 아니라 모바일, TV 와 같은 가전 그리고... 
+
+ [바로가기](https://kofearticle.substack.com/p/korean-fe-article-f07) 
 
 ###  useMemo 그리고 useCallback 이해하기 
 
@@ -12,12 +18,6 @@
  글 링크: https://ykss.netlify.app/translation/unit-testing-with-jest-react-and-typescript/ 소개 이번 글은 소프트... 
 
  [바로가기](https://kofearticle.substack.com/p/korean-fe-article-jest-react-typescript) 
-
-###  JavaScript 패키지 매니저 비교 - npm, Yarn 또는 pnpm? 
-
- 글 링크 : https://bit.ly/3UkBPwr 소개 오늘날 주요 패키지 매니저로 npm, Yarn Classic, Yarn Berry, pnpm 등이 있습니다. 이 글에서는... 
-
- [바로가기](https://kofearticle.substack.com/p/korean-fe-article-javascript-npm) 
 
 ### 빠른 웹 사이트를 만들기 위해 알면 좋은 ‘세 가지 원리’ 
 
