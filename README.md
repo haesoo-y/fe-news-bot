@@ -1,5 +1,11 @@
 # 오늘의 포스팅 
-2022년 9월 26일 9시 기준 
+2022년 9월 27일 9시 기준 
+
+###  세분화된 반응형(Fine-Grained Reactivity)에 대한 핸즈온 소개 
+
+ 글 링크: https://bit.ly/3xWLe41 소개 오늘 소개해드릴 글은 여러분들이 많이 사용하시는 프런트엔드 프레임워크들의 반응형 시스템을 이루고 있는 구성 요소에 대한 글... 
+
+ [바로가기](https://kofearticle.substack.com/p/korean-fe-article-fine-grained-reactivity) 
 
 ###  자바스크립트의 역설 
 
@@ -13,11 +19,11 @@
 
  [바로가기](https://kofearticle.substack.com/p/korean-fe-article-usememo-usecallback) 
 
-###  Jest, React 및 Typescript를 사용한 단위 테스트 
+### 데이터 분석가에게 코딩테스트가 필요할까? 
 
- 글 링크: https://ykss.netlify.app/translation/unit-testing-with-jest-react-and-typescript/ 소개 이번 글은 소프트... 
+ 최근 개발자 교육 붐이 불면서, 이른바 ‘코딩’이라고 뭉뚱그려 표현하는 개발 기술들을 배우는 학원이 많아졌습니다. 이러한 인재들이 자신들이 배운 걸 확인하기 위해 한 번쯤 꼭 거치... 
 
- [바로가기](https://kofearticle.substack.com/p/korean-fe-article-jest-react-typescript) 
+ [바로가기](https://yozm.wishket.com/magazine/detail/1708/) 
 
 ### 빠른 웹 사이트를 만들기 위해 알면 좋은 ‘세 가지 원리’ 
 
@@ -30,12 +36,6 @@
  랜섬웨어의 강렬한 존재감은 비단 2017년에 국한된 것이 아니다. 지금까지도 공공, 금융, 제조, 통신, 교육 등 다양한 산업분야에서 랜섬웨어로 인한 피해규모가 매년 사상 최고치에... 
 
  [바로가기](https://yozm.wishket.com/magazine/detail/1704/) 
-
-### 개발자에게 물어봤습니다: ① 함께 일하고 싶은 개발자 
-
- 이번 시리즈에서는 다양한 직무와 협업하는 IT 기업 직장인 중에서 개발자가 함께 일하고 싶어 하는 동료에 대해 다루고자 합니다. 오늘은 그중에서 개발자가 생각하는 ‘함께 일하고 싶... 
-
- [바로가기](https://yozm.wishket.com/magazine/detail/1702/) 
 
 ---
 
