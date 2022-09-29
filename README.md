@@ -1,5 +1,11 @@
 # 오늘의 포스팅 
-2022년 9월 28일 10시 기준 
+2022년 9월 29일 10시 기준 
+
+###  최신 npm 패키지를 만들기 위한 모범 사례 
+
+ 글 링크: https://velog.io/@surim014/Best-practice-for-creating-a-modern-npm-package 소개 개발 시, 다양한 패키지를 사... 
+
+ [바로가기](https://kofearticle.substack.com/p/korean-fe-article-npm) 
 
 ###  세분화된 반응형(Fine-Grained Reactivity)에 대한 핸즈온 소개 
 
@@ -13,11 +19,11 @@
 
  [바로가기](https://kofearticle.substack.com/p/korean-fe-article-f07) 
 
-###  useMemo 그리고 useCallback 이해하기 
+### 개발자에게 물어봤습니다: ② 함께 일하고 싶은 디자이너 
 
- 글 링크: https://bit.ly/3dAAJwc 소개 이전에 번역했던 왜 리엑트에서 리렌더링이 발생하는가 글의 후속 시리즈입니다. 성능 최적화를 위해 많이 사용하고 있는 use... 
+ 이번 시리즈를 통해서 다양한 직무와 협업하는 IT 기업 직장인 중 개발자가 함께 일하고 싶어 하는 동료에 대해 다루고 있습니다. 오늘은 그중에서 개발자가 생각하는 ‘함께 일하고 싶... 
 
- [바로가기](https://kofearticle.substack.com/p/korean-fe-article-usememo-usecallback) 
+ [바로가기](https://yozm.wishket.com/magazine/detail/1712/) 
 
 ### 데이터 분석가에게 코딩테스트가 필요할까? 
 
@@ -30,12 +36,6 @@
  웹 개발자들이라면 요구 사항에 맞게 기능과 UI/UX를 정해진 프로젝트 일정 내에 개발하는 것에 집중합니다. 그러다 보니 사이트의 로딩 속도에 대해선 크게 관심을 두지 않는 편입니... 
 
  [바로가기](https://yozm.wishket.com/magazine/detail/1705/) 
-
-### 랜섬웨어 뭣이 중헌디: ①돈과 데이터 사냥꾼 랜섬웨어 
-
- 랜섬웨어의 강렬한 존재감은 비단 2017년에 국한된 것이 아니다. 지금까지도 공공, 금융, 제조, 통신, 교육 등 다양한 산업분야에서 랜섬웨어로 인한 피해규모가 매년 사상 최고치에... 
-
- [바로가기](https://yozm.wishket.com/magazine/detail/1704/) 
 
 ---
 
