@@ -1,5 +1,11 @@
 # 오늘의 포스팅 
-2022년 10월 3일 9시 기준 
+2022년 10월 4일 10시 기준 
+
+###  리액트, 널 사랑하지만 넌 나를 슬프게 해 
+
+ 글 링크: https://velog.io/@eunbinn/react-i-love-you-but-youre-bringing-me-down 소개 리액트에 느끼는 아쉬운 점들을 꽤 적나... 
+
+ [바로가기](https://kofearticle.substack.com/p/korean-fe-article-e70) 
 
 ###  최신 npm 패키지를 만들기 위한 모범 사례 
 
@@ -12,12 +18,6 @@
  글 링크: https://bit.ly/3xWLe41 소개 오늘 소개해드릴 글은 여러분들이 많이 사용하시는 프런트엔드 프레임워크들의 반응형 시스템을 이루고 있는 구성 요소에 대한 글... 
 
  [바로가기](https://kofearticle.substack.com/p/korean-fe-article-fine-grained-reactivity) 
-
-###  자바스크립트의 역설 
-
- 글 링크: https://velog.io/@superlipbalm/the-javascript-paradox 소개 오늘날 웹은 데스크톱뿐만 아니라 모바일, TV 와 같은 가전 그리고... 
-
- [바로가기](https://kofearticle.substack.com/p/korean-fe-article-f07) 
 
 ### 안전한 업캐스팅을 통해 더 안전한 코드작성을 도와주는 새로운 키워드 ‘satisfies’ 
 
