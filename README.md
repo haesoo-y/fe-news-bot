@@ -1,5 +1,11 @@
 # 오늘의 포스팅 
-2022년 10월 9일 9시 기준 
+2022년 10월 10일 10시 기준 
+
+###  위젯 주도 개발 
+
+ 글 링크: https://bit.ly/3Vf2HyH 소개 프런트엔드 애플리케이션의 규모가 커지고 복잡도가 증가하면서 프런트엔드 개발이 과거보다 중요해진 것은 누구도 부정할 수 없는... 
+
+ [바로가기](https://kofearticle.substack.com/p/korean-fe-article-a12) 
 
 ###  문 vs 표현식 
 
@@ -12,12 +18,6 @@
  글 링크: https://velog.io/@eunbinn/react-i-love-you-but-youre-bringing-me-down 소개 리액트에 느끼는 아쉬운 점들을 꽤 적나... 
 
  [바로가기](https://kofearticle.substack.com/p/korean-fe-article-e70) 
-
-###  최신 npm 패키지를 만들기 위한 모범 사례 
-
- 글 링크: https://velog.io/@surim014/Best-practice-for-creating-a-modern-npm-package 소개 개발 시, 다양한 패키지를 사... 
-
- [바로가기](https://kofearticle.substack.com/p/korean-fe-article-npm) 
 
 ### 스크럼이 개발자를 괴롭히는 9가지 이유 
 
