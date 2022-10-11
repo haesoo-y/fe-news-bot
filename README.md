@@ -1,5 +1,11 @@
 # 오늘의 포스팅 
-2022년 10월 10일 10시 기준 
+2022년 10월 11일 9시 기준 
+
+###  왜 2022년에는 스토리북일까요? 
+
+ 글 링크 : https://bit.ly/3Tr0sqn 소개 컴포넌트 주도 개발을 할 때, 컴포넌트 UI를 확인하기 위해 앱을 띄워놓고 필요한 조건을 재현하는 과정은 꽤 번거로운 일... 
+
+ [바로가기](https://kofearticle.substack.com/p/korean-fe-article-2022) 
 
 ###  위젯 주도 개발 
 
@@ -12,12 +18,6 @@
  글 링크: https://bit.ly/3yd5ApN 소개 혹시 문과 표현식의 차이에 대해 아시나요? 분명 아는 것 같은데 막상 설명하려고 하니 막막하거나, 이에 대해 모르시는 분들... 
 
  [바로가기](https://kofearticle.substack.com/p/korean-fe-article-vs) 
-
-###  리액트, 널 사랑하지만 넌 나를 슬프게 해 
-
- 글 링크: https://velog.io/@eunbinn/react-i-love-you-but-youre-bringing-me-down 소개 리액트에 느끼는 아쉬운 점들을 꽤 적나... 
-
- [바로가기](https://kofearticle.substack.com/p/korean-fe-article-e70) 
 
 ### 스크럼이 개발자를 괴롭히는 9가지 이유 
 
