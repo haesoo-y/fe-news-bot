@@ -1,5 +1,11 @@
 # 오늘의 포스팅 
-2022년 10월 16일 10시 기준 
+2022년 10월 17일 10시 기준 
+
+###  자신만의 상태 관리 라이브러리를 작성하는 방법 
+
+ 글 링크 : https://velog.io/@lky5697/how-to-write-your-own-state-management-library 소개 프런트엔드 개발을 하다 보면 상... 
+
+ [바로가기](https://kofearticle.substack.com/p/korean-fe-article-c2e) 
 
 ###  Tailwind CSS의 장점과 단점 
 
@@ -12,12 +18,6 @@
  글 링크 : https://bit.ly/3Tr0sqn 소개 컴포넌트 주도 개발을 할 때, 컴포넌트 UI를 확인하기 위해 앱을 띄워놓고 필요한 조건을 재현하는 과정은 꽤 번거로운 일... 
 
  [바로가기](https://kofearticle.substack.com/p/korean-fe-article-2022) 
-
-###  위젯 주도 개발 
-
- 글 링크: https://bit.ly/3Vf2HyH 소개 프런트엔드 애플리케이션의 규모가 커지고 복잡도가 증가하면서 프런트엔드 개발이 과거보다 중요해진 것은 누구도 부정할 수 없는... 
-
- [바로가기](https://kofearticle.substack.com/p/korean-fe-article-a12) 
 
 ### Brotli 압축 알고리즘으로 웹사이트 속도 올리기 
 
