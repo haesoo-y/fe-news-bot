@@ -1,5 +1,11 @@
 # 오늘의 포스팅 
-2022년 10월 20일 9시 기준 
+2022년 10월 21일 9시 기준 
+
+###  Sentry.io 및 React를 사용한 프런트엔드 모니터링 
+
+ 글 링크 : https://velog.io/@surim014/frontend-monitoring-with-sentry-and-react 소개 웹 사이트를 사용하다가 사이트가 중단되... 
+
+ [바로가기](https://kofearticle.substack.com/p/korean-fe-article-sentryio-react) 
 
 ###  리액트 렌더링의 미래 
 
@@ -13,11 +19,11 @@
 
  [바로가기](https://kofearticle.substack.com/p/korean-fe-article-c2e) 
 
-###  Tailwind CSS의 장점과 단점 
+### 효율적인 JUnit 사용 방법과 유용한 팁 
 
- Tailwind가 단지 인라인 CSS가 아닌 이유... 
+ 소프트웨어 개발에서 있어서 단위 테스트(Unit Testing)는 중요한 절차입니다. 소프트웨어의 각 유닛(Unit)을 테스트하고, 전반적인 프로젝트 생산성과 유지 보수에 영향을 ... 
 
- [바로가기](https://kofearticle.substack.com/p/korean-fe-article-tailwind-css) 
+ [바로가기](https://yozm.wishket.com/magazine/detail/1748/) 
 
 ### 모든 개발자가 시스템 디자인을 배워야 하는 이유 
 
@@ -30,12 +36,6 @@
  버그를 잡기 위해 원인부터 찾듯이, 성능 개선 역시 원인인 병목 지점을 찾는 것부터 시작합니다. 이때 크롬 개발자 도구의 성능 탭은 매우 유의미한 인사이트를 제공합니다. 성능 악화... 
 
  [바로가기](https://yozm.wishket.com/magazine/detail/1746/) 
-
-### Git 200% 활용하기 
-
- 동료들과 협업하며 알게 된 사실은, 생각보다 Git 커맨드를 제한적으로 사용하는 사람들이 많다는 사실이었다. 각각의 이유가 있지만, 그럼에도 Git 커맨드들을 다양하게 활용하지 못... 
-
- [바로가기](https://yozm.wishket.com/magazine/detail/1743/) 
 
 ---
 
