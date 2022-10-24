@@ -1,5 +1,11 @@
 # 오늘의 포스팅 
-2022년 10월 23일 10시 기준 
+2022년 10월 24일 10시 기준 
+
+###  전문가처럼 타입스크립트 infer 사용하기 
+
+ 글 링크: https://bit.ly/3MWz5Ce 소개 타입스크립트에서 infer를 사용해보신적이 있나요? 혹시 infer에 대해 모르시거나 알더라도 아직 미숙하시다면 이 글을 ... 
+
+ [바로가기](https://kofearticle.substack.com/p/korean-fe-article-infer) 
 
 ###  Sentry.io 및 React를 사용한 프런트엔드 모니터링 
 
@@ -12,12 +18,6 @@
  글 링크: https://bit.ly/3VKJSDx 소개 리액트 18에 들어서면서 새로운 렌더링 방식에 대한 예고가 있었는데요. 새롭게 등장한 스트리밍 SSR과 서버 컴포넌트는 어... 
 
  [바로가기](https://kofearticle.substack.com/p/korean-fe-article-06e) 
-
-###  자신만의 상태 관리 라이브러리를 작성하는 방법 
-
- 글 링크 : https://velog.io/@lky5697/how-to-write-your-own-state-management-library 소개 프런트엔드 개발을 하다 보면 상... 
-
- [바로가기](https://kofearticle.substack.com/p/korean-fe-article-c2e) 
 
 ### 효율적인 JUnit 사용 방법과 유용한 팁 
 
