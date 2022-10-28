@@ -1,5 +1,11 @@
 # 오늘의 포스팅 
-2022년 10월 27일 9시 기준 
+2022년 10월 28일 9시 기준 
+
+###  가장 빠른 자바스크립트 프레임워크 
+
+ 세계 최초의 O(1) 자바스크립트 프레임워크 살펴보기... 
+
+ [바로가기](https://kofearticle.substack.com/p/korean-fe-article-6b2) 
 
 ###  전문가처럼 타입스크립트 infer 사용하기 
 
@@ -12,12 +18,6 @@
  글 링크 : https://velog.io/@surim014/frontend-monitoring-with-sentry-and-react 소개 웹 사이트를 사용하다가 사이트가 중단되... 
 
  [바로가기](https://kofearticle.substack.com/p/korean-fe-article-sentryio-react) 
-
-###  리액트 렌더링의 미래 
-
- 글 링크: https://bit.ly/3VKJSDx 소개 리액트 18에 들어서면서 새로운 렌더링 방식에 대한 예고가 있었는데요. 새롭게 등장한 스트리밍 SSR과 서버 컴포넌트는 어... 
-
- [바로가기](https://kofearticle.substack.com/p/korean-fe-article-06e) 
 
 ### RxJS 한번 배워보실래요? 
 
