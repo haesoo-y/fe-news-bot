@@ -1,5 +1,11 @@
 # 오늘의 포스팅 
-2022년 10월 31일 9시 기준 
+2022년 11월 1일 10시 기준 
+
+###  Node.js 개요: 아키텍처, API, 이벤트 루프, 동시성 
+
+ 이태원 핼로윈 참사 희생자들의 명복을 빌며 유가족들에게 심심한 위로의 말씀을 드립니다. 글 링크: https://bit.ly/3zTjKNN Node.js가 어떻게 동작하는지 세부적... 
+
+ [바로가기](https://kofearticle.substack.com/p/korean-fe-article-nodejs-api) 
 
 ###  가장 빠른 자바스크립트 프레임워크 
 
@@ -13,11 +19,11 @@
 
  [바로가기](https://kofearticle.substack.com/p/korean-fe-article-infer) 
 
-###  Sentry.io 및 React를 사용한 프런트엔드 모니터링 
+### [여기보기] 누구나 아는 기본 계정명은 비밀이 아니다 
 
- 글 링크 : https://velog.io/@surim014/frontend-monitoring-with-sentry-and-react 소개 웹 사이트를 사용하다가 사이트가 중단되... 
+ 기본 계정명과 패스워드를 유지했다가 관리자 콘솔의 정보가 유출되는 경우 WAS와 관련된 모든 권한이 노출되어 대규모 보안 사고가 발생할 수 있습니다. 기본 계정명은 그대로 두고 패... 
 
- [바로가기](https://kofearticle.substack.com/p/korean-fe-article-sentryio-react) 
+ [바로가기](https://yozm.wishket.com/magazine/detail/1765/) 
 
 ### RxJS 한번 배워보실래요? 
 
@@ -30,12 +36,6 @@
  소프트웨어 개발에서 있어서 단위 테스트(Unit Testing)는 중요한 절차입니다. 소프트웨어의 각 유닛(Unit)을 테스트하고, 전반적인 프로젝트 생산성과 유지 보수에 영향을 ... 
 
  [바로가기](https://yozm.wishket.com/magazine/detail/1748/) 
-
-### 모든 개발자가 시스템 디자인을 배워야 하는 이유 
-
- 우리는 인터넷과 항상 연결된 기기들에 의존하는 세상에 살고 있습니다. 손목시계, 조명 시스템 또는 스마트 냉장고 등 주변의 수많은 기기가 클라우드와 연결되어 있으며, 휴대폰의 앱과... 
-
- [바로가기](https://yozm.wishket.com/magazine/detail/1745/) 
 
 ---
 
