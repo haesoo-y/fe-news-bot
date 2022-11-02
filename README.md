@@ -1,5 +1,11 @@
 # 오늘의 포스팅 
-2022년 11월 1일 10시 기준 
+2022년 11월 2일 9시 기준 
+
+###  이번주는 방학입니다.  
+
+ 먼저 이태원 핼러윈 참사 희생자들의 명복을 빌며 유가족들에게 심심한 위로의 말씀을 드립니다. 메일을 구독하고 계신 여러분들과 주변 분들도 아무 일 없으셨길 진심으로 바랍니다. 8월... 
+
+ [바로가기](https://kofearticle.substack.com/p/korean-fe-article-174) 
 
 ###  Node.js 개요: 아키텍처, API, 이벤트 루프, 동시성 
 
@@ -12,12 +18,6 @@
  세계 최초의 O(1) 자바스크립트 프레임워크 살펴보기... 
 
  [바로가기](https://kofearticle.substack.com/p/korean-fe-article-6b2) 
-
-###  전문가처럼 타입스크립트 infer 사용하기 
-
- 글 링크: https://bit.ly/3MWz5Ce 소개 타입스크립트에서 infer를 사용해보신적이 있나요? 혹시 infer에 대해 모르시거나 알더라도 아직 미숙하시다면 이 글을 ... 
-
- [바로가기](https://kofearticle.substack.com/p/korean-fe-article-infer) 
 
 ### [여기보기] 누구나 아는 기본 계정명은 비밀이 아니다 
 
