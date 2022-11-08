@@ -1,5 +1,11 @@
 # 오늘의 포스팅 
-2022년 11월 7일 9시 기준 
+2022년 11월 8일 9시 기준 
+
+###  우리가 CSS-in-JS와 헤어지는 이유 
+
+ 글 링크: https://bit.ly/3TfDAcS 소개 Emotion, styled-components 같은 자바스크립트 코드 내에 스타일을 작성하는 CSS-in-JS 방식은 과... 
+
+ [바로가기](https://kofearticle.substack.com/p/korean-fe-article-css-in-js) 
 
 ###  이번주는 방학입니다.  
 
@@ -13,11 +19,11 @@
 
  [바로가기](https://kofearticle.substack.com/p/korean-fe-article-nodejs-api) 
 
-###  가장 빠른 자바스크립트 프레임워크 
+### 도커 데스크톱 없이 구축하는 WSL2와 도커 개발 환경 
 
- 세계 최초의 O(1) 자바스크립트 프레임워크 살펴보기... 
+ 도커 데스크톱은 단순히 설치와 환경 설정 편의만을 위한 프로그램이 아닙니다. 개발과 운영을 위해 필요한 많은 요소를 품고 있습니다. 그럼에도 불구하고, 이런저런 사정이 엮여 도커 ... 
 
- [바로가기](https://kofearticle.substack.com/p/korean-fe-article-6b2) 
+ [바로가기](https://yozm.wishket.com/magazine/detail/1776/) 
 
 ### Etag를 이용하여 더 나은 Restful API 만들기 
 
@@ -30,12 +36,6 @@
  대부분의 개발자는 코드 작성에 있어서는 영리하지만, 여러 상황에서 영리함은 강점이자 약점일 수 있습니다. 상식과 물정에 밝고 경험이 풍부하다면, 개발자가 문제를 해결하기보다 피하는... 
 
  [바로가기](https://yozm.wishket.com/magazine/detail/1769/) 
-
-### [여기보기] 누구나 아는 기본 계정명은 비밀이 아니다 
-
- 기본 계정명과 패스워드를 유지했다가 관리자 콘솔의 정보가 유출되는 경우 WAS와 관련된 모든 권한이 노출되어 대규모 보안 사고가 발생할 수 있습니다. 기본 계정명은 그대로 두고 패... 
-
- [바로가기](https://yozm.wishket.com/magazine/detail/1765/) 
 
 ---
 
