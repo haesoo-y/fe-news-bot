@@ -1,5 +1,11 @@
 # 오늘의 포스팅 
-2022년 11월 13일 9시 기준 
+2022년 11월 14일 9시 기준 
+
+###  블로그 답변: React 렌더링 동작에 대한 (거의) 완벽한 가이드 
+
+ 글 링크: https://velog.io/@superlipbalm/blogged-answers-a-mostly-complete-guide-to-react-rendering-beha... 
+
+ [바로가기](https://kofearticle.substack.com/p/korean-fe-article-react) 
 
 ###  우리가 CSS-in-JS와 헤어지는 이유 
 
@@ -12,12 +18,6 @@
  먼저 이태원 핼러윈 참사 희생자들의 명복을 빌며 유가족들에게 심심한 위로의 말씀을 드립니다. 메일을 구독하고 계신 여러분들과 주변 분들도 아무 일 없으셨길 진심으로 바랍니다. 8월... 
 
  [바로가기](https://kofearticle.substack.com/p/korean-fe-article-174) 
-
-###  Node.js 개요: 아키텍처, API, 이벤트 루프, 동시성 
-
- 이태원 핼로윈 참사 희생자들의 명복을 빌며 유가족들에게 심심한 위로의 말씀을 드립니다. 글 링크: https://bit.ly/3zTjKNN Node.js가 어떻게 동작하는지 세부적... 
-
- [바로가기](https://kofearticle.substack.com/p/korean-fe-article-nodejs-api) 
 
 ### Data-Driven하게 일하는 법 
 
