@@ -1,5 +1,11 @@
 # 오늘의 포스팅 
-2022년 11월 17일 9시 기준 
+2022년 11월 18일 9시 기준 
+
+###   프런트엔드 단위 테스트 모범 사례 
+
+ 글 링크: https://velog.io/@surim014/frontend-unit-testing-best-practices 소개 이 글에서는 프런트엔드 단위 테스트에 대한 몇 가... 
+
+ [바로가기](https://kofearticle.substack.com/p/korean-fe-article-043) 
 
 ###  우리가 Next.js로 리액트 로딩 시간을 70% 개선한 방법 
 
@@ -13,11 +19,11 @@
 
  [바로가기](https://kofearticle.substack.com/p/korean-fe-article-react) 
 
-###  우리가 CSS-in-JS와 헤어지는 이유 
+### CTO는 어떤 일을 하나요? 
 
- 글 링크: https://bit.ly/3TfDAcS 소개 Emotion, styled-components 같은 자바스크립트 코드 내에 스타일을 작성하는 CSS-in-JS 방식은 과... 
+ CTO의 역할에 대해서는 많은 공방과 토론이 있습니다. 예를 들면 CTO가 코드를 작성하는지, CTO의 업무 일정이 제작자로서의 일정인지 아니면 관리자로서의 일인지, 더불어 CTO... 
 
- [바로가기](https://kofearticle.substack.com/p/korean-fe-article-css-in-js) 
+ [바로가기](https://yozm.wishket.com/magazine/detail/1791/) 
 
 ### CORS가 캐시를 만났을 때 
 
@@ -30,12 +36,6 @@
  최근 ‘데이터 드리븐(Data-Driven)’을 추구하는 회사가 늘어나고 있습니다. 쿠팡처럼 데이터 드리븐으로 성공한 케이스가 나오고, 여러 매체에 관련 단어가 자주 노출되면서 기... 
 
  [바로가기](https://yozm.wishket.com/magazine/detail/1785/) 
-
-### 기업이 IT 보안을 위해 꼭 준비해야 하는 보안 시스템 
-
- 다양한 IT 보안 위협 중 특히 웹 애플리케이션 공격과 디도스 공격으로부터 데이터 센터를 보호하기 위한 기본 보안 시스템이 세 가지가 있습니다. 셋 다 역할은 비슷하지만, 기능과 ... 
-
- [바로가기](https://yozm.wishket.com/magazine/detail/1781/) 
 
 ---
 
