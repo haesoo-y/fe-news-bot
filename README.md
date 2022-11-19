@@ -1,5 +1,5 @@
 # 오늘의 포스팅 
-2022년 11월 18일 9시 기준 
+2022년 11월 19일 9시 기준 
 
 ###   프런트엔드 단위 테스트 모범 사례 
 
@@ -19,6 +19,12 @@
 
  [바로가기](https://kofearticle.substack.com/p/korean-fe-article-react) 
 
+### 안드로이드 코루틴의 개념과 사용법 
+
+ 코루틴(Coroutine)은 일종의 가벼운 스레드(Light-weight thread)로 동시성(Concurrency) 작업을 간편하게 처리할 수 있게 해주는 역할을 합니다. 안드... 
+
+ [바로가기](https://yozm.wishket.com/magazine/detail/1793/) 
+
 ### CTO는 어떤 일을 하나요? 
 
  CTO의 역할에 대해서는 많은 공방과 토론이 있습니다. 예를 들면 CTO가 코드를 작성하는지, CTO의 업무 일정이 제작자로서의 일정인지 아니면 관리자로서의 일인지, 더불어 CTO... 
@@ -30,12 +36,6 @@
  개발자라면 한 번쯤 CORS(Cross-Origin Resource Sharing) 정책 위반 에러를 경험하게 됩니다. 대부분 CORS 헤더를 추가하는 것만으로 해결할 수 있습니다... 
 
  [바로가기](https://yozm.wishket.com/magazine/detail/1782/) 
-
-### Data-Driven하게 일하는 법 
-
- 최근 ‘데이터 드리븐(Data-Driven)’을 추구하는 회사가 늘어나고 있습니다. 쿠팡처럼 데이터 드리븐으로 성공한 케이스가 나오고, 여러 매체에 관련 단어가 자주 노출되면서 기... 
-
- [바로가기](https://yozm.wishket.com/magazine/detail/1785/) 
 
 ---
 
