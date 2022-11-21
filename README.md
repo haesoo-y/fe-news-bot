@@ -1,5 +1,11 @@
 # 오늘의 포스팅 
-2022년 11월 20일 9시 기준 
+2022년 11월 21일 9시 기준 
+
+###  사용자가 페이지를 떠날 때 안정적으로 HTTP 요청 보내기 
+
+ 글 링크: https://github.com/yeonjuan/dev-blog/blob/master/Browser/send-an-http-request-on-page-exit.md ... 
+
+ [바로가기](https://kofearticle.substack.com/p/korean-fe-article-http) 
 
 ###   프런트엔드 단위 테스트 모범 사례 
 
@@ -12,12 +18,6 @@
  글 링크: https://velog.io/@cookie004/improved-react-loading-times-with-nextjs 소개 웹사이트의 로드 시간은 1초 단위로 이탈... 
 
  [바로가기](https://kofearticle.substack.com/p/korean-fe-article-nextjs-70) 
-
-###  블로그 답변: React 렌더링 동작에 대한 (거의) 완벽한 가이드 
-
- 글 링크: https://velog.io/@superlipbalm/blogged-answers-a-mostly-complete-guide-to-react-rendering-beha... 
-
- [바로가기](https://kofearticle.substack.com/p/korean-fe-article-react) 
 
 ### 안드로이드 코루틴의 개념과 사용법 
 
