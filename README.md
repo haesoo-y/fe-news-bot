@@ -1,5 +1,11 @@
 # 오늘의 포스팅 
-2022년 11월 21일 9시 기준 
+2022년 11월 22일 9시 기준 
+
+###  쿼리 캐시에 데이터 채워 넣기 (React Query) 
+
+ 글 링크: https://velog.io/@eunbinn/seeding-the-query-cache 소개 React Query에서 데이터를 빠르게 페칭하고 캐싱하는 방법을 설명한 ... 
+
+ [바로가기](https://kofearticle.substack.com/p/korean-fe-article-react-query) 
 
 ###  사용자가 페이지를 떠날 때 안정적으로 HTTP 요청 보내기 
 
@@ -13,11 +19,11 @@
 
  [바로가기](https://kofearticle.substack.com/p/korean-fe-article-043) 
 
-###  우리가 Next.js로 리액트 로딩 시간을 70% 개선한 방법 
+### 개발팀 퇴근시간을 앞당겨줄 git, github 팁 
 
- 글 링크: https://velog.io/@cookie004/improved-react-loading-times-with-nextjs 소개 웹사이트의 로드 시간은 1초 단위로 이탈... 
+ 베테랑 개발자로 유명한 조엘 스폴스키는 사람이 일에 몰입하는데 걸리는 시간이 약 15분이라고 말합니다. 그리고 개발자는 평균 11분을 못 넘기고 몰입을 방해받는다고 합니다. 하루 ... 
 
- [바로가기](https://kofearticle.substack.com/p/korean-fe-article-nextjs-70) 
+ [바로가기](https://yozm.wishket.com/magazine/detail/1796/) 
 
 ### 안드로이드 코루틴의 개념과 사용법 
 
@@ -30,12 +36,6 @@
  CTO의 역할에 대해서는 많은 공방과 토론이 있습니다. 예를 들면 CTO가 코드를 작성하는지, CTO의 업무 일정이 제작자로서의 일정인지 아니면 관리자로서의 일인지, 더불어 CTO... 
 
  [바로가기](https://yozm.wishket.com/magazine/detail/1791/) 
-
-### CORS가 캐시를 만났을 때 
-
- 개발자라면 한 번쯤 CORS(Cross-Origin Resource Sharing) 정책 위반 에러를 경험하게 됩니다. 대부분 CORS 헤더를 추가하는 것만으로 해결할 수 있습니다... 
-
- [바로가기](https://yozm.wishket.com/magazine/detail/1782/) 
 
 ---
 
