@@ -1,5 +1,11 @@
 # 오늘의 포스팅 
-2022년 11월 23일 9시 기준 
+2022년 11월 24일 9시 기준 
+
+###  데이터 구조를 개선하여 코드 43% 줄이기 
+
+ 글 링크 : https://velog.io/@lky5697/react-junior-code-review-and-refactoring 소개 React 코드를 리뷰 하면서 흔히 할 수... 
+
+ [바로가기](https://kofearticle.substack.com/p/korean-fe-article-43) 
 
 ###  쿼리 캐시에 데이터 채워 넣기 (React Query) 
 
@@ -12,12 +18,6 @@
  글 링크: https://github.com/yeonjuan/dev-blog/blob/master/Browser/send-an-http-request-on-page-exit.md ... 
 
  [바로가기](https://kofearticle.substack.com/p/korean-fe-article-http) 
-
-###   프런트엔드 단위 테스트 모범 사례 
-
- 글 링크: https://velog.io/@surim014/frontend-unit-testing-best-practices 소개 이 글에서는 프런트엔드 단위 테스트에 대한 몇 가... 
-
- [바로가기](https://kofearticle.substack.com/p/korean-fe-article-043) 
 
 ### 개발팀 퇴근시간을 앞당겨줄 git, github 팁 
 
