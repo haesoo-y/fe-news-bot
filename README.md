@@ -1,5 +1,11 @@
 # 오늘의 포스팅 
-2022년 11월 27일 9시 기준 
+2022년 11월 28일 9시 기준 
+
+###  자바스크립트에서 영역(realm)이란 무엇인가요? 
+
+ 자바스크립트의 영역(realm)에 대해 알고 계신가요? 영역은 쉽게 표현해서 자바스크립트 프로그램이 사는 생태계라고 할 수 있습니다. 그리고 영역에는 자바스크립트 프로그램이 존재하... 
+
+ [바로가기](https://kofearticle.substack.com/p/korean-fe-article-realm) 
 
 ###  데이터 구조를 개선하여 코드 43% 줄이기 
 
@@ -12,12 +18,6 @@
  글 링크: https://velog.io/@eunbinn/seeding-the-query-cache 소개 React Query에서 데이터를 빠르게 페칭하고 캐싱하는 방법을 설명한 ... 
 
  [바로가기](https://kofearticle.substack.com/p/korean-fe-article-react-query) 
-
-###  사용자가 페이지를 떠날 때 안정적으로 HTTP 요청 보내기 
-
- 글 링크: https://github.com/yeonjuan/dev-blog/blob/master/Browser/send-an-http-request-on-page-exit.md ... 
-
- [바로가기](https://kofearticle.substack.com/p/korean-fe-article-http) 
 
 ### DOM 트리를 트리 자료구조로 바라보기 
 
