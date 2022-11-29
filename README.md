@@ -1,5 +1,11 @@
 # 오늘의 포스팅 
-2022년 11월 28일 9시 기준 
+2022년 11월 29일 9시 기준 
+
+###  자바스크립트 웹 프레임워크의 새로운 흐름 
+
+ 글 링크 : https://ykss.netlify.app/translation/the_new_wave_of_javascript_web_frameworks/ 소개 현재 자바스크립트 ... 
+
+ [바로가기](https://kofearticle.substack.com/p/korean-fe-article-d4f) 
 
 ###  자바스크립트에서 영역(realm)이란 무엇인가요? 
 
@@ -13,11 +19,11 @@
 
  [바로가기](https://kofearticle.substack.com/p/korean-fe-article-43) 
 
-###  쿼리 캐시에 데이터 채워 넣기 (React Query) 
+### WSL2보다 더 간단하게 구축하는 멀티패스와 도커 개발 환경 
 
- 글 링크: https://velog.io/@eunbinn/seeding-the-query-cache 소개 React Query에서 데이터를 빠르게 페칭하고 캐싱하는 방법을 설명한 ... 
+ 얼마 전, 도커 데스크톱 없이 구축하는 WSL2와 도커 개발 환경글을 보다가 멀티패스에서도 이 같은 방법으로 도커를 쓸 수 있으리라는 생각이 들었습니다. 아니나 다를까, 멀티패스에... 
 
- [바로가기](https://kofearticle.substack.com/p/korean-fe-article-react-query) 
+ [바로가기](https://yozm.wishket.com/magazine/detail/1806/) 
 
 ### DOM 트리를 트리 자료구조로 바라보기 
 
@@ -30,12 +36,6 @@
  베테랑 개발자로 유명한 조엘 스폴스키는 사람이 일에 몰입하는데 걸리는 시간이 약 15분이라고 말합니다. 그리고 개발자는 평균 11분을 못 넘기고 몰입을 방해받는다고 합니다. 하루 ... 
 
  [바로가기](https://yozm.wishket.com/magazine/detail/1796/) 
-
-### 안드로이드 코루틴의 개념과 사용법 
-
- 코루틴(Coroutine)은 일종의 가벼운 스레드(Light-weight thread)로 동시성(Concurrency) 작업을 간편하게 처리할 수 있게 해주는 역할을 합니다. 안드... 
-
- [바로가기](https://yozm.wishket.com/magazine/detail/1793/) 
 
 ---
 
