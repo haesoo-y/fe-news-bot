@@ -1,5 +1,11 @@
 # 오늘의 포스팅 
-2022년 11월 30일 9시 기준 
+2022년 12월 1일 9시 기준 
+
+###  TypeScript 4.9 
+
+ 글 링크 : https://bit.ly/3gOUim5 소개 TypeScript 4.9 버전이 릴리스 했습니다. 개선 및 추가된 점들을 한번 확인해보고 넘어가면 좋을 것 같습니다. ... 
+
+ [바로가기](https://kofearticle.substack.com/p/korean-fe-article-typescript-49) 
 
 ###  자바스크립트 웹 프레임워크의 새로운 흐름 
 
@@ -12,12 +18,6 @@
  자바스크립트의 영역(realm)에 대해 알고 계신가요? 영역은 쉽게 표현해서 자바스크립트 프로그램이 사는 생태계라고 할 수 있습니다. 그리고 영역에는 자바스크립트 프로그램이 존재하... 
 
  [바로가기](https://kofearticle.substack.com/p/korean-fe-article-realm) 
-
-###  데이터 구조를 개선하여 코드 43% 줄이기 
-
- 글 링크 : https://velog.io/@lky5697/react-junior-code-review-and-refactoring 소개 React 코드를 리뷰 하면서 흔히 할 수... 
-
- [바로가기](https://kofearticle.substack.com/p/korean-fe-article-43) 
 
 ### WSL2보다 더 간단하게 구축하는 멀티패스와 도커 개발 환경 
 
