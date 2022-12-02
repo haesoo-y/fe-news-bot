@@ -1,5 +1,11 @@
 # 오늘의 포스팅 
-2022년 12월 1일 9시 기준 
+2022년 12월 2일 9시 기준 
+
+###  어쨌든 함수형 프로그래밍의 장점은 뭔가요? 
+
+ 글 링크 : https://bit.ly/3H3RufM 소개 오늘 소개해드릴 글은 ‘자바스크립트 함수 합성, 뭐가 그렇게 대단할까?’로 이전에 소개해 드린적 있는 James Sinc... 
+
+ [바로가기](https://kofearticle.substack.com/p/korean-fe-article-eac) 
 
 ###  TypeScript 4.9 
 
@@ -12,12 +18,6 @@
  글 링크 : https://ykss.netlify.app/translation/the_new_wave_of_javascript_web_frameworks/ 소개 현재 자바스크립트 ... 
 
  [바로가기](https://kofearticle.substack.com/p/korean-fe-article-d4f) 
-
-###  자바스크립트에서 영역(realm)이란 무엇인가요? 
-
- 자바스크립트의 영역(realm)에 대해 알고 계신가요? 영역은 쉽게 표현해서 자바스크립트 프로그램이 사는 생태계라고 할 수 있습니다. 그리고 영역에는 자바스크립트 프로그램이 존재하... 
-
- [바로가기](https://kofearticle.substack.com/p/korean-fe-article-realm) 
 
 ### WSL2보다 더 간단하게 구축하는 멀티패스와 도커 개발 환경 
 
