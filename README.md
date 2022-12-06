@@ -1,5 +1,11 @@
 # 오늘의 포스팅 
-2022년 12월 5일 9시 기준 
+2022년 12월 6일 9시 기준 
+
+###  리액트 상호 작용 시간 4배 향상하기 
+
+ 리액트 도구 및 훅으로 일반적인 성능 문제 해결하기... 
+
+ [바로가기](https://kofearticle.substack.com/p/korean-fe-article-4) 
 
 ###  어쨌든 함수형 프로그래밍의 장점은 뭔가요? 
 
@@ -13,11 +19,11 @@
 
  [바로가기](https://kofearticle.substack.com/p/korean-fe-article-typescript-49) 
 
-###  자바스크립트 웹 프레임워크의 새로운 흐름 
+### [여기보기] WAS 프로세스가 다진 마음은 루트와 헤어질 결심 
 
- 글 링크 : https://ykss.netlify.app/translation/the_new_wave_of_javascript_web_frameworks/ 소개 현재 자바스크립트 ... 
+ WAS 프로세스를 보호하려면 관리자 계정으로 구동하지 말아야 합니다. 이는 프로세스의 실행 계정이나 그룹이 root나 Administrator여서는 안 된다는 뜻입니다. 여기에서는... 
 
- [바로가기](https://kofearticle.substack.com/p/korean-fe-article-d4f) 
+ [바로가기](https://yozm.wishket.com/magazine/detail/1811/) 
 
 ### 모놀리식 vs 마이크로서비스, 어떤 아키텍처를 선택할까? 
 
@@ -30,12 +36,6 @@
  얼마 전, 도커 데스크톱 없이 구축하는 WSL2와 도커 개발 환경글을 보다가 멀티패스에서도 이 같은 방법으로 도커를 쓸 수 있으리라는 생각이 들었습니다. 아니나 다를까, 멀티패스에... 
 
  [바로가기](https://yozm.wishket.com/magazine/detail/1806/) 
-
-### DOM 트리를 트리 자료구조로 바라보기 
-
- HTML은 인터넷 브라우저를 위해 만들어진 파일 포맷이며, 브라우저는 HTML 문서의 태그를 인식해 사용자가 볼 수 있도록 적절하게 그려내는 기능을 가지고 있다. 브라우저는 HTM... 
-
- [바로가기](https://yozm.wishket.com/magazine/detail/1803/) 
 
 ---
 
