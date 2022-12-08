@@ -1,5 +1,11 @@
 # 오늘의 포스팅 
-2022년 12월 7일 9시 기준 
+2022년 12월 8일 9시 기준 
+
+### 누구나 자바스크립트 제너레이터 함수가 필요한 이유는 무엇인가요? 
+
+ 글 링크 : http://bit.ly/3FA4ecH 소개 자바스크립트로 개발하면서 제네레이터를 사용해보신적이 있나요? 또는 제네레이터를 잘 알고 있지만 어디에 사용할지 감이 안오신... 
+
+ [바로가기](https://kofearticle.substack.com/p/c2b) 
 
 ###  리액트 상호 작용 시간 4배 향상하기 
 
@@ -12,12 +18,6 @@
  글 링크 : https://bit.ly/3H3RufM 소개 오늘 소개해드릴 글은 ‘자바스크립트 함수 합성, 뭐가 그렇게 대단할까?’로 이전에 소개해 드린적 있는 James Sinc... 
 
  [바로가기](https://kofearticle.substack.com/p/korean-fe-article-eac) 
-
-###  TypeScript 4.9 
-
- 글 링크 : https://bit.ly/3gOUim5 소개 TypeScript 4.9 버전이 릴리스 했습니다. 개선 및 추가된 점들을 한번 확인해보고 넘어가면 좋을 것 같습니다. ... 
-
- [바로가기](https://kofearticle.substack.com/p/korean-fe-article-typescript-49) 
 
 ### [여기보기] WAS 프로세스가 다진 마음은 루트와 헤어질 결심 
 
