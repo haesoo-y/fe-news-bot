@@ -1,5 +1,11 @@
 # 오늘의 포스팅 
-2022년 12월 18일 9시 기준 
+2022년 12월 19일 9시 기준 
+
+###  웹어셈블리에서 자바스크립트를 빠르게 실행하는 방법 
+
+ 글 링크: https://ktseo41.github.io/blog/log/making-javascript-run-fast-on-webassembly 소개 이번 글은 웹어셈블리가 자... 
+
+ [바로가기](https://kofearticle.substack.com/p/korean-fe-article-807) 
 
 ###  console.log()와 함께하는 재미 💿 
 
@@ -12,12 +18,6 @@
  글 링크: https://velog.io/@eunbinn/javascript-data-structures 소개 프런트엔드 자바스크립트 개발자로서 자료구조 공부는 필요한가요? 프런트... 
 
  [바로가기](https://kofearticle.substack.com/p/korean-fe-article-36c) 
-
-###  JavaScript JSON 파서 
-
- JSON 파서를 구현하는 단계별 가이드... 
-
- [바로가기](https://kofearticle.substack.com/p/korean-fe-article-javascript-json) 
 
 ### 다음 11가지 언어들은 여전히 살아있나요? 
 
