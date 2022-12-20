@@ -1,5 +1,11 @@
 # 오늘의 포스팅 
-2022년 12월 19일 9시 기준 
+2022년 12월 20일 9시 기준 
+
+###  빠른 페이지 로드를 위한 자바스크립트 최적화의 궁극적인 가이드 
+
+ 글 링크 : https://velog.io/@sehyunny/js-optimization-for-quick-page-load 소개 웹사이트에 접속했을 때 페이지가 느리게 떠서 답답... 
+
+ [바로가기](https://kofearticle.substack.com/p/korean-fe-article-47f) 
 
 ###  웹어셈블리에서 자바스크립트를 빠르게 실행하는 방법 
 
@@ -13,11 +19,11 @@
 
  [바로가기](https://kofearticle.substack.com/p/korean-fe-article-consolelog-a7e) 
 
-###  현실 세계 프런트엔드에서 사용되는 자바스크립트 자료구조: 리액트 코드 예시와 함께 
+### ﻿시큐어 코딩의 의미와 실천 방안: ②시큐어 코딩 점검 유형 
 
- 글 링크: https://velog.io/@eunbinn/javascript-data-structures 소개 프런트엔드 자바스크립트 개발자로서 자료구조 공부는 필요한가요? 프런트... 
+ 시큐어 코딩(secure coding)은 소프트웨어 개발 시 안전한 코드를 제작한다는 의미입니다. 또한 해킹을 비롯한 사이버 공격의 대상이 될 수 있는 소프트웨어의 보안 약점을 출... 
 
- [바로가기](https://kofearticle.substack.com/p/korean-fe-article-36c) 
+ [바로가기](https://yozm.wishket.com/magazine/detail/1832/) 
 
 ### 다음 11가지 언어들은 여전히 살아있나요? 
 
@@ -30,12 +36,6 @@
  요즘 업무를 하다 보면 데이터 관련 단어들을 자주 듣습니다. 특히 데이터 리터러시란 말을 들어본 분들도 있을 것 같습니다. 정의는 상황마다 조금 다를 수 있지만, ‘현재의 상황을 ... 
 
  [바로가기](https://yozm.wishket.com/magazine/detail/1827/) 
-
-### ﻿시큐어 코딩의 의미와 실천 방안: ①시큐어 코딩이란? 
-
- 시큐어 코딩(secure coding)은 소프트웨어 개발 시 안전한 코드를 제작한다는 의미입니다. 또한 해킹을 비롯한 사이버 공격의 대상이 될 수 있는 소프트웨어의 보안 약점을 출... 
-
- [바로가기](https://yozm.wishket.com/magazine/detail/1822/) 
 
 ---
 
