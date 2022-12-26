@@ -1,5 +1,11 @@
 # 오늘의 포스팅 
-2022년 12월 25일 9시 기준 
+2022년 12월 26일 9시 기준 
+
+###  Next.js 13에서 웹 폰트 최적화 
+
+ 글 링크 : https://bit.ly/3vedahN 소개 웹사이트를 만들면서 한 번쯤은 웹 폰트에 대해 고민해보셨을 겁니다. 웹 폰트를 다운로드하는 속도가 느리면 텍스트가 깜빡이... 
+
+ [바로가기](https://kofearticle.substack.com/p/korean-fe-article-nextjs-13) 
 
 ###  빠른 페이지 로드를 위한 자바스크립트 최적화의 궁극적인 가이드 
 
@@ -12,12 +18,6 @@
  글 링크: https://ktseo41.github.io/blog/log/making-javascript-run-fast-on-webassembly 소개 이번 글은 웹어셈블리가 자... 
 
  [바로가기](https://kofearticle.substack.com/p/korean-fe-article-807) 
-
-###  console.log()와 함께하는 재미 💿 
-
- Note. 링크가 누락되어 재발송 드립니다. 메일 두번 수신되는 번거로움을 드려 죄송합니다! 🙏 글 링크: https://ykss.netlify.app/translation/fu... 
-
- [바로가기](https://kofearticle.substack.com/p/korean-fe-article-consolelog-a7e) 
 
 ### 나쁜 자바스크립트 작성 습관과 작별하기 
 
