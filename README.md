@@ -1,5 +1,11 @@
 # 오늘의 포스팅 
-2022년 12월 26일 9시 기준 
+2022년 12월 27일 9시 기준 
+
+###  Korean FE Article 1년 회고 
+
+ 글 링크: https://bit.ly/3jpMZlH 소개 오늘은 1년 회고를 가볍게 작성해 공유해보려 합니다. 올 한해 읽어주셔서 감사하고 앞으로 맘에드는 좋은 글이 있다면 하트와... 
+
+ [바로가기](https://kofearticle.substack.com/p/korean-fe-article-korean-fe-article) 
 
 ###  Next.js 13에서 웹 폰트 최적화 
 
@@ -12,12 +18,6 @@
  글 링크 : https://velog.io/@sehyunny/js-optimization-for-quick-page-load 소개 웹사이트에 접속했을 때 페이지가 느리게 떠서 답답... 
 
  [바로가기](https://kofearticle.substack.com/p/korean-fe-article-47f) 
-
-###  웹어셈블리에서 자바스크립트를 빠르게 실행하는 방법 
-
- 글 링크: https://ktseo41.github.io/blog/log/making-javascript-run-fast-on-webassembly 소개 이번 글은 웹어셈블리가 자... 
-
- [바로가기](https://kofearticle.substack.com/p/korean-fe-article-807) 
 
 ### 나쁜 자바스크립트 작성 습관과 작별하기 
 
