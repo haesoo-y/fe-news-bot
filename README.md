@@ -1,5 +1,11 @@
 # 오늘의 포스팅 
-2022년 12월 29일 9시 기준 
+2022년 12월 30일 9시 기준 
+
+###  당신이 (아마도) 몰랐던 20가지 Git 명령 🧙 
+
+ 글 링크: https://velog.io/@surim014/20-git-commands-you-probably-didnt-know-about-git 소개 이 글은 유용하지만 잘 사... 
+
+ [바로가기](https://kofearticle.substack.com/p/korean-fe-article-20-git) 
 
 ###  리액트 개발을 위한 CSS 변수 
 
@@ -12,12 +18,6 @@
  글 링크: https://bit.ly/3jpMZlH 소개 오늘은 1년 회고를 가볍게 작성해 공유해보려 합니다. 올 한해 읽어주셔서 감사하고 앞으로 맘에드는 좋은 글이 있다면 하트와... 
 
  [바로가기](https://kofearticle.substack.com/p/korean-fe-article-korean-fe-article) 
-
-###  Next.js 13에서 웹 폰트 최적화 
-
- 글 링크 : https://bit.ly/3vedahN 소개 웹사이트를 만들면서 한 번쯤은 웹 폰트에 대해 고민해보셨을 겁니다. 웹 폰트를 다운로드하는 속도가 느리면 텍스트가 깜빡이... 
-
- [바로가기](https://kofearticle.substack.com/p/korean-fe-article-nextjs-13) 
 
 ### 주니어 개발자가 퇴사 후 공부한 것들 
 
