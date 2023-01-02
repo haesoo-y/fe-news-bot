@@ -1,5 +1,11 @@
 # 오늘의 포스팅 
-2023년 1월 1일 9시 기준 
+2023년 1월 2일 9시 기준 
+
+###  리액트 개발을 위한 CSS 변수 
+
+ 링크 : bit.ly/css-variables-for-react-devs 소개 CSS 변수는 이전에 SASS와 같은 CSS 전처리기를 통해서면 사용이 가능했지만, 이제는 CSS 자... 
+
+ [바로가기](https://kofearticle.substack.com/p/korean-fe-article-css-9a2) 
 
 ###  당신이 (아마도) 몰랐던 20가지 Git 명령 🧙 
 
@@ -12,12 +18,6 @@
  링크 : bit.ly/css-variables-for-react-devs 소개 CSS 변수는 이전에 SASS와 같은 CSS 전처리기를 통해서면 사용이 가능했지만, 이제는 CSS 자... 
 
  [바로가기](https://kofearticle.substack.com/p/korean-fe-article-css-654) 
-
-###  Korean FE Article 1년 회고 
-
- 글 링크: https://bit.ly/3jpMZlH 소개 오늘은 1년 회고를 가볍게 작성해 공유해보려 합니다. 올 한해 읽어주셔서 감사하고 앞으로 맘에드는 좋은 글이 있다면 하트와... 
-
- [바로가기](https://kofearticle.substack.com/p/korean-fe-article-korean-fe-article) 
 
 ### 웹 호환성 문제, 구버전 브라우저에선 어떻게 지원할까? 
 
