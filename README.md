@@ -1,5 +1,11 @@
 # 오늘의 포스팅 
-2023년 1월 5일 9시 기준 
+2023년 1월 6일 9시 기준 
+
+###  리액트에서 useState를 사용하면서 저지를 수 있는 흔한 실수들 
+
+ 글 링크: https://ktseo41.github.io/blog/log/avoid-these-common-pitfalls-of-react-usestate 소개 리액트에서 useS... 
+
+ [바로가기](https://kofearticle.substack.com/p/korean-fe-article-usestate) 
 
 ### [Korean Article FE] 더 좋은 타입스크립트 프로그래머로 만드는 11가지 팁 
 
@@ -12,12 +18,6 @@
  링크 : bit.ly/css-variables-for-react-devs 소개 CSS 변수는 이전에 SASS와 같은 CSS 전처리기를 통해서면 사용이 가능했지만, 이제는 CSS 자... 
 
  [바로가기](https://kofearticle.substack.com/p/korean-fe-article-css-9a2) 
-
-###  당신이 (아마도) 몰랐던 20가지 Git 명령 🧙 
-
- 글 링크: https://velog.io/@surim014/20-git-commands-you-probably-didnt-know-about-git 소개 이 글은 유용하지만 잘 사... 
-
- [바로가기](https://kofearticle.substack.com/p/korean-fe-article-20-git) 
 
 ### ﻿﻿안전한 웹을 위해 HTTPS 이해하기: ①HTTPS의 작동 원리 
 
