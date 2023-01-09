@@ -1,5 +1,11 @@
 # 오늘의 포스팅 
-2023년 1월 8일 9시 기준 
+2023년 1월 9일 9시 기준 
+
+###  Node.js에서 gRPC 사용하기 
+
+ 글 링크: https://bit.ly/3GjJTrg 소개 gRPC란 무엇이고 Node.js를 사용하여 간단한 예제를 만들어보는 글입니다. 상당히 오래전부터 서버와 클라이언트간의 통... 
+
+ [바로가기](https://kofearticle.substack.com/p/korean-fe-article-nodejs-grpc) 
 
 ###  리액트에서 useState를 사용하면서 저지를 수 있는 흔한 실수들 
 
@@ -12,12 +18,6 @@
  글 링크 : https://velog.io/@lky5697/11-tips-that-help-you-become-a-better-typescript-programmer 소개 이 글은... 
 
  [바로가기](https://kofearticle.substack.com/p/korean-article-fe-11) 
-
-###  리액트 개발을 위한 CSS 변수 
-
- 링크 : bit.ly/css-variables-for-react-devs 소개 CSS 변수는 이전에 SASS와 같은 CSS 전처리기를 통해서면 사용이 가능했지만, 이제는 CSS 자... 
-
- [바로가기](https://kofearticle.substack.com/p/korean-fe-article-css-9a2) 
 
 ### 키워드로 살펴보는 2022 보안 사고: ①공통, 기술 분야 
 
