@@ -1,5 +1,11 @@
 # 오늘의 포스팅 
-2023년 1월 15일 9시 기준 
+2023년 1월 16일 9시 기준 
+
+###  자바스크립트 생태계를 더 빠르게 - 라이브러리 하나씩 
+
+ 글 링크: https://velog.io/@superlipbalm/speeding-up-javascript-ecosystem 소개 이 글에서는 널리 사용되고 있는 자바스크립트 기반... 
+
+ [바로가기](https://kofearticle.substack.com/p/korean-fe-article-c30) 
 
 ###  Node.js에서 gRPC 사용하기 
 
@@ -12,12 +18,6 @@
  글 링크: https://ktseo41.github.io/blog/log/avoid-these-common-pitfalls-of-react-usestate 소개 리액트에서 useS... 
 
  [바로가기](https://kofearticle.substack.com/p/korean-fe-article-usestate) 
-
-### [Korean Article FE] 더 좋은 타입스크립트 프로그래머로 만드는 11가지 팁 
-
- 글 링크 : https://velog.io/@lky5697/11-tips-that-help-you-become-a-better-typescript-programmer 소개 이 글은... 
-
- [바로가기](https://kofearticle.substack.com/p/korean-article-fe-11) 
 
 ### ﻿﻿안전한 웹을 위해 HTTPS 이해하기: ②HTTPS를 강제하는 HSTS 기술 
 
