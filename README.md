@@ -1,5 +1,11 @@
 # 오늘의 포스팅 
-2023년 1월 25일 9시 기준 
+2023년 1월 26일 9시 기준 
+
+###  웹 앱의 번들 크기를 줄이기 위해 할 수 있는 모든 것 
+
+ 글 링크 : https://velog.io/@lky5697/reduce-webapp-bundle-size 소개 이 글은 웹 번들러의 크기를 줄일 수 있는 여러 가지 방법에 대해서 ... 
+
+ [바로가기](https://kofearticle.substack.com/p/korean-fe-article-4e6) 
 
 ###  자바스크립트 생태계를 더 빠르게 - 라이브러리 하나씩 
 
@@ -13,11 +19,11 @@
 
  [바로가기](https://kofearticle.substack.com/p/korean-fe-article-nodejs-grpc) 
 
-###  리액트에서 useState를 사용하면서 저지를 수 있는 흔한 실수들 
+### 프로그래밍의 종말 
 
- 글 링크: https://ktseo41.github.io/blog/log/avoid-these-common-pitfalls-of-react-usestate 소개 리액트에서 useS... 
+ ‘프로그램을 짠다’는 기존의 개념은 사라지는 방향으로 가고 있다고 봅니다. 또한 매우 특화된 응용 프로그램을 제외하고 우리에게 익숙한 형태의 소프트웨어 대부분이 ‘프로그램되는’ 대... 
 
- [바로가기](https://kofearticle.substack.com/p/korean-fe-article-usestate) 
+ [바로가기](https://yozm.wishket.com/magazine/detail/1873/) 
 
 ### 개발자 영어 공부 방법과 팁 
 
@@ -30,12 +36,6 @@
  지난 1편에서는 2022년 사이버 보안을 정리하는 4가지 키워드 중 랜섬웨어와 인공지능에 대한 공격 패러다임과 역기능의 대응 방안을 소개했다. 이번 글에서는 남은 두 가지 키워드인... 
 
  [바로가기](https://yozm.wishket.com/magazine/detail/1864/) 
-
-### ﻿﻿안전한 웹을 위해 HTTPS 이해하기: ②HTTPS를 강제하는 HSTS 기술 
-
- 대부분의 웹 사이트는 보안성을 위해 HTTPS를 지원합니다. 상업적인 웹 사이트뿐만 아니라 개인 블로그까지 이제 HTTPS는 선택이 아니라 거의 강제에 가까운 옵션이라 할 수 있습... 
-
- [바로가기](https://yozm.wishket.com/magazine/detail/1862/) 
 
 ---
 
