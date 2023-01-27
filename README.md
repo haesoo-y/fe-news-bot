@@ -1,5 +1,11 @@
 # 오늘의 포스팅 
-2023년 1월 26일 9시 기준 
+2023년 1월 27일 9시 기준 
+
+###  useState 지옥에서 벗어나기 
+
+ 글 링크: https://velog.io/@eunbinn/a-cure-for-react-useState-hell 소개 리액트 컴포넌트를 작성하다보면 하나의 컴포넌트 안에 여러개의 ... 
+
+ [바로가기](https://kofearticle.substack.com/p/korean-fe-article-usestate-ffa) 
 
 ###  웹 앱의 번들 크기를 줄이기 위해 할 수 있는 모든 것 
 
@@ -13,11 +19,11 @@
 
  [바로가기](https://kofearticle.substack.com/p/korean-fe-article-c30) 
 
-###  Node.js에서 gRPC 사용하기 
+### 주니어 개발자를 위한 엄청 쉬운 네트워크 이야기 
 
- 글 링크: https://bit.ly/3GjJTrg 소개 gRPC란 무엇이고 Node.js를 사용하여 간단한 예제를 만들어보는 글입니다. 상당히 오래전부터 서버와 클라이언트간의 통... 
+ 저는 5년차 개발자입니다. 회사에서 신입 개발자들과 함께 일하다 보면 네트워크에 관해 모르는 분들이 많으시더군요. 저도 사실 처음에는 그랬습니다. 그런데 일을 하다 보니 주니어 개... 
 
- [바로가기](https://kofearticle.substack.com/p/korean-fe-article-nodejs-grpc) 
+ [바로가기](https://yozm.wishket.com/magazine/detail/1875/) 
 
 ### 프로그래밍의 종말 
 
@@ -30,12 +36,6 @@
  개발자에게 영어 공부는 항상 따라다니는 숙제 같습니다. 특히 요즘 같은 글로벌 시대에 개발자에게 영어는 점점 중요한 덕목이 되어가고 있죠. 이번 글에서는 개발자로서 어떻게 영어 공... 
 
  [바로가기](https://yozm.wishket.com/magazine/detail/1868/) 
-
-### 키워드로 살펴보는 2022 보안 사고: ②국가 안보, 금융 분야 
-
- 지난 1편에서는 2022년 사이버 보안을 정리하는 4가지 키워드 중 랜섬웨어와 인공지능에 대한 공격 패러다임과 역기능의 대응 방안을 소개했다. 이번 글에서는 남은 두 가지 키워드인... 
-
- [바로가기](https://yozm.wishket.com/magazine/detail/1864/) 
 
 ---
 
