@@ -1,5 +1,11 @@
 # 오늘의 포스팅 
-2023년 1월 29일 9시 기준 
+2023년 1월 30일 9시 기준 
+
+###  확장 가능한 CSS의 진화 
+
+ 글 링크: https://ykss.netlify.app/translation/the_evolution_of_scalable_css/ 소개 현재 CSS 생태계에서는 수많은 다양한 도... 
+
+ [바로가기](https://kofearticle.substack.com/p/korean-fe-article-css-0f5) 
 
 ###  useState 지옥에서 벗어나기 
 
@@ -12,12 +18,6 @@
  글 링크 : https://velog.io/@lky5697/reduce-webapp-bundle-size 소개 이 글은 웹 번들러의 크기를 줄일 수 있는 여러 가지 방법에 대해서 ... 
 
  [바로가기](https://kofearticle.substack.com/p/korean-fe-article-4e6) 
-
-###  자바스크립트 생태계를 더 빠르게 - 라이브러리 하나씩 
-
- 글 링크: https://velog.io/@superlipbalm/speeding-up-javascript-ecosystem 소개 이 글에서는 널리 사용되고 있는 자바스크립트 기반... 
-
- [바로가기](https://kofearticle.substack.com/p/korean-fe-article-c30) 
 
 ### 주니어 개발자를 위한 엄청 쉬운 네트워크 이야기 
 
