@@ -1,5 +1,11 @@
 # 오늘의 포스팅 
-2023년 1월 30일 9시 기준 
+2023년 1월 31일 9시 기준 
+
+###  Next.js 에서 HTML 페이로드 줄이기 
+
+ 글 링크: https://github.com/yeonjuan/dev-blog/blob/master/JavaScript/reduce-html-payload-with-nextjs.md... 
+
+ [바로가기](https://kofearticle.substack.com/p/korean-fe-article-nextjs-html) 
 
 ###  확장 가능한 CSS의 진화 
 
@@ -12,12 +18,6 @@
  글 링크: https://velog.io/@eunbinn/a-cure-for-react-useState-hell 소개 리액트 컴포넌트를 작성하다보면 하나의 컴포넌트 안에 여러개의 ... 
 
  [바로가기](https://kofearticle.substack.com/p/korean-fe-article-usestate-ffa) 
-
-###  웹 앱의 번들 크기를 줄이기 위해 할 수 있는 모든 것 
-
- 글 링크 : https://velog.io/@lky5697/reduce-webapp-bundle-size 소개 이 글은 웹 번들러의 크기를 줄일 수 있는 여러 가지 방법에 대해서 ... 
-
- [바로가기](https://kofearticle.substack.com/p/korean-fe-article-4e6) 
 
 ### 주니어 개발자를 위한 엄청 쉬운 네트워크 이야기 
 
