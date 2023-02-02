@@ -1,5 +1,11 @@
 # 오늘의 포스팅 
-2023년 2월 1일 9시 기준 
+2023년 2월 2일 9시 기준 
+
+###  내가 작성한 Jest 테스트는 왜 이렇게 느릴까? 
+
+ Jest 성능을 저해하는 간과하기 쉬운 실수... 
+
+ [바로가기](https://kofearticle.substack.com/p/korean-fe-article-jest) 
 
 ###  Next.js 에서 HTML 페이로드 줄이기 
 
@@ -12,12 +18,6 @@
  글 링크: https://ykss.netlify.app/translation/the_evolution_of_scalable_css/ 소개 현재 CSS 생태계에서는 수많은 다양한 도... 
 
  [바로가기](https://kofearticle.substack.com/p/korean-fe-article-css-0f5) 
-
-###  useState 지옥에서 벗어나기 
-
- 글 링크: https://velog.io/@eunbinn/a-cure-for-react-useState-hell 소개 리액트 컴포넌트를 작성하다보면 하나의 컴포넌트 안에 여러개의 ... 
-
- [바로가기](https://kofearticle.substack.com/p/korean-fe-article-usestate-ffa) 
 
 ### 주니어 개발자를 위한 엄청 쉬운 네트워크 이야기 
 
