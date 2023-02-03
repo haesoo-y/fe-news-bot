@@ -1,5 +1,11 @@
 # 오늘의 포스팅 
-2023년 2월 2일 9시 기준 
+2023년 2월 3일 9시 기준 
+
+###  뷰의 새로운 컴포지션 API를 사용해야 하는 이유 
+
+ 글 링크: https://ktseo41.github.io/blog/log/why-you-should-be-using-vue-new-composition-api 소개 어느덧 Vue ... 
+
+ [바로가기](https://kofearticle.substack.com/p/korean-fe-article-api) 
 
 ###  내가 작성한 Jest 테스트는 왜 이렇게 느릴까? 
 
@@ -13,11 +19,11 @@
 
  [바로가기](https://kofearticle.substack.com/p/korean-fe-article-nextjs-html) 
 
-###  확장 가능한 CSS의 진화 
+### 코딩으로 문서 작성하는 콰르토(Quarto) 톺아보기 
 
- 글 링크: https://ykss.netlify.app/translation/the_evolution_of_scalable_css/ 소개 현재 CSS 생태계에서는 수많은 다양한 도... 
+ 이번 글에서는 문서 작성은 귀찮았지만 영리했던 과거의 누군가의 작품인, 약간만 익숙해지면 다양한 범위의 업무에서도 충분히 활용할 수 있는 문서작성 툴 콰르토(Quarto)를 소개하... 
 
- [바로가기](https://kofearticle.substack.com/p/korean-fe-article-css-0f5) 
+ [바로가기](https://yozm.wishket.com/magazine/detail/1883/) 
 
 ### 주니어 개발자를 위한 엄청 쉬운 네트워크 이야기 
 
@@ -30,12 +36,6 @@
  ‘프로그램을 짠다’는 기존의 개념은 사라지는 방향으로 가고 있다고 봅니다. 또한 매우 특화된 응용 프로그램을 제외하고 우리에게 익숙한 형태의 소프트웨어 대부분이 ‘프로그램되는’ 대... 
 
  [바로가기](https://yozm.wishket.com/magazine/detail/1873/) 
-
-### 개발자 영어 공부 방법과 팁 
-
- 개발자에게 영어 공부는 항상 따라다니는 숙제 같습니다. 특히 요즘 같은 글로벌 시대에 개발자에게 영어는 점점 중요한 덕목이 되어가고 있죠. 이번 글에서는 개발자로서 어떻게 영어 공... 
-
- [바로가기](https://yozm.wishket.com/magazine/detail/1868/) 
 
 ---
 
