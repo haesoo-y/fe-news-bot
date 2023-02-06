@@ -1,5 +1,11 @@
 # 오늘의 포스팅 
-2023년 2월 5일 9시 기준 
+2023년 2월 6일 9시 기준 
+
+###  타입스크립트에서 전문가처럼 에러 처리하기 
+
+ 글 링크: https://bit.ly/40sLRPj 소개 모든 애플리케이션 서비스를 운영할 때 내부적인 문제 또는 외부 네트워크 통신에 대한 응답 등 여러가지 원인때문에 발생하는 ... 
+
+ [바로가기](https://kofearticle.substack.com/p/korean-fe-article-8de) 
 
 ###  뷰의 새로운 컴포지션 API를 사용해야 하는 이유 
 
@@ -12,12 +18,6 @@
  Jest 성능을 저해하는 간과하기 쉬운 실수... 
 
  [바로가기](https://kofearticle.substack.com/p/korean-fe-article-jest) 
-
-###  Next.js 에서 HTML 페이로드 줄이기 
-
- 글 링크: https://github.com/yeonjuan/dev-blog/blob/master/JavaScript/reduce-html-payload-with-nextjs.md... 
-
- [바로가기](https://kofearticle.substack.com/p/korean-fe-article-nextjs-html) 
 
 ### 소프트웨어 설계 20년 해보고 깨달은 ‘좋은 설계’의 조건 
 
