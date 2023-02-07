@@ -1,5 +1,11 @@
 # 오늘의 포스팅 
-2023년 2월 6일 9시 기준 
+2023년 2월 7일 9시 기준 
+
+###  'Create React App 권장을 Vite로 대체' PR 대한 Dan Abramov의 답변 
+
+ 글 링크: https://bit.ly/40JXdia 소개 리액트를 처음 접하다보면 CRA(Create React App)를 사용해 연습을 하거나 프로젝트를 시작하곤 하는데요. 쪼개... 
+
+ [바로가기](https://kofearticle.substack.com/p/korean-fe-article-create-react-app) 
 
 ###  타입스크립트에서 전문가처럼 에러 처리하기 
 
@@ -13,11 +19,11 @@
 
  [바로가기](https://kofearticle.substack.com/p/korean-fe-article-api) 
 
-###  내가 작성한 Jest 테스트는 왜 이렇게 느릴까? 
+### 우리집 ‘월패드’로도 사생활이 노출될 수 있다고? 
 
- Jest 성능을 저해하는 간과하기 쉬운 실수... 
+ 우리 삶에 정보통신기술이 접목되면서 생활 환경이 더욱 편리해지고 효율성도 향상되었지만, 사생활 침해나 2차 범죄 노출 위험이 커졌다. 주거 환경도 마찬가지다. 집 안에 기술이 더 ... 
 
- [바로가기](https://kofearticle.substack.com/p/korean-fe-article-jest) 
+ [바로가기](https://yozm.wishket.com/magazine/detail/1886/) 
 
 ### 소프트웨어 설계 20년 해보고 깨달은 ‘좋은 설계’의 조건 
 
@@ -30,12 +36,6 @@
  이번 글에서는 문서 작성은 귀찮았지만 영리했던 과거의 누군가의 작품인, 약간만 익숙해지면 다양한 범위의 업무에서도 충분히 활용할 수 있는 문서작성 툴 콰르토(Quarto)를 소개하... 
 
  [바로가기](https://yozm.wishket.com/magazine/detail/1883/) 
-
-### 주니어 개발자를 위한 엄청 쉬운 네트워크 이야기 
-
- 저는 5년차 개발자입니다. 회사에서 신입 개발자들과 함께 일하다 보면 네트워크에 관해 모르는 분들이 많으시더군요. 저도 사실 처음에는 그랬습니다. 그런데 일을 하다 보니 주니어 개... 
-
- [바로가기](https://yozm.wishket.com/magazine/detail/1875/) 
 
 ---
 
