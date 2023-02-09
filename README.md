@@ -1,5 +1,5 @@
 # 오늘의 포스팅 
-2023년 2월 8일 9시 기준 
+2023년 2월 9일 9시 기준 
 
 ###  'Create React App 권장을 Vite로 대체' PR 대한 Dan Abramov의 답변 
 
