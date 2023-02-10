@@ -1,5 +1,11 @@
 # 오늘의 포스팅 
-2023년 2월 9일 9시 기준 
+2023년 2월 10일 9시 기준 
+
+###  완전한 타입 안정성을 가진 웹 애플리케이션 
+
+ 글 링크: http://bit.ly/3JUVEI1 소개 Kent C. Dodds는 타입스크립트의 기본적인 사용을 넘어 데이터베이스, 백엔드, UI에 이르는 종단 간(End-to-E... 
+
+ [바로가기](https://kofearticle.substack.com/p/korean-fe-article-418) 
 
 ###  'Create React App 권장을 Vite로 대체' PR 대한 Dan Abramov의 답변 
 
@@ -13,11 +19,11 @@
 
  [바로가기](https://kofearticle.substack.com/p/korean-fe-article-8de) 
 
-###  뷰의 새로운 컴포지션 API를 사용해야 하는 이유 
+### 성장하고 싶은 주니어 개발자를 위한 추천 도서 5권 
 
- 글 링크: https://ktseo41.github.io/blog/log/why-you-should-be-using-vue-new-composition-api 소개 어느덧 Vue ... 
+ 많은 이들이 개발자가 되고 싶어 하지만, 아이러니하게도 실력이 뛰어난 개발자는 점점 더 찾기 힘든 것이 현실이다. 대학에서 컴퓨터 공학을 전공하지 않아도, 또는 대학을 나오지 않아... 
 
- [바로가기](https://kofearticle.substack.com/p/korean-fe-article-api) 
+ [바로가기](https://yozm.wishket.com/magazine/detail/1892/) 
 
 ### 우리집 ‘월패드’로도 사생활이 노출될 수 있다고? 
 
@@ -30,12 +36,6 @@
  이 글은 제가 20여년 동안 소프트웨어 설계를 공부하고, 적용해보면서 갖게 된 믿음에 관한 글입니다. 한때 설계에 빠져 공부했고, 잘못된 믿음도 가져봤습니다. 하지만 언어와 실력이... 
 
  [바로가기](https://yozm.wishket.com/magazine/detail/1884/) 
-
-### 코딩으로 문서 작성하는 콰르토(Quarto) 톺아보기 
-
- 이번 글에서는 문서 작성은 귀찮았지만 영리했던 과거의 누군가의 작품인, 약간만 익숙해지면 다양한 범위의 업무에서도 충분히 활용할 수 있는 문서작성 툴 콰르토(Quarto)를 소개하... 
-
- [바로가기](https://yozm.wishket.com/magazine/detail/1883/) 
 
 ---
 
