@@ -1,5 +1,11 @@
 # 오늘의 포스팅 
-2023년 2월 12일 9시 기준 
+2023년 2월 13일 9시 기준 
+
+###  대규모 프런트엔드 프로젝트를 빌드하고 제공하기 
+
+ 글 링크: https://ykss.netlify.app/translation/building_and_delivering_frontends_at_scale/ 소개 웹이 발전하며 자바... 
+
+ [바로가기](https://kofearticle.substack.com/p/korean-fe-article-442) 
 
 ###  완전한 타입 안정성을 가진 웹 애플리케이션 
 
@@ -12,12 +18,6 @@
  글 링크: https://bit.ly/40JXdia 소개 리액트를 처음 접하다보면 CRA(Create React App)를 사용해 연습을 하거나 프로젝트를 시작하곤 하는데요. 쪼개... 
 
  [바로가기](https://kofearticle.substack.com/p/korean-fe-article-create-react-app) 
-
-###  타입스크립트에서 전문가처럼 에러 처리하기 
-
- 글 링크: https://bit.ly/40sLRPj 소개 모든 애플리케이션 서비스를 운영할 때 내부적인 문제 또는 외부 네트워크 통신에 대한 응답 등 여러가지 원인때문에 발생하는 ... 
-
- [바로가기](https://kofearticle.substack.com/p/korean-fe-article-8de) 
 
 ### 성장하고 싶은 주니어 개발자를 위한 추천 도서 5권 
 
