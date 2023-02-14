@@ -1,5 +1,11 @@
 # 오늘의 포스팅 
-2023년 2월 13일 9시 기준 
+2023년 2월 14일 9시 기준 
+
+###  HTML 이미지 최적화 
+
+ 글 링크 : https://velog.io/@lky5697/fast-image 소개 웹 페이지를 만들면서 이미지를 많이 사용합니다. 사용하는 기기에서 보여지는 크기보다 큰 이미지를... 
+
+ [바로가기](https://kofearticle.substack.com/p/korean-fe-article-html) 
 
 ###  대규모 프런트엔드 프로젝트를 빌드하고 제공하기 
 
@@ -12,12 +18,6 @@
  글 링크: http://bit.ly/3JUVEI1 소개 Kent C. Dodds는 타입스크립트의 기본적인 사용을 넘어 데이터베이스, 백엔드, UI에 이르는 종단 간(End-to-E... 
 
  [바로가기](https://kofearticle.substack.com/p/korean-fe-article-418) 
-
-###  'Create React App 권장을 Vite로 대체' PR 대한 Dan Abramov의 답변 
-
- 글 링크: https://bit.ly/40JXdia 소개 리액트를 처음 접하다보면 CRA(Create React App)를 사용해 연습을 하거나 프로젝트를 시작하곤 하는데요. 쪼개... 
-
- [바로가기](https://kofearticle.substack.com/p/korean-fe-article-create-react-app) 
 
 ### 성장하고 싶은 주니어 개발자를 위한 추천 도서 5권 
 
