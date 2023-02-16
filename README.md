@@ -1,5 +1,11 @@
 # 오늘의 포스팅 
-2023년 2월 15일 9시 기준 
+2023년 2월 16일 9시 기준 
+
+###  레몬 시장 
+
+ 글 링크: https://bit.ly/3I1pFTV 소개 경제학 용어인 “레몬시장”을 현 프런트엔드 생태계에 빗대어서 다룬 글입니다. 원문의 저자인 Alex Russell 은 현재... 
+
+ [바로가기](https://kofearticle.substack.com/p/korean-fe-article-41e) 
 
 ###  HTML 이미지 최적화 
 
@@ -12,12 +18,6 @@
  글 링크: https://ykss.netlify.app/translation/building_and_delivering_frontends_at_scale/ 소개 웹이 발전하며 자바... 
 
  [바로가기](https://kofearticle.substack.com/p/korean-fe-article-442) 
-
-###  완전한 타입 안정성을 가진 웹 애플리케이션 
-
- 글 링크: http://bit.ly/3JUVEI1 소개 Kent C. Dodds는 타입스크립트의 기본적인 사용을 넘어 데이터베이스, 백엔드, UI에 이르는 종단 간(End-to-E... 
-
- [바로가기](https://kofearticle.substack.com/p/korean-fe-article-418) 
 
 ### 훌륭한 개발자의 5가지 특징 
 
