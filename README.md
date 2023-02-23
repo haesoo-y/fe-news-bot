@@ -1,5 +1,11 @@
 # 오늘의 포스팅 
-2023년 2월 22일 9시 기준 
+2023년 2월 23일 9시 기준 
+
+###  잘 알려진 UI 패턴을 사용하여 리액트 애플리케이션 모듈화하기 
+
+ 글 링크: https://velog.io/@eunbinn/modularizing-react-apps 소개 기존에 잘 알려진 UI 패턴을 프런트엔드 개발에 적용하는 과정을 적은 글입... 
+
+ [바로가기](https://kofearticle.substack.com/p/korean-fe-article-ui) 
 
 ###  객체 대신 Map을 더 사용해보기 
 
@@ -13,11 +19,11 @@
 
  [바로가기](https://kofearticle.substack.com/p/korean-fe-article-41e) 
 
-###  HTML 이미지 최적화 
+### 택배 배송 과정으로 알아보는 엄청 쉬운 컴퓨터 네트워크 
 
- 글 링크 : https://velog.io/@lky5697/fast-image 소개 웹 페이지를 만들면서 이미지를 많이 사용합니다. 사용하는 기기에서 보여지는 크기보다 큰 이미지를... 
+ 네트워크는 눈에 보이지 않습니다. 그래서 공부에 어려움을 겪는 분들이 많습니다. 대학에서는 네트워크 기초만 한 학기 동안 배울 만큼 공부할 분량도 많습니다. 하지만 저는 이번 시리... 
 
- [바로가기](https://kofearticle.substack.com/p/korean-fe-article-html) 
+ [바로가기](https://yozm.wishket.com/magazine/detail/1906/) 
 
 ### 코드 리뷰는 스포츠다 
 
@@ -30,12 +36,6 @@
  최근 ChatGPT가 여러 분야에서 화제가 되고 있습니다. 벌써 많은 사람들이 ChatGPT를 이용하여 아이디어를 얻고, 보고서를 만들고, 번거로운 업무를 자동화하는 등 여러 가지... 
 
  [바로가기](https://yozm.wishket.com/magazine/detail/1901/) 
-
-### API 게이트웨이 톺아보기: 스로틀링과 알고리즘 구현 
-
- 일반적으로 API는 사용자가 API 클라이언트 도구를 이용해서 직접 사용하는 일은 거의 없습니다. API 호출 테스트를 할 때를 제외하고는 대부분이 자동화된 프로세스에 연동하여 사... 
-
- [바로가기](https://yozm.wishket.com/magazine/detail/1900/) 
 
 ---
 
