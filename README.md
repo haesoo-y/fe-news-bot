@@ -1,5 +1,11 @@
 # 오늘의 포스팅 
-2023년 2월 23일 9시 기준 
+2023년 2월 24일 9시 기준 
+
+###  리액트와 함께 일반적으로 사용되는 라이브러리들 
+
+ 글 링크 : https://velog.io/@sehyunny/libraries-that-are-commonly-used-with-react 소개 앱을 개발하다 보면 모든 기능을 직... 
+
+ [바로가기](https://kofearticle.substack.com/p/korean-fe-article-b55) 
 
 ###  잘 알려진 UI 패턴을 사용하여 리액트 애플리케이션 모듈화하기 
 
@@ -13,11 +19,11 @@
 
  [바로가기](https://kofearticle.substack.com/p/korean-fe-article-map) 
 
-###  레몬 시장 
+### 주니어 PM이 알아야 할 서버 기초 상식 
 
- 글 링크: https://bit.ly/3I1pFTV 소개 경제학 용어인 “레몬시장”을 현 프런트엔드 생태계에 빗대어서 다룬 글입니다. 원문의 저자인 Alex Russell 은 현재... 
+ 저는 개발자로 5년 동안 일하면서, 개발 환경이나 서버에 대해 잘 모르는 분이 PM, 기획자 역할을 맡아 고생을 많이 하시는 것을 여러 번 보았습니다. 그때마다 제가 알려드리곤 했... 
 
- [바로가기](https://kofearticle.substack.com/p/korean-fe-article-41e) 
+ [바로가기](https://yozm.wishket.com/magazine/detail/1907/) 
 
 ### 택배 배송 과정으로 알아보는 엄청 쉬운 컴퓨터 네트워크 
 
@@ -30,12 +36,6 @@
  코드 리뷰는 어렵습니다. 주는 입장에서도 그렇고, 받는 입장에서도 그렇습니다. 만약 코드 리뷰를 난생처음 해보거나, 익숙하지 않은 환경에서 코드 리뷰에 참여해야 한다면 혼란스러움은... 
 
  [바로가기](https://yozm.wishket.com/magazine/detail/1903/) 
-
-### 개발자는 ChatGPT 이렇게 활용하면 좋습니다 
-
- 최근 ChatGPT가 여러 분야에서 화제가 되고 있습니다. 벌써 많은 사람들이 ChatGPT를 이용하여 아이디어를 얻고, 보고서를 만들고, 번거로운 업무를 자동화하는 등 여러 가지... 
-
- [바로가기](https://yozm.wishket.com/magazine/detail/1901/) 
 
 ---
 
