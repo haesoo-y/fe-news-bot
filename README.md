@@ -1,5 +1,11 @@
 # 오늘의 포스팅 
-2023년 2월 27일 9시 기준 
+2023년 2월 28일 9시 기준 
+
+###  Concurrent 리액트에 대해 알아야 할 모든 것(그리고 Suspense에 대해서 약간) 
+
+ 글 링크 : https://velog.io/@superlipbalm/everything-you-need-to-know-about-concurrent-react 소개 이 글에서는 리... 
+
+ [바로가기](https://kofearticle.substack.com/p/korean-fe-article-concurrent-suspense) 
 
 ###  리액트와 함께 일반적으로 사용되는 라이브러리들 
 
@@ -12,12 +18,6 @@
  글 링크: https://velog.io/@eunbinn/modularizing-react-apps 소개 기존에 잘 알려진 UI 패턴을 프런트엔드 개발에 적용하는 과정을 적은 글입... 
 
  [바로가기](https://kofearticle.substack.com/p/korean-fe-article-ui) 
-
-###  객체 대신 Map을 더 사용해보기 
-
- 글 링크: https://velog.io/@surim014/use-maps-more-and-objects-less 소개 이 글에서는 자바스크립트의 객체 대신 Map을 활용하는 대안... 
-
- [바로가기](https://kofearticle.substack.com/p/korean-fe-article-map) 
 
 ### ﻿﻿쿠버네티스 워크로드와 통신하는 방법: ①서비스 
 
