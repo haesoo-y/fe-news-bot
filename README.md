@@ -1,5 +1,11 @@
 # 오늘의 포스팅 
-2023년 3월 1일 9시 기준 
+2023년 3월 2일 9시 기준 
+
+###  Well-Known Symbols 
+
+ 링크 : https://github.com/yeonjuan/dev-blog/blob/master/JavaScript/well-known-symbols.md 소개 Well-Known... 
+
+ [바로가기](https://kofearticle.substack.com/p/korean-fe-article-well-known-symbols) 
 
 ###  Concurrent 리액트에 대해 알아야 할 모든 것(그리고 Suspense에 대해서 약간) 
 
@@ -12,12 +18,6 @@
  글 링크 : https://velog.io/@sehyunny/libraries-that-are-commonly-used-with-react 소개 앱을 개발하다 보면 모든 기능을 직... 
 
  [바로가기](https://kofearticle.substack.com/p/korean-fe-article-b55) 
-
-###  잘 알려진 UI 패턴을 사용하여 리액트 애플리케이션 모듈화하기 
-
- 글 링크: https://velog.io/@eunbinn/modularizing-react-apps 소개 기존에 잘 알려진 UI 패턴을 프런트엔드 개발에 적용하는 과정을 적은 글입... 
-
- [바로가기](https://kofearticle.substack.com/p/korean-fe-article-ui) 
 
 ### 웹소켓으로 개발하기 전 알아야 할 것들 
 
