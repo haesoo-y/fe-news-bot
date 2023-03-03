@@ -1,5 +1,11 @@
 # 오늘의 포스팅 
-2023년 3월 2일 9시 기준 
+2023년 3월 3일 11시 기준 
+
+###  코드 품질을 높여주는 고급 자바스크립트 함수 
+
+ 글 링크: https://velog.io/@typo/advanced-javascript-functions-to-improve-code-quality 소개 이 글에서는 자바스크립트의... 
+
+ [바로가기](https://kofearticle.substack.com/p/korean-fe-article-4bd) 
 
 ###  Well-Known Symbols 
 
@@ -13,11 +19,11 @@
 
  [바로가기](https://kofearticle.substack.com/p/korean-fe-article-concurrent-suspense) 
 
-###  리액트와 함께 일반적으로 사용되는 라이브러리들 
+### 면접을 앞둔 개발자 지망생에게 
 
- 글 링크 : https://velog.io/@sehyunny/libraries-that-are-commonly-used-with-react 소개 앱을 개발하다 보면 모든 기능을 직... 
+ 취업이라는 바늘구멍을 통과하기 위해서는 서류전형, 코딩 테스트, 인터뷰 등의 수많은 관문을 거쳐야 한다. 오래도록 준비했더라도 내가 가는 길이 맞는지 올바르게 준비하고 있는지 마음... 
 
- [바로가기](https://kofearticle.substack.com/p/korean-fe-article-b55) 
+ [바로가기](https://yozm.wishket.com/magazine/detail/1914/) 
 
 ### 웹소켓으로 개발하기 전 알아야 할 것들 
 
@@ -30,12 +36,6 @@
  최근 컨테이너 환경에서의 애플리케이션 개발과 인프라 운영이 늘어나고 있습니다. 쿠버네티스는 컨테이너를 관리(orchestration)하는 도구로 잘 알려져 있습니다. 이러한 관리 ... 
 
  [바로가기](https://yozm.wishket.com/magazine/detail/1909/) 
-
-### 주니어 PM이 알아야 할 서버 기초 상식 
-
- 저는 개발자로 5년 동안 일하면서, 개발 환경이나 서버에 대해 잘 모르는 분이 PM, 기획자 역할을 맡아 고생을 많이 하시는 것을 여러 번 보았습니다. 그때마다 제가 알려드리곤 했... 
-
- [바로가기](https://yozm.wishket.com/magazine/detail/1907/) 
 
 ---
 
