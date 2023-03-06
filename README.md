@@ -1,5 +1,11 @@
 # 오늘의 포스팅 
-2023년 3월 5일 9시 기준 
+2023년 3월 6일 9시 기준 
+
+###  2023년 웹 개발 트렌드 10가지 
+
+ 글 링크: https://ykss.netlify.app/translation/10_web_development_trends_in_2023/ 소개 많은 개발자들이 이미 사용하고 있는... 
+
+ [바로가기](https://kofearticle.substack.com/p/korean-fe-article-2023-10) 
 
 ###  코드 품질을 높여주는 고급 자바스크립트 함수 
 
@@ -12,12 +18,6 @@
  링크 : https://github.com/yeonjuan/dev-blog/blob/master/JavaScript/well-known-symbols.md 소개 Well-Known... 
 
  [바로가기](https://kofearticle.substack.com/p/korean-fe-article-well-known-symbols) 
-
-###  Concurrent 리액트에 대해 알아야 할 모든 것(그리고 Suspense에 대해서 약간) 
-
- 글 링크 : https://velog.io/@superlipbalm/everything-you-need-to-know-about-concurrent-react 소개 이 글에서는 리... 
-
- [바로가기](https://kofearticle.substack.com/p/korean-fe-article-concurrent-suspense) 
 
 ### ﻿﻿쿠버네티스 워크로드와 통신하는 방법: ②인그레스 
 
