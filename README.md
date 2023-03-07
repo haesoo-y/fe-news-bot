@@ -1,5 +1,11 @@
 # 오늘의 포스팅 
-2023년 3월 6일 9시 기준 
+2023년 3월 7일 9시 기준 
+
+###  로컬 우선 소프트웨어가 있다면 어떨까요? 
+
+ 글 링크: https://bit.ly/iflocalf 소개 오프라인 상황에서도 앱이 작동할 수 있도록 만드는 방법에 대해 고민해보신 적이 있으신가요? 이번 글은 오프라인 상황에서도... 
+
+ [바로가기](https://kofearticle.substack.com/p/korean-fe-article-b13) 
 
 ###  2023년 웹 개발 트렌드 10가지 
 
@@ -13,11 +19,11 @@
 
  [바로가기](https://kofearticle.substack.com/p/korean-fe-article-4bd) 
 
-###  Well-Known Symbols 
+### 게임, 금융, 의료...비즈니스 곳곳 '이상 탐지 모델' 살펴보기 
 
- 링크 : https://github.com/yeonjuan/dev-blog/blob/master/JavaScript/well-known-symbols.md 소개 Well-Known... 
+ 이상 탐지에 대해 들어보셨나요? 이상 탐지란 일반적인 값과 다른 특이한 값(outlier)나 드문 사건을 탐지하는 기법으로, 최근 해외뿐만 아니라 국내에서도 이상 탐지 기술이 활용... 
 
- [바로가기](https://kofearticle.substack.com/p/korean-fe-article-well-known-symbols) 
+ [바로가기](https://yozm.wishket.com/magazine/detail/1919/) 
 
 ### ﻿﻿쿠버네티스 워크로드와 통신하는 방법: ②인그레스 
 
@@ -30,12 +36,6 @@
  취업이라는 바늘구멍을 통과하기 위해서는 서류전형, 코딩 테스트, 인터뷰 등의 수많은 관문을 거쳐야 한다. 오래도록 준비했더라도 내가 가는 길이 맞는지 올바르게 준비하고 있는지 마음... 
 
  [바로가기](https://yozm.wishket.com/magazine/detail/1914/) 
-
-### 웹소켓으로 개발하기 전 알아야 할 것들 
-
- 웹소켓(Web Socket) 프로토콜은 HTTP와는 다른 통신 프로토콜로 웹 서버와 웹 브라우저가 서로 실시간 메시지를 교환하는 데에 사용된다. 최근 웹소켓을 활용해 소규모 메타버... 
-
- [바로가기](https://yozm.wishket.com/magazine/detail/1911/) 
 
 ---
 
