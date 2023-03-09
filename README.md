@@ -1,5 +1,11 @@
 # 오늘의 포스팅 
-2023년 3월 8일 9시 기준 
+2023년 3월 9일 9시 기준 
+
+###  자바스크립트 가비지 컬렉터 실험 
+
+ 글 링크: https://velog.io/@surim014/Experiments-with-the-JavaScript-Garbage-Collector 소개 개발을 할 때 메모리에 대... 
+
+ [바로가기](https://kofearticle.substack.com/p/korean-fe-article-fcd) 
 
 ###  로컬 우선 소프트웨어가 있다면 어떨까요? 
 
@@ -12,12 +18,6 @@
  글 링크: https://ykss.netlify.app/translation/10_web_development_trends_in_2023/ 소개 많은 개발자들이 이미 사용하고 있는... 
 
  [바로가기](https://kofearticle.substack.com/p/korean-fe-article-2023-10) 
-
-###  코드 품질을 높여주는 고급 자바스크립트 함수 
-
- 글 링크: https://velog.io/@typo/advanced-javascript-functions-to-improve-code-quality 소개 이 글에서는 자바스크립트의... 
-
- [바로가기](https://kofearticle.substack.com/p/korean-fe-article-4bd) 
 
 ### 개발자로 거듭나기⋯ 네 가지 기본 소양을 기억하세요 
 
