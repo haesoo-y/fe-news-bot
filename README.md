@@ -1,5 +1,11 @@
 # 오늘의 포스팅 
-2023년 3월 19일 9시 기준 
+2023년 3월 20일 9시 기준 
+
+###  tRPC와 리액트를 사용해 풀 스택 타입스크립트 앱 만들기 
+
+ 글 링크: https://velog.io/@superlipbalm/full-stack-typescript-with-trpc-and-react 소개 tRPC를 사용해 종단간 타입 안... 
+
+ [바로가기](https://kofearticle.substack.com/p/korean-fe-article-trpc) 
 
 ###  Jotai에 React Query가 필요하지 않을 수도 있습니다 
 
@@ -12,12 +18,6 @@
  글 링크: https://velog.io/@surim014/Experiments-with-the-JavaScript-Garbage-Collector 소개 개발을 할 때 메모리에 대... 
 
  [바로가기](https://kofearticle.substack.com/p/korean-fe-article-fcd) 
-
-###  로컬 우선 소프트웨어가 있다면 어떨까요? 
-
- 글 링크: https://bit.ly/iflocalf 소개 오프라인 상황에서도 앱이 작동할 수 있도록 만드는 방법에 대해 고민해보신 적이 있으신가요? 이번 글은 오프라인 상황에서도... 
-
- [바로가기](https://kofearticle.substack.com/p/korean-fe-article-b13) 
 
 ### 그 많은 OTT 콘텐츠는 어떻게 웹에서 재생될 수 있을까? 
 
