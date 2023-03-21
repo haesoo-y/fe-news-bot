@@ -1,5 +1,11 @@
 # 오늘의 포스팅 
-2023년 3월 20일 9시 기준 
+2023년 3월 21일 9시 기준 
+
+###  정말 리액트에서 useMemo를 사용해야 할까요? 알아봅시다. 
+
+ 글 링크: https://github.com/yeonjuan/dev-blog/blob/master/JavaScript/should-you-really-use-usememo.md 소... 
+
+ [바로가기](https://kofearticle.substack.com/p/korean-fe-article-usememo) 
 
 ###  tRPC와 리액트를 사용해 풀 스택 타입스크립트 앱 만들기 
 
@@ -13,11 +19,11 @@
 
  [바로가기](https://kofearticle.substack.com/p/korean-fe-article-jotai-react-query) 
 
-###  자바스크립트 가비지 컬렉터 실험 
+### AI 프롬프트 엔지니어링과 프롬프트를 훔치는 '인젝션' 
 
- 글 링크: https://velog.io/@surim014/Experiments-with-the-JavaScript-Garbage-Collector 소개 개발을 할 때 메모리에 대... 
+ 최근 대화형 인공지능에 대한 반응이 뜨겁습니다. ChatGPT를 필두로 인공지능의 시대가 본격적으로 시작된 것 같습니다. 이번 글에서는 인공지능 분야에서 결과물의 품질을 좌우하는 ... 
 
- [바로가기](https://kofearticle.substack.com/p/korean-fe-article-fcd) 
+ [바로가기](https://yozm.wishket.com/magazine/detail/1939/) 
 
 ### 그 많은 OTT 콘텐츠는 어떻게 웹에서 재생될 수 있을까? 
 
@@ -30,12 +36,6 @@
  실무에서 원활히 머신러닝으로 데이터를 분석하는 데 얼마나 많은 알고리즘을 알고 있어야 할까요? 선형, 군집, 트리 같은 기본 개념을 알고 XGBoost와 LightGBM 같은 최신... 
 
  [바로가기](https://yozm.wishket.com/magazine/detail/1931/) 
-
-### 코드 재사용성을 결정하기 전 고려해야 할 것들 
-
- 프로젝트를 진행하다 보면 특정 코드를 재사용하는 것에 대해 논의할 때가 많다. 그런데 항상 명확한 결론을 내지 못하고 끝낸 적이 많다. 왜 그럴까? 코드 재사용에 대한 의사결정은 ... 
-
- [바로가기](https://yozm.wishket.com/magazine/detail/1930/) 
 
 ---
 
