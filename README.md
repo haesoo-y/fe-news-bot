@@ -1,5 +1,11 @@
 # 오늘의 포스팅 
-2023년 3월 22일 9시 기준 
+2023년 3월 23일 9시 기준 
+
+###  자바스크립트 Signal의 진화 
+
+ 글 링크: https://bit.ly/3LKtnVI 소개 오늘 소개해드릴 글은 SolidJS의 작성자로 유명한 Ryan Carniato의 글입니다. 최근 들어 Signal이라는 키... 
+
+ [바로가기](https://kofearticle.substack.com/p/korean-fe-article-signal) 
 
 ###  정말 리액트에서 useMemo를 사용해야 할까요? 알아봅시다. 
 
@@ -12,12 +18,6 @@
  글 링크: https://velog.io/@superlipbalm/full-stack-typescript-with-trpc-and-react 소개 tRPC를 사용해 종단간 타입 안... 
 
  [바로가기](https://kofearticle.substack.com/p/korean-fe-article-trpc) 
-
-###  Jotai에 React Query가 필요하지 않을 수도 있습니다 
-
- 글 링크: https://velog.io/@eunbinn/you-might-not-need-react-query-for-jotai 소개 Jotai를 만든 Daishi Kato의 글... 
-
- [바로가기](https://kofearticle.substack.com/p/korean-fe-article-jotai-react-query) 
 
 ### AI 프롬프트 엔지니어링과 프롬프트를 훔치는 '인젝션' 
 
