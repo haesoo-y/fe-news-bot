@@ -1,5 +1,11 @@
 # 오늘의 포스팅 
-2023년 3월 26일 9시 기준 
+2023년 3월 27일 9시 기준 
+
+###  iOS 및 iPadOS의 웹 앱용 웹 푸시 
+
+ 링크: https://bit.ly/wpushfiios 소개 애플은 지난 WWDC22에서 마침내 iOS, iPadOS에서 웹 푸시를 가능하게 하겠다고 발표했는데요. 올해 2월 17일... 
+
+ [바로가기](https://kofearticle.substack.com/p/korean-fe-article-ios-ipados) 
 
 ###  자바스크립트 Signal의 진화 
 
@@ -12,12 +18,6 @@
  글 링크: https://github.com/yeonjuan/dev-blog/blob/master/JavaScript/should-you-really-use-usememo.md 소... 
 
  [바로가기](https://kofearticle.substack.com/p/korean-fe-article-usememo) 
-
-###  tRPC와 리액트를 사용해 풀 스택 타입스크립트 앱 만들기 
-
- 글 링크: https://velog.io/@superlipbalm/full-stack-typescript-with-trpc-and-react 소개 tRPC를 사용해 종단간 타입 안... 
-
- [바로가기](https://kofearticle.substack.com/p/korean-fe-article-trpc) 
 
 ### 개발자를 위한 AI 검색엔진 ‘파인드(Phind)’ 활용법 
 
