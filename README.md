@@ -1,5 +1,11 @@
 # 오늘의 포스팅 
-2023년 3월 27일 9시 기준 
+2023년 3월 28일 9시 기준 
+
+###  React 훅은 실수일까요? 
+
+ 글 링크 : https://velog.io/@lky5697/were-react-hooks-a-mistake 소개 오늘 소개해드릴 글은 React를 사용하는 사람들이 Signal에 ... 
+
+ [바로가기](https://kofearticle.substack.com/p/korean-fe-article-react-9b4) 
 
 ###  iOS 및 iPadOS의 웹 앱용 웹 푸시 
 
@@ -13,11 +19,11 @@
 
  [바로가기](https://kofearticle.substack.com/p/korean-fe-article-signal) 
 
-###  정말 리액트에서 useMemo를 사용해야 할까요? 알아봅시다. 
+### ChatGPT와 시큐어 코딩: 보안 이슈에서 안전한 코드까지 
 
- 글 링크: https://github.com/yeonjuan/dev-blog/blob/master/JavaScript/should-you-really-use-usememo.md 소... 
+ ChatGPT를 기술적으로 이해하려면 전문지식이 필요하지만, 실무적으로 보면 ChatGPT의 활용 방법이 더 중요하다. 그래서 이번 시리즈를 통해 시큐어 코딩, 침해 사고 분석, ... 
 
- [바로가기](https://kofearticle.substack.com/p/korean-fe-article-usememo) 
+ [바로가기](https://yozm.wishket.com/magazine/detail/1948/) 
 
 ### 개발자를 위한 AI 검색엔진 ‘파인드(Phind)’ 활용법 
 
@@ -30,12 +36,6 @@
  최근 대화형 인공지능에 대한 반응이 뜨겁습니다. ChatGPT를 필두로 인공지능의 시대가 본격적으로 시작된 것 같습니다. 이번 글에서는 인공지능 분야에서 결과물의 품질을 좌우하는 ... 
 
  [바로가기](https://yozm.wishket.com/magazine/detail/1939/) 
-
-### 그 많은 OTT 콘텐츠는 어떻게 웹에서 재생될 수 있을까? 
-
- OTT 콘텐츠 많이들 보시나요? 지금 당장 생각나는 것만 해도 넷플릭스, 유튜브, 웨이브, 티빙, 왓챠 같은 많은 OTT 서비스들이 떠오르네요. 그런데 프론트엔드 개발을 조금이라도... 
-
- [바로가기](https://yozm.wishket.com/magazine/detail/1934/) 
 
 ---
 
