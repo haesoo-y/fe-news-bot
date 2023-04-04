@@ -1,5 +1,11 @@
 # 오늘의 포스팅 
-2023년 4월 3일 9시 기준 
+2023년 4월 4일 9시 기준 
+
+###  2023년 버전 리액트 프로젝트를 시작하는 방법 
+
+ 링크: https://velog.io/@eunbinn/how-to-start-a-react-project-in-2023 소개 최근 새로운 리액트 문서가 출시됐는데요, 리액트 애플리... 
+
+ [바로가기](https://kofearticle.substack.com/p/korean-fe-article-2023) 
 
 ###  지난 3년간의 모든 자바스크립트 및 타입스크립트 기능 
 
@@ -13,11 +19,11 @@
 
  [바로가기](https://kofearticle.substack.com/p/korean-fe-article-7dc) 
 
-###  React 훅은 실수일까요? 
+### 주니어 개발자를 위한 엄청 쉬운 TCP/IP 4계층 이야기 
 
- 글 링크 : https://velog.io/@lky5697/were-react-hooks-a-mistake 소개 오늘 소개해드릴 글은 React를 사용하는 사람들이 Signal에 ... 
+ 이번 글에서는 이전 글 “택배 배송 과정으로 알아보는 엄청 쉬운 컴퓨터 네트워크”를 컴퓨터에서 일어나는 일로 가져와 설명해보도록 하겠습니다. 이전 글에서 저는 데이터가 4단계에 걸... 
 
- [바로가기](https://kofearticle.substack.com/p/korean-fe-article-react-9b4) 
+ [바로가기](https://yozm.wishket.com/magazine/detail/1956/) 
 
 ### 쿠버네티스 환경의 대표적 보안 기능 3가지 
 
@@ -30,12 +36,6 @@
  이번 글은 개발 실력을 늘리기 위한 방법과 컴퓨터적으로 사고하는 법에 대한 개인적인 고찰에 관한 글입니다. 운동이라 생각하고 꾸준히 훈련하기, 요구사항을 데이터 관점으로 사고하기라... 
 
  [바로가기](https://yozm.wishket.com/magazine/detail/1950/) 
-
-### ChatGPT 플러그인, 그 의미와 의도는 무엇? 
-
- 2023년 3월은 아마 AI역사에 꽤나 중요한 기간이 될 듯합니다. ChatGPT용 OpenAI 서비스 API 지원 발표를 한지 며칠 만에 지난주 금요일(3월 24일)에 ChatG... 
-
- [바로가기](https://yozm.wishket.com/magazine/detail/1951/) 
 
 ---
 
