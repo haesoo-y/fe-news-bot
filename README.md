@@ -1,5 +1,11 @@
 # 오늘의 포스팅 
-2023년 4월 6일 9시 기준 
+2023년 4월 7일 9시 기준 
+
+###  프런트엔드 개발의 종말 
+
+ 글 링크 : https://velog.io/@sehyunny/the-end-of-fe-development 요즘 개발 분야에서 가장 화제성 있는 주제가 뭐라고 생각하시나요? 아무래... 
+
+ [바로가기](https://kofearticle.substack.com/p/korean-fe-article-b70) 
 
 ###  2023년 버전 리액트 프로젝트를 시작하는 방법 
 
@@ -12,12 +18,6 @@
  링크: https://velog.io/@surim014/All-JavaScript-and-TypeScript-Features-of-the-last-3-years 소개 이 글에서는 ... 
 
  [바로가기](https://kofearticle.substack.com/p/korean-fe-article-3) 
-
-###  자바스크립트 메모리 관리: 일반적인 메모리 누수를 방지하고 성능을 개선하는 방법 
-
- 글 링크: https://ykss.netlify.app/translation/javascript_memory_management/ 소개 웹 애플리케이션 개발을 하면서 우리가 작성... 
-
- [바로가기](https://kofearticle.substack.com/p/korean-fe-article-7dc) 
 
 ### 개발자 ChatGPT로 보안 정복하기: 침해 사고 분석 
 
