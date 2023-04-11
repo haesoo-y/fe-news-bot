@@ -1,5 +1,11 @@
 # 오늘의 포스팅 
-2023년 4월 10일 9시 기준 
+2023년 4월 11일 9시 기준 
+
+###  리액트 실험실: 그동안의 작업 - 2023년 3월 
+
+ 글 링크: https://velog.io/@typo/react-labs-march-2023 소개 지난 달 22일, 리액트 실험실에서 2022년 6월 업데이트 이후로 진행 중인 작업... 
+
+ [바로가기](https://kofearticle.substack.com/p/korean-fe-article-2023-3) 
 
 ###  프런트엔드 개발의 종말 
 
@@ -12,12 +18,6 @@
  링크: https://velog.io/@eunbinn/how-to-start-a-react-project-in-2023 소개 최근 새로운 리액트 문서가 출시됐는데요, 리액트 애플리... 
 
  [바로가기](https://kofearticle.substack.com/p/korean-fe-article-2023) 
-
-###  지난 3년간의 모든 자바스크립트 및 타입스크립트 기능 
-
- 링크: https://velog.io/@surim014/All-JavaScript-and-TypeScript-Features-of-the-last-3-years 소개 이 글에서는 ... 
-
- [바로가기](https://kofearticle.substack.com/p/korean-fe-article-3) 
 
 ### 테스트 코드는 왜 만들까? 
 
