@@ -1,5 +1,11 @@
 # 오늘의 포스팅 
-2023년 4월 13일 9시 기준 
+2023년 4월 14일 9시 기준 
+
+### [Korean Article FE] useMemo를 사용하는 것을 당장 멈추세요! 
+
+ 글 링크 : https://velog.io/@lky5697/stop-using-usememo-now 소개 React를 이용하여 개발을 하면서 useMemo를 사용해 보신 적 있으신... 
+
+ [바로가기](https://kofearticle.substack.com/p/korean-article-fe-usememo) 
 
 ###  리액트 vs Signals: 10년이 지난 지금 
 
@@ -13,11 +19,11 @@
 
  [바로가기](https://kofearticle.substack.com/p/korean-fe-article-2023-3) 
 
-###  프런트엔드 개발의 종말 
+### 쿠팡이 '기계학습'으로 물류 입고 프로세스 개선한 방법 
 
- 글 링크 : https://velog.io/@sehyunny/the-end-of-fe-development 요즘 개발 분야에서 가장 화제성 있는 주제가 뭐라고 생각하시나요? 아무래... 
+ 쿠팡은 물류 입고 프로세스의 최적화를 위해 끊임없이 노력하고 있습니다. 풀필먼트 센터로의 제품 입고과정에서 낭비되는 자원을 최소화하면, 적기에 제품을 판매하고 더 많은 고객들에게 ... 
 
- [바로가기](https://kofearticle.substack.com/p/korean-fe-article-b70) 
+ [바로가기](https://yozm.wishket.com/magazine/detail/1973/) 
 
 ### 개발자 ChatGPT로 보안 정복하기: 악성코드 대응 
 
@@ -30,12 +36,6 @@
  PWA란 프로그레시브 웹 앱(Progressive Web Apps)의 줄임말로, 모바일 기기에서 네이티브 앱(Native App)과 같은 사용자 경험을 제공하는 웹 앱입니다. 이는... 
 
  [바로가기](https://yozm.wishket.com/magazine/detail/1969/) 
-
-### 테스트 코드는 왜 만들까? 
-
- 지금 돌이켜 생각하면 부끄러운 일이지만, 처음 테스트 코드를 마주했을 때 든 생각은 '왜 귀찮은 테스트 코드를 만들어야 하는 걸까?'였습니다. 물론 지금은 테스트 코드의 중요성을 ... 
-
- [바로가기](https://yozm.wishket.com/magazine/detail/1964/) 
 
 ---
 
