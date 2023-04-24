@@ -1,5 +1,11 @@
 # 오늘의 포스팅 
-2023년 4월 23일 9시 기준 
+2023년 4월 24일 9시 기준 
+
+###  웹 접근성 마스터하기: 프런트엔드 개발자를 위한 가이드 
+
+ 링크: https://bit.ly/3N7M2eO 소개 웹 접근성이라는 분야는 그 목적만 두고 봤을때 너무 의미있고 중요하지만 실제 협업에서는 일정, 공수 또는 귀찮음으로 인해 무시... 
+
+ [바로가기](https://kofearticle.substack.com/p/korean-fe-article-fdd) 
 
 ###  리액트 모범 사례 다시 생각하기 
 
@@ -12,12 +18,6 @@
  글 링크 : https://velog.io/@lky5697/stop-using-usememo-now 소개 React를 이용하여 개발을 하면서 useMemo를 사용해 보신 적 있으신... 
 
  [바로가기](https://kofearticle.substack.com/p/korean-article-fe-usememo) 
-
-###  리액트 vs Signals: 10년이 지난 지금 
-
- 링크: https://bit.ly/3mmf5QU 소개 최근들어 점점 더 여러 프레임워크에서 Signal이라는 단어를 자주 접하게 되는 것 같은데요. 오늘 소개해드릴 글 역시 제가 ... 
-
- [바로가기](https://kofearticle.substack.com/p/korean-fe-article-vs-signals-10) 
 
 ### [쉽게 배우는 AI] 1. 머신러닝이란? 
 
