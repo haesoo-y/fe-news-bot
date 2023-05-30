@@ -1,5 +1,29 @@
 # 오늘의 포스팅 
-2023년 5월 30일 9시 기준 
+2023년 5월 30일 22시 기준 
+
+###  Next.js 와 React Router로 싱글 페이지 애플리케이션 만들기글 링크: https://github.com/yeonjuan/dev-blog/blob/master/JavaScript/building-a-spa-with-nextjs.md 소개 이 글에서는 Next.js 와 react-router-dom 을 이용해 SPA를 구성하는 방법에…연주안 
+
+ 글 링크: https://github.com/yeonjuan/dev-blog/blob/master/JavaScript/building-a-spa-with-nextjs.md 소개 이... 
+
+ [바로가기](https://kofearticle.substack.com/p/korean-fe-article-nextjs-react-router) 
+
+###  Next.js 13.4글 링크: https://velog.io/@typo/next.js-13.4 이달 3일 Next.js 팀은 13.4 버전을 릴리즈했습니다. 이 글에서는 기존 Next.js의 Pages 라우터와 App 라우터는 어떤 차이점이 있고, 어떤 점이 개선된 것인지 설명하고 있습니다.saetbyeol 
+
+ 글 링크: https://velog.io/@typo/next.js-13.4 이달 3일 Next.js 팀은 13.4 버전을 릴리즈했습니다. 이 글에서는 기존 Next.js의 Page... 
+
+ [바로가기](https://kofearticle.substack.com/p/korean-fe-article-nextjs-134) 
+
+###  ES2023에서 도입된 자바스크립트의 새로운 배열 복사 메서드글 링크: https://velog.io/@eunbinn/es2023-new-array-copying-methods-javascript 소개 최근 확정된 ES2023에서는 기존 배열이 아닌 복사본을 변경하여 연산을 수행하는 `toSorted`, `toReversed…Eunbin Kim 
+
+ 글 링크: https://velog.io/@eunbinn/es2023-new-array-copying-methods-javascript 소개 최근 확정된 ES2023에서는 기존 배... 
+
+ [바로가기](https://kofearticle.substack.com/p/korean-fe-article-es2023) 
+
+### 쿠팡은 디자인 시스템을 어떻게 구축했을까? 
+
+ 2020년 4월, 쿠팡은 UX 디자인 및 모바일 엔지니어링 전문가로 태스크 포스 팀(TF)을 구성하여, 로켓 디자인 시스템(Rocket Design System, RDS)을 향한 ... 
+
+ [바로가기](https://yozm.wishket.com/magazine/detail/2045/) 
 
 ### [쉽게 배우는 AI] 6. 상관관계와 인과관계 
 
@@ -12,12 +36,6 @@
  아이를 키우고 있는 집에서는 엄마든 아빠든 주말에 시간을 비워 세미나나 컨퍼런스에 참여하기가 쉽지 않다. 누군가는 독박 육아를 하게 될 것이 분명하기에 망설일 수밖에 없다. 또 배... 
 
  [바로가기](https://yozm.wishket.com/magazine/detail/2042/) 
-
-### 리더로 성장하고 싶은 개발자를 위한 3가지 기술 
-
- 매니지먼트는 프로젝트 관리, 팀 관리, 프로세스 관리로 구분할 수 있습니다. 첫 번째 프로젝트 관리는 출시 시기와 중점을 둬야 하는 일을 관리하는 기술입니다. 두 번째는 팀 관리,... 
-
- [바로가기](https://yozm.wishket.com/magazine/detail/2040/) 
 
 ---
 
