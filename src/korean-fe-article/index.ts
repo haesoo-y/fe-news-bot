@@ -14,18 +14,15 @@ export const getKFAList = async () => {
   );
 
   $bodyList.each((i, elem) => {
+    const $titleLink = $(elem).find(".pencraft > a").eq(0);
+    const $descLink = $(elem).find(".pencraft > a").eq(1);
+
     result.push({
-      title: $(elem)
-        .find(".pencraft > .pencraft:nth-child(1) a")
-        .text()
-        .replace(kfaTitle, ""),
-      desc:
-        $(elem)
-          .find(".pencraft > .pencraft:nth-child(2) a")
-          .text()
-          .slice(0, MAX_DESC_LENGTH) + "...",
+      title: $titleLink.text().replace(kfaTitle, ""),
+      desc: $descLink.text().slice(0, MAX_DESC_LENGTH) + "...",
       url:
-        "" + $(elem).find(".pencraft > .pencraft:nth-child(1) a").attr("href"),
+        "" +
+        $titleLink.find(".pencraft > .pencraft:nth-child(1) a").attr("href"),
     });
   });
 
