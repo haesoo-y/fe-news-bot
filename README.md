@@ -1,23 +1,23 @@
 # 오늘의 포스팅 
 2023년 5월 30일 22시 기준 
 
-###  Next.js 와 React Router로 싱글 페이지 애플리케이션 만들기글 링크: https://github.com/yeonjuan/dev-blog/blob/master/JavaScript/building-a-spa-with-nextjs.md 소개 이 글에서는 Next.js 와 react-router-dom 을 이용해 SPA를 구성하는 방법에…연주안 
+###  Next.js 와 React Router로 싱글 페이지 애플리케이션 만들기 
 
  글 링크: https://github.com/yeonjuan/dev-blog/blob/master/JavaScript/building-a-spa-with-nextjs.md 소개 이... 
 
- [바로가기](https://kofearticle.substack.com/p/korean-fe-article-nextjs-react-router) 
+ [바로가기](undefined) 
 
-###  Next.js 13.4글 링크: https://velog.io/@typo/next.js-13.4 이달 3일 Next.js 팀은 13.4 버전을 릴리즈했습니다. 이 글에서는 기존 Next.js의 Pages 라우터와 App 라우터는 어떤 차이점이 있고, 어떤 점이 개선된 것인지 설명하고 있습니다.saetbyeol 
+###  Next.js 13.4 
 
  글 링크: https://velog.io/@typo/next.js-13.4 이달 3일 Next.js 팀은 13.4 버전을 릴리즈했습니다. 이 글에서는 기존 Next.js의 Page... 
 
- [바로가기](https://kofearticle.substack.com/p/korean-fe-article-nextjs-134) 
+ [바로가기](undefined) 
 
-###  ES2023에서 도입된 자바스크립트의 새로운 배열 복사 메서드글 링크: https://velog.io/@eunbinn/es2023-new-array-copying-methods-javascript 소개 최근 확정된 ES2023에서는 기존 배열이 아닌 복사본을 변경하여 연산을 수행하는 `toSorted`, `toReversed…Eunbin Kim 
+###  ES2023에서 도입된 자바스크립트의 새로운 배열 복사 메서드 
 
  글 링크: https://velog.io/@eunbinn/es2023-new-array-copying-methods-javascript 소개 최근 확정된 ES2023에서는 기존 배... 
 
- [바로가기](https://kofearticle.substack.com/p/korean-fe-article-es2023) 
+ [바로가기](undefined) 
 
 ### 쿠팡은 디자인 시스템을 어떻게 구축했을까? 
 
