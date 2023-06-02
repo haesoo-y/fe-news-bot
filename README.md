@@ -1,5 +1,11 @@
 # 오늘의 포스팅 
-2023년 6월 1일 9시 기준 
+2023년 6월 2일 9시 기준 
+
+###  Npm 멀웨어 해부: 다섯 가지 패키지와 악의적인 설치 스크립트 
+
+ 글 링크 : https://velog.io/@superlipbalm/dissecting-npm-malware-five-packages-and-their-evil-install-sc... 
+
+ [바로가기](undefined) 
 
 ###  유쾌하게 이상한 자바스크립트 생태계 
 
@@ -13,11 +19,11 @@
 
  [바로가기](undefined) 
 
-###  Next.js 13.4 
+### 이스티오(istio)의 엠비언트 메시 소개 
 
- 글 링크: https://velog.io/@typo/next.js-13.4 이달 3일 Next.js 팀은 13.4 버전을 릴리즈했습니다. 이 글에서는 기존 Next.js의 Page... 
+ 이 글에서 소개하는 '이스티오'는 쿠버네티스 클러스터 안의 서비스 간 통신을 제어하기 위해 플랫폼 레이어에 구성된 '서비스 메시'를 관리하는 솔루션 중 하나입니다. 서비스 메시 관... 
 
- [바로가기](undefined) 
+ [바로가기](https://yozm.wishket.com/magazine/detail/2048/) 
 
 ### 대시보드로 보는 모니터링의 미래, '풀스택 옵저버빌리티' 
 
@@ -30,12 +36,6 @@
  좋은 프로그래밍 언어는 어떻게 정의할 수 있을까요? 상황에 따라 중요도는 다르겠지만 보통 1) 문제를 해결하는 능력 2) 코드의 성능(실행 속도, 안정성) 3) 지원되는 기능 4)... 
 
  [바로가기](https://yozm.wishket.com/magazine/detail/2046/) 
-
-### 쿠팡은 디자인 시스템을 어떻게 구축했을까? 
-
- 2020년 4월, 쿠팡은 UX 디자인 및 모바일 엔지니어링 전문가로 태스크 포스 팀(TF)을 구성하여, 로켓 디자인 시스템(Rocket Design System, RDS)을 향한 ... 
-
- [바로가기](https://yozm.wishket.com/magazine/detail/2045/) 
 
 ---
 
