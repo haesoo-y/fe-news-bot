@@ -1,5 +1,11 @@
 # 오늘의 포스팅 
-2023년 6월 4일 9시 기준 
+2023년 6월 5일 9시 기준 
+
+###  "const"의 속임수 
+
+ 자바스크립트에서 할당과 뮤테이션의 차이에 대한 탐구... 
+
+ [바로가기](undefined) 
 
 ###  Npm 멀웨어 해부: 다섯 가지 패키지와 악의적인 설치 스크립트 
 
@@ -10,12 +16,6 @@
 ###  유쾌하게 이상한 자바스크립트 생태계 
 
  글 링크 : https://velog.io/@sehyunny/js-ecosystem-is-delightfully-weird 소개 오늘날 웹 앱을 만들 때 일반적으로 React, V... 
-
- [바로가기](undefined) 
-
-###  Next.js 와 React Router로 싱글 페이지 애플리케이션 만들기 
-
- 글 링크: https://github.com/yeonjuan/dev-blog/blob/master/JavaScript/building-a-spa-with-nextjs.md 소개 이... 
 
  [바로가기](undefined) 
 
