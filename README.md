@@ -1,5 +1,11 @@
 # 오늘의 포스팅 
-2023년 6월 12일 9시 기준 
+2023년 6월 13일 9시 기준 
+
+###  Cloudflare를 웹 애플리케이션을 위한 최고의 장소로 만들기 
+
+ 글 링크: https://bit.ly/netforweb 소개 이번 글은 Cloudflare의 웹 애플리케이션 플랫폼 업데이트 소식입니다. Cloudflare는 2020년 정적 호스... 
+
+ [바로가기](undefined) 
 
 ###  당신의 Jest 테스트는 잘못되어 있을 수도 있습니다 
 
@@ -10,12 +16,6 @@
 ###  팝오버(popover) API를 소개합니다 
 
  글 링크: https://ykss.netlify.app/translation/introducing_the_popover_api/ 소개 팝오버는 웹의 여러 곳에서 쉽게 찾아볼 수 있... 
-
- [바로가기](undefined) 
-
-###  자바스크립트로 첫 ChatGPT 플러그인 만들기 
-
- 글 링크: https://bit.ly/3oQXBNt 소개 요즘 모든 분야에 있어 가장 많이 언급되는 주제가 있다면 ChatGPT일 것입니다. 혹시 여러분들도 잘 사용하고 계신가요?... 
 
  [바로가기](undefined) 
 
