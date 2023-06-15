@@ -1,5 +1,11 @@
 # 오늘의 포스팅 
-2023년 6월 14일 9시 기준 
+2023년 6월 15일 9시 기준 
+
+###  리액트 동시성 이해하기 
+
+ 링크: https://velog.io/@eunbinn/react-concurrency 소개 리액트 v18에서는 많은 기능이 추가되었지만 그 중 돋보이는 변화 중 하나는 동시성(Co... 
+
+ [바로가기](undefined) 
 
 ###  Cloudflare를 웹 애플리케이션을 위한 최고의 장소로 만들기 
 
@@ -13,11 +19,11 @@
 
  [바로가기](undefined) 
 
-###  팝오버(popover) API를 소개합니다 
+### 구글 시니어 개발자가 성장을 위해 선택한 길 
 
- 글 링크: https://ykss.netlify.app/translation/introducing_the_popover_api/ 소개 팝오버는 웹의 여러 곳에서 쉽게 찾아볼 수 있... 
+ 첫 회사였던, 샌프란시스코 소재 B2B 스타트업에서 첫 인사평가를 받던 1년차 때 ‘인디비주얼 컨트리뷰터(Individual Contributor, 이하 IC)’라는 말을 처음 들... 
 
- [바로가기](undefined) 
+ [바로가기](https://yozm.wishket.com/magazine/detail/2066/) 
 
 ### ‘팬시 베어, 김수키, 딥 판다…’ 해킹 그룹명의 비밀 
 
@@ -30,12 +36,6 @@
  자바, JSP, SQL만 알아도 백엔드 개발자가 될 수 있던 시절이 있었습니다. 오늘날에는 백엔드 개발자가 되려면 알아야 하는 지식이 너무나 많습니다. 그래서 백엔드 개발자가 되려... 
 
  [바로가기](https://yozm.wishket.com/magazine/detail/2064/) 
-
-### [쉽게 배우는 AI] 8. 지도학습이란? 
-
- 이번 편에서는 지도학습에 대해 알아보겠습니다. 지도학습은 어떤 원인들에 대한 결과를 학습하는 과정입니다. 예를 들어, ‘a, b, c의 값들이 어떻게 변해서 결괏값 d가 나온다’라... 
-
- [바로가기](https://yozm.wishket.com/magazine/detail/2061/) 
 
 ---
 
