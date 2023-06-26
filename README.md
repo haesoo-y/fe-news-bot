@@ -1,5 +1,11 @@
 # 오늘의 포스팅 
-2023년 6월 25일 9시 기준 
+2023년 6월 26일 9시 기준 
+
+###  이벤트 루프를 차단하지 않기 위한 실용적인 가이드 
+
+ 글 링크: https://ykss.netlify.app/translation/practical_guide_to_not_blocking_the_event_loop/ 소개 자바스크립트... 
+
+ [바로가기](undefined) 
 
 ###  리액트 API와 코드 재사용의 진화 
 
@@ -10,12 +16,6 @@
 ###  마법의 비밀 공개: 다양한 프레임워크에서 반응성 탐구 
 
  글 링크: https://velog.io/@surim014/unveiling-the-magic-exploring-reactivity-across-various-frameworks ... 
-
- [바로가기](undefined) 
-
-###  캐시 시스템 설계할 때 기억해야 할 6가지 캐싱 전략 
-
- 글 링크: https://bit.ly/3J5xqth 소개 React-Query, SWR, Apollo Client, Redux-Persist 등 프론트엔드에서도 다양한 캐싱 관련 ... 
 
  [바로가기](undefined) 
 
