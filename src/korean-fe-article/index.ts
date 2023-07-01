@@ -19,12 +19,13 @@ export const getKFAList = async () => {
 
     result.push({
       title: $titleLink.text().replace(kfaTitle, ""),
-      desc: $descLink.text().slice(0, MAX_DESC_LENGTH) + "...",
-      url:
-        "" +
-        $titleLink.find(".pencraft > .pencraft:nth-child(1) a").attr("href"),
+      desc:
+        $descLink
+          .text()
+          .replace(/글 링크: .+?\s/, "")
+          .slice(0, MAX_DESC_LENGTH) + "...",
+      url: "" + $titleLink.attr("href"),
     });
   });
-
   return result;
 };
