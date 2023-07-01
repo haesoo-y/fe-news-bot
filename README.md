@@ -3,25 +3,25 @@
 
 ### Nx Console gets Lit 
 
- Max KlessinNx Devtools·23 hours agoOver the last few weeks, we rebuilt one of Nx Console’s most like... 
+ Over the last few weeks, we rebuilt one of Nx Console’s most liked features from the ground up: The ... 
 
  [바로가기](https://medium.com/nrwl/nx-console-gets-lit-ca339743ff4f?source=tag_page---------0-84--------------------2644d720_e29b_4abb_abcd_f0963110dc6b-------17) 
 
 ### Building a Post Component with Links, onClick Handling, Text Selection, and Clickability Anywhere. 
 
- lastcallofsummer·3 hours agoIntroduction In this article, we will explore how to create a versatile ... 
+ Introduction In this article, we will explore how to create a versatile post component in React that... 
 
  [바로가기](https://medium.com/@lastcallofsummer/building-a-post-component-with-links-onclick-handling-text-selection-and-clickability-anywhere-21c690d56c5a?source=tag_page---------0-84--------------------a256de1f_8ff9_447f_96ad_aedb48c59d2d-------17) 
 
 ### Implement React using the CDN Link 
 
- shivam vishwakarma·9 hours agoHello Dev, Do you know that there is another way to use React, apart f... 
+ Hello Dev, Do you know that there is another way to use React, apart from creating it through “npx” ... 
 
  [바로가기](https://medium.com/@mibatman01/use-react-using-the-cdn-link-3515a576ebcd?source=tag_page---------0-84--------------------6022b635_55c5_483d_9570_2fa37164278b-------17) 
 
 ### Exploring Next.js: The Growing Choice for Developers and Vercel’s Remarkable Contribution 
 
- Akeleojo Achor·23 hours agoIt was less than a week ago when a friend and I sat down to plan a projec... 
+ It was less than a week ago when a friend and I sat down to plan a project we had wanted to do for a... 
 
  [바로가기](https://medium.com/@achorisaac/exploring-next-js-the-growing-choice-for-developers-and-vercels-remarkable-contribution-493b0fce5171?source=tag_page---------0-84--------------------112ab0b8_0e75_424d_a057_576b9b7ce618-------17) 
 
