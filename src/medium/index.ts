@@ -33,9 +33,10 @@ const getMediumObj = async (tag: string) => {
   const obj: ObjType = { title: "", desc: "", url: "" };
   const html = await getHtml(medium + `/tag/${tag}`);
   const $ = cheerio.load(html?.data);
-  const $content = $("article").eq(0);
+  const $content = $("article").first();
+
   obj.title = $content.find("h2").text();
   obj.desc = $content.find("p").text().slice(0, MAX_DESC_LENGTH) + "...";
-  obj.url = medium + $content.find("a").attr("href");
+  obj.url = medium + $content.find("a").last().attr("href");
   return obj;
 };
