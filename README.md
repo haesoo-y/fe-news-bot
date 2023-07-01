@@ -1,5 +1,5 @@
 # 오늘의 포스팅 
-2023년 7월 1일 14시 기준 
+2023년 7월 1일 15시 기준 
 
 ###  React Query를 사용하여 서버 상태를 관리하는 방법 
 
@@ -37,23 +37,23 @@
 
  [바로가기](https://yozm.wishket.com/magazine/detail/2095/) 
 
-### Nx Console gets Lit 
+### Storybook for Angular 
 
- Max KlessinNx Devtools·23 hours agoOver the last few weeks, we rebuilt one of Nx Console’s most like... 
+ Aswinjith MinKnowledge Lens: A Rockwell Automation Company·17 hours agoEasy way to build and documen... 
 
- [바로가기](https://medium.com/@maxkless?source=tag_page---------0-84--------------------2644d720_e29b_4abb_abcd_f0963110dc6b-------17) 
+ [바로가기](https://medium.com/knowledgelens/storybook-for-angular-87b22c585694?source=tag_page---------0-84--------------------3efd4f3c_1c04_4aab_add6_6210b20873d7-------17) 
 
 ### Building a Post Component with Links, onClick Handling, Text Selection, and Clickability Anywhere. 
 
  lastcallofsummer·3 hours agoIntroduction In this article, we will explore how to create a versatile ... 
 
- [바로가기](https://medium.com/@lastcallofsummer?source=tag_page---------0-84--------------------a256de1f_8ff9_447f_96ad_aedb48c59d2d-------17) 
+ [바로가기](https://medium.com/@lastcallofsummer/building-a-post-component-with-links-onclick-handling-text-selection-and-clickability-anywhere-21c690d56c5a?source=tag_page---------0-84--------------------a256de1f_8ff9_447f_96ad_aedb48c59d2d-------17) 
 
 ### Implement React using the CDN Link 
 
  shivam vishwakarma·9 hours agoHello Dev, Do you know that there is another way to use React, apart f... 
 
- [바로가기](https://medium.com/@mibatman01?source=tag_page---------0-84--------------------6022b635_55c5_483d_9570_2fa37164278b-------17) 
+ [바로가기](https://medium.com/@mibatman01/use-react-using-the-cdn-link-3515a576ebcd?source=tag_page---------0-84--------------------6d131aa6_7a16_4e33_ae26_1a978ae63163-------17) 
 
 ---
 
