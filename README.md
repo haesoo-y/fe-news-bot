@@ -1,17 +1,11 @@
 # 오늘의 포스팅 
-2023년 7월 1일 15시 기준 
-
-### Nx Console gets Lit 
-
- Over the last few weeks, we rebuilt one of Nx Console’s most liked features from the ground up: The ... 
-
- [바로가기](https://medium.com/nrwl/nx-console-gets-lit-ca339743ff4f?source=tag_page---------0-84--------------------2644d720_e29b_4abb_abcd_f0963110dc6b-------17) 
+2023년 7월 2일 9시 기준 
 
 ### Building a Post Component with Links, onClick Handling, Text Selection, and Clickability Anywhere. 
 
  Introduction In this article, we will explore how to create a versatile post component in React that... 
 
- [바로가기](https://medium.com/@lastcallofsummer/building-a-post-component-with-links-onclick-handling-text-selection-and-clickability-anywhere-21c690d56c5a?source=tag_page---------0-84--------------------a256de1f_8ff9_447f_96ad_aedb48c59d2d-------17) 
+ [바로가기](https://medium.com/@lastcallofsummer/building-a-post-component-with-links-onclick-handling-text-selection-and-clickability-anywhere-21c690d56c5a?source=tag_page---------0-84--------------------1835ea31_b27e_44e2_9ded_f083ff1d3cd2-------17) 
 
 ### Implement React using the CDN Link 
 
@@ -19,11 +13,17 @@
 
  [바로가기](https://medium.com/@mibatman01/use-react-using-the-cdn-link-3515a576ebcd?source=tag_page---------0-84--------------------6022b635_55c5_483d_9570_2fa37164278b-------17) 
 
-### Exploring Next.js: The Growing Choice for Developers and Vercel’s Remarkable Contribution 
+### Enhancing Your Next.js Application with Custom Layouts 
 
- It was less than a week ago when a friend and I sat down to plan a project we had wanted to do for a... 
+ Introduction Imagine you’re building a Next.js application. You have a common header and footer on e... 
 
- [바로가기](https://medium.com/@achorisaac/exploring-next-js-the-growing-choice-for-developers-and-vercels-remarkable-contribution-493b0fce5171?source=tag_page---------0-84--------------------112ab0b8_0e75_424d_a057_576b9b7ce618-------17) 
+ [바로가기](https://medium.com/@KiranMohan27/enhancing-your-next-js-application-with-custom-layouts-5645b1d58132?source=tag_page---------0-84--------------------fcb43b09_3d98_482b_a103_6456b351ec61-------17) 
+
+### How To Create Context Menus That Always Display Inside The Viewport Using Only CSS 
+
+ Member-onlyMake sure your menu is always visible without complex JavaScript If you have ever tried t... 
+
+ [바로가기](https://medium.com/itnext/how-to-create-context-menus-that-always-display-inside-the-viewport-using-only-css-963bfee6bfc5?source=tag_page---------0-84--------------------a52714a4_cfad_4af5_ac05_e7246852a2ac-------17) 
 
 ###  React Query를 사용하여 서버 상태를 관리하는 방법 
 
