@@ -1,17 +1,11 @@
 # 오늘의 포스팅 
-2023년 7월 2일 9시 기준 
+2023년 7월 3일 9시 기준 
 
-### Building a Post Component with Links, onClick Handling, Text Selection, and Clickability Anywhere. 
+### Introduction of React 
 
- Introduction In this article, we will explore how to create a versatile post component in React that... 
+ In today’s blog, we are talking about react which we also called react.js, react js. our main goal i... 
 
- [바로가기](https://medium.com/@lastcallofsummer/building-a-post-component-with-links-onclick-handling-text-selection-and-clickability-anywhere-21c690d56c5a?source=tag_page---------0-84--------------------1835ea31_b27e_44e2_9ded_f083ff1d3cd2-------17) 
-
-### Implement React using the CDN Link 
-
- Hello Dev, Do you know that there is another way to use React, apart from creating it through “npx” ... 
-
- [바로가기](https://medium.com/@mibatman01/use-react-using-the-cdn-link-3515a576ebcd?source=tag_page---------0-84--------------------6022b635_55c5_483d_9570_2fa37164278b-------17) 
+ [바로가기](https://medium.com/@balkar48812/introduction-of-react-c23d79b16bd5?source=tag_page---------0-84--------------------1b66f8d3_4c1a_4fde_aab4_2e453f458c12-------17) 
 
 ### Enhancing Your Next.js Application with Custom Layouts 
 
@@ -19,23 +13,30 @@
 
  [바로가기](https://medium.com/@KiranMohan27/enhancing-your-next-js-application-with-custom-layouts-5645b1d58132?source=tag_page---------0-84--------------------fcb43b09_3d98_482b_a103_6456b351ec61-------17) 
 
-### How To Create Context Menus That Always Display Inside The Viewport Using Only CSS 
+### Angular is getting New Template Syntax 
 
- Member-onlyMake sure your menu is always visible without complex JavaScript If you have ever tried t... 
+ New Template Syntax, Built-In Control Flow, a farewell to structural directives? Not a lot has been ... 
 
- [바로가기](https://medium.com/itnext/how-to-create-context-menus-that-always-display-inside-the-viewport-using-only-css-963bfee6bfc5?source=tag_page---------0-84--------------------a52714a4_cfad_4af5_ac05_e7246852a2ac-------17) 
+ [바로가기](https://medium.com/itnext/angular-is-getting-new-template-syntax-ff66bc5f02f7?source=tag_page---------0-84--------------------ff7dc1df_0463_4c96_b0c5_43ba554a4556-------17) 
+
+### Data Fetching Advantages of SWR 
+
+ Data Fetching with useEffect function     const [data, setData] = useState([]);
+    const [err, setE... 
+
+ [바로가기](https://medium.com/@mttopak/data-fetching-on-next-js-b111077e514f?source=tag_page---------0-84--------------------c09436fb_98d6_441a_a3ac_80439102e5ee-------17) 
+
+###  가상 DOM: 블록으로 돌아가기 
+
+ 소개 가상 DOM은 실제 DOM의 잦은 변경을 최소화함으로써, 상태 변경에 따른 렌더링 성능에 대한 걱정을 덜은 채 애플리케이션을 만드는데 집중할 수 있게 해줬습니다. 하지만 단점... 
+
+ [바로가기](https://kofearticle.substack.com/p/korean-fe-article-dom) 
 
 ###  React Query를 사용하여 서버 상태를 관리하는 방법 
 
  소개 React Query를 사용하여 빠르게 작업을 시작할 수 있는 출발점을 제공하는 글을 소개합니다. 이 글은 클라이언트 상태와 서버 상태의 차이를 이해하는 것부터 시작하여 Re... 
 
  [바로가기](https://kofearticle.substack.com/p/korean-fe-article-react-query-7b8) 
-
-###  이벤트 루프를 차단하지 않기 위한 실용적인 가이드 
-
- 소개 자바스크립트는 싱글 스레드로 동작하기 때문에, 비동기 작업 처리를 통해서 여러 요청을 처리합니다. 그렇기…... 
-
- [바로가기](https://kofearticle.substack.com/p/korean-fe-article-280) 
 
 ### [쉽게 배우는 AI] 11. 연관 규칙 학습이란? 
 
