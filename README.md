@@ -1,17 +1,11 @@
 # 오늘의 포스팅 
-2023년 7월 4일 9시 기준 
+2023년 7월 5일 9시 기준 
 
-### Working with Placeholder in Sitecore NextJs — Part 1 
+### 18 Essential Developer Tools to 10x Your Productivity 
 
- Placeholder is one of the component of JSS. Placeholder is helping to place the component on the pag... 
+ Member-only99.9% of developers don’t know about all of these. —  I would like to share with you 18 w... 
 
- [바로가기](https://medium.com/@vignesh.jothikumar/working-with-placeholder-in-sitecore-nextjs-part-1-6f30859e5c49?source=tag_page---------0-84--------------------89e99ed9_7123_4cb2_9f6f_3ef3fe035b64-------17) 
-
-### Angular is getting New Template Syntax 
-
- New Template Syntax, Built-In Control Flow, a farewell to structural directives? Not a lot has been ... 
-
- [바로가기](https://medium.com/itnext/angular-is-getting-new-template-syntax-ff66bc5f02f7?source=tag_page---------0-84--------------------6fdd252d_c81f_4c57_aa97_aeed47ed6d26-------17) 
+ [바로가기](https://medium.com/javascript-in-plain-english/18-essential-developer-tools-to-10x-your-productivity-a1e02391287e?source=tag_page---------0-84--------------------3d952131_64e6_45ca_9233_bbca855be3a9-------17) 
 
 ### Most Senior React Devs Don’t Know How To Fix This 
 
@@ -19,11 +13,17 @@
 
  [바로가기](https://medium.com/@caglayanyanikoglu/most-senior-react-devs-dont-know-how-to-fix-this-keys-in-react-848b2408a183?source=tag_page---------0-84--------------------f19b7646_d2e1_445d_a82b_a938ca2a39c2-------17) 
 
-### Angular is getting New Template Syntax 
+### A New React Native Development Approach - Part 2: The “How?” 
 
- New Template Syntax, Built-In Control Flow, a farewell to structural directives? Not a lot has been ... 
+ Welcome to part two of our series on separating React from Native in React Native development. In th... 
 
- [바로가기](https://medium.com/itnext/angular-is-getting-new-template-syntax-ff66bc5f02f7?source=tag_page---------0-84--------------------4bab3666_f1b4_40c7_8456_01ab90062078-------17) 
+ [바로가기](https://medium.com/itnext/a-new-react-native-development-approach-part-2-the-how-e3eecfc0a45e?source=tag_page---------0-84--------------------7b3a0bfb_f60f_4125_b4ea_ffbdeef3b439-------17) 
+
+### Using Drizzle Studio to visualize Turso 
+
+ How to visualize data inside your Turso databases using Drizzle’s new studio feature. —  Drizzle jus... 
+
+ [바로가기](https://medium.com/chiselstrike/using-drizzle-studio-with-turso-4ebc1dfd4eac?source=tag_page---------0-84--------------------490de6a2_b9d2_48cf_9f15_e3d38bff2c1e-------17) 
 
 ###  가상 DOM: 블록으로 돌아가기 
 
