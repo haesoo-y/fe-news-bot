@@ -1,29 +1,35 @@
 # 오늘의 포스팅 
-2023년 7월 5일 9시 기준 
+2023년 7월 6일 9시 기준 
 
-### 18 Essential Developer Tools to 10x Your Productivity 
+### Inside the Git Machine: Demystifying the Inner Workings of Git for Developers 
 
- Member-only99.9% of developers don’t know about all of these. —  I would like to share with you 18 w... 
+ Git in depth Git is a distributed version control system designed to make collaboration on software ... 
 
- [바로가기](https://medium.com/javascript-in-plain-english/18-essential-developer-tools-to-10x-your-productivity-a1e02391287e?source=tag_page---------0-84--------------------3d952131_64e6_45ca_9233_bbca855be3a9-------17) 
+ [바로가기](https://medium.com/@mohitms/inside-the-git-machine-demystifying-the-inner-workings-of-git-for-developers-ac5e8b7e74b2?source=tag_page---------0-84--------------------9fa89d89_89b3_4d05_8735_28bb28977fdf-------17) 
 
-### Most Senior React Devs Don’t Know How To Fix This 
+### Production-ready comprehensive anti-CSRF/XSS Reactjs client-side authentication using access and refresh tokens 
 
- Hello everyone, welcome to #SundayTechMusings after a long time :). Today, I will write about a real... 
+ There are multiple ways of doing authentication in React.js Client-Side Rendering AKA CSR applicatio... 
 
- [바로가기](https://medium.com/@caglayanyanikoglu/most-senior-react-devs-dont-know-how-to-fix-this-keys-in-react-848b2408a183?source=tag_page---------0-84--------------------f19b7646_d2e1_445d_a82b_a938ca2a39c2-------17) 
+ [바로가기](https://medium.com/@maxtsh/production-ready-comprehensive-anti-csrf-xss-reactjs-client-side-authentication-using-access-and-b2ade8ed8e19?source=tag_page---------0-84--------------------35fa2819_b713_437c_9f59_d8df6e5b5d1d-------17) 
 
-### A New React Native Development Approach - Part 2: The “How?” 
+### Worst Practices In Angular 
 
- Welcome to part two of our series on separating React from Native in React Native development. In th... 
+ Common Mistakes to Avoid for Better Code Quality —  Introduction: Angular is a popular and powerful ... 
 
- [바로가기](https://medium.com/itnext/a-new-react-native-development-approach-part-2-the-how-e3eecfc0a45e?source=tag_page---------0-84--------------------7b3a0bfb_f60f_4125_b4ea_ffbdeef3b439-------17) 
+ [바로가기](https://medium.com/@Hasan.Kakeh/worst-practices-in-angular-aac6e8cc1a69?source=tag_page---------0-84--------------------f6040c45_1ff6_44e7_9907_1c5c87195f8d-------17) 
 
-### Using Drizzle Studio to visualize Turso 
+### Top 75 Javascript Interview Questions List — Frontend Interview Prep 
 
- How to visualize data inside your Turso databases using Drizzle’s new studio feature. —  Drizzle jus... 
+ If you have been trying to prepare for front-end engineering interviews, and are struggling to find ... 
 
- [바로가기](https://medium.com/chiselstrike/using-drizzle-studio-with-turso-4ebc1dfd4eac?source=tag_page---------0-84--------------------490de6a2_b9d2_48cf_9f15_e3d38bff2c1e-------17) 
+ [바로가기](https://medium.com/@shivambh28/75-most-frequently-asked-frontend-javascript-interview-questions-dc3b63fbf73e?source=tag_page---------0-84--------------------f33a381f_3410_4e38_ab5d_ab82808379ea-------17) 
+
+###  브라우저 탭과 창 사이 WebSocket 커넥션 공유하기 
+
+ | WebSocket을 활용하는 웹 애플리케이션의 유저가 브라우저의 탭과 창을 여러 개 띄우게 된다면 커넥션을 각각 맺어야…... 
+
+ [바로가기](https://kofearticle.substack.com/p/korean-fe-article-websocket) 
 
 ###  가상 DOM: 블록으로 돌아가기 
 
@@ -31,23 +37,17 @@
 
  [바로가기](https://kofearticle.substack.com/p/korean-fe-article-dom) 
 
-###  React Query를 사용하여 서버 상태를 관리하는 방법 
+### 백엔드 개발자라면 알아야 할 리눅스 필수 명령어 21개 
 
- 소개 React Query를 사용하여 빠르게 작업을 시작할 수 있는 출발점을 제공하는 글을 소개합니다. 이 글은 클라이언트 상태와 서버 상태의 차이를 이해하는 것부터 시작하여 Re... 
+ 백엔드 개발자가 아니면 리눅스를 사용할 일이 거의 없습니다. 그러므로 백엔드 입문자인 여러분께 리눅스 명령어는 낯설기 마련입니다. 명령어는 방대하기 때문에 처음부터 모든 명령어를 ... 
 
- [바로가기](https://kofearticle.substack.com/p/korean-fe-article-react-query-7b8) 
+ [바로가기](https://yozm.wishket.com/magazine/detail/2103/) 
 
 ### 시작이 막막한 프리랜서 개발자들을 위한 가이드 
 
  지난해 초 실시한 설문조사 결과에 따르면, 실제 MZ세대 사이에서도 한 직장에서 평생을 일하는 전통적인 일자리에 대한 인식이 변화하고 있으며 약 65% 이상의 청년이 프리랜서 의향... 
 
  [바로가기](https://yozm.wishket.com/magazine/detail/2100/) 
-
-### [쉽게 배우는 AI] 11. 연관 규칙 학습이란? 
-
- 연관 규칙 학습은 이름에서도 알 수 있듯 서로 연관된 특징을 찾는 학습 방법입니다. 이러한 연관 규칙 학습은 쉽게 추천 관련 알고리즘을 떠올리면 되는데요. 영화를 예매했을 때 비슷... 
-
- [바로가기](https://yozm.wishket.com/magazine/detail/2098/) 
 
 ---
 
