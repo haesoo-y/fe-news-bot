@@ -1,29 +1,29 @@
 # 오늘의 포스팅 
-2023년 7월 6일 9시 기준 
+2023년 7월 7일 9시 기준 
 
-### Inside the Git Machine: Demystifying the Inner Workings of Git for Developers 
+### Demystifying JavaScript Data Types: A Practical Guide with Examples 
 
- Git in depth Git is a distributed version control system designed to make collaboration on software ... 
+ Pavel Turchenko--1... 
 
- [바로가기](https://medium.com/@mohitms/inside-the-git-machine-demystifying-the-inner-workings-of-git-for-developers-ac5e8b7e74b2?source=tag_page---------0-84--------------------9fa89d89_89b3_4d05_8735_28bb28977fdf-------17) 
+ [바로가기](https://medium.com/@pavelturchenko89/demystifying-javascript-data-types-a-practical-guide-with-examples-6c074cf57886?source=topic_portal_recommended_stories---------0-84----------javascript----------8629f51a_100b_45db_ac6c_723669e12b80-------&responsesOpen=true&sortBy=REVERSE_CHRON) 
 
-### Production-ready comprehensive anti-CSRF/XSS Reactjs client-side authentication using access and refresh tokens 
+### Let’s create a Generic Select component in React & TypeScript 
 
- There are multiple ways of doing authentication in React.js Client-Side Rendering AKA CSR applicatio... 
+ Miroslav Petrik--... 
 
- [바로가기](https://medium.com/@maxtsh/production-ready-comprehensive-anti-csrf-xss-reactjs-client-side-authentication-using-access-and-b2ade8ed8e19?source=tag_page---------0-84--------------------35fa2819_b713_437c_9f59_d8df6e5b5d1d-------17) 
+ [바로가기](https://medium.com/@miroslavpetrik/lets-create-a-generic-select-component-in-react-typescript-fa720da0e015?source=topic_portal_recommended_stories---------0-84----------typescript----------6f5c0fa5_0f53_4863_a7bf_34b4dd87994f-------&responsesOpen=true&sortBy=REVERSE_CHRON) 
 
-### Worst Practices In Angular 
+### Decoupling UI and Logic in React: A Clean Code Approach with Headless Components 
 
- Common Mistakes to Avoid for Better Code Quality —  Introduction: Angular is a popular and powerful ... 
+ In the realm of front-end development, terms and paradigms can sometimes be mystifying, and ‘headles... 
 
- [바로가기](https://medium.com/@Hasan.Kakeh/worst-practices-in-angular-aac6e8cc1a69?source=tag_page---------0-84--------------------f6040c45_1ff6_44e7_9907_1c5c87195f8d-------17) 
+ [바로가기](https://medium.com/itnext/decoupling-ui-and-logic-in-react-a-clean-code-approach-with-headless-components-82e46b5820c?source=tag_page---------0-84--------------------7a0a72b3_483b_4185_bf9e_80327ff5ff67-------17) 
 
-### Top 75 Javascript Interview Questions List — Frontend Interview Prep 
+### What are props in detail with an example 
 
- If you have been trying to prepare for front-end engineering interviews, and are struggling to find ... 
+ What are props and why do we need to use them? Props implies ‘properties’. Props are one type of obj... 
 
- [바로가기](https://medium.com/@shivambh28/75-most-frequently-asked-frontend-javascript-interview-questions-dc3b63fbf73e?source=tag_page---------0-84--------------------f33a381f_3410_4e38_ab5d_ab82808379ea-------17) 
+ [바로가기](https://medium.com/@namrata-72269/what-are-props-in-detail-with-an-example-34c1646d4c2e?source=tag_page---------0-84--------------------bed800b0_8ef9_4d0d_a7d2_ae247daa2007-------17) 
 
 ###  브라우저 탭과 창 사이 WebSocket 커넥션 공유하기 
 
@@ -37,17 +37,17 @@
 
  [바로가기](https://kofearticle.substack.com/p/korean-fe-article-dom) 
 
-### 백엔드 개발자라면 알아야 할 리눅스 필수 명령어 21개 
+### IP 주소의 역사와 서브넷 마스크의 탄생 
 
- 백엔드 개발자가 아니면 리눅스를 사용할 일이 거의 없습니다. 그러므로 백엔드 입문자인 여러분께 리눅스 명령어는 낯설기 마련입니다. 명령어는 방대하기 때문에 처음부터 모든 명령어를 ... 
+ 오늘날, 거의 대다수의 가정집에 설치되어 있는 유무선 공유기를 하나의 LAN이라고도 볼 수 있습니다. 그럼 세상에는 얼마나 많은 네트워크가 존재하는 걸까요? 과연 이 모든 네트워크... 
 
- [바로가기](https://yozm.wishket.com/magazine/detail/2103/) 
+ [바로가기](https://yozm.wishket.com/magazine/detail/2108/) 
 
-### 시작이 막막한 프리랜서 개발자들을 위한 가이드 
+### 개발자에게 웹 폰트 최적화가 중요한 이유 
 
- 지난해 초 실시한 설문조사 결과에 따르면, 실제 MZ세대 사이에서도 한 직장에서 평생을 일하는 전통적인 일자리에 대한 인식이 변화하고 있으며 약 65% 이상의 청년이 프리랜서 의향... 
+ 웹 폰트는 웹 페이지에서 사용되는 폰트를 온라인상에서 다운로드하여 쓸 수 있는 기술입니다. 웹 폰트는 사용자가 미리 해당 폰트를 시스템에 설치하지 않아도 사용이 가능하기 때문에, ... 
 
- [바로가기](https://yozm.wishket.com/magazine/detail/2100/) 
+ [바로가기](https://yozm.wishket.com/magazine/detail/2107/) 
 
 ---
 
