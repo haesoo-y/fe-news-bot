@@ -1,29 +1,30 @@
 # 오늘의 포스팅 
-2023년 7월 7일 9시 기준 
+2023년 7월 8일 9시 기준 
 
-### Demystifying JavaScript Data Types: A Practical Guide with Examples 
+### Getting Started with TypeScript: A Step-by-Step Guide 
 
- Pavel Turchenko--1... 
+ TypeScript is a powerful programming language that enhances JavaScript by adding static typing. It p... 
 
- [바로가기](https://medium.com/@pavelturchenko89/demystifying-javascript-data-types-a-practical-guide-with-examples-6c074cf57886?source=topic_portal_recommended_stories---------0-84----------javascript----------8629f51a_100b_45db_ac6c_723669e12b80-------&responsesOpen=true&sortBy=REVERSE_CHRON) 
-
-### Let’s create a Generic Select component in React & TypeScript 
-
- Miroslav Petrik--... 
-
- [바로가기](https://medium.com/@miroslavpetrik/lets-create-a-generic-select-component-in-react-typescript-fa720da0e015?source=topic_portal_recommended_stories---------0-84----------typescript----------6f5c0fa5_0f53_4863_a7bf_34b4dd87994f-------&responsesOpen=true&sortBy=REVERSE_CHRON) 
+ [바로가기](https://medium.com/@kriju.special/getting-started-with-typescript-a-step-by-step-guide-f1f26a118f2d?source=tag_page---------0-84--------------------53e89ef8_56ec_4c7b_927c_1a0ae9cd44ab-------17) 
 
 ### Decoupling UI and Logic in React: A Clean Code Approach with Headless Components 
 
  In the realm of front-end development, terms and paradigms can sometimes be mystifying, and ‘headles... 
 
- [바로가기](https://medium.com/itnext/decoupling-ui-and-logic-in-react-a-clean-code-approach-with-headless-components-82e46b5820c?source=tag_page---------0-84--------------------7a0a72b3_483b_4185_bf9e_80327ff5ff67-------17) 
+ [바로가기](https://medium.com/itnext/decoupling-ui-and-logic-in-react-a-clean-code-approach-with-headless-components-82e46b5820c?source=tag_page---------0-84--------------------ea578257_7150_4a10_b533_4a2b73f49680-------17) 
 
-### What are props in detail with an example 
+### Creating a React App from Scratch 
 
- What are props and why do we need to use them? Props implies ‘properties’. Props are one type of obj... 
+ Prerequisites:
+Before starting, make sure you have Node.js installed (node -v).If not installed inst... 
 
- [바로가기](https://medium.com/@namrata-72269/what-are-props-in-detail-with-an-example-34c1646d4c2e?source=tag_page---------0-84--------------------bed800b0_8ef9_4d0d_a7d2_ae247daa2007-------17) 
+ [바로가기](https://medium.com/@sandraantony2002/creating-a-react-app-from-scratch-850e8d0d7f09?source=tag_page---------0-84--------------------b780c8d1_0784_48fb_ab36_1e0469ba3ed0-------17) 
+
+### Nx 16.5 Release!!! 
+
+ Zack DeRoseinNx Devtools--... 
+
+ [바로가기](https://medium.com/nrwl/nx-16-5-release-7887a27cb5?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------nextjs----------d2c5c810_9dcd_4275_8c6d_de49a904411c-------) 
 
 ###  브라우저 탭과 창 사이 WebSocket 커넥션 공유하기 
 
@@ -37,17 +38,17 @@
 
  [바로가기](https://kofearticle.substack.com/p/korean-fe-article-dom) 
 
-### IP 주소의 역사와 서브넷 마스크의 탄생 
+### [쉽게 배우는 AI] 12. 비지도 학습의 목적 
 
- 오늘날, 거의 대다수의 가정집에 설치되어 있는 유무선 공유기를 하나의 LAN이라고도 볼 수 있습니다. 그럼 세상에는 얼마나 많은 네트워크가 존재하는 걸까요? 과연 이 모든 네트워크... 
+ 지도 학습의 경우, 과거의 원인과 결과를 바탕으로 결과를 알 수 없는 원인이 발생했을 때, 어떤 결과를 가져올지 추측하는 것이 목적입니다. 따라서 독립변수(원인)에 따른 종속변수(... 
 
- [바로가기](https://yozm.wishket.com/magazine/detail/2108/) 
+ [바로가기](https://yozm.wishket.com/magazine/detail/2111/) 
 
-### 개발자에게 웹 폰트 최적화가 중요한 이유 
+### 변동성의 시대를 살아가는 엔지니어의 자세 
 
- 웹 폰트는 웹 페이지에서 사용되는 폰트를 온라인상에서 다운로드하여 쓸 수 있는 기술입니다. 웹 폰트는 사용자가 미리 해당 폰트를 시스템에 설치하지 않아도 사용이 가능하기 때문에, ... 
+ 코드는 현실 세계를 반영해야 합니다. 비즈니스의 요구 사항과 사람은 컴퓨터의 작동 방식대로 움직이지 않습니다. 비즈니스를 코드로 구현하기 위해 분투하고 있는 다양한 프로그래머의 고... 
 
- [바로가기](https://yozm.wishket.com/magazine/detail/2107/) 
+ [바로가기](https://yozm.wishket.com/magazine/detail/2110/) 
 
 ---
 
