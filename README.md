@@ -1,30 +1,29 @@
 # 오늘의 포스팅 
-2023년 7월 8일 9시 기준 
-
-### Getting Started with TypeScript: A Step-by-Step Guide 
-
- TypeScript is a powerful programming language that enhances JavaScript by adding static typing. It p... 
-
- [바로가기](https://medium.com/@kriju.special/getting-started-with-typescript-a-step-by-step-guide-f1f26a118f2d?source=tag_page---------0-84--------------------53e89ef8_56ec_4c7b_927c_1a0ae9cd44ab-------17) 
+2023년 7월 9일 9시 기준 
 
 ### Decoupling UI and Logic in React: A Clean Code Approach with Headless Components 
 
- In the realm of front-end development, terms and paradigms can sometimes be mystifying, and ‘headles... 
+ Juntao QiuinITNEXT--... 
 
- [바로가기](https://medium.com/itnext/decoupling-ui-and-logic-in-react-a-clean-code-approach-with-headless-components-82e46b5820c?source=tag_page---------0-84--------------------ea578257_7150_4a10_b533_4a2b73f49680-------17) 
+ [바로가기](https://medium.com/itnext/decoupling-ui-and-logic-in-react-a-clean-code-approach-with-headless-components-82e46b5820c?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------frontend----------6e11aa11_0dc8_4cac_a306_ecf4255f2bbd-------) 
 
 ### Creating a React App from Scratch 
 
- Prerequisites:
-Before starting, make sure you have Node.js installed (node -v).If not installed inst... 
+ SandraRosaAntony--1... 
 
- [바로가기](https://medium.com/@sandraantony2002/creating-a-react-app-from-scratch-850e8d0d7f09?source=tag_page---------0-84--------------------b780c8d1_0784_48fb_ab36_1e0469ba3ed0-------17) 
+ [바로가기](https://medium.com/@sandraantony2002/creating-a-react-app-from-scratch-850e8d0d7f09?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------reactjs----------a2027b44_c1e3_4552_9690_ae06943bcc80-------) 
 
 ### Nx 16.5 Release!!! 
 
  Zack DeRoseinNx Devtools--... 
 
- [바로가기](https://medium.com/nrwl/nx-16-5-release-7887a27cb5?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------nextjs----------d2c5c810_9dcd_4275_8c6d_de49a904411c-------) 
+ [바로가기](https://medium.com/nrwl/nx-16-5-release-7887a27cb5?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------nextjs----------44746a0a_98e2_4383_9c0d_a6cfe0e4a3cc-------) 
+
+### How to remove Event Listeners in JavaScript having Anonymous Functions 
+
+ Are you frustrated trying to remove an event listener with an anonymous function? Don’t worry , afte... 
+
+ [바로가기](https://medium.com/@vk784_10031/how-to-remove-event-listeners-in-javascript-having-anonymous-functions-4ad47cf3befd?source=tag_page---------0-84--------------------7a4fea88_94ba_4d12_a2a9_f33a52d4c016-------17) 
 
 ###  브라우저 탭과 창 사이 WebSocket 커넥션 공유하기 
 
