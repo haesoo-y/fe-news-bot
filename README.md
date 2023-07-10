@@ -1,41 +1,41 @@
 # 오늘의 포스팅 
-2023년 7월 9일 9시 기준 
+2023년 7월 10일 9시 기준 
 
-### Decoupling UI and Logic in React: A Clean Code Approach with Headless Components 
+### Unleashing the Power of React.js: A Beginner’s Journey ✨ 
 
- Juntao QiuinITNEXT--... 
+ TrickyDevelopment--... 
 
- [바로가기](https://medium.com/itnext/decoupling-ui-and-logic-in-react-a-clean-code-approach-with-headless-components-82e46b5820c?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------frontend----------6e11aa11_0dc8_4cac_a306_ecf4255f2bbd-------) 
-
-### Creating a React App from Scratch 
-
- SandraRosaAntony--1... 
-
- [바로가기](https://medium.com/@sandraantony2002/creating-a-react-app-from-scratch-850e8d0d7f09?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------reactjs----------a2027b44_c1e3_4552_9690_ae06943bcc80-------) 
+ [바로가기](https://medium.com/@trickydevelopment/unleashing-the-power-of-react-js-a-beginners-journey-a62d4936ed01?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------reactjs----------2b44a746_8adb_4236_aceb_56bd93a1e173-------) 
 
 ### Nx 16.5 Release!!! 
 
  Zack DeRoseinNx Devtools--... 
 
- [바로가기](https://medium.com/nrwl/nx-16-5-release-7887a27cb5?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------nextjs----------44746a0a_98e2_4383_9c0d_a6cfe0e4a3cc-------) 
+ [바로가기](https://medium.com/nrwl/nx-16-5-release-7887a27cb5?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------nextjs----------fea2b2d2_84f6_4292_94b7_38497fe24599-------) 
 
 ### How to remove Event Listeners in JavaScript having Anonymous Functions 
 
- Are you frustrated trying to remove an event listener with an anonymous function? Don’t worry , afte... 
+ Vamsi Kaparthi--... 
 
- [바로가기](https://medium.com/@vk784_10031/how-to-remove-event-listeners-in-javascript-having-anonymous-functions-4ad47cf3befd?source=tag_page---------0-84--------------------7a4fea88_94ba_4d12_a2a9_f33a52d4c016-------17) 
+ [바로가기](https://medium.com/@vk784_10031/how-to-remove-event-listeners-in-javascript-having-anonymous-functions-4ad47cf3befd?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------front_end_development----------df6f9414_20d5_48ad_a77d_f13097c37444-------) 
+
+### Decoupling UI and Logic in React: A Clean Code Approach with Headless Components 
+
+ In the realm of front-end development, terms and paradigms can sometimes be mystifying, and ‘headles... 
+
+ [바로가기](https://medium.com/itnext/decoupling-ui-and-logic-in-react-a-clean-code-approach-with-headless-components-82e46b5820c?source=tag_page---------0-84--------------------106bf938_89fe_4e3d_bfd5_d056cdf6c083-------17) 
+
+###  타입스크립트 5.2의 새로운 키워드: 'using' 
+
+ 소개 이 글에서는 타입스크립트 5.2 에 도입된 using 키워드에 대해 소개합니다. 간단한 설명과 사용법만 소개하고 있어서…... 
+
+ [바로가기](https://kofearticle.substack.com/p/korean-fe-article-52-using) 
 
 ###  브라우저 탭과 창 사이 WebSocket 커넥션 공유하기 
 
  | WebSocket을 활용하는 웹 애플리케이션의 유저가 브라우저의 탭과 창을 여러 개 띄우게 된다면 커넥션을 각각 맺어야…... 
 
  [바로가기](https://kofearticle.substack.com/p/korean-fe-article-websocket) 
-
-###  가상 DOM: 블록으로 돌아가기 
-
- 소개 가상 DOM은 실제 DOM의 잦은 변경을 최소화함으로써, 상태 변경에 따른 렌더링 성능에 대한 걱정을 덜은 채 애플리케이션을 만드는데 집중할 수 있게 해줬습니다. 하지만 단점... 
-
- [바로가기](https://kofearticle.substack.com/p/korean-fe-article-dom) 
 
 ### [쉽게 배우는 AI] 12. 비지도 학습의 목적 
 
