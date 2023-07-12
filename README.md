@@ -1,29 +1,29 @@
 # 오늘의 포스팅 
-2023년 7월 11일 9시 기준 
-
-### Next.js — The Future of React Apps 
-
- React has continued to press forward as the front runner among JavaScript frameworks/libraries since... 
-
- [바로가기](https://medium.com/javascript-in-plain-english/next-js-the-future-of-react-apps-4691a0d60ce?source=tag_page---------0-84--------------------7715d827_9885_40d3_8bea_255aeace9d40-------17) 
+2023년 7월 12일 9시 기준 
 
 ### Why do we still bother with Angular? 
 
- Aphinya Dechalert--... 
+ Aphinya Dechalert--1... 
 
- [바로가기](https://medium.com/@PurpleGreenLemon/why-do-we-still-bother-with-angular-4bc76bf47f88?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------front_end_development----------739da182_bdb3_4428_bbda_364eb0c961d7-------) 
+ [바로가기](https://medium.com/@PurpleGreenLemon/why-do-we-still-bother-with-angular-4bc76bf47f88?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------front_end_development----------4fd469ae_93b3_4930_8bcb_286f7feb27d8-------) 
 
-### React and Angular: A comparison 
+### Streamline App Development with AWS Amplify: Implementing Authentication in ImageSearch React… 
 
- Marc Rice--5... 
+ Harshil Khamar--... 
 
- [바로가기](https://medium.com/@marcrice09/react-and-angular-a-comparison-f80adf6f32e0?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------react----------615bd5d3_d610_4acf_a18b_8da4acbf7ef6-------) 
+ [바로가기](https://medium.com/@harshilkhamar1/streamline-app-development-with-aws-amplify-implementing-authentication-in-imagesearch-react-389caacc1058?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------react----------071c35bd_da5e_4470_a386_e8a4ecdc82d4-------) 
 
-### 10 Projects to Build in JavaScript for Transitioning to a Senior Developer 
+### Public, Private, and Protected Class Visibility Patterns in JavaScript 
 
- Introduction: Transitioning from a mid-level to a senior developer requires hands-on experience and ... 
+ Member-onlyWhile working on my upcoming Web Components course the other day, I needed to implement a... 
 
- [바로가기](https://medium.com/@oluwadaprof/10-projects-to-build-in-javascript-for-transitioning-to-a-senior-developer-79593c10d626?source=tag_page---------0-84--------------------1e6f90b8_8ca8_495e_94cc_37cd442f0eac-------17) 
+ [바로가기](https://medium.com/@eisenbergeffect/public-private-and-protected-class-visibility-patterns-in-javascript-a23a29229430?source=tag_page---------0-84--------------------f6cadb7b_6b56_410a_a55f_b99ad7e07d4a-------17) 
+
+### Practical DDD in TypeScript: Value Object 
+
+ Member-onlyThis is why we can consider the Value Object pattern as the biggest code quality changer ... 
+
+ [바로가기](https://medium.com/javascript-in-plain-english/practical-ddd-in-typescript-value-object-b76bcd2d9283?source=tag_page---------0-84--------------------04f95775_dbcb_4897_8a2c_45777fbfc1dc-------17) 
 
 ###  왜 타입스크립트는 Object.keys의 타입을 적절하게 추론하지 못할까요? 
 
@@ -37,17 +37,17 @@
 
  [바로가기](https://kofearticle.substack.com/p/korean-fe-article-52-using) 
 
+### 스프링 부트 시작할 때 알아야 하는 것 
+
+ 스프링은 장점이 많은 개발 도구이지만 설정이 매우 복잡하다는 단점이 있습니다. 그래서 스프링을 개발팀에서도 이런 단점을 인식하고 단점을 보완하고자 스프링 부트를 출시했습니다. 스프... 
+
+ [바로가기](https://yozm.wishket.com/magazine/detail/2115/) 
+
 ### 개발자에게 편리함을 주는 ‘GraphQL’ 도입 시 주의할 점은? 
 
  프론트엔드 개발자에게 API 통신 비용은 언제나 고민되는 요소다. 모던 브라우저의 경우 성능이 많이 좋아져서 유저가 불편할 정도의 지연은 자주 발생하지 않지만, API 통신은 네트... 
 
  [바로가기](https://yozm.wishket.com/magazine/detail/2113/) 
-
-### [쉽게 배우는 AI] 12. 비지도 학습의 목적 
-
- 지도 학습의 경우, 과거의 원인과 결과를 바탕으로 결과를 알 수 없는 원인이 발생했을 때, 어떤 결과를 가져올지 추측하는 것이 목적입니다. 따라서 독립변수(원인)에 따른 종속변수(... 
-
- [바로가기](https://yozm.wishket.com/magazine/detail/2111/) 
 
 ---
 
