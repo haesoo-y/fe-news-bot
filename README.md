@@ -1,29 +1,29 @@
 # 오늘의 포스팅 
-2023년 7월 15일 9시 기준 
+2023년 7월 16일 9시 기준 
 
-### React as a part of an Ember app: how we modernized October’s front-end 
+### Mastering React: 8 Proven Tips for Efficient Component Design 
 
- Thibault CouloumyinOctober Engineering--... 
+ Dragusin Cristian--... 
 
- [바로가기](https://medium.com/october-engineering/react-as-a-part-of-an-ember-app-how-we-modernized-octobers-front-end-927669e580bb?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------typescript----------a04dba9d_6b2e_481b_b699_b31768226d5b-------) 
+ [바로가기](https://medium.com/@dragusincristian609/mastering-react-8-proven-tips-for-efficient-component-design-245bdad30cbd?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------frontend----------778191ba_99f5_4dd4_b22c_7e4b8ad6ed4e-------) 
 
-### Unveiling the Battle: React.js vs. Next.js — An In-depth Comparison using the 5 Whys Technique 
+### useRef in Details with Example 
 
- Chinmay--... 
+ Namrata Sanja--... 
 
- [바로가기](https://medium.com/@chinmaykude/unveiling-the-battle-react-js-vs-next-js-an-in-depth-comparison-using-the-5-whys-technique-6200c66c0531?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------frontend----------c46690a0_c31a_4400_a83d_5a3094a2a4b8-------) 
+ [바로가기](https://medium.com/@namrata-72269/useref-in-details-with-example-6b122465aea6?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------reactjs----------70b4c476_6376_4c0d_95a1_f3a8a5852ea0-------) 
 
-### Why Use Next.js Instead of React for Full Stack Applications. 
+### Turbopack — Successor to webpack? 
 
- Kazmi--1... 
+ Onkar Hasabe--... 
 
- [바로가기](https://medium.com/@IM-KAZMI/why-use-next-js-instead-of-react-for-full-stack-applications-bc280134f976?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------reactjs----------8ad3406c_6f2b_42c7_a0fd_4009efb53a2d-------) 
+ [바로가기](https://medium.com/@onkarhasabe30/turbopack-successor-to-webpack-f85bc5b8cf89?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------nextjs----------596d48a0_c768_482f_82cd_0dff7f8574fc-------) 
 
-### Why Use Next.js Instead of React for Full Stack Applications. 
+### MOST COMMON METHODS OF SENDING AND RECEIVING DATA IN JAVASCRIPT 
 
- Kazmi--1... 
+ Firdaws Lamidi--... 
 
- [바로가기](https://medium.com/@IM-KAZMI/why-use-next-js-instead-of-react-for-full-stack-applications-bc280134f976?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------nextjs----------be247532_fcec_4086_bf14_81a50513d297-------) 
+ [바로가기](https://medium.com/@lamidifirdaws/most-common-methods-of-sending-and-receiving-data-in-javascript-f4ef9b7ddffc?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------front_end_development----------d2ebd5a6_c5c3_4db6_aed3_6a99874ac37b-------) 
 
 ###  미래지향적 웹사이트를 구축하는 여러분이 몰랐던 7가지 자바스크립트 웹 API 🤯 
 
