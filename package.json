@@ -5,7 +5,10 @@
   "main": "index.js",
   "scripts": {
     "build": "tsc && tsc-alias",
-    "start": "npm run build && node dist/app"
+    "start": "npm run build && node dist/app",
+    "preview-kfa": "cross-env PREVIEW_KFA=true npm run start",
+    "preview-medium": "cross-env PREVIEW_MEDIUM=true npm run start",
+    "preview-yozm": "cross-env PREVIEW_YOZM=true npm run start"
   },
   "repository": {
     "type": "git",
@@ -24,6 +27,7 @@
   },
   "devDependencies": {
     "@types/node": "^17.0.23",
+    "cross-env": "^7.0.3",
     "tsc-alias": "^1.6.5"
   }
 }
