@@ -36,12 +36,7 @@ const getMediumObj = async (tag: string) => {
   const $content = $("article").first();
 
   obj.title = $content.find("h2").text();
-  obj.desc =
-    $content
-      .find("p")
-      .text()
-      .replace(/.+? ago/, "")
-      .slice(0, MAX_DESC_LENGTH) + "...";
+  obj.desc = $content.find("h3").text().slice(0, MAX_DESC_LENGTH) + "...";
   obj.url = medium + $content.find("a").last().attr("href");
   return obj;
 };
