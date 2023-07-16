@@ -1,27 +1,27 @@
 # 오늘의 포스팅 
-2023년 7월 16일 9시 기준 
+2023년 7월 16일 13시 기준 
 
-### Mastering React: 8 Proven Tips for Efficient Component Design 
+### Dynamic Bezier Curves using SVG (React and React-Native) 
 
- Dragusin Cristian--... 
+ Overview... 
 
- [바로가기](https://medium.com/@dragusincristian609/mastering-react-8-proven-tips-for-efficient-component-design-245bdad30cbd?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------frontend----------778191ba_99f5_4dd4_b22c_7e4b8ad6ed4e-------) 
+ [바로가기](https://medium.com/@marora629/dynamic-bezier-curves-using-svg-react-and-react-native-2821bb972bdb?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------frontend----------4c21366f_33b5_47e6_992c_546dbcca15af-------) 
 
 ### useRef in Details with Example 
 
- Namrata Sanja--... 
+ useRef is React hook in functional components as I have explained in detail in my previous blog, if ... 
 
  [바로가기](https://medium.com/@namrata-72269/useref-in-details-with-example-6b122465aea6?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------reactjs----------70b4c476_6376_4c0d_95a1_f3a8a5852ea0-------) 
 
-### Turbopack — Successor to webpack? 
+### Upload a file to AWS S3 in Next.js using Presigned URL with AWS SDK v3 
 
- Onkar Hasabe--... 
+ Using Presigned URL to upload object to an AWS S3 bucket, how to configure S3, IAM and code a small ... 
 
- [바로가기](https://medium.com/@onkarhasabe30/turbopack-successor-to-webpack-f85bc5b8cf89?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------nextjs----------596d48a0_c768_482f_82cd_0dff7f8574fc-------) 
+ [바로가기](https://medium.com/@popeating/upload-a-file-to-aws-s3-in-next-js-using-presigned-url-with-aws-sdk-v3-50b0e1547bdd?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------nextjs----------6b728dab_78ae_4ec9_be0a_7ae17fe7992b-------) 
 
 ### MOST COMMON METHODS OF SENDING AND RECEIVING DATA IN JAVASCRIPT 
 
- Firdaws Lamidi--... 
+ Trying to send and receive data using JavaScript, but can’t seem to discover a way? Look no further,... 
 
  [바로가기](https://medium.com/@lamidifirdaws/most-common-methods-of-sending-and-receiving-data-in-javascript-f4ef9b7ddffc?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------front_end_development----------d2ebd5a6_c5c3_4db6_aed3_6a99874ac37b-------) 
 
