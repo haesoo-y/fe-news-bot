@@ -1,41 +1,41 @@
 # 오늘의 포스팅 
-2023년 7월 16일 13시 기준 
+2023년 7월 17일 9시 기준 
 
-### Dynamic Bezier Curves using SVG (React and React-Native) 
+### How to Implement CI/CD for Your Frontend Applications (ReactJS) Using BunnyCDN Edge Storage 
 
- Overview... 
+ Frameworks like Angular, Vue.js, React, empower developers to build highly dynamic applications stem... 
 
- [바로가기](https://medium.com/@marora629/dynamic-bezier-curves-using-svg-react-and-react-native-2821bb972bdb?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------frontend----------4c21366f_33b5_47e6_992c_546dbcca15af-------) 
+ [바로가기](https://medium.com/@adihanif/how-to-implement-ci-cd-for-your-frontend-applications-reactjs-using-bunnycdn-edge-storage-42d2d46c06fc?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------reactjs----------298503f4_d7a7_4358_b323_f93525d779fd-------) 
 
-### useRef in Details with Example 
+### Write Clean Server-Side React Code with Higher-Order Server Components 
 
- useRef is React hook in functional components as I have explained in detail in my previous blog, if ... 
+ React 18 has unlocked the doors of the backend realm with the introduction of Server Components. How... 
 
- [바로가기](https://medium.com/@namrata-72269/useref-in-details-with-example-6b122465aea6?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------reactjs----------70b4c476_6376_4c0d_95a1_f3a8a5852ea0-------) 
+ [바로가기](https://medium.com/@burkayanduv/write-clean-server-side-react-code-with-higher-order-server-components-2b0e8df45008?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------nextjs----------40f2c3f5_6a69_497d_84e7_8407749cbd57-------) 
 
-### Upload a file to AWS S3 in Next.js using Presigned URL with AWS SDK v3 
+### Bounded Contexts & User Interfaces (part 2/2) 
 
- Using Presigned URL to upload object to an AWS S3 bucket, how to configure S3, IAM and code a small ... 
+ Back after setting some definitions and the main question in the first article here. Now, we’ll try ... 
 
- [바로가기](https://medium.com/@popeating/upload-a-file-to-aws-s3-in-next-js-using-presigned-url-with-aws-sdk-v3-50b0e1547bdd?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------nextjs----------6b728dab_78ae_4ec9_be0a_7ae17fe7992b-------) 
+ [바로가기](https://medium.com/@tpierrain/bounded-contexts-user-interfaces-part-2-2-a09d51cfc08f?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------front_end_development----------b1279336_8571_4fbd_a564_2e2ea3944ec1-------) 
 
-### MOST COMMON METHODS OF SENDING AND RECEIVING DATA IN JAVASCRIPT 
+### How to Implement CI/CD for Your Frontend Applications (ReactJS) Using BunnyCDN Edge Storage 
 
- Trying to send and receive data using JavaScript, but can’t seem to discover a way? Look no further,... 
+ Frameworks like Angular, Vue.js, React, empower developers to build highly dynamic applications stem... 
 
- [바로가기](https://medium.com/@lamidifirdaws/most-common-methods-of-sending-and-receiving-data-in-javascript-f4ef9b7ddffc?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------front_end_development----------d2ebd5a6_c5c3_4db6_aed3_6a99874ac37b-------) 
+ [바로가기](https://medium.com/@adihanif/how-to-implement-ci-cd-for-your-frontend-applications-reactjs-using-bunnycdn-edge-storage-42d2d46c06fc?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------react----------943045c5_f675_4b65_b1f9_f3d4c5b970db-------) 
+
+###  하이드레이션은 트리이고, 재개 가능성(Resumability)은 맵입니다 
+
+ 글 링크 : https://velog.io/@superlipbalm/hydration-tree-resumability-map 소개 Qwik이라는 프레임워크를 들어보셨나요? 이 프레... 
+
+ [바로가기](https://kofearticle.substack.com/p/korean-fe-article-resumability-1cb) 
 
 ###  미래지향적 웹사이트를 구축하는 여러분이 몰랐던 7가지 자바스크립트 웹 API 🤯 
 
  소개 여러분은 최신 자바스크립트 웹 API에 대해서 관심을 가지고 계신가요? 이번…... 
 
  [바로가기](https://kofearticle.substack.com/p/korean-fe-article-7-api) 
-
-###  웹 개발자를 위한 50가지 이상의 ChatGPT 프롬프트 
-
- 글 링크 : https://velog.io/@lky5697/ai-prompt-for-web-developers-chatpgt 소개 최근 ChatGPT가 여러 분야에서 화제가 되고 ... 
-
- [바로가기](https://kofearticle.substack.com/p/korean-fe-article-50-chatgpt) 
 
 ### [쉽게 배우는 AI] 13. 강화학습이란? 
 
