@@ -1,29 +1,29 @@
 # 오늘의 포스팅 
-2023년 7월 18일 10시 기준 
+2023년 7월 19일 10시 기준 
 
-### Write Clean Server-Side React Code with Higher-Order Server Components 
+### Interesting CSS properties 
 
- React 18 has unlocked the doors of the backend realm with the introduction of Server Components. How... 
+ I am going go show you the top 10 interesting CSS properties. In this article, you will research sho... 
 
- [바로가기](https://medium.com/@burkayanduv/write-clean-server-side-react-code-with-higher-order-server-components-2b0e8df45008?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------nextjs----------f31b486f_18e5_4745_980e_ee2d6da73d4c-------) 
+ [바로가기](https://medium.com/@leonidshvab1996/interesting-css-properties-dedb89a8a026?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------front_end_development----------cb92fbea_a55a_4a91_b565_5951fd2d380b-------) 
 
-### Frontend Weekly Digest #319 (10–16 July 2023) 
+### Iterators and Generators in Javascript 
 
- Web-development... 
+ A Comprehensive Guide to JavaScript’s Iteration Mechanisms.... 
 
- [바로가기](https://medium.com/@frontender-ua/frontend-weekly-digest-319-10-16-july-2023-81e0fa285f0e?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------front_end_development----------26f1adcc_2cff_48e0_a669_537df215a078-------) 
-
-### Write Clean Server-Side React Code with Higher-Order Server Components 
-
- React 18 has unlocked the doors of the backend realm with the introduction of Server Components. How... 
-
- [바로가기](https://medium.com/@burkayanduv/write-clean-server-side-react-code-with-higher-order-server-components-2b0e8df45008?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------react----------a19564cd_8abc_468e_860b_c99a887d1dcf-------) 
+ [바로가기](https://medium.com/simform-engineering/iterators-and-generators-in-javascript-22da731b7fe3?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------react----------172a23cf_4abd_4ddc_bf4c_2c2e4265fc5b-------) 
 
 ### View Transitions: The Final Frontier For Web Apps? 
 
  Here’s how to make your web app look like a native app... 
 
- [바로가기](https://medium.com/itnext/view-transitions-the-final-frontier-for-web-apps-d35658cc12b6?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------javascript----------3a0150c5_d276_4c14_a717_b2abeb8ff734-------) 
+ [바로가기](https://medium.com/itnext/view-transitions-the-final-frontier-for-web-apps-d35658cc12b6?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------javascript----------c9c6df9d_16fd_45e1_943a_2c04f8e8275b-------) 
+
+### Easy Typescript Monorepo with Nx and NPM Workspaces 
+
+ A guide on how to create a typescript monorepo using npm workspaces and Nx... 
+
+ [바로가기](https://medium.com/itnext/easy-typescript-monorepo-with-npm-workspaces-b271d81837e7?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------typescript----------e2112a56_62ba_4b12_8b3b_cc2f662bc006-------) 
 
 ###  하이드레이션은 트리이고, 재개 가능성(Resumability)은 맵입니다 
 
