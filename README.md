@@ -1,11 +1,5 @@
 # 오늘의 포스팅 
-2023년 7월 19일 10시 기준 
-
-### Interesting CSS properties 
-
- I am going go show you the top 10 interesting CSS properties. In this article, you will research sho... 
-
- [바로가기](https://medium.com/@leonidshvab1996/interesting-css-properties-dedb89a8a026?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------front_end_development----------cb92fbea_a55a_4a91_b565_5951fd2d380b-------) 
+2023년 7월 20일 9시 기준 
 
 ### Iterators and Generators in Javascript 
 
@@ -13,17 +7,23 @@
 
  [바로가기](https://medium.com/simform-engineering/iterators-and-generators-in-javascript-22da731b7fe3?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------react----------172a23cf_4abd_4ddc_bf4c_2c2e4265fc5b-------) 
 
-### View Transitions: The Final Frontier For Web Apps? 
+### Stop using npm to install node_modules 
 
- Here’s how to make your web app look like a native app... 
+ PNPM saves disk space, boosts installation speed, and creates a non-flat node_modules directory.... 
 
- [바로가기](https://medium.com/itnext/view-transitions-the-final-frontier-for-web-apps-d35658cc12b6?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------javascript----------c9c6df9d_16fd_45e1_943a_2c04f8e8275b-------) 
+ [바로가기](https://medium.com/@kristiyan.velkov/stop-using-npm-to-install-node-modules-8f1bd7be9918?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------javascript----------19df7f57_5e57_483e_a702_6821b5d94c79-------) 
 
 ### Easy Typescript Monorepo with Nx and NPM Workspaces 
 
  A guide on how to create a typescript monorepo using npm workspaces and Nx... 
 
- [바로가기](https://medium.com/itnext/easy-typescript-monorepo-with-npm-workspaces-b271d81837e7?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------typescript----------e2112a56_62ba_4b12_8b3b_cc2f662bc006-------) 
+ [바로가기](https://medium.com/itnext/easy-typescript-monorepo-with-npm-workspaces-b271d81837e7?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------typescript----------6b24e14c_3b08_4476_baf4_1052b95ce56f-------) 
+
+### Create your first web component with HTML, CSS and JS — Part 1 
+
+ This blog is the first part and in total, I will split this into 3 parts where I will share how we c... 
+
+ [바로가기](https://medium.com/@stack.subham/create-your-first-web-component-with-html-css-and-js-part-1-ecddb89cb909?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------frontend----------b13a0283_e70a_4720_873a_e957b89b0ee6-------) 
 
 ###  하이드레이션은 트리이고, 재개 가능성(Resumability)은 맵입니다 
 
@@ -37,17 +37,17 @@
 
  [바로가기](https://kofearticle.substack.com/p/korean-fe-article-7-api) 
 
+### 2023년 상반기 요즘IT 개발 카테고리 Top5 
+
+ 변화 빠른 IT 업계에서 일하며 울고 웃는 IT 실무자들의 성장을 돕기 위해 요즘IT는 상반기에도 다양한 '요즘 사람들의 IT 이야기'를 전했습니다. 상반기 요즘 IT인들은 어떤 ... 
+
+ [바로가기](https://yozm.wishket.com/magazine/detail/2132/) 
+
 ### Android, iOS 웹뷰에서 딥링크 열기 
 
  딥링크, 커스텀 링크, App Link… 이게 다 뭔가요? 네이티브 앱 개발자라면 한 번쯤 들어봤을 용어인데요. 이번 포스트에서는 각 딥링크 유형의 특징과 차이점을 자세히 알아보고... 
 
  [바로가기](https://yozm.wishket.com/magazine/detail/2126/) 
-
-### [쉽게 배우는 AI] 13. 강화학습이란? 
-
- 강화학습의 핵심은 일단 시도해 보고, 결과에 점수를 매기는 것인데요. 행동의 결과가 자신에게 유리했다면 보상을 받고, 불리했다면 벌을 받습니다. 이를 계속 반복하면서 더 나은 점수... 
-
- [바로가기](https://yozm.wishket.com/magazine/detail/2123/) 
 
 ---
 
