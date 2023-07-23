@@ -1,29 +1,29 @@
 # 오늘의 포스팅 
-2023년 7월 22일 9시 기준 
-
-### Meteor Monthly Update — July 2023 
-
- Changes to Meteor for June 2023 will be announced in this blog post, along with any upcoming upgrade... 
-
- [바로가기](https://medium.com/official-meteor-blog/meteor-monthly-update-july-2023-37333f1ea9b5?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------typescript----------819bd6f9_e225_40b8_9a13_f00f0df03618-------) 
+2023년 7월 23일 9시 기준 
 
 ### ChatGPT 101 for Frontend Developers 
 
  Hi everyone! ChatGPT is a powerful language model that can generate responses to text prompts. Most ... 
 
- [바로가기](https://medium.com/@okandavut/chatgpt-101-for-frontend-developers-147d30ab0f12?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------frontend----------45027055_e1d9_4124_9a4d_2f2b1572193f-------) 
+ [바로가기](https://medium.com/@okandavut/chatgpt-101-for-frontend-developers-147d30ab0f12?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------frontend----------23fe121f_b4e4_4557_87ab_473d0b4417ba-------) 
 
 ### Creating Desktop Applications with Electron and React 
 
  Electron is a popular framework that allows developers to build cross-platform desktop applications ... 
 
- [바로가기](https://medium.com/@azer.maslow/creating-desktop-applications-with-electron-and-react-b7f81f78c9d5?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------reactjs----------323a8274_2887_4682_8f32_1b93bddb602b-------) 
+ [바로가기](https://medium.com/@azer.maslow/creating-desktop-applications-with-electron-and-react-b7f81f78c9d5?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------reactjs----------079ae64f_45c9_43a3_94ce_fc434ea09b91-------) 
 
 ### NEO: Next.js Technical SEO Metrics Made Easier 
 
  Enhance search engine favorability for Next.js projects... 
 
- [바로가기](https://medium.com/@nguyentomt/neo-next-js-technical-seo-metrics-made-easier-85fc3a333a25?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------nextjs----------1b9796e8_3465_4e1c_ae58_c63bf3e33d06-------) 
+ [바로가기](https://medium.com/@nguyentomt/neo-next-js-technical-seo-metrics-made-easier-85fc3a333a25?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------nextjs----------31bdde3e_fa73_4c16_8133_e9d406968201-------) 
+
+### The Component-View-Mediator (CVM) Architechture 
+
+ In OpenScript.Js, Components are responsible for rendering Views. And this is done asynchronously. T... 
+
+ [바로가기](https://medium.com/@levizwannah/the-component-view-mediator-cvm-architechture-8907b63fea71?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------front_end_development----------eff338a3_13e2_4bbd_88d4_ec9e53f574ea-------) 
 
 ###  npm 생태계 중심에 있는 거대한 버그 
 
