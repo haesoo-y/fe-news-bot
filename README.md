@@ -1,41 +1,41 @@
 # 오늘의 포스팅 
-2023년 7월 23일 9시 기준 
+2023년 7월 24일 9시 기준 
 
-### ChatGPT 101 for Frontend Developers 
+### React State Management 
 
- Hi everyone! ChatGPT is a powerful language model that can generate responses to text prompts. Most ... 
+ ... 
 
- [바로가기](https://medium.com/@okandavut/chatgpt-101-for-frontend-developers-147d30ab0f12?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------frontend----------23fe121f_b4e4_4557_87ab_473d0b4417ba-------) 
+ [바로가기](https://medium.com/@clint360.rebase/react-state-management-dfcdfd38fd59?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------reactjs----------324a5b17_f5bb_460b_9cd1_0406c28a30e6-------) 
 
-### Creating Desktop Applications with Electron and React 
+### Setting Up a Next.js 13 Project with ESLint and Prettier 
 
- Electron is a popular framework that allows developers to build cross-platform desktop applications ... 
+ In this tutorial, we will walk through the process of setting up a fresh Next.js 13 project with ESL... 
 
- [바로가기](https://medium.com/@azer.maslow/creating-desktop-applications-with-electron-and-react-b7f81f78c9d5?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------reactjs----------079ae64f_45c9_43a3_94ce_fc434ea09b91-------) 
+ [바로가기](https://medium.com/@cameronadams1225/setting-up-a-next-js-13-project-with-eslint-and-prettier-735c3ccfd26c?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------nextjs----------d076b0e7_d74e_4636_a394_f08f753b9485-------) 
 
-### NEO: Next.js Technical SEO Metrics Made Easier 
+### Do you know all the possible way to loop in JavaScript? 🔃 
 
- Enhance search engine favorability for Next.js projects... 
+ Which kind of looping do you use? Do you know the implication cost-wise and performance for each one... 
 
- [바로가기](https://medium.com/@nguyentomt/neo-next-js-technical-seo-metrics-made-easier-85fc3a333a25?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------nextjs----------31bdde3e_fa73_4c16_8133_e9d406968201-------) 
+ [바로가기](https://medium.com/@rickmint/do-you-know-all-the-possible-way-to-loop-in-javascript-5ea7bdf2f74f?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------front_end_development----------2f0924ef_70cf_4fc7_9908_fe389a9cba3c-------) 
 
-### The Component-View-Mediator (CVM) Architechture 
+### Stripe Subscriptions Simplified: Boosting Revenue with React and Node.js 
 
- In OpenScript.Js, Components are responsible for rendering Views. And this is done asynchronously. T... 
+ Hi I am Mern Stack Developer, Today I am going to explain to you How stripe subscription work in sim... 
 
- [바로가기](https://medium.com/@levizwannah/the-component-view-mediator-cvm-architechture-8907b63fea71?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------front_end_development----------eff338a3_13e2_4bbd_88d4_ec9e53f574ea-------) 
+ [바로가기](https://medium.com/@vaibhavkhushalani/stripe-subscriptions-simplified-boosting-revenue-with-react-and-node-js-c3467169b5d7?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------react----------f25333fc_b381_42ef_a134_18dd946728d8-------) 
+
+###  프런트엔드 풀 리퀘스트를 작성하기 전에 이 체크리스트를 사용하세요. 
+
+ 글 링크 : https://velog.io/@surim014/before-your-next-frontend-pull-request-use-this-checklist 소개 이 글에서... 
+
+ [바로가기](https://kofearticle.substack.com/p/korean-fe-article-e24) 
 
 ###  npm 생태계 중심에 있는 거대한 버그 
 
  링크가 잘못되어 다시 보내드리는 점 양해 부탁드립니다.🥲 글 링크 : http://bit.ly/3NTcSG3 소개 오늘 소개해드릴 글은 npm 스태프 엔지니어 매니저였던 Darc... 
 
  [바로가기](https://kofearticle.substack.com/p/korean-fe-article-npm-da5) 
-
-###  하이드레이션은 트리이고, 재개 가능성(Resumability)은 맵입니다 
-
- 글 링크 : https://velog.io/@superlipbalm/hydration-tree-resumability-map 소개 Qwik이라는 프레임워크를 들어보셨나요? 이 프레... 
-
- [바로가기](https://kofearticle.substack.com/p/korean-fe-article-resumability-1cb) 
 
 ### [쉽게 배우는 AI] 14. 머신러닝 수업을 마치며 
 
