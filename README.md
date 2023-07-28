@@ -1,29 +1,29 @@
 # 오늘의 포스팅 
-2023년 7월 27일 9시 기준 
+2023년 7월 28일 9시 기준 
 
 ### JavaScript Debounce: Unleashing the Hidden Power of Optimal Performance! 
 
  In the fast-paced world of web development, optimizing performance and delivering an exceptional use... 
 
- [바로가기](https://medium.com/@kamaljoshi1582001/javascript-debounce-unleashing-the-hidden-power-of-optimal-performance-3c1c62108148?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------react----------229ebdc8_54c4_488d_8bc0_d4da26506af3-------) 
+ [바로가기](https://medium.com/@kamaljoshi1582001/javascript-debounce-unleashing-the-hidden-power-of-optimal-performance-3c1c62108148?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------javascript----------ce4805a1_11b8_4d21_917d_bcaee8f05938-------) 
 
-### Nice to meet you, mondayDB architecture 
+### Stop writing Typescript interfaces, automate it. 
 
- mondayDB is the new in-house data engine we crafted at monday.com. It shifted the entire organizatio... 
+ Yeah, the title is kind off misleading. Who would not write typescript interfaces right? Iam not say... 
 
- [바로가기](https://medium.com/@liranbrimer/nice-to-meet-you-mondaydb-architecture-6d201b41e660?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------javascript----------8d2a72fb_d46f_4887_83be_c4d1ce7570b2-------) 
+ [바로가기](https://medium.com/@nirjalpaudel54312/stop-writing-typescript-interfaces-13500311d24c?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------typescript----------2d00f538_248d_42c9_bb97_d83239564671-------) 
 
-### My relationship with `!` operator 
+### Backend-driven dynamic forms in React/React-native: Part 1 
 
- Typescript is very powerful. It comes with lots of very useful and cool features. It also brings som... 
+ Forms are a critical aspect of user interaction on both web and app platforms. They serve as essenti... 
 
- [바로가기](https://medium.com/att-israel/my-relationship-with-operator-58b0dc524144?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------typescript----------ced7cd5d_b3d7_4a7b_b62d_a70d397a89df-------) 
+ [바로가기](https://medium.com/tech-at-zet/backend-driven-dynamic-forms-in-react-react-native-part-1-2e3140e4f6c?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------frontend----------7a3e354c_634c_4236_aa56_c2098329b55b-------) 
 
-### Getting to the build phase 
+### JavaScript Debounce: Unleashing the Hidden Power of Optimal Performance! 
 
- Whether designers can code is not really the issue... 
+ In the fast-paced world of web development, optimizing performance and delivering an exceptional use... 
 
- [바로가기](https://medium.com/@SkylerSchain/getting-to-the-build-phase-87784f1a87cb?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------frontend----------10f1f727_1a67_4655_bf68_86c2f0e16098-------) 
+ [바로가기](https://medium.com/@kamaljoshi1582001/javascript-debounce-unleashing-the-hidden-power-of-optimal-performance-3c1c62108148?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------reactjs----------d900e8a0_b906_4412_b79c_10cc1b052fba-------) 
 
 ### Next.js에서 i18n과 호환성을 갖춘 정적 HTML Export 
 
@@ -37,7 +37,7 @@
 
  [바로가기](https://kofearticle.substack.com/p/korean-fe-article-7f4) 
 
-### 쿠팡이 클라우드 기반 '데이터베이스 백업 플랫폼'을 만든 이유 
+### 쿠팡이 클라우드 기반 ‘데이터베이스 백업 플랫폼’을 만든 이유 
 
  쿠팡에서 데이터는 대체 불가능한 자원입니다. DBA 엔지니어들은 데이터베이스에 문제가 발생하는 것을 원천 차단하고자 많은 노력을 기울이지만, 예측 불가한 일로 인해 데이터에 문제가... 
 
