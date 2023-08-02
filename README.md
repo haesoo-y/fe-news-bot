@@ -1,17 +1,11 @@
 # 오늘의 포스팅 
-2023년 8월 1일 9시 기준 
+2023년 8월 2일 9시 기준 
 
-### Internationalize Your Next.js Static Site (with App Router) 
+### What’s CORS? 
 
- Tutorial for internationalization of a Next.js app with static export and App Router.... 
+ Cross-origin resource sharing? what is it? Have you ever stumbled upon a CORS error?... 
 
- [바로가기](https://medium.com/@ferlat.simon/internationalize-your-next-js-static-site-with-app-router-772f9f16e63?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------nextjs----------d5274c71_3fc7_4d57_b1b6_30da3a4a3d72-------) 
-
-### Frontend Weekly Digest #321 (24–30 July 2023) 
-
- Web-development... 
-
- [바로가기](https://medium.com/@frontender-ua/frontend-weekly-digest-321-24-30-july-2023-ba0b3a51c86e?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------front_end_development----------ec72b713_aff9_4e38_a969_7d40ea0134bf-------) 
+ [바로가기](https://medium.com/@laramo/whats-cors-7cdc2278e6a6?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------front_end_development----------72b70281_418e_4ee0_85b8_6af575ae4c4f-------) 
 
 ### Building A Spotify Clone With React & TailwindCSS - Part 1 
 
@@ -19,11 +13,17 @@
 
  [바로가기](https://medium.com/@ngpaulhenry/building-a-spotify-clone-with-react-tailwindcss-part-1-68d90a68d621?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------react----------bc9c6c68_7490_4238_9fb9_abe9516ec56c-------) 
 
-### Our design and development journey to Redis cluster support in OpenCTI 
+### WHAT IS TYPESCRIPT? 
 
- Unusually this article will not focus on a new threat intelligence features of the OpenCTI platform ... 
+ TypeScript is a programming language developed by Microsoft that adds static typing to JavaScript, m... 
 
- [바로가기](https://medium.com/filigran/our-design-and-development-journey-to-redis-cluster-support-in-opencti-af2e3e58cab?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------javascript----------0950c5e9_334e_43e3_913b_e840d99f9bf4-------) 
+ [바로가기](https://medium.com/@pryncwill819/what-is-typescript-35f4e6f37bd5?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------javascript----------a578bf70_5cef_4c86_bce4_d88e68af4e2f-------) 
+
+### Build a drag and drop Kanban Board: React, Typescript, Tailwind, Dnd-Kit 
+
+ Hi everyone,... 
+
+ [바로가기](https://medium.com/itnext/build-a-drag-and-drop-kanban-board-react-typescript-tailwind-dnd-kit-ab4ec58593e5?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------typescript----------533ce9de_e55c_41b2_bcd3_0fbe502b264e-------) 
 
 ###  useEffect는 종종 페인트(paint) 이전에 동작합니다 
 
@@ -37,17 +37,17 @@
 
  [바로가기](https://kofearticle.substack.com/p/korean-fe-article-commonjs) 
 
+### 자바 생성 패턴을 실제 프로젝트에 적용하려면? 
+
+ 오늘은 자바 디자인 패턴 시리즈 세 번째 글로 이번 편에서는 생성 패턴(Creational Patterns)의 종류 및 프로젝트 적용 방법에 대해 알아보고자 합니다. 전편에서 살펴... 
+
+ [바로가기](https://yozm.wishket.com/magazine/detail/2155/) 
+
 ### 프론트엔드 개발자가 구글 I/O 2023 웹 세션에서 배운 것들 
 
  Google I/O는 구글에서 매년 5월 경 주관하는 개발자 컨퍼런스로, 구글에서 새롭게 발표하는 기술, 안드로이드 등의 최신 업데이트 사항들을 공유한다. 특히 올해는 구글이 ‘바... 
 
  [바로가기](https://yozm.wishket.com/magazine/detail/2152/) 
-
-### ‘프론트엔드냐, 백엔드냐’를 고민하는 당신에게 
-
- 프론트엔드를 해야 할지 백엔드를 해야 할지 모르겠어요. 개발을 막 시작하거나 몇 년 지나지 않은 주니어 개발자들과 대화를 하다 보면 심심치 않게 듣는 말이다. 그렇다고 꼭 경험이 ... 
-
- [바로가기](https://yozm.wishket.com/magazine/detail/2151/) 
 
 ---
 
