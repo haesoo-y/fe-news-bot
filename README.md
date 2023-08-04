@@ -1,29 +1,29 @@
 # 오늘의 포스팅 
-2023년 8월 3일 9시 기준 
+2023년 8월 4일 9시 기준 
 
-### Authentication with AWS Cognito and React.js (Part 3) 
+### JavaScript Objects for Absolute Beginners: A Fun Introduction 
 
- In the last article, we focused on creating the auth context and implementing signup. Now, let’s tak... 
+ যদি তুমি JS এর exciting world এ entry নিয়ে থাক, তাহলে “Object” এই term টি তোমার শোনার কথা। Don’t wor... 
 
- [바로가기](https://medium.com/@nikitaprus98/authentication-with-aws-cognito-and-react-js-part-3-bb5fb62cbdd0?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------react----------b2e7fc67_b1d7_48aa_8054_a9e7722426c9-------) 
+ [바로가기](https://medium.com/@chaytisaha98/javascript-objects-for-absolute-beginners-a-fun-introduction-f356ef9ea1e0?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------javascript----------c0e079d4_20a1_4aa2_ae2f_f541c9b4ba7e-------) 
 
-### LeetCode Javascript 30 days (1) The easiest explanations of Closure, Fibonacci, and React Hooks 
-
- To maintain focus and reset mindset, after the 8-hour shift, I’d switch location to work on personal... 
-
- [바로가기](https://medium.com/@colliethecocky/leetcode-javascript-30-days-1-85fc85fd9109?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------javascript----------c99a5752_487e_4eb3_a9b5_f69d764afe85-------) 
-
-### Build a drag and drop Kanban Board: React, Typescript, Tailwind, Dnd-Kit 
+### Build a drag and drop Kanban Board with React, Typescript, Tailwind, Dnd-Kit 
 
  Hi everyone,... 
 
- [바로가기](https://medium.com/itnext/build-a-drag-and-drop-kanban-board-react-typescript-tailwind-dnd-kit-ab4ec58593e5?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------typescript----------1f9a74d4_aefb_42ab_a02d_cb0a72b36a2d-------) 
+ [바로가기](https://medium.com/itnext/build-a-drag-and-drop-kanban-board-with-react-typescript-tailwind-dnd-kit-3cd6bcf32bd2?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------typescript----------854680f4_f6fa_4ccf_94f1_92c2c6f65215-------) 
 
 ### Understanding Falsiness and Optimizing Conditionals in JS 
 
  As developers, we are all too familiar with the challenges that arise when dealing with conditional ... 
 
- [바로가기](https://medium.com/railsfactory-hub/understanding-falsiness-and-optimizing-conditionals-in-js-59a063c7909?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------frontend----------fed72c1f_2a5c_4c1d_9913_6fe364330a6d-------) 
+ [바로가기](https://medium.com/railsfactory-hub/understanding-falsiness-and-optimizing-conditionals-in-js-59a063c7909?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------frontend----------356f528a_c675_48a1_92a2_dd83dc20fe18-------) 
+
+### Why are hooks important in react? 
+
+ ... 
+
+ [바로가기](https://medium.com/@faizanjavid71/why-are-hooks-important-in-react-ce0bacd91e9b?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------reactjs----------10795d6a_332a_4ee8_8061_7578e7872744-------) 
 
 ###  React 18이 애플리케이션 성능을 개선하는 방법 
 
