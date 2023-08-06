@@ -1,17 +1,11 @@
 # 오늘의 포스팅 
-2023년 8월 5일 9시 기준 
+2023년 8월 6일 9시 기준 
 
-### Build a drag and drop Kanban Board with React, Typescript, Tailwind, Dnd-Kit 
+### Mastering Responsive UI in React Native: Create Stunning Apps Across Devices with deviceHeight and… 
 
- Hi everyone,... 
+ Introduction:... 
 
- [바로가기](https://medium.com/itnext/build-a-drag-and-drop-kanban-board-with-react-typescript-tailwind-dnd-kit-3cd6bcf32bd2?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------typescript----------96a6480d_943f_4435_ac24_aabe19140fd4-------) 
-
-### Understanding Falsiness and Optimizing Conditionals in JS 
-
- As developers, we are all too familiar with the challenges that arise when dealing with conditional ... 
-
- [바로가기](https://medium.com/railsfactory-hub/understanding-falsiness-and-optimizing-conditionals-in-js-59a063c7909?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------frontend----------0e8b0e70_9d44_4399_b7ec_b829b6e00c87-------) 
+ [바로가기](https://medium.com/@devnexPro/mastering-responsive-ui-in-react-native-create-stunning-apps-across-devices-with-deviceheight-and-10c791052d92?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------frontend----------4c80cb7f_583a_4f38_a867_cfb9f51fa057-------) 
 
 ### Preparing for Success: Top REACT Interview Questions Explained 
 
@@ -19,11 +13,17 @@
 
  [바로가기](https://medium.com/@abidullah786/preparing-for-success-top-react-interview-questions-explained-138b269d943d?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------reactjs----------26b91060_0dda_4702_95d1_eb79ea6108ce-------) 
 
-### How To Use ApexCharts in a Next.js Project 
+### Comprehensive Guide to Web SEO and Integration with Next.js 
 
- Next.js is undoubtedly one of the leading meta-frameworks in the front-end landscape. But, it seems ... 
+ 1. What is Web SEO?... 
 
- [바로가기](https://medium.com/@farrel.abyansyah/how-to-use-apexcharts-in-a-next-js-project-96e413bc9b31?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------nextjs----------5ba54979_5279_45ef_8529_3bc9f1f5b5e9-------) 
+ [바로가기](https://medium.com/@sumeetpanchal-21/comprehensive-guide-to-web-seo-and-integration-with-next-js-8946ee08a534?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------nextjs----------b689e436_c9a8_4081_be6d_9e33963ea6c9-------) 
+
+### Learning JavaScript with Wordle: A Hands-On Approach 
+
+ Why making your own Wordle game will help you learn JavaScript faster?... 
+
+ [바로가기](https://medium.com/code-like-a-girl/learning-javascript-with-wordle-a-hands-on-approach-b2fa069a04a3?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------front_end_development----------298ff48d_1502_491d_96c7_a5c3ca95fe23-------) 
 
 ###  React 18이 애플리케이션 성능을 개선하는 방법 
 
