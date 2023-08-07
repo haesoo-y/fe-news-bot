@@ -1,29 +1,29 @@
 # 오늘의 포스팅 
-2023년 8월 6일 9시 기준 
+2023년 8월 7일 9시 기준 
 
-### Mastering Responsive UI in React Native: Create Stunning Apps Across Devices with deviceHeight and… 
+### Uncovering React Code with Source Maps 
 
- Introduction:... 
+ React has gained immense popularity as a powerful JavaScript library, offering developers the tools ... 
 
- [바로가기](https://medium.com/@devnexPro/mastering-responsive-ui-in-react-native-create-stunning-apps-across-devices-with-deviceheight-and-10c791052d92?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------frontend----------4c80cb7f_583a_4f38_a867_cfb9f51fa057-------) 
+ [바로가기](https://medium.com/@beerus11/uncovering-react-code-with-source-maps-ba4be598a2bf?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------reactjs----------8fd9c013_c6d5_4bee_9437_c98023200c5a-------) 
 
-### Preparing for Success: Top REACT Interview Questions Explained 
+### Discover Valibot: Your Friendly, Lightweight Zod Alternative You’ll Love to Use 
 
- Get ready to excel in your React interviews! Learn the ins and outs of the top React interview quest... 
+ Validation — the word itself suggests the action of checking or proving the accuracy of something. I... 
 
- [바로가기](https://medium.com/@abidullah786/preparing-for-success-top-react-interview-questions-explained-138b269d943d?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------reactjs----------26b91060_0dda_4702_95d1_eb79ea6108ce-------) 
+ [바로가기](https://medium.com/@abdelfattah.sekak/discover-valibot-your-friendly-lightweight-zod-alternative-youll-love-to-use-732a7af8413f?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------nextjs----------b89bf921_2ff3_4ccc_8d80_52808c8782da-------) 
 
-### Comprehensive Guide to Web SEO and Integration with Next.js 
+### Responsive font sizes and spacing accessibility guide to making user-friendly web apps 
 
- 1. What is Web SEO?... 
+ In this guide, we’ll go through the important parts of implementing your sizes such as Font-Size, Ma... 
 
- [바로가기](https://medium.com/@sumeetpanchal-21/comprehensive-guide-to-web-seo-and-integration-with-next-js-8946ee08a534?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------nextjs----------b689e436_c9a8_4081_be6d_9e33963ea6c9-------) 
+ [바로가기](https://medium.com/@maxtsh/responsive-font-sizes-and-spacing-accessibility-guide-to-making-user-friendly-web-apps-ea97444231a?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------front_end_development----------aa7009ac_d58b_479f_8a80_25d2447a8aa2-------) 
 
-### Learning JavaScript with Wordle: A Hands-On Approach 
+### Everything you need to know about useState hook 
 
- Why making your own Wordle game will help you learn JavaScript faster?... 
+ React Hooks were introduced in React 16.8, which was released on February 16, 2019. If you like to u... 
 
- [바로가기](https://medium.com/code-like-a-girl/learning-javascript-with-wordle-a-hands-on-approach-b2fa069a04a3?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------front_end_development----------298ff48d_1502_491d_96c7_a5c3ca95fe23-------) 
+ [바로가기](https://medium.com/@upekshadilshan000/everything-you-need-to-know-about-usestate-hook-bd92e555ec99?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------react----------17c254dd_9259_4091_9fc3_cd5749c1602c-------) 
 
 ###  React 18이 애플리케이션 성능을 개선하는 방법 
 
@@ -37,17 +37,17 @@
 
  [바로가기](https://kofearticle.substack.com/p/korean-fe-article-useeffect-paint) 
 
+### 좋은 객체 ID(Object ID) 만들기 
+
+ 객체 ID는 객체 지향 프로그래밍, 데이터베이스 관리, 네트워킹 등 다양한 컴퓨팅 환경에서 사용되는데요. 이 포스트에서는 좋은 객체 ID를 만들어야 하는 이유와 방법을 고유성과 식... 
+
+ [바로가기](https://yozm.wishket.com/magazine/detail/2161/) 
+
 ### 스프링 데이터 JPA, 5분 만에 알아보기 
 
  스프링 데이터 JPA를 알려면 먼저 SQL을 몰라도 데이터베이스를 조작할 수 있게 해주는 편리한 도구인 ORM 개념을 알아야 합니다. 그러고 나서 JPA를 알아야 비로소 스프링 데... 
 
  [바로가기](https://yozm.wishket.com/magazine/detail/2160/) 
-
-### 개발자가 알아야 할 데이터 지향 설계란? 
-
- 객체지향 프로그래밍은 클래스(Class)를 통해 데이터와 행위를 묶어 관리하는 프로그래밍 패러다임입니다. 그렇지만 OOP의 사용에 대한 모호함에 대한 논의는 여전히 진행되고 있으며... 
-
- [바로가기](https://yozm.wishket.com/magazine/detail/2157/) 
 
 ---
 
