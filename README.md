@@ -1,29 +1,29 @@
 # 오늘의 포스팅 
-2023년 8월 7일 9시 기준 
+2023년 8월 8일 9시 기준 
 
-### Uncovering React Code with Source Maps 
+### Building a Responsive Component in React using TypeScript 
 
- React has gained immense popularity as a powerful JavaScript library, offering developers the tools ... 
+ Step 1: Define the Screen Sizes... 
 
- [바로가기](https://medium.com/@beerus11/uncovering-react-code-with-source-maps-ba4be598a2bf?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------reactjs----------8fd9c013_c6d5_4bee_9437_c98023200c5a-------) 
+ [바로가기](https://medium.com/@salmiahmed/building-a-responsive-component-in-react-using-typescript-711b819568b2?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------nextjs----------6aacbfdf_0e3c_4f68_b2e1_9d38ec6ceeba-------) 
 
-### Discover Valibot: Your Friendly, Lightweight Zod Alternative You’ll Love to Use 
+### Frontend Weekly Digest #322 (1–6 August 2023) 
 
- Validation — the word itself suggests the action of checking or proving the accuracy of something. I... 
+ Web-development... 
 
- [바로가기](https://medium.com/@abdelfattah.sekak/discover-valibot-your-friendly-lightweight-zod-alternative-youll-love-to-use-732a7af8413f?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------nextjs----------b89bf921_2ff3_4ccc_8d80_52808c8782da-------) 
+ [바로가기](https://medium.com/@frontender-ua/frontend-weekly-digest-322-1-6-august-2023-b1b00467d48d?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------front_end_development----------d4bd9278_f7b4_4d14_955e_6b4be7e36351-------) 
 
-### Responsive font sizes and spacing accessibility guide to making user-friendly web apps 
+### The New React Documentation Ditches SPA Apps 
 
- In this guide, we’ll go through the important parts of implementing your sizes such as Font-Size, Ma... 
+ Back in the days if you visited a website, or web app, it had to reload the page each time you navig... 
 
- [바로가기](https://medium.com/@maxtsh/responsive-font-sizes-and-spacing-accessibility-guide-to-making-user-friendly-web-apps-ea97444231a?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------front_end_development----------aa7009ac_d58b_479f_8a80_25d2447a8aa2-------) 
+ [바로가기](https://medium.com/@tomaszs2/the-new-react-documentation-ditches-spa-apps-1fc1a7c435ec?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------react----------8a2e7678_5aae_4658_9e96_1998c2ff488b-------) 
 
-### Everything you need to know about useState hook 
+### We’ve built TypeScript ORM for 821 days then this happened 
 
- React Hooks were introduced in React 16.8, which was released on February 16, 2019. If you like to u... 
+ Drizzle is a menace. It became so good other ORMs will have to get better now... 
 
- [바로가기](https://medium.com/@upekshadilshan000/everything-you-need-to-know-about-usestate-hook-bd92e555ec99?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------react----------17c254dd_9259_4091_9fc3_cd5749c1602c-------) 
+ [바로가기](https://medium.com/@aleksandrblokh/weve-built-typescript-orm-for-821-days-then-this-happened-71282a8b0206?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------javascript----------b285558e_f9e0_41fe_8b99_6321abff6220-------) 
 
 ###  React 18이 애플리케이션 성능을 개선하는 방법 
 
