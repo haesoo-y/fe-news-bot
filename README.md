@@ -1,29 +1,29 @@
 # 오늘의 포스팅 
-2023년 8월 8일 9시 기준 
+2023년 8월 9일 9시 기준 
 
-### Building a Responsive Component in React using TypeScript 
+### Radix-Vue: The Next Generation Component Library for Vue 
 
- Step 1: Define the Screen Sizes... 
+ Radix-vue is a community-led adaptation of Radix UI in the Vue ecosystem. It prioritizes accessibili... 
 
- [바로가기](https://medium.com/@salmiahmed/building-a-responsive-component-in-react-using-typescript-711b819568b2?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------nextjs----------6aacbfdf_0e3c_4f68_b2e1_9d38ec6ceeba-------) 
+ [바로가기](https://medium.com/@fadamakis/radix-vue-the-next-generation-component-library-for-vue-29b20fcfd4ed?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------front_end_development----------c18cdf7d_7808_409a_845b_92b9cd196688-------) 
 
-### Frontend Weekly Digest #322 (1–6 August 2023) 
+### Separating⛓️ Business Logic 🧠from UI Components 🔡 in React 18 
 
- Web-development... 
+ Featuring Advance Logic Separation practices... 
 
- [바로가기](https://medium.com/@frontender-ua/frontend-weekly-digest-322-1-6-august-2023-b1b00467d48d?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------front_end_development----------d4bd9278_f7b4_4d14_955e_6b4be7e36351-------) 
-
-### The New React Documentation Ditches SPA Apps 
-
- Back in the days if you visited a website, or web app, it had to reload the page each time you navig... 
-
- [바로가기](https://medium.com/@tomaszs2/the-new-react-documentation-ditches-spa-apps-1fc1a7c435ec?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------react----------8a2e7678_5aae_4658_9e96_1998c2ff488b-------) 
+ [바로가기](https://medium.com/design-bootcamp/separating-️-business-logic-from-ui-components-in-react-18-aa1775b3caba?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------react----------5ef4dbb8_f78e_4f10_a612_3f72b2ef8396-------) 
 
 ### We’ve built TypeScript ORM for 821 days then this happened 
 
  Drizzle is a menace. It became so good other ORMs will have to get better now... 
 
- [바로가기](https://medium.com/@aleksandrblokh/weve-built-typescript-orm-for-821-days-then-this-happened-71282a8b0206?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------javascript----------b285558e_f9e0_41fe_8b99_6321abff6220-------) 
+ [바로가기](https://medium.com/@aleksandrblokh/weve-built-typescript-orm-for-821-days-then-this-happened-71282a8b0206?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------javascript----------ffc75585_9ff2_430c_8441_1fe9bf4b6898-------) 
+
+### We’ve built TypeScript ORM for 821 days then this happened 
+
+ Drizzle is a menace. It became so good other ORMs will have to get better now... 
+
+ [바로가기](https://medium.com/@aleksandrblokh/weve-built-typescript-orm-for-821-days-then-this-happened-71282a8b0206?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------typescript----------9ac35efd_7fdd_4bd1_9cf8_fd96e924ef18-------) 
 
 ###  React 18이 애플리케이션 성능을 개선하는 방법 
 
@@ -37,17 +37,17 @@
 
  [바로가기](https://kofearticle.substack.com/p/korean-fe-article-useeffect-paint) 
 
+### 개발자가 알아야 할 데이터 지향 프로그래밍 with JDK 20 
+
+ 객체지향 프로그래밍(Object-Oriented Programming, OOP)은 클래스(Class)를 통해 데이터와 행위를 묶어 관리하는 프로그래밍 패러다임입니다. 그렇지만 OO... 
+
+ [바로가기](https://yozm.wishket.com/magazine/detail/2164/) 
+
 ### 좋은 객체 ID(Object ID) 만들기 
 
  객체 ID는 객체 지향 프로그래밍, 데이터베이스 관리, 네트워킹 등 다양한 컴퓨팅 환경에서 사용되는데요. 이 포스트에서는 좋은 객체 ID를 만들어야 하는 이유와 방법을 고유성과 식... 
 
  [바로가기](https://yozm.wishket.com/magazine/detail/2161/) 
-
-### 스프링 데이터 JPA, 5분 만에 알아보기 
-
- 스프링 데이터 JPA를 알려면 먼저 SQL을 몰라도 데이터베이스를 조작할 수 있게 해주는 편리한 도구인 ORM 개념을 알아야 합니다. 그러고 나서 JPA를 알아야 비로소 스프링 데... 
-
- [바로가기](https://yozm.wishket.com/magazine/detail/2160/) 
 
 ---
 
