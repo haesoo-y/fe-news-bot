@@ -1,29 +1,29 @@
 # 오늘의 포스팅 
-2023년 8월 11일 9시 기준 
+2023년 8월 12일 9시 기준 
 
-### Best Ways to Handle Forms in React (2023) 
+### Angular Super Forms: Password Confirmation 
 
- This guide is a simplified version and may not cover all the nuances of using these methods in a rea... 
+ Epic Angular Form Validation Made Easy... 
 
- [바로가기](https://medium.com/javascript-in-plain-english/best-ways-to-handle-forms-in-react-2023-293118ee1f05?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------javascript----------2ae787af_b7ab_4414_8ce9_d2aac92c27ef-------) 
+ [바로가기](https://medium.com/itnext/angular-super-forms-password-confirmation-bd95906f220f?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------typescript----------c482fb3c_37a8_484d_a7f3_b559ee6666bb-------) 
 
-### First Look at TypeScript 
+### Deploy Your Frontend Code on AWS EC2 Using Nginx 
 
- Welcome to your first look at TypeScript! You might have already heard about TypeScript, but you’re ... 
+ Step1: Build frontend source code into production code... 
 
- [바로가기](https://medium.com/@helinokcu/first-look-at-typescript-89e389b0fc0f?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------typescript----------52067055_e99b_402c_afde_87271526a297-------) 
+ [바로가기](https://medium.com/@jpan0831/deploy-your-frontend-code-on-aws-ec2-using-nginx-98bdb96ccbe4?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------frontend----------2b5e4eac_0d45_4118_a1cd_be1c24302cbe-------) 
 
-### Mastering TypeScript: From Beginner to Expert! 
+### Writing self documented javascript code 
 
- “Welcome aboard the TypeScript Express — Where Coding Gets Type-tastically Real!”... 
+ Documentation is a very important part in software development. From the beginning of days of softwa... 
 
- [바로가기](https://medium.com/@Malik.Motan/mastering-typescript-from-beginner-to-expert-b7f819788e8b?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------frontend----------af83d0c2_9491_4345_b728_7ec10c042463-------) 
+ [바로가기](https://medium.com/@shuboothi/writing-self-documented-javascript-code-12e51fadc612?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------reactjs----------705c4889_2e52_498e_9ba3_5df8a4fe6a97-------) 
 
-### Hydration Errors in Next.js Applications: Navigating Mismatches for Smooth Rendering 
+### Front-end developers: Collaborate better with your UI/UX designer and stakeholders through… 
 
- Hydration errors are a common challenge developers encounter when working with Next.js applications.... 
+ Incorporating UI/UX designer to verify front-end components brings a crucial layer of precision, ref... 
 
- [바로가기](https://medium.com/@chiomanwocha/hydration-errors-in-next-js-applications-navigating-mismatches-for-smooth-rendering-39d11df841eb?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------reactjs----------6ec04c10_8dbe_4824_a014_05c08fa37451-------) 
+ [바로가기](https://medium.com/@gazzaazhari/front-end-developers-collaborate-better-with-your-ui-ux-designer-and-stakeholders-through-49db29848ee7?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------nextjs----------91f05c0f_0ca5_4d1c_8368_eda42472a006-------) 
 
 ###  React 18이 애플리케이션 성능을 개선하는 방법 
 
@@ -37,17 +37,17 @@
 
  [바로가기](https://kofearticle.substack.com/p/korean-fe-article-useeffect-paint) 
 
+### 신뢰할 수 있는 데이터를 확보하기 위한 3가지 체크리스트 
+
+ 데이터는 흐릅니다. 다시 말해 그 흐름 중 어느 한 곳이라도 품질이 제대로 관리되지 않으면 다운스트림에서 문제가 생길 수 있다는 이야기입니다. 그래서 요즘에는 ‘데이터가 없는 것보... 
+
+ [바로가기](https://yozm.wishket.com/magazine/detail/2171/) 
+
 ### 진짜 서버리스 vs 가짜 서버리스 
 
  서버리스는 클라우드의 최신 트렌드로 떠오르고 있습니다. 그렇다면 Server-Less는 무엇일까요? 처음 들어 본 개발자는 서버가 없는 것처럼 느껴질 수 있습니다. Red Hat에... 
 
  [바로가기](https://yozm.wishket.com/magazine/detail/2168/) 
-
-### 개발자가 알아야 할 데이터 지향 프로그래밍 with JDK 20 
-
- 객체지향 프로그래밍(Object-Oriented Programming, OOP)은 클래스(Class)를 통해 데이터와 행위를 묶어 관리하는 프로그래밍 패러다임입니다. 그렇지만 OO... 
-
- [바로가기](https://yozm.wishket.com/magazine/detail/2164/) 
 
 ---
 
