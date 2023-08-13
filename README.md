@@ -1,29 +1,29 @@
 # 오늘의 포스팅 
-2023년 8월 12일 9시 기준 
+2023년 8월 13일 9시 기준 
 
-### Angular Super Forms: Password Confirmation 
+### 10 Tips to write Clean React Code 👨🏻‍💻💯 
 
- Epic Angular Form Validation Made Easy... 
+ ✦ Introduction:... 
 
- [바로가기](https://medium.com/itnext/angular-super-forms-password-confirmation-bd95906f220f?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------typescript----------c482fb3c_37a8_484d_a7f3_b559ee6666bb-------) 
+ [바로가기](https://medium.com/@rohan.fulzele/10-tips-to-write-clean-react-code-4169328f66a3?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------frontend----------8f421c50_9df7_4268_b96f_d9ddaaff02a3-------) 
 
-### Deploy Your Frontend Code on AWS EC2 Using Nginx 
+### Container Component | Design Patterns in React 
 
- Step1: Build frontend source code into production code... 
+ Introduction:... 
 
- [바로가기](https://medium.com/@jpan0831/deploy-your-frontend-code-on-aws-ec2-using-nginx-98bdb96ccbe4?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------frontend----------2b5e4eac_0d45_4118_a1cd_be1c24302cbe-------) 
+ [바로가기](https://medium.com/@kashyapdeepak/container-component-design-patterns-in-react-5d0c8ab95304?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------reactjs----------f56bc609_294a_4f01_a252_52dcbeac0d27-------) 
 
-### Writing self documented javascript code 
+### Creating a Next.js Project with ESLint, Airbnb Style Guide, TypeScript, and Husky 
 
- Documentation is a very important part in software development. From the beginning of days of softwa... 
+ Introduction... 
 
- [바로가기](https://medium.com/@shuboothi/writing-self-documented-javascript-code-12e51fadc612?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------reactjs----------705c4889_2e52_498e_9ba3_5df8a4fe6a97-------) 
+ [바로가기](https://medium.com/javascript-in-plain-english/creating-a-next-js-project-with-eslint-airbnb-style-guide-typescript-and-husky-ccf0f7ea0ba5?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------nextjs----------fc3bfe38_764a_4c56_81a1_091304104665-------) 
 
-### Front-end developers: Collaborate better with your UI/UX designer and stakeholders through… 
+### Why Are Developers Still Using Angular? 
 
- Incorporating UI/UX designer to verify front-end components brings a crucial layer of precision, ref... 
+ Angular. The framework that has seen more seasons than your favorite TV show. While the tech world i... 
 
- [바로가기](https://medium.com/@gazzaazhari/front-end-developers-collaborate-better-with-your-ui-ux-designer-and-stakeholders-through-49db29848ee7?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------nextjs----------91f05c0f_0ca5_4d1c_8368_eda42472a006-------) 
+ [바로가기](https://medium.com/@HassanTrabelsi/why-are-developers-still-using-angular-e7b6e17eade8?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------front_end_development----------6e03a478_ef0e_4034_b29b_0bd77928577c-------) 
 
 ###  React 18이 애플리케이션 성능을 개선하는 방법 
 
