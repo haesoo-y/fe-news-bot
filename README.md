@@ -1,29 +1,29 @@
 # 오늘의 포스팅 
-2023년 8월 13일 9시 기준 
+2023년 8월 14일 9시 기준 
 
-### 10 Tips to write Clean React Code 👨🏻‍💻💯 
+### React-React Native optimization -1 
 
- ✦ Introduction:... 
+ 🧙 Let’s start the first series... 
 
- [바로가기](https://medium.com/@rohan.fulzele/10-tips-to-write-clean-react-code-4169328f66a3?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------frontend----------8f421c50_9df7_4268_b96f_d9ddaaff02a3-------) 
-
-### Container Component | Design Patterns in React 
-
- Introduction:... 
-
- [바로가기](https://medium.com/@kashyapdeepak/container-component-design-patterns-in-react-5d0c8ab95304?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------reactjs----------f56bc609_294a_4f01_a252_52dcbeac0d27-------) 
+ [바로가기](https://medium.com/@tayfunkaya/react-react-native-optimization-1-38f05ef0b074?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------reactjs----------497a4e39_9300_40ab_847d_36eb47bc3cbd-------) 
 
 ### Creating a Next.js Project with ESLint, Airbnb Style Guide, TypeScript, and Husky 
 
  Introduction... 
 
- [바로가기](https://medium.com/javascript-in-plain-english/creating-a-next-js-project-with-eslint-airbnb-style-guide-typescript-and-husky-ccf0f7ea0ba5?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------nextjs----------fc3bfe38_764a_4c56_81a1_091304104665-------) 
+ [바로가기](https://medium.com/javascript-in-plain-english/creating-a-next-js-project-with-eslint-airbnb-style-guide-typescript-and-husky-ccf0f7ea0ba5?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------nextjs----------4afc8bff_30ef_448b_90af_d202c45872ba-------) 
 
-### Why Are Developers Still Using Angular? 
+### Frontend Weekly Digest #323 (7–13 August 2023) 
 
- Angular. The framework that has seen more seasons than your favorite TV show. While the tech world i... 
+ Web-development... 
 
- [바로가기](https://medium.com/@HassanTrabelsi/why-are-developers-still-using-angular-e7b6e17eade8?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------front_end_development----------6e03a478_ef0e_4034_b29b_0bd77928577c-------) 
+ [바로가기](https://medium.com/@frontender-ua/frontend-weekly-digest-323-7-13-august-2023-eb4c1db10f98?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------front_end_development----------4cc951bc_aebd_4c4b_bb3d_7bbb31e28a45-------) 
+
+### React-React Native optimization -1 
+
+ 🧙 Let’s start the first series... 
+
+ [바로가기](https://medium.com/@tayfunkaya/react-react-native-optimization-1-38f05ef0b074?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------react----------e0105ce7_3e8e_446a_8c80_6c1df7ee92f0-------) 
 
 ###  React 18이 애플리케이션 성능을 개선하는 방법 
 
