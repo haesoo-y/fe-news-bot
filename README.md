@@ -1,29 +1,29 @@
 # 오늘의 포스팅 
-2023년 8월 14일 9시 기준 
+2023년 8월 15일 9시 기준 
 
-### React-React Native optimization -1 
+### Why i moved my website’s ui from chakra ui to tailwind 
 
- 🧙 Let’s start the first series... 
+ ... 
 
- [바로가기](https://medium.com/@tayfunkaya/react-react-native-optimization-1-38f05ef0b074?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------reactjs----------497a4e39_9300_40ab_847d_36eb47bc3cbd-------) 
-
-### Creating a Next.js Project with ESLint, Airbnb Style Guide, TypeScript, and Husky 
-
- Introduction... 
-
- [바로가기](https://medium.com/javascript-in-plain-english/creating-a-next-js-project-with-eslint-airbnb-style-guide-typescript-and-husky-ccf0f7ea0ba5?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------nextjs----------4afc8bff_30ef_448b_90af_d202c45872ba-------) 
+ [바로가기](https://medium.com/@kalkanyunus/why-i-moved-my-websites-ui-from-chakra-ui-to-tailwind-454800a12393?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------nextjs----------9beaa622_98fe_4b33_8f07_5be859e1fea2-------) 
 
 ### Frontend Weekly Digest #323 (7–13 August 2023) 
 
  Web-development... 
 
- [바로가기](https://medium.com/@frontender-ua/frontend-weekly-digest-323-7-13-august-2023-eb4c1db10f98?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------front_end_development----------4cc951bc_aebd_4c4b_bb3d_7bbb31e28a45-------) 
+ [바로가기](https://medium.com/@frontender-ua/frontend-weekly-digest-323-7-13-august-2023-eb4c1db10f98?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------front_end_development----------3d0fed53_65c2_4504_aa67_ea159755da6b-------) 
 
-### React-React Native optimization -1 
+### How to Develop an Advanced and Reusable Axios API Service for Your React/Next JS Solutions 
 
- 🧙 Let’s start the first series... 
+ Building an Efficient and Reusable Axios API Service for React/Next.js Applications... 
 
- [바로가기](https://medium.com/@tayfunkaya/react-react-native-optimization-1-38f05ef0b074?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------react----------e0105ce7_3e8e_446a_8c80_6c1df7ee92f0-------) 
+ [바로가기](https://medium.com/@alabura.usman/how-to-develop-an-advanced-and-reusable-axios-api-service-for-your-react-next-js-solutions-a4685cfd78f1?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------react----------fcab9b3b_00f1_423a_aa54_7ecd5082c4cd-------) 
+
+### What is string constant pool in JS ? 
+
+ In this article i will try to explain how javascript deal with string in memory.... 
+
+ [바로가기](https://medium.com/@nourhansaed6/what-is-string-constant-pool-in-js-1b1795f7624b?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------javascript----------f42ff0ef_4ff2_41ed_879c_786deb121adb-------) 
 
 ###  React 18이 애플리케이션 성능을 개선하는 방법 
 
