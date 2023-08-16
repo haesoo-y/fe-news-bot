@@ -1,17 +1,11 @@
 # 오늘의 포스팅 
-2023년 8월 15일 9시 기준 
-
-### Why i moved my website’s ui from chakra ui to tailwind 
-
- ... 
-
- [바로가기](https://medium.com/@kalkanyunus/why-i-moved-my-websites-ui-from-chakra-ui-to-tailwind-454800a12393?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------nextjs----------9beaa622_98fe_4b33_8f07_5be859e1fea2-------) 
+2023년 8월 16일 9시 기준 
 
 ### Frontend Weekly Digest #323 (7–13 August 2023) 
 
  Web-development... 
 
- [바로가기](https://medium.com/@frontender-ua/frontend-weekly-digest-323-7-13-august-2023-eb4c1db10f98?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------front_end_development----------3d0fed53_65c2_4504_aa67_ea159755da6b-------) 
+ [바로가기](https://medium.com/@frontender-ua/frontend-weekly-digest-323-7-13-august-2023-eb4c1db10f98?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------front_end_development----------0d42b060_1471_46fa_8bdb_4f5587b44e0a-------) 
 
 ### How to Develop an Advanced and Reusable Axios API Service for Your React/Next JS Solutions 
 
@@ -19,11 +13,17 @@
 
  [바로가기](https://medium.com/@alabura.usman/how-to-develop-an-advanced-and-reusable-axios-api-service-for-your-react-next-js-solutions-a4685cfd78f1?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------react----------fcab9b3b_00f1_423a_aa54_7ecd5082c4cd-------) 
 
-### What is string constant pool in JS ? 
+### js13kGames 2023 has started! 
 
- In this article i will try to explain how javascript deal with string in memory.... 
+ It’s that time of the year again - the twelfth edition of the online js13kGames competition happenin... 
 
- [바로가기](https://medium.com/@nourhansaed6/what-is-string-constant-pool-in-js-1b1795f7624b?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------javascript----------f42ff0ef_4ff2_41ed_879c_786deb121adb-------) 
+ [바로가기](https://medium.com/js13kgames/js13kgames-2023-has-started-b4a25886d082?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------javascript----------911169eb_be14_499b_a71e_49682e35407f-------) 
+
+### The Mirror 
+
+ Poem... 
+
+ [바로가기](https://medium.com/@varshasharmaofficialwork/the-mirror-c0f831fdcae7?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------typescript----------6cd37fe3_03bf_4516_a35d_9f5a569c0286-------) 
 
 ###  React 18이 애플리케이션 성능을 개선하는 방법 
 
