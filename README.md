@@ -1,29 +1,29 @@
 # 오늘의 포스팅 
-2023년 8월 16일 9시 기준 
+2023년 8월 17일 9시 기준 
 
-### Frontend Weekly Digest #323 (7–13 August 2023) 
+### Reacting to Change: Tale of a Web Developer Improving Startup Performance for a large React Native… 
 
- Web-development... 
+ Two years into my stint at udaan, I was tasked with “improving the startup performance” of our react... 
 
- [바로가기](https://medium.com/@frontender-ua/frontend-weekly-digest-323-7-13-august-2023-eb4c1db10f98?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------front_end_development----------0d42b060_1471_46fa_8bdb_4f5587b44e0a-------) 
+ [바로가기](https://medium.com/engineering-udaan/reacting-to-change-tale-of-a-web-developer-improving-startup-performance-for-a-large-react-native-854f8a4850fd?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------react----------6f2cbf78_0b6d_45a7_94d2_66241fd2c424-------) 
 
-### How to Develop an Advanced and Reusable Axios API Service for Your React/Next JS Solutions 
+### ESSENTIAL JS CONCEPTS NECESSARY FOR REACT 
 
- Building an Efficient and Reusable Axios API Service for React/Next.js Applications... 
+ React is a JavaScript library. Many key concepts in React are built on the foundation of JavaScript ... 
 
- [바로가기](https://medium.com/@alabura.usman/how-to-develop-an-advanced-and-reusable-axios-api-service-for-your-react-next-js-solutions-a4685cfd78f1?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------react----------fcab9b3b_00f1_423a_aa54_7ecd5082c4cd-------) 
-
-### js13kGames 2023 has started! 
-
- It’s that time of the year again - the twelfth edition of the online js13kGames competition happenin... 
-
- [바로가기](https://medium.com/js13kgames/js13kgames-2023-has-started-b4a25886d082?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------javascript----------911169eb_be14_499b_a71e_49682e35407f-------) 
+ [바로가기](https://medium.com/@adeyemimuaz1/essential-js-concepts-necessary-for-react-2efa2f5a17bc?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------javascript----------4f4f7c32_02e2_478f_9a8a_2f5caf645946-------) 
 
 ### The Mirror 
 
  Poem... 
 
- [바로가기](https://medium.com/@varshasharmaofficialwork/the-mirror-c0f831fdcae7?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------typescript----------6cd37fe3_03bf_4516_a35d_9f5a569c0286-------) 
+ [바로가기](https://medium.com/@varshasharmaofficialwork/the-mirror-c0f831fdcae7?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------typescript----------e6f3c75e_d6d6_4cb5_b221_b50dc8b475ac-------) 
+
+### Adding a header & footer on every print page in a React App 
+
+ While creating a frontend application, we sometimes come across the need to print the view that is s... 
+
+ [바로가기](https://medium.com/readytowork-org/adding-a-header-footer-on-every-print-page-in-a-react-app-66ceccf9b35c?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------frontend----------bbf9e228_18ff_4e5a_86e7_e2293c722db6-------) 
 
 ###  React 18이 애플리케이션 성능을 개선하는 방법 
 
@@ -37,17 +37,17 @@
 
  [바로가기](https://kofearticle.substack.com/p/korean-fe-article-useeffect-paint) 
 
-### 신뢰할 수 있는 데이터를 확보하기 위한 3가지 체크리스트 
+### 정치외교학 전공하고 30대에 신입 개발자 된 사연 
 
- 데이터는 흐릅니다. 다시 말해 그 흐름 중 어느 한 곳이라도 품질이 제대로 관리되지 않으면 다운스트림에서 문제가 생길 수 있다는 이야기입니다. 그래서 요즘에는 ‘데이터가 없는 것보... 
+ 학생, 취업 준비생 독자를 위해 요즘IT가 일 잘하는 주니어 개발자들의 이야기를 전합니다. 어떻게 개발자로 취업하고, 조직 내에서 평판을 쌓아가며 성장하고 있는지를 들어보려고 합니... 
 
- [바로가기](https://yozm.wishket.com/magazine/detail/2171/) 
+ [바로가기](https://yozm.wishket.com/magazine/detail/2179/) 
 
-### 진짜 서버리스 vs 가짜 서버리스 
+### 개발자를 성장시키는 리더의 7가지 특징 
 
- 서버리스는 클라우드의 최신 트렌드로 떠오르고 있습니다. 그렇다면 Server-Less는 무엇일까요? 처음 들어 본 개발자는 서버가 없는 것처럼 느껴질 수 있습니다. Red Hat에... 
+ 오늘은 내가 개발자로서 성장할 수 있도록 도움을 준 리더들의 특징을 이야기하고자 한다. 물론 한 사람만의 특징은 아니다. 나는 흔히 말하는 ‘사수 없는 팀에서 고군분투하기’와 ‘좋... 
 
- [바로가기](https://yozm.wishket.com/magazine/detail/2168/) 
+ [바로가기](https://yozm.wishket.com/magazine/detail/2178/) 
 
 ---
 
