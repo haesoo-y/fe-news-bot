@@ -1,11 +1,5 @@
 # 오늘의 포스팅 
-2023년 8월 17일 9시 기준 
-
-### Reacting to Change: Tale of a Web Developer Improving Startup Performance for a large React Native… 
-
- Two years into my stint at udaan, I was tasked with “improving the startup performance” of our react... 
-
- [바로가기](https://medium.com/engineering-udaan/reacting-to-change-tale-of-a-web-developer-improving-startup-performance-for-a-large-react-native-854f8a4850fd?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------react----------6f2cbf78_0b6d_45a7_94d2_66241fd2c424-------) 
+2023년 8월 18일 9시 기준 
 
 ### ESSENTIAL JS CONCEPTS NECESSARY FOR REACT 
 
@@ -13,17 +7,23 @@
 
  [바로가기](https://medium.com/@adeyemimuaz1/essential-js-concepts-necessary-for-react-2efa2f5a17bc?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------javascript----------4f4f7c32_02e2_478f_9a8a_2f5caf645946-------) 
 
-### The Mirror 
+### Unveiling the Marvels of Micro Frontends with Vue 3, Vite, and TypeScript 
 
- Poem... 
+ Guess what? We’re about to embark on an exhilarating journey into the captivating realm of micro fro... 
 
- [바로가기](https://medium.com/@varshasharmaofficialwork/the-mirror-c0f831fdcae7?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------typescript----------e6f3c75e_d6d6_4cb5_b221_b50dc8b475ac-------) 
+ [바로가기](https://medium.com/@diogoandre-goncalves96/unveiling-the-marvels-of-micro-frontends-with-vue-3-vite-and-typescript-1cdeafa092c1?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------typescript----------dc6cb14f_0d0c_4543_b6de_7761fd1a6708-------) 
 
-### Adding a header & footer on every print page in a React App 
+### Swipe To Delete — React Native with Reanimated 3 🚀 
 
- While creating a frontend application, we sometimes come across the need to print the view that is s... 
+ Introduction 🚀... 
 
- [바로가기](https://medium.com/readytowork-org/adding-a-header-footer-on-every-print-page-in-a-react-app-66ceccf9b35c?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------frontend----------bbf9e228_18ff_4e5a_86e7_e2293c722db6-------) 
+ [바로가기](https://medium.com/@ofir.zukerman/swipe-to-delete-react-native-with-reanimated-3-b593f29366ce?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------frontend----------248bf5b3_7016_4f6f_a428_29e9ff8f5010-------) 
+
+### Understanding and Resolving the ‘Too Many Re-renders’ Error 
+
+ Fixing react errors like a king... 
+
+ [바로가기](https://medium.com/stackademic/navigating-the-maze-of-react-understanding-and-resolving-the-too-many-re-renders-error-6d26da0c7fe4?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------reactjs----------43cedb6a_97fe_411c_babb_fed948ebc0b6-------) 
 
 ###  React 18이 애플리케이션 성능을 개선하는 방법 
 
