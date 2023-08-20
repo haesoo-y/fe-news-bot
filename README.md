@@ -1,29 +1,29 @@
 # 오늘의 포스팅 
-2023년 8월 19일 9시 기준 
-
-### Navigating the World of Object-Oriented Programming in TypeScript 
-
- Object-Oriented Programming... 
-
- [바로가기](https://medium.com/@mfahad1667/navigating-the-world-of-object-oriented-programming-in-typescript-b7b2d18fc96a?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------typescript----------af0ea22a_ca36_4d50_affa_75b597bfe9c4-------) 
+2023년 8월 20일 9시 기준 
 
 ### Exploring UI Development with Next.js: My First Project Experience 
 
  Introduction: Embarking on a Journey of Discovery at Inforwaves... 
 
- [바로가기](https://medium.com/@amaydle/exploring-ui-development-with-next-js-my-first-project-experience-95df2b02b240?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------frontend----------9f964214_51aa_48f1_908b_c80a6a60a71d-------) 
+ [바로가기](https://medium.com/@amaydle/exploring-ui-development-with-next-js-my-first-project-experience-95df2b02b240?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------frontend----------d1897d3b_1c3d_46ea_b304_2b05006b8575-------) 
 
-### Exploring Component Lifecycle Methods in React 
+### How to create form validation with Yup library in Reactjs 
 
- In React Development, React components operate in distinct phases, guided by unique functions known ... 
+ Form validation is an important part of any web application. It helps to ensure that the data entere... 
 
- [바로가기](https://medium.com/stackademic/exploring-component-lifecycle-methods-in-react-45eafcfa9e77?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------reactjs----------9b4a6a57_3ff8_45ed_8cbd_157e8b60a35d-------) 
+ [바로가기](https://medium.com/@olivier.trinh/how-to-create-form-validation-with-yup-library-in-reactjs-4846f045957a?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------reactjs----------bb4b3984_681c_4c3d_9454_71d0e7c9145b-------) 
 
-### React.js vs Next.js for Building Dynamic Web Applications 
+### Deploying a Next.js application on Vercel 
 
- Choosing the perfect framework is a big deal when it comes to building dynamic web apps. A good fram... 
+ Deploying a Next.js application on Vercel is straightforward and optimized, given that Vercel is bui... 
 
- [바로가기](https://medium.com/@shakyawijerathne/react-js-vs-next-js-for-building-dynamic-web-applications-44fef17e5daf?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------nextjs----------78dcb800_5529_432d_8f20_e6a72c05e165-------) 
+ [바로가기](https://medium.com/@fitsaleem/deploying-a-next-js-application-on-vercel-ac2228873da3?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------nextjs----------a0836e97_9ff2_463f_8cd0_725e75f88ce3-------) 
+
+### Carbon Web Components V2: Full Release 
+
+ Following up: Release Candidate: Carbon Web Components v2, Introducing: Carbon Web Components v2, & ... 
+
+ [바로가기](https://medium.com/carbondesign/carbon-web-components-v2-full-release-40fc25c73bef?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------front_end_development----------5291e973_ef7c_4e05_83ff_67944f0683e1-------) 
 
 ###  React 18이 애플리케이션 성능을 개선하는 방법 
 
