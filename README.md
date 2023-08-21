@@ -1,41 +1,41 @@
 # 오늘의 포스팅 
-2023년 8월 20일 9시 기준 
+2023년 8월 21일 9시 기준 
 
-### Exploring UI Development with Next.js: My First Project Experience 
+### Supercharging React State Management: Harnessing the Power of useContext and useReducer 
 
- Introduction: Embarking on a Journey of Discovery at Inforwaves... 
+ Introduction... 
 
- [바로가기](https://medium.com/@amaydle/exploring-ui-development-with-next-js-my-first-project-experience-95df2b02b240?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------frontend----------d1897d3b_1c3d_46ea_b304_2b05006b8575-------) 
+ [바로가기](https://medium.com/@devwithomkar/supercharging-react-state-management-harnessing-the-power-of-usecontext-and-usereducer-57d29132cb81?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------reactjs----------2a129212_2127_4e44_ae9a_5bb202b9a623-------) 
 
-### How to create form validation with Yup library in Reactjs 
+### React.js vs Next.js for Building Dynamic Web Applications 
 
- Form validation is an important part of any web application. It helps to ensure that the data entere... 
+ Choosing the perfect framework is a big deal when it comes to building dynamic web apps. A good fram... 
 
- [바로가기](https://medium.com/@olivier.trinh/how-to-create-form-validation-with-yup-library-in-reactjs-4846f045957a?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------reactjs----------bb4b3984_681c_4c3d_9454_71d0e7c9145b-------) 
+ [바로가기](https://medium.com/@shakyawijerathne/react-js-vs-next-js-for-building-dynamic-web-applications-44fef17e5daf?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------nextjs----------26b1f289_1d74_4e17_8221_6f9fa260c464-------) 
 
-### Deploying a Next.js application on Vercel 
+### Do we really need to use CSS Preprocessors in 2023? 
 
- Deploying a Next.js application on Vercel is straightforward and optimized, given that Vercel is bui... 
+ ... 
 
- [바로가기](https://medium.com/@fitsaleem/deploying-a-next-js-application-on-vercel-ac2228873da3?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------nextjs----------a0836e97_9ff2_463f_8cd0_725e75f88ce3-------) 
+ [바로가기](https://medium.com/@ertu.ozdenli/do-we-really-need-to-use-css-preprocessors-in-2023-fa668169f742?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------front_end_development----------e8df265c_3708_4d1e_91b5_29c8f8b03740-------) 
 
-### Carbon Web Components V2: Full Release 
+### The Best React Project Resource 
 
- Following up: Release Candidate: Carbon Web Components v2, Introducing: Carbon Web Components v2, & ... 
+ 30 + 15 Excellent ranked project ideas... 
 
- [바로가기](https://medium.com/carbondesign/carbon-web-components-v2-full-release-40fc25c73bef?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------front_end_development----------5291e973_ef7c_4e05_83ff_67944f0683e1-------) 
+ [바로가기](https://medium.com/@ryanzwade/the-best-react-project-resource-9e6dfc12fe8e?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------react----------0119e1a1_c14e_4f60_9cd3_fa2b1ce02c1c-------) 
+
+###  시맨틱과 팝오버 속성: 언제 사용해야 할까요? 
+
+ 글 링크 : https://velog.io/@superlipbalm/popover-semantics 소개 HTML의 새로운 속성인 popover 속성에 대해 들어보셨나요? 이 속성... 
+
+ [바로가기](https://kofearticle.substack.com/p/korean-fe-article-1bb) 
 
 ###  React 18이 애플리케이션 성능을 개선하는 방법 
 
  트랜지션, 서스펜스, 리액트 서버 컴포넌트와 같은 동시성 기능이 어떻게 애플리케이션 성능을 개선했는지 알아보겠습니다.... 
 
  [바로가기](https://kofearticle.substack.com/p/korean-fe-article-react-18) 
-
-###  useEffect는 종종 페인트(paint) 이전에 동작합니다 
-
- 글 링크 : https://velog.io/@lky5697/unintentional-layout-effect 소개 React에서 사용하고 있는 useEffect의 동작과 관련된 글... 
-
- [바로가기](https://kofearticle.substack.com/p/korean-fe-article-useeffect-paint) 
 
 ### "Vim은 제 인생에서 매우 중요한 부분입니다” Vim 창시자 인터뷰 
 
