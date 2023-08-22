@@ -1,29 +1,35 @@
 # 오늘의 포스팅 
-2023년 8월 21일 9시 기준 
+2023년 8월 22일 9시 기준 
 
-### Supercharging React State Management: Harnessing the Power of useContext and useReducer 
+### PWA with NextJs 
 
- Introduction... 
+ From this example, I will explain how can we create a PWA application with nextJs.... 
 
- [바로가기](https://medium.com/@devwithomkar/supercharging-react-state-management-harnessing-the-power-of-usecontext-and-usereducer-57d29132cb81?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------reactjs----------2a129212_2127_4e44_ae9a_5bb202b9a623-------) 
+ [바로가기](https://medium.com/@dilshanthilina53/pwa-with-nextjs-ce3b83406113?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------nextjs----------85055bce_fde8_4f19_9948_4b0b5c2dc3ee-------) 
 
-### React.js vs Next.js for Building Dynamic Web Applications 
+### Frontend Weekly Digest #324 (14–20 August 2023) 
 
- Choosing the perfect framework is a big deal when it comes to building dynamic web apps. A good fram... 
+ Web-development... 
 
- [바로가기](https://medium.com/@shakyawijerathne/react-js-vs-next-js-for-building-dynamic-web-applications-44fef17e5daf?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------nextjs----------26b1f289_1d74_4e17_8221_6f9fa260c464-------) 
+ [바로가기](https://medium.com/@frontender-ua/frontend-weekly-digest-324-14-20-august-2023-cae7fab35a99?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------front_end_development----------f184338e_48b0_4dc3_aec4_bd8b2391ba48-------) 
 
-### Do we really need to use CSS Preprocessors in 2023? 
+### How to use WalletConnect with React Native 
 
- ... 
+ It's been close to a decade since I have written something, so now I'll try to get back into the hab... 
 
- [바로가기](https://medium.com/@ertu.ozdenli/do-we-really-need-to-use-css-preprocessors-in-2023-fa668169f742?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------front_end_development----------e8df265c_3708_4d1e_91b5_29c8f8b03740-------) 
+ [바로가기](https://medium.com/@felipe.aga/how-to-use-walletconnect-with-react-native-ffe76d88566?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------react----------db7577e0_5a16_4643_bb26_dbf7a9f225a7-------) 
 
-### The Best React Project Resource 
+### Frontend Weekly Digest #324 (14–20 August 2023) 
 
- 30 + 15 Excellent ranked project ideas... 
+ Web-development... 
 
- [바로가기](https://medium.com/@ryanzwade/the-best-react-project-resource-9e6dfc12fe8e?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------react----------0119e1a1_c14e_4f60_9cd3_fa2b1ce02c1c-------) 
+ [바로가기](https://medium.com/@frontender-ua/frontend-weekly-digest-324-14-20-august-2023-cae7fab35a99?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------javascript----------e8d1d89e_835c_46a5_b436_9e30bba618ed-------) 
+
+###  2023년 SVG-in-JS와 결별 
+
+ 글 링크 : https://github.com/yeonjuan/dev-blog/blob/master/JavaScript/breaking-up-with-svg-in-js-in-202... 
+
+ [바로가기](https://kofearticle.substack.com/p/2023-svg-in-js) 
 
 ###  시맨틱과 팝오버 속성: 언제 사용해야 할까요? 
 
@@ -31,23 +37,17 @@
 
  [바로가기](https://kofearticle.substack.com/p/korean-fe-article-1bb) 
 
-###  React 18이 애플리케이션 성능을 개선하는 방법 
+### 스태프 엔지니어에게 필요한 세 가지 역량 
 
- 트랜지션, 서스펜스, 리액트 서버 컴포넌트와 같은 동시성 기능이 어떻게 애플리케이션 성능을 개선했는지 알아보겠습니다.... 
+ 개발자로서 어느 정도 시간이 흐른 여러분은 두 개의 뚜렷한 갈림길 위에 서 있는 자신을 발견할 수 있을 겁니다. 첫 번째 길은 직속 보고를 받는 매니저가 되는 길이고, 두 번째 길... 
 
- [바로가기](https://kofearticle.substack.com/p/korean-fe-article-react-18) 
+ [바로가기](https://yozm.wishket.com/magazine/detail/2186/) 
 
-### "Vim은 제 인생에서 매우 중요한 부분입니다” Vim 창시자 인터뷰 
+### GitHub Actions으로 배포 자동화해보기(feat. CI/CD) 
 
- Vim 프로젝트는 제게 정말 많은 의미가 있습니다. 저는 항상 무언가를 만드는 것을 좋아하지만, 무언가를 완성하고 나면 그걸로 무엇을 해야 할지 고민하는 경우가 많습니다. 하지만 ... 
+ CI/CD가 뭐냐고요? 쉽게 말해 개발자가 개발을 마친 후 애플리케이션을 빌드하고, 테스트하고, 원격 저장소에 코드를 업데이트하고, 이를 배포하는 등의 전 과정을 자동화하는 과정을... 
 
- [바로가기](https://yozm.wishket.com/magazine/detail/2183/) 
-
-### 정치외교학 전공하고 30대에 신입 개발자 된 사연 
-
- 학생, 취업 준비생 독자를 위해 요즘IT가 일 잘하는 주니어 개발자들의 이야기를 전합니다. 어떻게 개발자로 취업하고, 조직 내에서 평판을 쌓아가며 성장하고 있는지를 들어보려고 합니... 
-
- [바로가기](https://yozm.wishket.com/magazine/detail/2179/) 
+ [바로가기](https://yozm.wishket.com/magazine/detail/2184/) 
 
 ---
 
