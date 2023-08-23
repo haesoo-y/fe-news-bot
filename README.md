@@ -1,29 +1,29 @@
 # 오늘의 포스팅 
-2023년 8월 22일 9시 기준 
-
-### PWA with NextJs 
-
- From this example, I will explain how can we create a PWA application with nextJs.... 
-
- [바로가기](https://medium.com/@dilshanthilina53/pwa-with-nextjs-ce3b83406113?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------nextjs----------85055bce_fde8_4f19_9948_4b0b5c2dc3ee-------) 
+2023년 8월 23일 9시 기준 
 
 ### Frontend Weekly Digest #324 (14–20 August 2023) 
 
  Web-development... 
 
- [바로가기](https://medium.com/@frontender-ua/frontend-weekly-digest-324-14-20-august-2023-cae7fab35a99?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------front_end_development----------f184338e_48b0_4dc3_aec4_bd8b2391ba48-------) 
+ [바로가기](https://medium.com/@frontender-ua/frontend-weekly-digest-324-14-20-august-2023-cae7fab35a99?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------front_end_development----------025ba0bd_7691_4cdc_8173_703f254e13ec-------) 
 
-### How to use WalletConnect with React Native 
+### Update Your React Native App to the Latest API Level 33. 
 
- It's been close to a decade since I have written something, so now I'll try to get back into the hab... 
+ Migrating My App To Android 13... 
 
- [바로가기](https://medium.com/@felipe.aga/how-to-use-walletconnect-with-react-native-ffe76d88566?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------react----------db7577e0_5a16_4643_bb26_dbf7a9f225a7-------) 
+ [바로가기](https://medium.com/javascript-in-plain-english/update-your-react-native-app-to-the-latest-api-level-33-a74337586c31?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------react----------8511246d_c98b_46f4_85a2_4d9ec1699dbe-------) 
 
 ### Frontend Weekly Digest #324 (14–20 August 2023) 
 
  Web-development... 
 
- [바로가기](https://medium.com/@frontender-ua/frontend-weekly-digest-324-14-20-august-2023-cae7fab35a99?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------javascript----------e8d1d89e_835c_46a5_b436_9e30bba618ed-------) 
+ [바로가기](https://medium.com/@frontender-ua/frontend-weekly-digest-324-14-20-august-2023-cae7fab35a99?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------javascript----------78927d2b_bc82_44b7_a342_c30d87399f1b-------) 
+
+### Azure Active Directory Login With Tauri/React Desktop Applications 
+
+ I recently needed to add Azure AD login to my desktop application ( Tauri/ React/Typescript) , and c... 
+
+ [바로가기](https://medium.com/@sirarpimanukyan/azure-active-directory-login-with-tauri-react-desktop-applications-3c804b08f8f4?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------typescript----------99542bd9_da2d_4310_a708_98e2ccde6867-------) 
 
 ###  2023년 SVG-in-JS와 결별 
 
@@ -37,17 +37,17 @@
 
  [바로가기](https://kofearticle.substack.com/p/korean-fe-article-1bb) 
 
-### 스태프 엔지니어에게 필요한 세 가지 역량 
+### 자바 행동 패턴은 어떻게 사용해야 할까? 
 
- 개발자로서 어느 정도 시간이 흐른 여러분은 두 개의 뚜렷한 갈림길 위에 서 있는 자신을 발견할 수 있을 겁니다. 첫 번째 길은 직속 보고를 받는 매니저가 되는 길이고, 두 번째 길... 
+ 이번 글은 자바 디자인 패턴 시리즈의 마지막 편으로 행동 패턴(Behavior Patterns)에 대해 살펴보겠습니다. 행동 패턴은 이전 시리즈에서 살펴 본 구조 패턴(Struct... 
 
- [바로가기](https://yozm.wishket.com/magazine/detail/2186/) 
+ [바로가기](https://yozm.wishket.com/magazine/detail/2190/) 
 
-### GitHub Actions으로 배포 자동화해보기(feat. CI/CD) 
+### 비개발자에게 프로그래밍을 가르칠 때 주의점 5가지 
 
- CI/CD가 뭐냐고요? 쉽게 말해 개발자가 개발을 마친 후 애플리케이션을 빌드하고, 테스트하고, 원격 저장소에 코드를 업데이트하고, 이를 배포하는 등의 전 과정을 자동화하는 과정을... 
+ 나는 비개발자의 일을 하고 있다. 그러나 일하면서 늘 '어느 정도의 프로그래밍은 알아야 한다'라는 생각을 한다. 그래서 다양한 시도 끝에 파이썬과 자바스크립트를 가볍게 활용하는 정... 
 
- [바로가기](https://yozm.wishket.com/magazine/detail/2184/) 
+ [바로가기](https://yozm.wishket.com/magazine/detail/2188/) 
 
 ---
 
