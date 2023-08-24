@@ -1,11 +1,5 @@
 # 오늘의 포스팅 
-2023년 8월 23일 9시 기준 
-
-### Frontend Weekly Digest #324 (14–20 August 2023) 
-
- Web-development... 
-
- [바로가기](https://medium.com/@frontender-ua/frontend-weekly-digest-324-14-20-august-2023-cae7fab35a99?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------front_end_development----------025ba0bd_7691_4cdc_8173_703f254e13ec-------) 
+2023년 8월 24일 9시 기준 
 
 ### Update Your React Native App to the Latest API Level 33. 
 
@@ -19,23 +13,29 @@
 
  [바로가기](https://medium.com/@frontender-ua/frontend-weekly-digest-324-14-20-august-2023-cae7fab35a99?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------javascript----------78927d2b_bc82_44b7_a342_c30d87399f1b-------) 
 
-### Azure Active Directory Login With Tauri/React Desktop Applications 
+### Creating a Flex Component Using Next.js, Styled-Components and Typescript 
 
- I recently needed to add Azure AD login to my desktop application ( Tauri/ React/Typescript) , and c... 
+ Introduction:... 
 
- [바로가기](https://medium.com/@sirarpimanukyan/azure-active-directory-login-with-tauri-react-desktop-applications-3c804b08f8f4?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------typescript----------99542bd9_da2d_4310_a708_98e2ccde6867-------) 
+ [바로가기](https://medium.com/javascript-in-plain-english/creating-a-flex-component-using-next-js-styled-components-and-typescript-4bb744fbc3d8?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------typescript----------64bc46aa_f519_40bd_8fd7_6ac963b6d0ba-------) 
+
+### Pivoting Perspectives: My Journey From Frontend Development To Product Management 
+
+ The subjective why and how of my journey from dev to a PM.... 
+
+ [바로가기](https://medium.com/product-qawafel/pivoting-perspectives-my-journey-from-frontend-development-to-product-management-35f724a976c1?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------frontend----------dad71c48_a8ac_458d_aba5_9d1dabc5c67a-------) 
+
+###  리액트로 인해 잊었거나 전혀 몰랐던 것들 
+
+ 소개 리액트는 긴 시간 동안 최고의 인기를 누리고 있습니다. 하지만 리액트가 가장 뛰어난 프런트엔드 도구가 아니고, 그걸 느끼지 못하는 이유가 단지 익숙함 때문이라면 어떨까요? 저... 
+
+ [바로가기](https://kofearticle.substack.com/p/korean-fe-article-304) 
 
 ###  2023년 SVG-in-JS와 결별 
 
  글 링크 : https://github.com/yeonjuan/dev-blog/blob/master/JavaScript/breaking-up-with-svg-in-js-in-202... 
 
  [바로가기](https://kofearticle.substack.com/p/2023-svg-in-js) 
-
-###  시맨틱과 팝오버 속성: 언제 사용해야 할까요? 
-
- 글 링크 : https://velog.io/@superlipbalm/popover-semantics 소개 HTML의 새로운 속성인 popover 속성에 대해 들어보셨나요? 이 속성... 
-
- [바로가기](https://kofearticle.substack.com/p/korean-fe-article-1bb) 
 
 ### 자바 행동 패턴은 어떻게 사용해야 할까? 
 
