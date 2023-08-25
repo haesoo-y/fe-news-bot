@@ -1,41 +1,41 @@
 # 오늘의 포스팅 
-2023년 8월 24일 9시 기준 
+2023년 8월 25일 9시 기준 
 
-### Update Your React Native App to the Latest API Level 33. 
+### Enhancing Web Development: Leveraging React into Existing Vanilla Web Apps for Efficiency and… 
 
- Migrating My App To Android 13... 
+ In the fast-paced world of web development, staying ahead of the curve is essential to deliver outst... 
 
- [바로가기](https://medium.com/javascript-in-plain-english/update-your-react-native-app-to-the-latest-api-level-33-a74337586c31?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------react----------8511246d_c98b_46f4_85a2_4d9ec1699dbe-------) 
+ [바로가기](https://medium.com/@raunaks31/enhancing-web-development-leveraging-react-into-existing-vanilla-web-apps-for-efficiency-and-41b2e532586a?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------javascript----------60afac9b_de98_4f67_a2c9_be6121d18cbb-------) 
 
-### Frontend Weekly Digest #324 (14–20 August 2023) 
+### KuberNautical: A Comprehensive Kubernetes Developer Tool 
 
- Web-development... 
+ What is Kubernetes... 
 
- [바로가기](https://medium.com/@frontender-ua/frontend-weekly-digest-324-14-20-august-2023-cae7fab35a99?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------javascript----------78927d2b_bc82_44b7_a342_c30d87399f1b-------) 
+ [바로가기](https://medium.com/@kubernautical/kubernautical-a-comprehensive-kubernetes-developer-tool-3bf80c34e51a?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------typescript----------d0d76613_493d_404e_b5ea_f8d04e190dc4-------) 
 
-### Creating a Flex Component Using Next.js, Styled-Components and Typescript 
+### Streamlining Frontend Code Quality: A Deep Dive into Eslint and Prettier Integration at GoComet 
 
- Introduction:... 
+ Implementing a solid centralized linting system can enhance the efficiency of developers and avoid t... 
 
- [바로가기](https://medium.com/javascript-in-plain-english/creating-a-flex-component-using-next-js-styled-components-and-typescript-4bb744fbc3d8?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------typescript----------64bc46aa_f519_40bd_8fd7_6ac963b6d0ba-------) 
+ [바로가기](https://medium.com/gocomet/streamlining-frontend-code-quality-a-deep-dive-into-eslint-and-prettier-integration-at-gocomet-ce7074e511b9?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------frontend----------c4421d0b_7bf7_4cbf_8fa2_9a0550af4653-------) 
 
-### Pivoting Perspectives: My Journey From Frontend Development To Product Management 
+### Top React Animation Libraries: Elevate Your Web Design With These Picks 
 
- The subjective why and how of my journey from dev to a PM.... 
+ In the realm of web application user interfaces, there exists a plethora of elements aimed at captiv... 
 
- [바로가기](https://medium.com/product-qawafel/pivoting-perspectives-my-journey-from-frontend-development-to-product-management-35f724a976c1?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------frontend----------dad71c48_a8ac_458d_aba5_9d1dabc5c67a-------) 
+ [바로가기](https://medium.com/@kumar.aayush04/top-react-animation-libraries-elevate-your-web-design-with-these-picks-1b9e32b1976f?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------reactjs----------e54a01cf_ac73_45e1_b04a_cbec769e3b01-------) 
+
+###  어떻게 우리는 자바스크립트 번들 크기를 33% 줄였는가? 
+
+ 소개 오늘 소개해드릴 글은 조금 가벼운 마음으로 읽을실 수 있는 글을 준비해봤는데요. 드랍박스 팀에서 롤업을 활용해 자바스크립트 번들의 크기를 줄인 경험담을 번역해봤습니다. 드랍박... 
+
+ [바로가기](https://kofearticle.substack.com/p/korean-fe-article-33) 
 
 ###  리액트로 인해 잊었거나 전혀 몰랐던 것들 
 
  소개 리액트는 긴 시간 동안 최고의 인기를 누리고 있습니다. 하지만 리액트가 가장 뛰어난 프런트엔드 도구가 아니고, 그걸 느끼지 못하는 이유가 단지 익숙함 때문이라면 어떨까요? 저... 
 
  [바로가기](https://kofearticle.substack.com/p/korean-fe-article-304) 
-
-###  2023년 SVG-in-JS와 결별 
-
- 글 링크 : https://github.com/yeonjuan/dev-blog/blob/master/JavaScript/breaking-up-with-svg-in-js-in-202... 
-
- [바로가기](https://kofearticle.substack.com/p/2023-svg-in-js) 
 
 ### 자바 행동 패턴은 어떻게 사용해야 할까? 
 
