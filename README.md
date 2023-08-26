@@ -1,29 +1,29 @@
 # 오늘의 포스팅 
-2023년 8월 25일 9시 기준 
+2023년 8월 26일 9시 기준 
 
-### Enhancing Web Development: Leveraging React into Existing Vanilla Web Apps for Efficiency and… 
+### Mastering TypeScript: From Novice to Proficient Developer 
 
- In the fast-paced world of web development, staying ahead of the curve is essential to deliver outst... 
+ TypeScript is a hybrid of JavaScript with added features, where you can declare data types at runtim... 
 
- [바로가기](https://medium.com/@raunaks31/enhancing-web-development-leveraging-react-into-existing-vanilla-web-apps-for-efficiency-and-41b2e532586a?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------javascript----------60afac9b_de98_4f67_a2c9_be6121d18cbb-------) 
+ [바로가기](https://medium.com/@azharulip/mastering-typescript-from-novice-to-proficient-developer-b13325c56900?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------typescript----------413ee0f6_d7f2_43c6_9dcb_9420ea62f807-------) 
 
-### KuberNautical: A Comprehensive Kubernetes Developer Tool 
+### The State Management Ninja | REDUX 
 
- What is Kubernetes... 
+ Redux is a robust JavaScript state management library. It provides a structured approach for managin... 
 
- [바로가기](https://medium.com/@kubernautical/kubernautical-a-comprehensive-kubernetes-developer-tool-3bf80c34e51a?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------typescript----------d0d76613_493d_404e_b5ea_f8d04e190dc4-------) 
+ [바로가기](https://medium.com/@safoun.official/the-state-management-ninja-redux-ffe110ed5b65?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------frontend----------f051c75d_a6ec_40af_9c00_dab369d78212-------) 
 
-### Streamlining Frontend Code Quality: A Deep Dive into Eslint and Prettier Integration at GoComet 
+### How to create React application | React Journey with my first project as a Beginner. 
 
- Implementing a solid centralized linting system can enhance the efficiency of developers and avoid t... 
+ How Mastering React Application Development A Step-by-Step Guide to Creating React Application.... 
 
- [바로가기](https://medium.com/gocomet/streamlining-frontend-code-quality-a-deep-dive-into-eslint-and-prettier-integration-at-gocomet-ce7074e511b9?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------frontend----------c4421d0b_7bf7_4cbf_8fa2_9a0550af4653-------) 
+ [바로가기](https://medium.com/@satishrajyalameli/how-to-create-react-application-react-journey-with-my-first-project-as-a-beginner-423758456e9c?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------reactjs----------3189a787_ff27_457d_97b8_3cf89911b894-------) 
 
-### Top React Animation Libraries: Elevate Your Web Design With These Picks 
+### My Newly Learned Technology 
 
- In the realm of web application user interfaces, there exists a plethora of elements aimed at captiv... 
+ Recently i have learned about nextjs. But I couldn’t explore it fully. I have just learned some basi... 
 
- [바로가기](https://medium.com/@kumar.aayush04/top-react-animation-libraries-elevate-your-web-design-with-these-picks-1b9e32b1976f?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------reactjs----------e54a01cf_ac73_45e1_b04a_cbec769e3b01-------) 
+ [바로가기](https://medium.com/@ash283236/my-newly-learned-technology-33e44278c042?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------nextjs----------f00be324_a22a_4290_b1dc_3174403a4c51-------) 
 
 ###  어떻게 우리는 자바스크립트 번들 크기를 33% 줄였는가? 
 
@@ -37,17 +37,17 @@
 
  [바로가기](https://kofearticle.substack.com/p/korean-fe-article-304) 
 
-### 자바 행동 패턴은 어떻게 사용해야 할까? 
+### 깃허브 액션으로 CI/CD 구현하기 
 
- 이번 글은 자바 디자인 패턴 시리즈의 마지막 편으로 행동 패턴(Behavior Patterns)에 대해 살펴보겠습니다. 행동 패턴은 이전 시리즈에서 살펴 본 구조 패턴(Struct... 
+ CI/CD가 뭐냐고요? 쉽게 말해 개발자가 개발을 마친 후 애플리케이션을 빌드하고, 테스트하고, 원격 저장소에 코드를 업데이트하고, 이를 배포하는 등의 전 과정을 자동화하는 과정을... 
 
- [바로가기](https://yozm.wishket.com/magazine/detail/2190/) 
+ [바로가기](https://yozm.wishket.com/magazine/detail/2197/) 
 
-### 비개발자에게 프로그래밍을 가르칠 때 주의점 5가지 
+### 프론트엔드, 백엔드 개발자 간 소통 돕는 Swagger 
 
- 나는 비개발자의 일을 하고 있다. 그러나 일하면서 늘 '어느 정도의 프로그래밍은 알아야 한다'라는 생각을 한다. 그래서 다양한 시도 끝에 파이썬과 자바스크립트를 가볍게 활용하는 정... 
+ Spring Swagger를 처음 접하는 분들은 Swagger가 무엇인지, 어떤 기능을 가지고 있는지 궁금해할 것입니다. Swagger는 RESTful API를 문서화하고, 사용자... 
 
- [바로가기](https://yozm.wishket.com/magazine/detail/2188/) 
+ [바로가기](https://yozm.wishket.com/magazine/detail/2195/) 
 
 ---
 
