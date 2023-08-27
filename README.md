@@ -1,29 +1,29 @@
 # 오늘의 포스팅 
-2023년 8월 26일 9시 기준 
+2023년 8월 27일 9시 기준 
 
-### Mastering TypeScript: From Novice to Proficient Developer 
+### Spline: A 3D tool every creative web developer needs 
 
- TypeScript is a hybrid of JavaScript with added features, where you can declare data types at runtim... 
+ Ever felt the itch to seamlessly blend your code with some wild design ideas? Ever wished that your ... 
 
- [바로가기](https://medium.com/@azharulip/mastering-typescript-from-novice-to-proficient-developer-b13325c56900?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------typescript----------413ee0f6_d7f2_43c6_9dcb_9420ea62f807-------) 
+ [바로가기](https://medium.com/@grebowskifilip/spline-a-3d-tool-every-creative-web-developer-needs-6d5f9f5807dc?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------frontend----------6635cd29_9161_47eb_b02a_51a1d696356c-------) 
 
-### The State Management Ninja | REDUX 
+### Build and Deploy a ReactJS App to AWS EC2 with Docker, NGINX, and Automate with GitHub Actions. 
 
- Redux is a robust JavaScript state management library. It provides a structured approach for managin... 
+ In today’s digital landscape, master the art of building, deploying and automating ReactJS Apps usin... 
 
- [바로가기](https://medium.com/@safoun.official/the-state-management-ninja-redux-ffe110ed5b65?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------frontend----------f051c75d_a6ec_40af_9c00_dab369d78212-------) 
+ [바로가기](https://medium.com/@kilama/build-and-deploy-a-reactjs-app-to-aws-ec2-with-docker-nginx-and-automate-with-github-actions-d8c57fb47967?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------reactjs----------04081a67_1b68_42b4_accd_36252f967c01-------) 
 
-### How to create React application | React Journey with my first project as a Beginner. 
+### Implementing GraphQL and Apollo Server with Next.js 13.4: A Simple Guide (App Directory) 
 
- How Mastering React Application Development A Step-by-Step Guide to Creating React Application.... 
+ Explore the fusion of GraphQL and Apollo Server with Next.js 13.4 in a step-by-step journey.... 
 
- [바로가기](https://medium.com/@satishrajyalameli/how-to-create-react-application-react-journey-with-my-first-project-as-a-beginner-423758456e9c?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------reactjs----------3189a787_ff27_457d_97b8_3cf89911b894-------) 
+ [바로가기](https://medium.com/@jareerzeenam/implementing-graphql-and-apollo-server-with-next-js-13-4-a-simple-guide-app-directory-77e38eb697e3?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------nextjs----------bc6a9303_2e71_4eb9_9d26_57402a9f6fee-------) 
 
-### My Newly Learned Technology 
+### Achieving Cross-Browser & Responsive Coverage in Cypress Snapshot Testing 
 
- Recently i have learned about nextjs. But I couldn’t explore it fully. I have just learned some basi... 
+ In this article, we will explore how we implemented snapshot testing with Cypress , focusing on two ... 
 
- [바로가기](https://medium.com/@ash283236/my-newly-learned-technology-33e44278c042?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------nextjs----------f00be324_a22a_4290_b1dc_3174403a4c51-------) 
+ [바로가기](https://medium.com/trendyol-tech/achieving-cross-browser-responsive-coverage-in-cypress-snapshot-testing-b265d0e0fad9?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------front_end_development----------711ab5d6_1a3f_4ba4_81b7_d344e6f63d22-------) 
 
 ###  어떻게 우리는 자바스크립트 번들 크기를 33% 줄였는가? 
 
