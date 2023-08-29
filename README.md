@@ -1,29 +1,29 @@
 # 오늘의 포스팅 
-2023년 8월 28일 9시 기준 
+2023년 8월 29일 9시 기준 
 
-### Build and Deploy a ReactJS App to AWS EC2 with Docker, NGINX, and Automate with GitHub Actions. 
+### Sitecore Experience with NextJS : Introduction 
 
- In today’s digital landscape, master the art of building, deploying and automating ReactJS Apps usin... 
+ A Professional Walkthrough Series for Enhanced Web Development... 
 
- [바로가기](https://medium.com/@kilama/build-and-deploy-a-reactjs-app-to-aws-ec2-with-docker-nginx-and-automate-with-github-actions-d8c57fb47967?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------reactjs----------28a1a20c_2345_4b05_b8cb_5c78ad623ea4-------) 
+ [바로가기](https://medium.com/@prabhu.ranganathan/sitecore-experience-with-nextjs-introduction-df6fa9aac567?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------nextjs----------97a4bddd_d042_4a59_992c_8dcb76dbabc4-------) 
 
-### My Newly Learned Technology 
+### Frontend Weekly Digest #325 (21–27 August 2023) 
 
- Recently i have learned about nextjs. But I couldn’t explore it fully. I have just learned some basi... 
+ Web-development... 
 
- [바로가기](https://medium.com/@ash283236/my-newly-learned-technology-33e44278c042?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------nextjs----------09b16180_02b8_49a1_99ae_4dfb0769e744-------) 
+ [바로가기](https://medium.com/@frontender-ua/frontend-weekly-digest-325-21-27-august-2023-5cc7e70746d8?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------front_end_development----------47abd73b_9766_4038_89bd_9a816b7b139c-------) 
 
-### JavaScript IndexedDB 
+### State Management in Micro-Frontends: Strategies for Seamless Collaboration 
 
- Hi everyone! In this article, I will tell you about JavaScript IndexedDB. IndexedDB is a JavaScript-... 
+ Micro-frontends, are a rapidly growing trend in the frontend realm, ensuring that the enjoyment isn’... 
 
- [바로가기](https://medium.com/@dilarauluturhan/javascript-indexeddb-30f5b3f6f08f?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------front_end_development----------3d7789a7_ab07_4132_b539_0693f2fafbd2-------) 
+ [바로가기](https://medium.com/@cskavi34/state-management-in-micro-frontends-strategies-for-seamless-collaboration-78b780371952?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------react----------991fd7cd_9d05_4344_a2e1_d0d1df7c8528-------) 
 
-### How to Quickly and Easily Generate Mockup Data Using JavaScript and Faker 
+### Frontend Weekly Digest #325 (21–27 August 2023) 
 
- A quick and simple step-by-step guide of how we can efficiently generate a JSON file with mockup dat... 
+ Web-development... 
 
- [바로가기](https://medium.com/@gaspm/how-to-quickly-and-easily-generate-mockup-data-using-javascript-and-faker-67a19c64c8e8?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------react----------c7168a0a_bd8c_418f_915c_a1beb017b801-------) 
+ [바로가기](https://medium.com/@frontender-ua/frontend-weekly-digest-325-21-27-august-2023-5cc7e70746d8?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------javascript----------76cd8dbe_f532_4511_810f_069a1e38f7f0-------) 
 
 ###  Node.js 비동기 흐름 제어 및 이벤트 루프 
 
