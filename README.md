@@ -1,11 +1,5 @@
 # 오늘의 포스팅 
-2023년 8월 31일 9시 기준 
-
-### Fantastic closures and how to find them in React 
-
- Deep dive into closures in JavaScript and React: how they appear, why we need them, what stale closu... 
-
- [바로가기](https://medium.com/@adevnadia/fantastic-closures-and-how-to-find-them-in-react-d81f000919d2?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-107----------react----------37cfa423_b59c_4e49_9872_74ad198122de-------) 
+2023년 9월 1일 9시 기준 
 
 ### Going Build-less With Import Maps 
 
@@ -17,13 +11,19 @@
 
  ... 
 
- [바로가기](https://medium.com/better-programming/typescript-with-go-rust-errors-no-try-catch-heresy-da0e43ce5f78?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-107----------typescript----------920ef11b_0989_4339_ab97_6a9df090d718-------) 
+ [바로가기](https://medium.com/better-programming/typescript-with-go-rust-errors-no-try-catch-heresy-da0e43ce5f78?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-107----------typescript----------19df9104_53de_4ff1_9b87_0556cd6a9147-------) 
 
-### Going Build-less With Import Maps 
+### Transitioning to React 18: What developer’s need to know before upgrading 
 
- You might not need a build step for your web app... 
+ My journey into the latest and greatest version of React, React 18, has been an exciting one. I’ve m... 
 
- [바로가기](https://medium.com/itnext/going-build-less-with-import-maps-f71842aa20cb?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------frontend----------9e97d6e1_840b_4861_bf2e_507d234f00a5-------) 
+ [바로가기](https://medium.com/@kaaviya-n/transitioning-to-react-18-a-comprehensive-update-37c3cdc83ccc?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------frontend----------2b75ea2d_e3bd_475e_9a34_2bccd397d73f-------) 
+
+### Learn Next.js By Building Your First Next.js App From Scratch 
+
+ Learn about Next.js key features by building your first Next.js app step by step... 
+
+ [바로가기](https://medium.com/gitconnected/learn-next-js-by-building-your-first-next-js-app-from-scratch-8ec7cc93a9cb?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-107----------reactjs----------9fd424ad_fe8c_41ca_86b3_169b83e739f5-------) 
 
 ###  우리들을 위한 디자인 패턴 
 
@@ -37,17 +37,17 @@
 
  [바로가기](https://kofearticle.substack.com/p/korean-fe-article-nodejs) 
 
+### 좋은 유닛 테스트란 무엇일까? 
+
+ 이제 막 성장 중인 기업의 입장에선 최신 기술보다는 지속 가능한 소프트웨어를 개발하는 것이 중요할 것입니다. 그렇다면 지속 가능한 소프트웨어를 개발하기 위해서는 무엇을 준비해야 할... 
+
+ [바로가기](https://yozm.wishket.com/magazine/detail/2206/) 
+
 ### ‘혼자’보다는 ‘함께’ 학습해야 하는 이유 
 
  간혹 학습을 많이 하는데도 불구하고 성장하지 못하고 제자리걸음인 사람이 있다. 나는 그 사람과 대화하면서 피드백 없이 혼자서만 학습을 오래, 그리고 많이했음을 알 수 있었다. 주로... 
 
  [바로가기](https://yozm.wishket.com/magazine/detail/2204/) 
-
-### 프론트엔드 개발의 종말 
-
- 저는 지난 몇 달 동안 AI의 등장에 불안해하는 많은 주니어 개발자와 이야기를 나눴습니다. 그들은 GPT-4와 같은 AI 툴이 단기간에 비약적으로 발전하는 것을 보았고, 본인이 H... 
-
- [바로가기](https://yozm.wishket.com/magazine/detail/2201/) 
 
 ---
 
