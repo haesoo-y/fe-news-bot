@@ -1,29 +1,29 @@
 # 오늘의 포스팅 
-2023년 9월 1일 9시 기준 
-
-### Going Build-less With Import Maps 
-
- You might not need a build step for your web app... 
-
- [바로가기](https://medium.com/itnext/going-build-less-with-import-maps-f71842aa20cb?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------javascript----------59b43415_c706_4ee3_989e_6d557d0a9ea9-------) 
+2023년 9월 2일 9시 기준 
 
 ### TypeScript With Go and Rust Errors? No Try/Catch? Heresy 
 
  ... 
 
- [바로가기](https://medium.com/better-programming/typescript-with-go-rust-errors-no-try-catch-heresy-da0e43ce5f78?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-107----------typescript----------19df9104_53de_4ff1_9b87_0556cd6a9147-------) 
+ [바로가기](https://medium.com/better-programming/typescript-with-go-rust-errors-no-try-catch-heresy-da0e43ce5f78?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-107----------typescript----------a7e25113_2efd_4baa_b208_b923af85bd06-------) 
 
-### Transitioning to React 18: What developer’s need to know before upgrading 
+### Why HTMX Won’t Replace JavaScript Anytime Soon 
 
- My journey into the latest and greatest version of React, React 18, has been an exciting one. I’ve m... 
+ Ah, JavaScript, the language that backend developers love to hate.... 
 
- [바로가기](https://medium.com/@kaaviya-n/transitioning-to-react-18-a-comprehensive-update-37c3cdc83ccc?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------frontend----------2b75ea2d_e3bd_475e_9a34_2bccd397d73f-------) 
+ [바로가기](https://medium.com/@pikilon/why-htmx-wont-replace-javascript-anytime-soon-c07890f16711?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------frontend----------90552104_0b53_4e9b_bede_f498412dc830-------) 
 
 ### Learn Next.js By Building Your First Next.js App From Scratch 
 
  Learn about Next.js key features by building your first Next.js app step by step... 
 
- [바로가기](https://medium.com/gitconnected/learn-next-js-by-building-your-first-next-js-app-from-scratch-8ec7cc93a9cb?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-107----------reactjs----------9fd424ad_fe8c_41ca_86b3_169b83e739f5-------) 
+ [바로가기](https://medium.com/gitconnected/learn-next-js-by-building-your-first-next-js-app-from-scratch-8ec7cc93a9cb?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-107----------reactjs----------fc3f2a7d_dd8f_42d5_b8f7_1d49607e2671-------) 
+
+### Some First Thoughts on Next 13 
+
+ I really wanted to love Next 13.... 
+
+ [바로가기](https://medium.com/better-programming/some-first-thoughts-on-next-13-922a6a6c5200?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-107----------nextjs----------22d9e3a8_2cba_4171_b949_fd8e1f795501-------) 
 
 ###  우리들을 위한 디자인 패턴 
 
@@ -37,17 +37,17 @@
 
  [바로가기](https://kofearticle.substack.com/p/korean-fe-article-nodejs) 
 
-### 좋은 유닛 테스트란 무엇일까? 
+### MySQL 타임스탬프와 Y2K38 문제 
 
- 이제 막 성장 중인 기업의 입장에선 최신 기술보다는 지속 가능한 소프트웨어를 개발하는 것이 중요할 것입니다. 그렇다면 지속 가능한 소프트웨어를 개발하기 위해서는 무엇을 준비해야 할... 
+ 유닉스 시간(Unix Timestamp)은 32비트 정수형을 사용해서 날짜와 시간을 표현을 해요. 그래서 날짜/시간은 32 비트 정수형 사용 가능한 허용 범위에서만 표현할 수 있습... 
 
- [바로가기](https://yozm.wishket.com/magazine/detail/2206/) 
+ [바로가기](https://yozm.wishket.com/magazine/detail/2209/) 
 
-### ‘혼자’보다는 ‘함께’ 학습해야 하는 이유 
+### MVP 외주로 개발하려는 스타트업이 꼭 알아야 할 3가지 
 
- 간혹 학습을 많이 하는데도 불구하고 성장하지 못하고 제자리걸음인 사람이 있다. 나는 그 사람과 대화하면서 피드백 없이 혼자서만 학습을 오래, 그리고 많이했음을 알 수 있었다. 주로... 
+ 투자자와 약속한 데드라인이 1달 남짓 남은 시점. 데얼스는 다급하게 IT 외주 중개 플랫폼 위시켓을 찾아왔습니다. 다행히 위시켓에서 실력 있는 개발사를 만나 무사히 론칭 일을 맞췄... 
 
- [바로가기](https://yozm.wishket.com/magazine/detail/2204/) 
+ [바로가기](https://yozm.wishket.com/magazine/detail/2208/) 
 
 ---
 
