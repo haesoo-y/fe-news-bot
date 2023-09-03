@@ -1,29 +1,29 @@
 # 오늘의 포스팅 
-2023년 9월 2일 9시 기준 
+2023년 9월 3일 9시 기준 
 
-### TypeScript With Go and Rust Errors? No Try/Catch? Heresy 
+### Why did Machbase Neo switch its front-end framework from Vue.js to React? 
 
- ... 
+ Machbase Neo(Time Series Database) Development Team... 
 
- [바로가기](https://medium.com/better-programming/typescript-with-go-rust-errors-no-try-catch-heresy-da0e43ce5f78?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-107----------typescript----------a7e25113_2efd_4baa_b208_b923af85bd06-------) 
+ [바로가기](https://medium.com/machbase/why-did-machbase-neo-switch-its-front-end-framework-from-vue-js-to-react-b06ffe680785?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------frontend----------8a8b993a_0d89_4e74_b7e1_3abf14cc276d-------) 
 
-### Why HTMX Won’t Replace JavaScript Anytime Soon 
+### Popularity reasons of Javascript, Typescript, React JS and Next JS along with Difference between… 
 
- Ah, JavaScript, the language that backend developers love to hate.... 
+ Javascript... 
 
- [바로가기](https://medium.com/@pikilon/why-htmx-wont-replace-javascript-anytime-soon-c07890f16711?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------frontend----------90552104_0b53_4e9b_bede_f498412dc830-------) 
-
-### Learn Next.js By Building Your First Next.js App From Scratch 
-
- Learn about Next.js key features by building your first Next.js app step by step... 
-
- [바로가기](https://medium.com/gitconnected/learn-next-js-by-building-your-first-next-js-app-from-scratch-8ec7cc93a9cb?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-107----------reactjs----------fc3f2a7d_dd8f_42d5_b8f7_1d49607e2671-------) 
+ [바로가기](https://medium.com/@s.atmaramani/popularity-reasons-of-javascript-typescript-react-js-and-next-js-along-with-difference-between-8fe5b1f500c6?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------reactjs----------773b9a1a_6032_444b_b899_0b04ede4e9c1-------) 
 
 ### Some First Thoughts on Next 13 
 
  I really wanted to love Next 13.... 
 
- [바로가기](https://medium.com/better-programming/some-first-thoughts-on-next-13-922a6a6c5200?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-107----------nextjs----------22d9e3a8_2cba_4171_b949_fd8e1f795501-------) 
+ [바로가기](https://medium.com/better-programming/some-first-thoughts-on-next-13-922a6a6c5200?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-107----------nextjs----------3d80a7be_34dc_4843_ab76_45eb669e0f97-------) 
+
+### IKEA.com — the problems with static content 
+
+ In my previous blog post, I wrote about the history of IKEA.com going from a monolithic e-commerce p... 
+
+ [바로가기](https://medium.com/flat-pack-tech/ikea-com-the-problems-with-static-content-3cd750a5f529?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------front_end_development----------277ca412_1067_4fc7_8898_dfd5c31a47c1-------) 
 
 ###  우리들을 위한 디자인 패턴 
 
