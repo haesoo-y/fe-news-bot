@@ -1,41 +1,41 @@
 # 오늘의 포스팅 
-2023년 9월 3일 9시 기준 
-
-### Why did Machbase Neo switch its front-end framework from Vue.js to React? 
-
- Machbase Neo(Time Series Database) Development Team... 
-
- [바로가기](https://medium.com/machbase/why-did-machbase-neo-switch-its-front-end-framework-from-vue-js-to-react-b06ffe680785?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------frontend----------8a8b993a_0d89_4e74_b7e1_3abf14cc276d-------) 
+2023년 9월 4일 9시 기준 
 
 ### Popularity reasons of Javascript, Typescript, React JS and Next JS along with Difference between… 
 
  Javascript... 
 
- [바로가기](https://medium.com/@s.atmaramani/popularity-reasons-of-javascript-typescript-react-js-and-next-js-along-with-difference-between-8fe5b1f500c6?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------reactjs----------773b9a1a_6032_444b_b899_0b04ede4e9c1-------) 
+ [바로가기](https://medium.com/@s.atmaramani/popularity-reasons-of-javascript-typescript-react-js-and-next-js-along-with-difference-between-8fe5b1f500c6?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------reactjs----------b8df0aee_ff89_42d7_ae5b_e0f246179bcf-------) 
 
-### Some First Thoughts on Next 13 
+### Unit Testing Basic Concepts 
 
- I really wanted to love Next 13.... 
+ Unit testing is a crucial aspect of software development that involves testing individual units or c... 
 
- [바로가기](https://medium.com/better-programming/some-first-thoughts-on-next-13-922a6a6c5200?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-107----------nextjs----------3d80a7be_34dc_4843_ab76_45eb669e0f97-------) 
+ [바로가기](https://medium.com/@shamiul-islam/unit-testing-basic-concepts-f626d72c1805?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------nextjs----------78ff4e92_d17e_476b_b14a_d7e4c0371697-------) 
 
-### IKEA.com — the problems with static content 
+### Next.js Tutorial (13 Version) 
 
- In my previous blog post, I wrote about the history of IKEA.com going from a monolithic e-commerce p... 
+ Next.js Tutorial (13 Version)... 
 
- [바로가기](https://medium.com/flat-pack-tech/ikea-com-the-problems-with-static-content-3cd750a5f529?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------front_end_development----------277ca412_1067_4fc7_8898_dfd5c31a47c1-------) 
+ [바로가기](https://medium.com/@hongsi140626/next-js-tutorial-13-version-93dca594e704?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------front_end_development----------21bf172f_b8aa_4a63_95e0_69da6b71f542-------) 
+
+### Why did Machbase Neo switch its front-end framework from Vue.js to React? 
+
+ Machbase Neo(Time Series Database) Development Team... 
+
+ [바로가기](https://medium.com/machbase/why-did-machbase-neo-switch-its-front-end-framework-from-vue-js-to-react-b06ffe680785?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------react----------3dde2cc0_b6a8_4477_8a8e_6b684b3b02a4-------) 
+
+###  ESM으로 패키지를 최신화한 경험기 
+
+ 소개 이 글은 Redux 메인테이너로 활동중인 Mark Erikson이 Redux 및 관련 패키지들이 ESM을 지원할 수 있도록 전환하는 작업을 하며 겪은 경험을 공유하는 글 입니... 
+
+ [바로가기](https://kofearticle.substack.com/p/korean-fe-article-esm) 
 
 ###  우리들을 위한 디자인 패턴 
 
  소개 이 글은 개발자 로드맵을 만든 Kamran Ahmed가 작성한 디자인 패턴의 번역글입니다. 디자인 패턴별로 매우 간결하게 요약되어 있어, 디자인 패턴 전반을 빠르게 살펴보기에... 
 
  [바로가기](https://kofearticle.substack.com/p/korean-fe-article-cf7) 
-
-###  Node.js 비동기 흐름 제어 및 이벤트 루프 
-
- 소개 이 글에서는 이벤트 루프, 비동기 API, Node.js 콜스택과 같은 핵심 구성 요소를 포함해 Node.js의 비동기적…... 
-
- [바로가기](https://kofearticle.substack.com/p/korean-fe-article-nodejs) 
 
 ### MySQL 타임스탬프와 Y2K38 문제 
 
