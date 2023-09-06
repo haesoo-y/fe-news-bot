@@ -1,11 +1,5 @@
 # 오늘의 포스팅 
-2023년 9월 5일 9시 기준 
-
-### What are CSR & SSR and Why we should learn Next.js? 
-
- What are CSR & SSR and Why we should learn Next.js?... 
-
- [바로가기](https://medium.com/@hongsi140626/what-are-csr-ssr-and-why-we-should-learn-next-js-6680c292a0ea?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------nextjs----------a2acf5e3_9e3b_4906_a4d6_13d1aa56b102-------) 
+2023년 9월 6일 9시 기준 
 
 ### Testing Google Maps and WebSockets with Cypress 
 
@@ -13,17 +7,23 @@
 
  [바로가기](https://medium.com/trendyol-tech/testing-google-maps-and-websockets-with-cypress-3aaa3a15e92?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------front_end_development----------bf525dc7_08d8_4183_9463_83b7356a3156-------) 
 
-### A Step-by-Step Guide to Building Your First Web App with React.js 
+### Testing Google Maps and WebSockets with Cypress 
 
- Hello, I’m Chiranthan Y, a budding software developer. I’m here to provide you with a step-by-step g... 
+ In previous articles, we discussed Trendyol GO’s React-based admin micro-frontend application, highl... 
 
- [바로가기](https://medium.com/@mechiranthan.y/a-step-by-step-guide-to-building-your-first-web-app-with-react-js-ad7bd6fe6e1b?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------react----------efe063f5_3d03_4fd8_a118_df1d9af90871-------) 
+ [바로가기](https://medium.com/trendyol-tech/testing-google-maps-and-websockets-with-cypress-3aaa3a15e92?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------react----------a0db89a5_9934_4690_a078_6eafe689159e-------) 
 
-### Master Data Fetching in React with This Easy Guide 
+### I bet you don’t use these Javascript tricks and pratices 
 
- Fetching data efficiently in React is quite challenging. We must rely on third-party libraries for c... 
+ Tell me how many did you know by responding to the article and you may share this with your network ... 
 
- [바로가기](https://medium.com/@miroiu-dev/master-data-fetching-in-react-with-this-easy-guide-ed141db41d15?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------javascript----------3065eada_ec97_483a_b076_58988199f8ce-------) 
+ [바로가기](https://medium.com/@nirjalpaudel54312/i-bet-you-dont-use-these-javascript-tricks-and-pratices-5ab5438ed4c8?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------javascript----------5e115751_1b43_406b_9aec_e36923097e57-------) 
+
+### DOM, DI and View: the trees of Angular 
+
+ It’s easy to mistake DI tree of injectors for DOM tree of actual HTML elements & Angular views. Let’... 
+
+ [바로가기](https://medium.com/its-tinkoff/dom-di-and-view-the-trees-of-angular-2ef959e7fafd?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------typescript----------c6a2a864_e7f8_44be_8846_51d51cc2a51a-------) 
 
 ###  뛰어난 테스팅 글 모음 (자바스크립트 포함) 
 
@@ -37,17 +37,17 @@
 
  [바로가기](https://kofearticle.substack.com/p/korean-fe-article-esm) 
 
+### 미국 프리랜서 개발자의 커뮤니케이션 방법 
+
+ 저는 미국에서 프리랜서 개발자로 일하면서 한국에서 일할 때와 마찬가지로 커뮤니케이션의 중요성을 항상 느끼고 있습니다. 잘못된 커뮤니케이션은 프로젝트 납기를 놓치거나 고객의 신뢰를 ... 
+
+ [바로가기](https://yozm.wishket.com/magazine/detail/2213/) 
+
 ### MySQL 타임스탬프와 Y2K38 문제 
 
  유닉스 시간(Unix Timestamp)은 32비트 정수형을 사용해서 날짜와 시간을 표현을 해요. 그래서 날짜/시간은 32 비트 정수형 사용 가능한 허용 범위에서만 표현할 수 있습... 
 
  [바로가기](https://yozm.wishket.com/magazine/detail/2209/) 
-
-### MVP 외주로 개발하려는 스타트업이 꼭 알아야 할 3가지 
-
- 투자자와 약속한 데드라인이 1달 남짓 남은 시점. 데얼스는 다급하게 IT 외주 중개 플랫폼 위시켓을 찾아왔습니다. 다행히 위시켓에서 실력 있는 개발사를 만나 무사히 론칭 일을 맞췄... 
-
- [바로가기](https://yozm.wishket.com/magazine/detail/2208/) 
 
 ---
 
