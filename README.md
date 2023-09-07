@@ -1,11 +1,5 @@
 # 오늘의 포스팅 
-2023년 9월 6일 9시 기준 
-
-### Testing Google Maps and WebSockets with Cypress 
-
- In previous articles, we discussed Trendyol GO’s React-based admin micro-frontend application, highl... 
-
- [바로가기](https://medium.com/trendyol-tech/testing-google-maps-and-websockets-with-cypress-3aaa3a15e92?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------front_end_development----------bf525dc7_08d8_4183_9463_83b7356a3156-------) 
+2023년 9월 7일 9시 기준 
 
 ### Testing Google Maps and WebSockets with Cypress 
 
@@ -13,17 +7,29 @@
 
  [바로가기](https://medium.com/trendyol-tech/testing-google-maps-and-websockets-with-cypress-3aaa3a15e92?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------react----------a0db89a5_9934_4690_a078_6eafe689159e-------) 
 
-### I bet you don’t use these Javascript tricks and pratices 
+### I Bet You Don’t Use These JavaScript Tricks and Practices 
 
  Tell me how many did you know by responding to the article and you may share this with your network ... 
 
- [바로가기](https://medium.com/@nirjalpaudel54312/i-bet-you-dont-use-these-javascript-tricks-and-pratices-5ab5438ed4c8?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------javascript----------5e115751_1b43_406b_9aec_e36923097e57-------) 
+ [바로가기](https://medium.com/stackademic/i-bet-you-dont-use-these-javascript-tricks-and-pratices-5ab5438ed4c8?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------javascript----------bb8a4099_1480_4665_ac02_a932b7be0fff-------) 
 
-### DOM, DI and View: the trees of Angular 
+### Embracing ts-pattern 
 
- It’s easy to mistake DI tree of injectors for DOM tree of actual HTML elements & Angular views. Let’... 
+ What is Ts-pattern... 
 
- [바로가기](https://medium.com/its-tinkoff/dom-di-and-view-the-trees-of-angular-2ef959e7fafd?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------typescript----------c6a2a864_e7f8_44be_8846_51d51cc2a51a-------) 
+ [바로가기](https://medium.com/shippio/embracing-ts-pattern-1d7449e5ee02?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------typescript----------51ec79ff_f495_48d9_881e_18fea29ae862-------) 
+
+### How to improve website performance in Lighthouse? My story 
+
+ In the work of our team is a project that works on Next. A mobile version of the project gave a low ... 
+
+ [바로가기](https://medium.com/@crynet/how-to-improve-website-performance-in-lighthouse-my-story-79f1d9fccd7a?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------frontend----------89c5ad7f_f2c2_49fa_8676_f2bdadb35db4-------) 
+
+###  Htmx: 웹 앱을 만드는 가장 새로운 오래된 방법 
+
+ 소개 HTML 요소 만으로 꽤나 현대적이고 강력한 사용자 인터페이스를 만들 수 있게 해주는 Htmx 라이브러리에 대한 글입니다. 글이 작성된…... 
+
+ [바로가기](https://kofearticle.substack.com/p/korean-fe-article-htmx) 
 
 ###  뛰어난 테스팅 글 모음 (자바스크립트 포함) 
 
@@ -31,23 +37,17 @@
 
  [바로가기](https://kofearticle.substack.com/p/korean-fe-article-d6d) 
 
-###  ESM으로 패키지를 최신화한 경험기 
+### Node.js의 새로운 파트너 NestJS는 왜 탄생했을까? 
 
- 소개 이 글은 Redux 메인테이너로 활동중인 Mark Erikson이 Redux 및 관련 패키지들이 ESM을 지원할 수 있도록 전환하는 작업을 하며 겪은 경험을 공유하는 글 입니... 
+ 기존에는 Node.js와 익스프레스를 사용해 웹 서버를 구축하고 서비스를 만들었습니다. 익스프레스를 사용해서 서버를 구축할 때, 먼저 고민했던 부분이 무엇이었나요? 바로 디렉터리 ... 
 
- [바로가기](https://kofearticle.substack.com/p/korean-fe-article-esm) 
+ [바로가기](https://yozm.wishket.com/magazine/detail/2215/) 
 
 ### 미국 프리랜서 개발자의 커뮤니케이션 방법 
 
  저는 미국에서 프리랜서 개발자로 일하면서 한국에서 일할 때와 마찬가지로 커뮤니케이션의 중요성을 항상 느끼고 있습니다. 잘못된 커뮤니케이션은 프로젝트 납기를 놓치거나 고객의 신뢰를 ... 
 
  [바로가기](https://yozm.wishket.com/magazine/detail/2213/) 
-
-### MySQL 타임스탬프와 Y2K38 문제 
-
- 유닉스 시간(Unix Timestamp)은 32비트 정수형을 사용해서 날짜와 시간을 표현을 해요. 그래서 날짜/시간은 32 비트 정수형 사용 가능한 허용 범위에서만 표현할 수 있습... 
-
- [바로가기](https://yozm.wishket.com/magazine/detail/2209/) 
 
 ---
 
