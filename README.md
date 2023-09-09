@@ -1,29 +1,29 @@
 # 오늘의 포스팅 
-2023년 9월 8일 9시 기준 
+2023년 9월 9일 9시 기준 
 
-### Node.js v20.6.0: Introducing Built-in .env File Support 
+### Introducing ReacType 17.0 — Your React App without the Dev Time 
 
- The way developers manage configuration variables and environment settings in their Node.js applicat... 
+ Hello there, developers! If you’ve been looking for a tool that takes some of the grind out of codin... 
 
- [바로가기](https://medium.com/netanelbasal/node-js-v20-6-0-introducing-built-in-env-file-support-fb1b1de4f1fa?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------javascript----------f025ccfc_751f_480d_b898_0453d287f425-------) 
+ [바로가기](https://medium.com/@martinsvictor287/introducing-reactype-17-0-your-react-app-without-the-dev-time-e995f2bade6c?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------typescript----------fec8af40_0e4a_456f_9cd4_0b1a5611c2d0-------) 
 
-### Nx 16.8 Release!!! 
+### Zustand: A Fresh Perspective on State Management in the React Ecosystem 
 
- As always, the Nx Team has been hard at work, and we’re here to launch our latest release: Nx 16.8! ... 
+ In the modern era of front-end development, React reigns supreme. With this supremacy comes a sea of... 
 
- [바로가기](https://medium.com/nrwl/nx-16-8-release-e38e3bb503b5?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------typescript----------fc0eba5f_b8f5_48a9_8132_cd96c8fee994-------) 
+ [바로가기](https://medium.com/gravel-engineering/zustand-a-fresh-perspective-on-state-management-in-the-react-ecosystem-339c12b69e0?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------frontend----------51d62ba6_fc4b_4ade_83b1_8c92925b05ba-------) 
 
-### Embracing ts-pattern 
+### Learn Next.js By Building Your First Next.js App From Scratch 
 
- What is Ts-pattern... 
+ Learn about Next.js key features by building your first Next.js app step by step... 
 
- [바로가기](https://medium.com/shippio/embracing-ts-pattern-1d7449e5ee02?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------frontend----------4115255f_edeb_4b7e_8dab_7512809f7080-------) 
+ [바로가기](https://medium.com/gitconnected/learn-next-js-by-building-your-first-next-js-app-from-scratch-8ec7cc93a9cb?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-107----------reactjs----------37c39293_ef47_41ab_b23a_b6f2ed791393-------) 
 
-### React for Beginners: A Complete Guide 
+### Creating a Dynamic Breadcrumb Component in a Next.js App Router 
 
- What is React ?... 
+ When it comes to building user-friendly and intuitive web applications, navigation is key. Users sho... 
 
- [바로가기](https://medium.com/@armankukreti/react-for-beginners-a-complete-guide-3cda6a8ff1f?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------reactjs----------7049873c_6f53_485f_9015_fdd3600e69de-------) 
+ [바로가기](https://medium.com/@kcabading/creating-a-breadcrumb-component-in-a-next-js-app-router-a0ea24cdb91a?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------nextjs----------6bb58b0d_2ea3_492b_93c8_aca2453f9b83-------) 
 
 ###  Htmx: 웹 앱을 만드는 가장 새로운 오래된 방법 
 
@@ -37,17 +37,17 @@
 
  [바로가기](https://kofearticle.substack.com/p/korean-fe-article-d6d) 
 
+### 게임 회사 쿡앱스 코드 리뷰 문화 엿보기 
+
+ 처음 쿡앱스에서 코드 리뷰를 시작해야겠다고 생각했던 계기는 기술지원팀에서 공용 SDK를 제작할 때였어요. 공용으로 사용하는 만큼 더욱 범용적이고, 안정적이어야 하죠. 그래서 코드 ... 
+
+ [바로가기](https://yozm.wishket.com/magazine/detail/2219/) 
+
 ### 웹 컴포넌트는 왜 등장했을까? 
 
  컴포넌트란 재사용 가능하고 캡슐화되어있는 클래스 또는 그 클래스를 기반으로 생성되는 각각의 인스턴스를 말한다. 컴포넌트 개념이 처음 나타난 시기는 1990년대까지 거슬러올라간다. ... 
 
  [바로가기](https://yozm.wishket.com/magazine/detail/2217/) 
-
-### Node.js의 새로운 파트너 NestJS는 왜 탄생했을까? 
-
- 기존에는 Node.js와 익스프레스를 사용해 웹 서버를 구축하고 서비스를 만들었습니다. 익스프레스를 사용해서 서버를 구축할 때, 먼저 고민했던 부분이 무엇이었나요? 바로 디렉터리 ... 
-
- [바로가기](https://yozm.wishket.com/magazine/detail/2215/) 
 
 ---
 
