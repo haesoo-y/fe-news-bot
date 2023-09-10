@@ -1,29 +1,29 @@
 # 오늘의 포스팅 
-2023년 9월 9일 9시 기준 
+2023년 9월 10일 9시 기준 
 
-### Introducing ReacType 17.0 — Your React App without the Dev Time 
+### Ok, Astro is the best web framework in 2023, here’s why 
 
- Hello there, developers! If you’ve been looking for a tool that takes some of the grind out of codin... 
+ Discover why Astro is the best web framework in 2023 through a detailed explantion.... 
 
- [바로가기](https://medium.com/@martinsvictor287/introducing-reactype-17-0-your-react-app-without-the-dev-time-e995f2bade6c?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------typescript----------fec8af40_0e4a_456f_9cd4_0b1a5611c2d0-------) 
+ [바로가기](https://medium.com/itnext/ok-astro-is-the-best-web-framework-in-2023-heres-why-734ca15c7062?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------frontend----------a3ffb912_51e2_45d8_ab1b_d069c9d85e9c-------) 
 
-### Zustand: A Fresh Perspective on State Management in the React Ecosystem 
+### Demystifying Deployment: A Step-by-Step Guide to Deploying Your MERN Stack App on Render 
 
- In the modern era of front-end development, React reigns supreme. With this supremacy comes a sea of... 
+ Deploying Your MERN Stack App on Render: A Step-by-Step Guide to Cost-Free Hosting... 
 
- [바로가기](https://medium.com/gravel-engineering/zustand-a-fresh-perspective-on-state-management-in-the-react-ecosystem-339c12b69e0?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------frontend----------51d62ba6_fc4b_4ade_83b1_8c92925b05ba-------) 
+ [바로가기](https://medium.com/linkit-intecs/demystifying-deployment-a-step-by-step-guide-to-deploying-your-mern-stack-app-on-render-86cbf76661d0?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------reactjs----------332f9d9c_e5d3_4437_9851_628258a9e1e5-------) 
 
-### Learn Next.js By Building Your First Next.js App From Scratch 
+### How to use Bun on Vercel 
 
- Learn about Next.js key features by building your first Next.js app step by step... 
+ Last week, I came across Bun, a new all-in-one toolkit for JavaScript and TypeScript apps. Intrigued... 
 
- [바로가기](https://medium.com/gitconnected/learn-next-js-by-building-your-first-next-js-app-from-scratch-8ec7cc93a9cb?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-107----------reactjs----------37c39293_ef47_41ab_b23a_b6f2ed791393-------) 
+ [바로가기](https://medium.com/@maximevermeeren/how-to-use-bun-on-vercel-7512383153d7?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------nextjs----------a941d408_8ce5_47b7_b725_fa9d3e64bdb6-------) 
 
-### Creating a Dynamic Breadcrumb Component in a Next.js App Router 
+### There’s no such thing as a desktop screen 
 
- When it comes to building user-friendly and intuitive web applications, navigation is key. Users sho... 
+ Take the responsiveness to the next level... 
 
- [바로가기](https://medium.com/@kcabading/creating-a-breadcrumb-component-in-a-next-js-app-router-a0ea24cdb91a?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------nextjs----------6bb58b0d_2ea3_492b_93c8_aca2453f9b83-------) 
+ [바로가기](https://medium.com/@hayavuk/theres-no-such-thing-as-a-desktop-screen-b9e300c0b128?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------front_end_development----------6e4f92fb_ff75_4732_adb8_56febd2f4ced-------) 
 
 ###  Htmx: 웹 앱을 만드는 가장 새로운 오래된 방법 
 
