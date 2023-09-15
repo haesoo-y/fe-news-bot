@@ -1,41 +1,41 @@
 # 오늘의 포스팅 
-2023년 9월 14일 9시 기준 
+2023년 9월 15일 9시 기준 
 
-### Bun 1.0 Released — The Reason Coders Gossip About Bun 
+### Ever Wondered How Early Returns Could Improve Your Code? 
 
- Everyone’s talking lately about Bun. As only few open source projects it reached it’s 1.0 version. S... 
+ Hey there, fellow developers! Today, we’re diving into the wild and wonderful world of code readabil... 
 
- [바로가기](https://medium.com/@tomaszs2/bun-1-0-released-what-is-it-610b56cb7a8b?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------react----------aaad2051_313c_49cf_ac6c_31a7f9a570c6-------) 
+ [바로가기](https://medium.com/@jaiprajapati3/ever-wondered-how-early-returns-could-improve-your-code-6ebf60e8c49?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------javascript----------82698664_2a94_4b10_83c7_49fbce8e9c40-------) 
 
-### Serverless Bun vs Node: Benchmarking on AWS Lambda 
+### Introducing NimbleAB 
 
- Is Bun a legitimate contender for serverless runtime environments like AWS Lambda? Let’s test some b... 
+ Static Site Generation (SSG) is great for cost and performance benchmarks, but AB testing user exper... 
 
- [바로가기](https://medium.com/@mitchellkossoris/serverless-bun-vs-node-benchmarking-on-aws-lambda-ecd4fe7c2fc2?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------javascript----------91f02970_fd27_487f_8a98_12deee124d29-------) 
-
-### New in Angular — afterNextRender and afterRender 
-
- As the Angular team continues to work on framework improvements, like fine-grained reactivity with S... 
-
- [바로가기](https://medium.com/herodevs/new-in-angular-afternextrender-and-afterrender-51c5d8035693?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------typescript----------4a763c7d_b96c_4778_847f_a79e083e46c7-------) 
+ [바로가기](https://medium.com/@nimblelabs/introducing-nimbleab-6b54e84e473?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------typescript----------a6e11932_d02e_4c80_bed6_cdc1057e2efc-------) 
 
 ### Why Web UI Development Is So Hard? 
 
  Web UI development might appear straightforward at first glance, but delve deeper and you’ll discove... 
 
- [바로가기](https://medium.com/itnext/why-web-ui-development-is-so-hard-a88c47f4b3c5?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------frontend----------d16099f8_758e_4a4f_ac2a_e2c5e04d443c-------) 
+ [바로가기](https://medium.com/itnext/why-web-ui-development-is-so-hard-a88c47f4b3c5?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------frontend----------d261ccdc_af90_46ea_bcb2_aded3c93778d-------) 
+
+### Implementing Authentication and Authorization in MERN Apps 
+
+ In this blog, we will have a look at how we can authenticate a User using JSON Web Token aka JWT. JW... 
+
+ [바로가기](https://medium.com/@ashisharora4063/implementing-authentication-and-authorization-in-mern-apps-db902c2f9beb?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------reactjs----------72c2d026_e17d_4548_b97f_68ed2463e1ee-------) 
+
+###  웹 성능을 개선하기 위한 세 가지 큰 수단에 대한 레이아웃 위치의 영향 
+
+ 소개 웹 성능을 개선한다는 명목하에 무조건적인 지연 로딩을 적용하신적이 있으신가요? 과연 이런 방식은 만능일까요? 이 글에서는 Shopify에서 판매자 사이트의 웹 성능을 개선하는... 
+
+ [바로가기](https://kofearticle.substack.com/p/korean-fe-article-10e) 
 
 ###  리액트 웹 컴포넌트로 디자인 시스템 구축하기 
 
  소개 디자인 시스템을 구축할 때 고민되는 부분 중 하나는 컴포넌트를 여러 프레임워크에서 동작하도록 지원하는 것입니다. 이…... 
 
  [바로가기](https://kofearticle.substack.com/p/korean-fe-article-49c) 
-
-###  모던 바닐라 자바스크립트로 본 반응성을 구현하는 패턴 
-
- 소개 현재 프런트엔트 생태계에는 다양한 프레임워크와 그에 따른 반응형 시스템이 있습니다. 유저의 상호작용과 서버와의 통신, UI 업데이트 등 일련의 작업을 처리함에 있어 핵심은 반... 
-
- [바로가기](https://kofearticle.substack.com/p/korean-fe-article-63e) 
 
 ### SI회사 홈페이지에서 SI가 사라지는 이유 
 
