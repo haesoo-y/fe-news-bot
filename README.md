@@ -1,29 +1,29 @@
 # 오늘의 포스팅 
-2023년 9월 19일 9시 기준 
-
-### ReactJs: Still worth using tRPC or React-Query over Server Actions? 
-
- Server Actions works like magic 🤩... 
-
- [바로가기](https://medium.com/@barekliton/reactjs-still-worth-using-trpc-or-react-query-over-server-actions-cbdcf9d66ac3?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------nextjs----------62c88ab1_7299_4ae7_82b2_43873b984ee5-------) 
+2023년 9월 20일 9시 기준 
 
 ### Frontend Weekly Digest #328 (11–17 September 2023) 
 
  Web-development... 
 
- [바로가기](https://medium.com/@frontender-ua/frontend-weekly-digest-328-11-17-september-2023-b196d3fbfc22?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------front_end_development----------a657e0ed_71b4_4ff9_9a1f_dabdcb5c34ce-------) 
+ [바로가기](https://medium.com/@frontender-ua/frontend-weekly-digest-328-11-17-september-2023-b196d3fbfc22?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------front_end_development----------593e5abd_db8f_44a5_8029_b2189e0fd725-------) 
 
-### Introduction to React Testing Library 
+### Avoid passing inline functions as a prop in React. 
 
- A beginner’s guide to React Testing Library.... 
+ When it comes to React, it’s safe to say that inline functions are evil.... 
 
- [바로가기](https://medium.com/simform-engineering/react-testing-library-introduction-61482daeeb?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------react----------f0b09a33_849e_4fad_b08c_7cd8b31ee45c-------) 
+ [바로가기](https://medium.com/@ishwar-rimal/stop-passing-inline-functions-as-a-prop-in-react-cf39efc60b82?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------react----------f6f52857_e13a_4549_94ea_a582b03dde55-------) 
 
 ### Angular v17’s View Transitions: Navigate in Elegance 
 
  Angular v17 debuts with integrated support for the cutting-edge View Transitions API. The View Trans... 
 
- [바로가기](https://medium.com/netanelbasal/angular-v17s-view-transitions-navigate-in-elegance-f2d48fd8ceda?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------javascript----------4b9e9acb_7a09_45c0_ab1d_ab8c0da0d017-------) 
+ [바로가기](https://medium.com/netanelbasal/angular-v17s-view-transitions-navigate-in-elegance-f2d48fd8ceda?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------javascript----------d0b74756_6368_4e58_a078_11fc40766637-------) 
+
+### My Internship Experience at Info Edge 
+
+ Stepping into the professional world always comes with its fair share of apprehensions and excitemen... 
+
+ [바로가기](https://medium.com/naukri-engineering/my-internship-experience-at-info-edge-b0a765884bdc?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------typescript----------eab8777f_5dea_4694_bdd1_63719444d29a-------) 
 
 ###  웹 성능을 개선하기 위한 세 가지 큰 수단에 대한 레이아웃 위치의 영향 
 
