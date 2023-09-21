@@ -1,17 +1,11 @@
 # 오늘의 포스팅 
-2023년 9월 20일 9시 기준 
+2023년 9월 21일 9시 기준 
 
-### Frontend Weekly Digest #328 (11–17 September 2023) 
+### React TypeScript Modelviewer Web Ar Template and Simple Project 
 
- Web-development... 
+ React is a javascript library for web applications. You can build features quickly with simple, decl... 
 
- [바로가기](https://medium.com/@frontender-ua/frontend-weekly-digest-328-11-17-september-2023-b196d3fbfc22?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------front_end_development----------593e5abd_db8f_44a5_8029_b2189e0fd725-------) 
-
-### Avoid passing inline functions as a prop in React. 
-
- When it comes to React, it’s safe to say that inline functions are evil.... 
-
- [바로가기](https://medium.com/@ishwar-rimal/stop-passing-inline-functions-as-a-prop-in-react-cf39efc60b82?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------react----------f6f52857_e13a_4549_94ea_a582b03dde55-------) 
+ [바로가기](https://medium.com/@erkalanhanife/react-typescript-modelviewer-web-ar-template-and-simple-project-56b1e20d5d31?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------react----------91bffe07_11b8_4028_81c0_817d2cd80a14-------) 
 
 ### Angular v17’s View Transitions: Navigate in Elegance 
 
@@ -19,11 +13,23 @@
 
  [바로가기](https://medium.com/netanelbasal/angular-v17s-view-transitions-navigate-in-elegance-f2d48fd8ceda?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------javascript----------d0b74756_6368_4e58_a078_11fc40766637-------) 
 
-### My Internship Experience at Info Edge 
+### Unit Testing in React Native: A Comprehensive Guide with Jest and React Testing Library 
 
- Stepping into the professional world always comes with its fair share of apprehensions and excitemen... 
+ Writing unit tests in any software development project, offers several benefits that can significant... 
 
- [바로가기](https://medium.com/naukri-engineering/my-internship-experience-at-info-edge-b0a765884bdc?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------typescript----------eab8777f_5dea_4694_bdd1_63719444d29a-------) 
+ [바로가기](https://medium.com/@inboxofpulkit/unit-testing-in-react-native-a-comprehensive-guide-with-jest-and-react-testing-library-dc97826a39d6?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------typescript----------0b1eeccd_5050_48da_a676_556649b1593b-------) 
+
+### Difference between var, let and const in JavaScript 
+
+ Understanding JavaScript’s Var, Let, and Const Differences... 
+
+ [바로가기](https://medium.com/@jackpritomsoren/difference-between-var-let-and-const-in-javascript-c6236899ca4d?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------frontend----------d651832c_af50_46a4_9291_e2bd7e7461b6-------) 
+
+###  React에서 UI와 로직 분리하기:헤드리스 컴포넌트를 사용한 클린 코드 접근법 
+
+ 소개 Headless 컴포넌트, 또는 'presentational-less' 컴포넌트라고도 불리는 이 개념은 UI 로직과 표현(presentation)을 분리함으로써 컴포넌트의 재... 
+
+ [바로가기](https://kofearticle.substack.com/p/korean-fe-article-react-ui) 
 
 ###  웹 성능을 개선하기 위한 세 가지 큰 수단에 대한 레이아웃 위치의 영향 
 
@@ -31,23 +37,17 @@
 
  [바로가기](https://kofearticle.substack.com/p/korean-fe-article-10e) 
 
-###  리액트 웹 컴포넌트로 디자인 시스템 구축하기 
+### Vimtutor를 이용해 Vim 명령어를 배워보자 
 
- 소개 디자인 시스템을 구축할 때 고민되는 부분 중 하나는 컴포넌트를 여러 프레임워크에서 동작하도록 지원하는 것입니다. 이…... 
+ MacOS와 같은 유닉스 계열 운영체제에서 개발하게 되면 터미널 환경에서 텍스트를 수정할 일이 많이 생기곤 합니다. 물론 요즘은 VSCode, Webstorm 같은 코드 에디터나 ... 
 
- [바로가기](https://kofearticle.substack.com/p/korean-fe-article-49c) 
+ [바로가기](https://yozm.wishket.com/magazine/detail/2238/) 
 
 ### 리액트 상태 관리 라이브러리, 어떤 것을 써야 할까? 
 
  웹 프론트엔드 개발자라면 한 번쯤 상태 관리 라이브러리에 대해 들어봤을 것이다. 이미 쓰고 있는 라이브러리를 유지하는 것도 좋지만, 현재 어떤 도구들이 나오고 있는지 꾸준히 관심을... 
 
  [바로가기](https://yozm.wishket.com/magazine/detail/2233/) 
-
-### 개발자 커리어 로드맵 작성 시 고려해야 하는 3가지 
-
- 여러분에게 있어 목적은 무엇인가요? 여러분은 어디로 가고 있나요? 경력을 쌓는 것은 경력 사다리를 오르는 것, 연공서열을 따르는 것, 지금보다 책임감을 더 갖추는 것, 권력이나 부... 
-
- [바로가기](https://yozm.wishket.com/magazine/detail/2230/) 
 
 ---
 
