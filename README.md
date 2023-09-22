@@ -1,29 +1,35 @@
 # 오늘의 포스팅 
-2023년 9월 21일 9시 기준 
-
-### React TypeScript Modelviewer Web Ar Template and Simple Project 
-
- React is a javascript library for web applications. You can build features quickly with simple, decl... 
-
- [바로가기](https://medium.com/@erkalanhanife/react-typescript-modelviewer-web-ar-template-and-simple-project-56b1e20d5d31?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------react----------91bffe07_11b8_4028_81c0_817d2cd80a14-------) 
+2023년 9월 22일 9시 기준 
 
 ### Angular v17’s View Transitions: Navigate in Elegance 
 
  Angular v17 debuts with integrated support for the cutting-edge View Transitions API. The View Trans... 
 
- [바로가기](https://medium.com/netanelbasal/angular-v17s-view-transitions-navigate-in-elegance-f2d48fd8ceda?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------javascript----------d0b74756_6368_4e58_a078_11fc40766637-------) 
+ [바로가기](https://medium.com/netanelbasal/angular-v17s-view-transitions-navigate-in-elegance-f2d48fd8ceda?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------javascript----------92d84099_b4ed_4b61_84aa_2a09e0efaa89-------) 
 
-### Unit Testing in React Native: A Comprehensive Guide with Jest and React Testing Library 
+### React TypeScript Modelviewer Web Ar Template and Simple Project 
 
- Writing unit tests in any software development project, offers several benefits that can significant... 
+ React is a javascript library for web applications. You can build features quickly with simple, decl... 
 
- [바로가기](https://medium.com/@inboxofpulkit/unit-testing-in-react-native-a-comprehensive-guide-with-jest-and-react-testing-library-dc97826a39d6?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------typescript----------0b1eeccd_5050_48da_a676_556649b1593b-------) 
+ [바로가기](https://medium.com/@erkalanhanife/react-typescript-modelviewer-web-ar-template-and-simple-project-56b1e20d5d31?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------typescript----------1958d75c_f14d_4414_90a2_f2c17e8fb650-------) 
 
-### Difference between var, let and const in JavaScript 
+### 10 Modern CSS Layouts With One Line 
 
- Understanding JavaScript’s Var, Let, and Const Differences... 
+ Modern CSS layout allows developers to write meaningful and powerful style rules with just a few key... 
 
- [바로가기](https://medium.com/@jackpritomsoren/difference-between-var-let-and-const-in-javascript-c6236899ca4d?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------frontend----------d651832c_af50_46a4_9291_e2bd7e7461b6-------) 
+ [바로가기](https://medium.com/javascript-in-plain-english/10-modern-css-layouts-with-one-line-a059846c2140?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------frontend----------774633ea_9277_4d69_bef7_b14efce1d2fa-------) 
+
+### Fetch Data in React JS in Modern Way 
+
+ React JS has become one of the go-to tools for building super cool web apps.... 
+
+ [바로가기](https://medium.com/@Evelyn.Taylor/fetch-data-in-react-js-in-modern-way-bb0f06556738?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------reactjs----------604b2237_bed2_404b_b840_12ff13495b86-------) 
+
+###  이상한 자바스크립트: 왜 every()는 빈 배열에 true를 반환할까? 
+
+ 테스트할 값이 없는데 어떻게 조건을 만족시킬 수 있을까요?... 
+
+ [바로가기](https://kofearticle.substack.com/p/korean-fe-article-every-true) 
 
 ###  React에서 UI와 로직 분리하기:헤드리스 컴포넌트를 사용한 클린 코드 접근법 
 
@@ -31,23 +37,17 @@
 
  [바로가기](https://kofearticle.substack.com/p/korean-fe-article-react-ui) 
 
-###  웹 성능을 개선하기 위한 세 가지 큰 수단에 대한 레이아웃 위치의 영향 
+### 리얼월드에서 프로그래머로 살아내기 
 
- 소개 웹 성능을 개선한다는 명목하에 무조건적인 지연 로딩을 적용하신적이 있으신가요? 과연 이런 방식은 만능일까요? 이 글에서는 Shopify에서 판매자 사이트의 웹 성능을 개선하는... 
+ 비즈니스를 코드로 구현하기 위해 분투하고 있는 다양한 프로그래머의 고민, 문제 해결, 성장 이야기를 들어보고자 합니다. 앞으로 인터뷰나 에세이 등 다양한 형식을 통해 코딩과 비즈니... 
 
- [바로가기](https://kofearticle.substack.com/p/korean-fe-article-10e) 
+ [바로가기](https://yozm.wishket.com/magazine/detail/2239/) 
 
 ### Vimtutor를 이용해 Vim 명령어를 배워보자 
 
  MacOS와 같은 유닉스 계열 운영체제에서 개발하게 되면 터미널 환경에서 텍스트를 수정할 일이 많이 생기곤 합니다. 물론 요즘은 VSCode, Webstorm 같은 코드 에디터나 ... 
 
  [바로가기](https://yozm.wishket.com/magazine/detail/2238/) 
-
-### 리액트 상태 관리 라이브러리, 어떤 것을 써야 할까? 
-
- 웹 프론트엔드 개발자라면 한 번쯤 상태 관리 라이브러리에 대해 들어봤을 것이다. 이미 쓰고 있는 라이브러리를 유지하는 것도 좋지만, 현재 어떤 도구들이 나오고 있는지 꾸준히 관심을... 
-
- [바로가기](https://yozm.wishket.com/magazine/detail/2233/) 
 
 ---
 
