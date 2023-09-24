@@ -1,17 +1,11 @@
 # 오늘의 포스팅 
-2023년 9월 23일 9시 기준 
-
-### Introducing MJS Diagram — Diagramming components for your web apps 
-
- MJS Diagram is a set of web components for adding diagramming into web applications. Create and disp... 
-
- [바로가기](https://medium.com/ex-dev-diaries/introducing-mjs-diagram-diagramming-components-for-your-web-apps-6a68d1361614?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------typescript----------26c23dbb_e56a_41a1_b64a_5984c8d66a3d-------) 
+2023년 9월 24일 9시 기준 
 
 ### 5 Tips to use Typescript as a JavaScript Developer 
 
  In one of my previous posts I have talked about Frontend Architecture and how things can go wrong wi... 
 
- [바로가기](https://medium.com/@robert.maiersilldorff/5-tips-to-use-typescript-as-a-javascript-developer-166b00fc010a?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------frontend----------49d74d25_b5c6_4fb7_8eb8_6c2c30ef6d92-------) 
+ [바로가기](https://medium.com/@robert.maiersilldorff/5-tips-to-use-typescript-as-a-javascript-developer-166b00fc010a?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------frontend----------796aed4f_ad17_4143_a7aa_ab7bb4147423-------) 
 
 ### Dynamic Page Rendering in React Application 
 
@@ -19,11 +13,17 @@
 
  [바로가기](https://medium.com/@pavadaran/dynamic-page-rendering-in-react-application-d8a1f35747d8?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------reactjs----------ff16b7ca_a634_4c02_bba5_4a9eaa843d56-------) 
 
-### Whats New in Next.js 13.5 
+### Rendering Strategies in Next.JS 
 
- Next.js 13.5 is here! 🎉 It’s the latest version of Next.js. In this article, we’ll learn about whst... 
+ ... 
 
- [바로가기](https://medium.com/@kumarkalyan/whats-new-in-next-js-13-5-6621623a451a?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------nextjs----------f98f5207_352c_4396_a42d_45024b7f529b-------) 
+ [바로가기](https://medium.com/dev-genius/rendering-strategies-in-next-js-1012162bef95?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------nextjs----------b88b05d5_a6d3_41a8_9cec_9b7687dfe825-------) 
+
+### JavaScript API (Application Programming Interface) 
+
+ Hi everyone! In this article, I will tell you about JavaScript API (Application Programming Interfac... 
+
+ [바로가기](https://medium.com/@dilarauluturhan/javascript-api-application-programming-interface-ffd4cbb730d8?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------front_end_development----------b8b295ab_c691_499f_97eb_d4c9aca78e1f-------) 
 
 ###  이상한 자바스크립트: 왜 every()는 빈 배열에 true를 반환할까? 
 
