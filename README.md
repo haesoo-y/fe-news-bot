@@ -1,17 +1,11 @@
 # 오늘의 포스팅 
-2023년 9월 24일 9시 기준 
+2023년 9월 25일 9시 기준 
 
-### 5 Tips to use Typescript as a JavaScript Developer 
+### React js useMemo Hook 
 
- In one of my previous posts I have talked about Frontend Architecture and how things can go wrong wi... 
+ Momoization Concept... 
 
- [바로가기](https://medium.com/@robert.maiersilldorff/5-tips-to-use-typescript-as-a-javascript-developer-166b00fc010a?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------frontend----------796aed4f_ad17_4143_a7aa_ab7bb4147423-------) 
-
-### Dynamic Page Rendering in React Application 
-
- Hello Everyone !... 
-
- [바로가기](https://medium.com/@pavadaran/dynamic-page-rendering-in-react-application-d8a1f35747d8?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------reactjs----------ff16b7ca_a634_4c02_bba5_4a9eaa843d56-------) 
+ [바로가기](https://medium.com/@akshaymca2013/react-js-usememo-hook-8a66c3555b30?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------reactjs----------94987a8a_e38d_457f_be65_dd0f15db1756-------) 
 
 ### Rendering Strategies in Next.JS 
 
@@ -19,23 +13,29 @@
 
  [바로가기](https://medium.com/dev-genius/rendering-strategies-in-next-js-1012162bef95?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------nextjs----------b88b05d5_a6d3_41a8_9cec_9b7687dfe825-------) 
 
-### JavaScript API (Application Programming Interface) 
+### How to implement the framework i18n in your React App 
 
- Hi everyone! In this article, I will tell you about JavaScript API (Application Programming Interfac... 
+ What is i18n?... 
 
- [바로가기](https://medium.com/@dilarauluturhan/javascript-api-application-programming-interface-ffd4cbb730d8?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------front_end_development----------b8b295ab_c691_499f_97eb_d4c9aca78e1f-------) 
+ [바로가기](https://medium.com/@rafaelturyminatel/how-to-implement-the-framework-i18n-in-your-react-app-c29fc4c914c3?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------front_end_development----------4d17af9f_0dc7_4801_bb53_cb7af8b59437-------) 
+
+### Why does JavaScript’s parseInt(0.0000005) print “5”? 
+
+ Why does parseInt(0.0000005) in JavaScript print 5? An amazing question!... 
+
+ [바로가기](https://medium.com/@fatfish/why-does-javascripts-parseint-0-0000005-print-5-80a1ba784d8?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------react----------d20735cb_d29e_4ac4_879f_11c083eb7528-------) 
+
+###  HTML, CSS, JS, NodeJS로 온라인 이미지-PDF 변환기를 만드는 방법 
+
+ 글 링크 : https://velog.io/@surim014/build-an-online-image-to-pdf-converter-with-html-css-js-nodejs 소개 ... 
+
+ [바로가기](https://kofearticle.substack.com/p/korean-fe-article-html-css-js-nodejs) 
 
 ###  이상한 자바스크립트: 왜 every()는 빈 배열에 true를 반환할까? 
 
  테스트할 값이 없는데 어떻게 조건을 만족시킬 수 있을까요?... 
 
  [바로가기](https://kofearticle.substack.com/p/korean-fe-article-every-true) 
-
-###  React에서 UI와 로직 분리하기:헤드리스 컴포넌트를 사용한 클린 코드 접근법 
-
- 소개 Headless 컴포넌트, 또는 'presentational-less' 컴포넌트라고도 불리는 이 개념은 UI 로직과 표현(presentation)을 분리함으로써 컴포넌트의 재... 
-
- [바로가기](https://kofearticle.substack.com/p/korean-fe-article-react-ui) 
 
 ### 컴퓨터가 수백만 개 상품을 사람처럼 인식할 수 있을까? 
 
