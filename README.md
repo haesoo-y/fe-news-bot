@@ -1,41 +1,41 @@
 # 오늘의 포스팅 
-2023년 9월 25일 9시 기준 
+2023년 9월 26일 9시 기준 
 
-### React js useMemo Hook 
+### Navigating the Importance of Package Updates 
 
- Momoization Concept... 
+ Updated Dependencies for Smooth Development Journey... 
 
- [바로가기](https://medium.com/@akshaymca2013/react-js-usememo-hook-8a66c3555b30?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------reactjs----------94987a8a_e38d_457f_be65_dd0f15db1756-------) 
+ [바로가기](https://medium.com/design-bootcamp/navigating-the-importance-of-package-updates-53d230e3599b?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------nextjs----------7facb2c3_75ab_47f8_892e_9a29cda327b6-------) 
 
-### Rendering Strategies in Next.JS 
+### Unlocking the Power of JavaScript: Reduce Your NPM Package Size by 99% 
 
- ... 
+ Let me continue to kick off my writings with beloved book quotes.... 
 
- [바로가기](https://medium.com/dev-genius/rendering-strategies-in-next-js-1012162bef95?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------nextjs----------b88b05d5_a6d3_41a8_9cec_9b7687dfe825-------) 
+ [바로가기](https://medium.com/insiderengineering/javascript-performance-optimization-with-vite-rollupjs-587d2cbf1979?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------front_end_development----------a7daf4b0_e424_4077_94a7_a7fd9f81dc60-------) 
 
-### How to implement the framework i18n in your React App 
+### Eylül 2023'de Frontend Alanında Yenilikler 
 
- What is i18n?... 
+ Eylül ayında bana gelen bildirimlerden ve maillerden önemli bulduklarımı bu blog altında paylaşıyor ... 
 
- [바로가기](https://medium.com/@rafaelturyminatel/how-to-implement-the-framework-i18n-in-your-react-app-c29fc4c914c3?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------front_end_development----------4d17af9f_0dc7_4801_bb53_cb7af8b59437-------) 
+ [바로가기](https://medium.com/frontend-development-with-js/eylül-2023de-frontend-alanında-yenilikler-48a007028452?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------react----------12d27353_8957_4732_ad53_d21a9b359629-------) 
 
-### Why does JavaScript’s parseInt(0.0000005) print “5”? 
+### Node.js is Dying! Bun 1.0 is Changing the JavaScript Game 
 
- Why does parseInt(0.0000005) in JavaScript print 5? An amazing question!... 
+ Before going further, we need to explain what is javascript runtime and why we should care about its... 
 
- [바로가기](https://medium.com/@fatfish/why-does-javascripts-parseint-0-0000005-print-5-80a1ba784d8?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------react----------d20735cb_d29e_4ac4_879f_11c083eb7528-------) 
+ [바로가기](https://medium.com/javascript-in-plain-english/node-js-is-dying-bun-1-0-is-changing-the-javascript-game-2892d4ff6921?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-107----------javascript----------f23a777f_dad3_409b_afb5_c7df1a0df69d-------) 
+
+###  번(Bun)과 리액트로 서버사이드 렌더링(SSR) 구현하기 
+
+ 소개 최근 번(Bun) 1.0이 출시되며 많은 관심을 받고 있습니다. 참 많은 글에서 번을 다루고 있는 것을 볼 수 있었는데요, 이…... 
+
+ [바로가기](https://kofearticle.substack.com/p/korean-fe-article-bun-ssr) 
 
 ###  HTML, CSS, JS, NodeJS로 온라인 이미지-PDF 변환기를 만드는 방법 
 
  글 링크 : https://velog.io/@surim014/build-an-online-image-to-pdf-converter-with-html-css-js-nodejs 소개 ... 
 
  [바로가기](https://kofearticle.substack.com/p/korean-fe-article-html-css-js-nodejs) 
-
-###  이상한 자바스크립트: 왜 every()는 빈 배열에 true를 반환할까? 
-
- 테스트할 값이 없는데 어떻게 조건을 만족시킬 수 있을까요?... 
-
- [바로가기](https://kofearticle.substack.com/p/korean-fe-article-every-true) 
 
 ### 컴퓨터가 수백만 개 상품을 사람처럼 인식할 수 있을까? 
 
