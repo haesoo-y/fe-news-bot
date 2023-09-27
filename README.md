@@ -1,17 +1,11 @@
 # 오늘의 포스팅 
-2023년 9월 26일 9시 기준 
-
-### Navigating the Importance of Package Updates 
-
- Updated Dependencies for Smooth Development Journey... 
-
- [바로가기](https://medium.com/design-bootcamp/navigating-the-importance-of-package-updates-53d230e3599b?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------nextjs----------7facb2c3_75ab_47f8_892e_9a29cda327b6-------) 
+2023년 9월 27일 9시 기준 
 
 ### Unlocking the Power of JavaScript: Reduce Your NPM Package Size by 99% 
 
  Let me continue to kick off my writings with beloved book quotes.... 
 
- [바로가기](https://medium.com/insiderengineering/javascript-performance-optimization-with-vite-rollupjs-587d2cbf1979?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------front_end_development----------a7daf4b0_e424_4077_94a7_a7fd9f81dc60-------) 
+ [바로가기](https://medium.com/insiderengineering/javascript-performance-optimization-with-vite-rollupjs-587d2cbf1979?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------front_end_development----------f89755e5_0d1d_4b09_9077_de26edfeda79-------) 
 
 ### Eylül 2023'de Frontend Alanında Yenilikler 
 
@@ -19,11 +13,17 @@
 
  [바로가기](https://medium.com/frontend-development-with-js/eylül-2023de-frontend-alanında-yenilikler-48a007028452?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------react----------12d27353_8957_4732_ad53_d21a9b359629-------) 
 
-### Node.js is Dying! Bun 1.0 is Changing the JavaScript Game 
+### Evolution of Server-Side JavaScript 
 
- Before going further, we need to explain what is javascript runtime and why we should care about its... 
+ From Java-based runtimes to the rise of Node.js, the birth of NPM, the growing ecosystem, the innova... 
 
- [바로가기](https://medium.com/javascript-in-plain-english/node-js-is-dying-bun-1-0-is-changing-the-javascript-game-2892d4ff6921?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-107----------javascript----------f23a777f_dad3_409b_afb5_c7df1a0df69d-------) 
+ [바로가기](https://medium.com/itnext/evolution-of-server-side-javascript-314a8d408da4?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------javascript----------1a0b8ec8_4378_424c_97cb_2250699d57e0-------) 
+
+### Evolution of Server-Side JavaScript 
+
+ From Java-based runtimes to the rise of Node.js, the birth of NPM, the growing ecosystem, the innova... 
+
+ [바로가기](https://medium.com/itnext/evolution-of-server-side-javascript-314a8d408da4?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------typescript----------2b4ef301_cb7c_4fc6_b5ce_b00fd623fbdf-------) 
 
 ###  번(Bun)과 리액트로 서버사이드 렌더링(SSR) 구현하기 
 
