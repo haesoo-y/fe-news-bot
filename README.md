@@ -1,29 +1,29 @@
 # 오늘의 포스팅 
-2023년 9월 28일 9시 기준 
+2023년 9월 29일 9시 기준 
 
-### Eylül 2023'de Frontend Alanında Yenilikler 
+### Node.js is Dying! Bun 1.0 is Changing the JavaScript Game 
 
- Eylül ayında bana gelen bildirimlerden ve maillerden önemli bulduklarımı bu blog altında paylaşıyor ... 
+ Before going further, we need to explain what is javascript runtime and why we should care about its... 
 
- [바로가기](https://medium.com/frontend-development-with-js/eylül-2023de-frontend-alanında-yenilikler-48a007028452?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------react----------d7d4cc81_6c06_4c57_b2f0_4a7cdf8e4261-------) 
+ [바로가기](https://medium.com/javascript-in-plain-english/node-js-is-dying-bun-1-0-is-changing-the-javascript-game-2892d4ff6921?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-107----------javascript----------8c9466af_f961_4e0c_a101_38fab457cfd2-------) 
 
-### Evolution of Server-Side JavaScript 
+### Learn the Chain of Responsibility pattern in-depth with TypeScript 
 
- From Java-based runtimes to the rise of Node.js, the birth of NPM, the growing ecosystem, the innova... 
+ Definition... 
 
- [바로가기](https://medium.com/itnext/evolution-of-server-side-javascript-314a8d408da4?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------javascript----------d6ac9924_b48a_4b32_804b_39a5e6ebc759-------) 
+ [바로가기](https://medium.com/@vahid.vdn/learn-the-chain-of-responsibility-pattern-in-depth-with-typescript-4336f8fb4afb?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------typescript----------7e57b7ca_86d8_4142_a572_9f6b890e8ecf-------) 
 
-### Evolution of Server-Side JavaScript 
+### The best way to declare the State in ReactJs 
 
- From Java-based runtimes to the rise of Node.js, the birth of NPM, the growing ecosystem, the innova... 
+ Today’s everywhere is react, if you don’t react on time then time will react on you. Basically, I me... 
 
- [바로가기](https://medium.com/itnext/evolution-of-server-side-javascript-314a8d408da4?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------typescript----------611148f3_759e_4927_bbcd_05bd44184185-------) 
+ [바로가기](https://medium.com/@ishwardeoolkar171/the-best-way-to-declare-the-state-in-reactjs-97a7aea9efe5?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------frontend----------6239418a_dbf6_4cb7_a2bd_57a4dc8e2f5f-------) 
 
-### Eylül 2023'de Frontend Alanında Yenilikler 
+### 4 Fundamental Concepts I Overlooked in React with TypeScript 
 
- Eylül ayında bana gelen bildirimlerden ve maillerden önemli bulduklarımı bu blog altında paylaşıyor ... 
+ Here’s what I learned from the official cheatsheet.... 
 
- [바로가기](https://medium.com/frontend-development-with-js/eylül-2023de-frontend-alanında-yenilikler-48a007028452?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------frontend----------bad548b6_0858_469f_926e_26c5f0d8f714-------) 
+ [바로가기](https://medium.com/@colliethecocky/4-fundamental-concepts-i-overlook-in-react-with-typescript-3de2302bd2f2?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------reactjs----------c89f11b6_96e9_4ba0_abdb_64f052624300-------) 
 
 ###  번(Bun)과 리액트로 서버사이드 렌더링(SSR) 구현하기 
 
@@ -37,17 +37,17 @@
 
  [바로가기](https://kofearticle.substack.com/p/korean-fe-article-html-css-js-nodejs) 
 
+### 웹 문서 속 제목의 역할과 활용 방법 
+
+ 오늘은 “제목”에 관한 이야기를 들려드리려고 합니다. (여기서 “제목”은 HTML에서 <title> 태그가 아닌, <h> 태그입니다.) 정답이 있진 않습니다. 각 용도에 맞춰서 너... 
+
+ [바로가기](https://yozm.wishket.com/magazine/detail/2249/) 
+
 ### [FEConf2023 미리보기] Vue → Next.js 주의할 점 
 
  개발자들이 참여하는 국내 행사는 여럿 있지만, 프론트엔드에 특화해 수백 명 규모가 모이는 컨퍼런스로는 FEConf(프론트엔드 개발 컨퍼런스)가 유일합니다. 올해 FEConf에서는 ... 
 
  [바로가기](https://yozm.wishket.com/magazine/detail/2248/) 
-
-### 컴퓨터가 수백만 개 상품을 사람처럼 인식할 수 있을까? 
-
- 온라인 쇼핑 중, 검색 결과에 같은 상품이 여러 다른 버전으로 나오는 상황을 경험해보신 적 있으신가요? 이런 현상은 고객 경험에 부정적인 영향을 끼칠뿐더러, 검색 결과 내 온라인 ... 
-
- [바로가기](https://yozm.wishket.com/magazine/detail/2242/) 
 
 ---
 
