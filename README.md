@@ -1,29 +1,29 @@
 # 오늘의 포스팅 
-2023년 9월 29일 9시 기준 
+2023년 9월 30일 9시 기준 
 
-### Node.js is Dying! Bun 1.0 is Changing the JavaScript Game 
+### TypeScript — Toolchain or Troublechain 
 
- Before going further, we need to explain what is javascript runtime and why we should care about its... 
+ I only recently started using TypeScript for a personal project. I had my reservations, fearing that... 
 
- [바로가기](https://medium.com/javascript-in-plain-english/node-js-is-dying-bun-1-0-is-changing-the-javascript-game-2892d4ff6921?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-107----------javascript----------8c9466af_f961_4e0c_a101_38fab457cfd2-------) 
+ [바로가기](https://medium.com/@wolfoliver/my-journey-with-typescript-3baf50b0473d?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------typescript----------0a5d000b_0c97_4c59_831e_18a75fc574fd-------) 
 
-### Learn the Chain of Responsibility pattern in-depth with TypeScript 
+### Optimizing Performance and Enhancing Responsiveness in React Applications with useCallback and… 
 
- Definition... 
+ In the realm of web development, React has emerged as a leading JavaScript library for building inte... 
 
- [바로가기](https://medium.com/@vahid.vdn/learn-the-chain-of-responsibility-pattern-in-depth-with-typescript-4336f8fb4afb?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------typescript----------7e57b7ca_86d8_4142_a572_9f6b890e8ecf-------) 
+ [바로가기](https://medium.com/@aryandi/optimizing-performance-and-enhancing-responsiveness-in-react-applications-with-usecallback-and-4cbaac7dcc4b?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------frontend----------cee0bd39_e19d_4bb8_86a9_6aeddfcff6c1-------) 
 
-### The best way to declare the State in ReactJs 
+### React vs. Angular 
 
- Today’s everywhere is react, if you don’t react on time then time will react on you. Basically, I me... 
+ React vs. Angular: How to Choose the Right Framework for Your Next Project?... 
 
- [바로가기](https://medium.com/@ishwardeoolkar171/the-best-way-to-declare-the-state-in-reactjs-97a7aea9efe5?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------frontend----------6239418a_dbf6_4cb7_a2bd_57a4dc8e2f5f-------) 
+ [바로가기](https://medium.com/@Brilworks/react-vs-angular-c35b0fbca44b?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------reactjs----------871f02b8_f69e_47ea_a472_c25d5724e53c-------) 
 
-### 4 Fundamental Concepts I Overlooked in React with TypeScript 
+### Seamless Integration of Localisation and URL Optimization in Next.js 13: Hiding the Default Locale 
 
- Here’s what I learned from the official cheatsheet.... 
+ In this guide, discover how to achieve cleaner and more user-friendly URLs in Next.js 13 by conceali... 
 
- [바로가기](https://medium.com/@colliethecocky/4-fundamental-concepts-i-overlook-in-react-with-typescript-3de2302bd2f2?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------reactjs----------c89f11b6_96e9_4ba0_abdb_64f052624300-------) 
+ [바로가기](https://medium.com/@rakeshkumar-42819/seamless-integration-of-localisation-and-url-optimization-in-next-js-13-hiding-the-default-locale-e2f8b863697a?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------nextjs----------836768b6_76f6_4134_a947_e4a040934d16-------) 
 
 ###  번(Bun)과 리액트로 서버사이드 렌더링(SSR) 구현하기 
 
