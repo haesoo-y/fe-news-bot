@@ -1,29 +1,29 @@
 # 오늘의 포스팅 
-2023년 9월 30일 9시 기준 
+2023년 10월 1일 9시 기준 
 
-### TypeScript — Toolchain or Troublechain 
+### Demystifying Web Development Architectural Patterns: MVC vs. MVVM 
 
- I only recently started using TypeScript for a personal project. I had my reservations, fearing that... 
+ With practical code examples for a hands-on understanding... 
 
- [바로가기](https://medium.com/@wolfoliver/my-journey-with-typescript-3baf50b0473d?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------typescript----------0a5d000b_0c97_4c59_831e_18a75fc574fd-------) 
+ [바로가기](https://medium.com/gitconnected/demystifying-web-development-architectural-patterns-mvc-vs-mvvm-ca79ee5df228?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------frontend----------a8476525_54b9_4f3a_898e_793ee14ce767-------) 
 
-### Optimizing Performance and Enhancing Responsiveness in React Applications with useCallback and… 
+### ChatGPT For Coding: Crossing A Chasm Versus Taking The Next Step 
 
- In the realm of web development, React has emerged as a leading JavaScript library for building inte... 
+ ... 
 
- [바로가기](https://medium.com/@aryandi/optimizing-performance-and-enhancing-responsiveness-in-react-applications-with-usecallback-and-4cbaac7dcc4b?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------frontend----------cee0bd39_e19d_4bb8_86a9_6aeddfcff6c1-------) 
+ [바로가기](https://medium.com/@jbcolemanjr/chatgpt-for-coding-crossing-a-chasm-versustaking-the-next-step-e14f94268c64?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------reactjs----------f5b757e7_e6eb_4e7c_9dc1_4bc9ec96988f-------) 
 
-### React vs. Angular 
+### Middleware in Next.js: A Comprehensive Guide 
 
- React vs. Angular: How to Choose the Right Framework for Your Next Project?... 
+ Note: This article is a personal reference guide — results may vary!... 
 
- [바로가기](https://medium.com/@Brilworks/react-vs-angular-c35b0fbca44b?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------reactjs----------871f02b8_f69e_47ea_a472_c25d5724e53c-------) 
+ [바로가기](https://medium.com/@zachshallbetter/middleware-in-next-js-a-comprehensive-guide-7dd0a928541a?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------nextjs----------a22b1dc0_64c9_4dd1_bf74_0a003c714062-------) 
 
-### Seamless Integration of Localisation and URL Optimization in Next.js 13: Hiding the Default Locale 
+### 4 Essential React Advanced Patterns for 2023: Upgrade Your Skills and Build Better Apps 
 
- In this guide, discover how to achieve cleaner and more user-friendly URLs in Next.js 13 by conceali... 
+ Introduction... 
 
- [바로가기](https://medium.com/@rakeshkumar-42819/seamless-integration-of-localisation-and-url-optimization-in-next-js-13-hiding-the-default-locale-e2f8b863697a?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------nextjs----------836768b6_76f6_4134_a947_e4a040934d16-------) 
+ [바로가기](https://medium.com/@thefiend/4-essential-react-advanced-patterns-for-2023-upgrade-your-skills-and-build-better-apps-a6023cdb85b3?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------front_end_development----------82603979_a6ac_466a_82c5_d1c8e6b6e491-------) 
 
 ###  번(Bun)과 리액트로 서버사이드 렌더링(SSR) 구현하기 
 
