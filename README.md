@@ -1,29 +1,29 @@
 # 오늘의 포스팅 
-2023년 10월 1일 9시 기준 
+2023년 10월 2일 9시 기준 
 
-### Demystifying Web Development Architectural Patterns: MVC vs. MVVM 
+### Next JS vs React JS : Which Framework is need to choose? 
 
- With practical code examples for a hands-on understanding... 
+ Hello Developers , Are you confused to choose which Framework or Library is good for your project ?... 
 
- [바로가기](https://medium.com/gitconnected/demystifying-web-development-architectural-patterns-mvc-vs-mvvm-ca79ee5df228?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------frontend----------a8476525_54b9_4f3a_898e_793ee14ce767-------) 
+ [바로가기](https://medium.com/@chillal.swapnar/next-js-vs-react-js-which-framework-is-need-to-choose-ede35aec0bd4?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------reactjs----------b1bc1597_f3d8_465a_81b3_744e22611d3a-------) 
 
-### ChatGPT For Coding: Crossing A Chasm Versus Taking The Next Step 
+### Adding PWA to Next.js with App Directory — Simple Guide 
 
- ... 
+ PWA or “Progressive Web App.” makes use of modern web capabilities to deliver a more native app-like... 
 
- [바로가기](https://medium.com/@jbcolemanjr/chatgpt-for-coding-crossing-a-chasm-versustaking-the-next-step-e14f94268c64?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------reactjs----------f5b757e7_e6eb_4e7c_9dc1_4bc9ec96988f-------) 
+ [바로가기](https://medium.com/@faraasat/adding-pwa-to-next-js-with-app-directory-simple-guide-73284be7b7c1?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------nextjs----------62014a9c_cd7f_4418_a449_99025a5b22aa-------) 
 
-### Middleware in Next.js: A Comprehensive Guide 
+### Components of Styled MUI: Designing Elegant User Interfaces 
 
- Note: This article is a personal reference guide — results may vary!... 
+ When I first started working in the web development industry, Material-UI quickly established itself... 
 
- [바로가기](https://medium.com/@zachshallbetter/middleware-in-next-js-a-comprehensive-guide-7dd0a928541a?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------nextjs----------a22b1dc0_64c9_4dd1_bf74_0a003c714062-------) 
+ [바로가기](https://medium.com/@odedmasala89/components-of-styled-mui-designing-elegant-user-interfaces-d43ff25eeea?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------front_end_development----------cb87e542_b117_4b31_b9ff_b8e229dc01db-------) 
 
-### 4 Essential React Advanced Patterns for 2023: Upgrade Your Skills and Build Better Apps 
+### Performance load testing — Bun VS Node for a React SSR App 
 
- Introduction... 
+ We will create a simple SSR React app, one served via Node and other via Bun JS. In the end we will ... 
 
- [바로가기](https://medium.com/@thefiend/4-essential-react-advanced-patterns-for-2023-upgrade-your-skills-and-build-better-apps-a6023cdb85b3?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------front_end_development----------82603979_a6ac_466a_82c5_d1c8e6b6e491-------) 
+ [바로가기](https://medium.com/@raj.nagaraj1990/performance-load-testing-bun-vs-node-for-a-react-ssr-app-a553764527e9?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------react----------c7152ed9_dae4_4ce2_9eba_ccfad28f590a-------) 
 
 ###  번(Bun)과 리액트로 서버사이드 렌더링(SSR) 구현하기 
 
