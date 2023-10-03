@@ -1,11 +1,5 @@
 # 오늘의 포스팅 
-2023년 10월 2일 9시 기준 
-
-### Next JS vs React JS : Which Framework is need to choose? 
-
- Hello Developers , Are you confused to choose which Framework or Library is good for your project ?... 
-
- [바로가기](https://medium.com/@chillal.swapnar/next-js-vs-react-js-which-framework-is-need-to-choose-ede35aec0bd4?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------reactjs----------b1bc1597_f3d8_465a_81b3_744e22611d3a-------) 
+2023년 10월 3일 9시 기준 
 
 ### Adding PWA to Next.js with App Directory — Simple Guide 
 
@@ -19,11 +13,17 @@
 
  [바로가기](https://medium.com/@odedmasala89/components-of-styled-mui-designing-elegant-user-interfaces-d43ff25eeea?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------front_end_development----------cb87e542_b117_4b31_b9ff_b8e229dc01db-------) 
 
-### Performance load testing — Bun VS Node for a React SSR App 
+### JavaScript concepts for React.js 
 
- We will create a simple SSR React app, one served via Node and other via Bun JS. In the end we will ... 
+ Before understanding React.js, you need be familiar with the following top JavaScript concepts.... 
 
- [바로가기](https://medium.com/@raj.nagaraj1990/performance-load-testing-bun-vs-node-for-a-react-ssr-app-a553764527e9?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------react----------c7152ed9_dae4_4ce2_9eba_ccfad28f590a-------) 
+ [바로가기](https://medium.com/gitconnected/javascript-concepts-for-react-js-f7e5d6e7e2c2?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------react----------70291e7f_eefa_4f1e_b6d1_a30751f16d8b-------) 
+
+### Frontend Weekly Digest #330 (25–30 September 2023) 
+
+ Web-development... 
+
+ [바로가기](https://medium.com/@frontender-ua/frontend-weekly-digest-330-25-30-september-2023-15278beac001?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------javascript----------321ee737_6871_438d_8f8c_8fc25b90f2cd-------) 
 
 ###  번(Bun)과 리액트로 서버사이드 렌더링(SSR) 구현하기 
 
@@ -37,17 +37,17 @@
 
  [바로가기](https://kofearticle.substack.com/p/korean-fe-article-html-css-js-nodejs) 
 
+### 쿠버네티스(Kubernetes) 네트워크 정리 
+
+ Kubernetes 네트워크는 크게 4가지로 분류된다. 이번 글에서는 쿠버네티스 네트워크에 대해 정리해 보았다. 1) 서로 결합된 컨테이너와 컨테이너 간 통신, 2) Pod와 Po... 
+
+ [바로가기](https://yozm.wishket.com/magazine/detail/2251/) 
+
 ### 웹 문서 속 제목의 역할과 활용 방법 
 
  오늘은 “제목”에 관한 이야기를 들려드리려고 합니다. (여기서 “제목”은 HTML에서 <title> 태그가 아닌, <h> 태그입니다.) 정답이 있진 않습니다. 각 용도에 맞춰서 너... 
 
  [바로가기](https://yozm.wishket.com/magazine/detail/2249/) 
-
-### [FEConf2023 미리보기] Vue → Next.js 주의할 점 
-
- 개발자들이 참여하는 국내 행사는 여럿 있지만, 프론트엔드에 특화해 수백 명 규모가 모이는 컨퍼런스로는 FEConf(프론트엔드 개발 컨퍼런스)가 유일합니다. 올해 FEConf에서는 ... 
-
- [바로가기](https://yozm.wishket.com/magazine/detail/2248/) 
 
 ---
 
