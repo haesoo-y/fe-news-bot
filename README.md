@@ -1,29 +1,29 @@
 # 오늘의 포스팅 
-2023년 10월 5일 9시 기준 
+2023년 10월 6일 9시 기준 
 
-### React Re-rendering: Exploring What, Why, and How 
+### Background Sync Is A PWA Super Power 
 
- Understanding the mechanism behind React’s re-rendering process and optimizing performance.... 
+ Here’s how you can defer network calls when your web app is offline and execute them when the networ... 
 
- [바로가기](https://medium.com/simform-engineering/react-re-rendering-exploring-what-why-and-how-d180d5305892?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------react----------21be6023_c9ab_40b4_85cd_f0d990657674-------) 
-
-### Understanding Different Ways of Object Cloning in Javascript 
-
- In this Article we will understand the Different ways for Cloning Objects that Javascript offers to ... 
-
- [바로가기](https://medium.com/@aniket.kapoor/understanding-different-ways-of-object-cloning-in-javascript-550a3b5f2670?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------javascript----------0e373015_8040_423f_b67f_27ae4b8e6330-------) 
+ [바로가기](https://medium.com/itnext/background-sync-is-a-pwa-super-power-ba2526562beb?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------javascript----------a6842cf2_5048_43f0_ad7f_8e8e4d06b6ed-------) 
 
 ### Evolution of Server-Side JavaScript 
 
  From Java-based runtimes to the rise of Node.js, the birth of NPM, the growing ecosystem, the innova... 
 
- [바로가기](https://medium.com/itnext/evolution-of-server-side-javascript-314a8d408da4?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-107----------typescript----------fcae667b_82d3_407b_b5a4_cd9df6d791e6-------) 
+ [바로가기](https://medium.com/itnext/evolution-of-server-side-javascript-314a8d408da4?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-107----------typescript----------11170466_6235_4d76_9a32_1b3773dfa74e-------) 
 
-### Light Theme, Dark Theme: Best Approach for Designers & Developers 
+### JavaScript AJAX (Asynchronous JavaScript and XML) 
 
- Hi again, it’s Uchenna, Jackie of all tech trades 😅... 
+ Hi everyone! In this article, I will tell you about JavaScript AJAX (Asynchronous JavaScript and XML... 
 
- [바로가기](https://medium.com/@urchymanny/light-theme-dark-theme-best-approach-for-designers-developers-68c84dbe7f4c?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------frontend----------2109d19c_4f7d_48a9_8d51_1379d28f4953-------) 
+ [바로가기](https://medium.com/@dilarauluturhan/javascript-ajax-asynchronous-javascript-and-xml-6c24ba85152d?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------frontend----------117488ad_33c9_4c93_9a12_96beeb850fa7-------) 
+
+### Learn Next.js By Building Your First Next.js App From Scratch 
+
+ Learn about Next.js key features by building your first Next.js app step by step... 
+
+ [바로가기](https://medium.com/gitconnected/learn-next-js-by-building-your-first-next-js-app-from-scratch-8ec7cc93a9cb?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-107----------reactjs----------f6f03c23_5562_4ea9_9078_57174626085b-------) 
 
 ###  세 가지 아키텍처에서의 리액트 Suspense 
 
@@ -37,17 +37,17 @@
 
  [바로가기](https://kofearticle.substack.com/p/korean-fe-article-bun-ssr) 
 
+### [CNCF행사]전 세계 30개 곳 동시 ‘IT 지속가능성’ 한목소리 내는 날 
+
+ 요즘 IT 분야에서도 ‘지속 가능성’이라는 키워드가 더욱 중요해지고 있는데요, 이를 더 많은 사람들에게 알리고자 오는 10월에 ‘클라우드 네이티브 지속 가능성(Sustainabil... 
+
+ [바로가기](https://yozm.wishket.com/magazine/detail/2257/) 
+
 ### 올해도 10초 매진 각, FEConf 누가 만드나? 
 
  쉽지 않은 상황에서도 꾸준히 컨퍼런스를 열며 프론트엔드 개발자 생태계에 큰 기여를 해온 FEConf 오거나이저를 요즘IT에서 한번 만나봤습니다. 올해 오거나이저 19인의 대표로, ... 
 
  [바로가기](https://yozm.wishket.com/magazine/detail/2254/) 
-
-### SVG는 진짜 정답일까? 그럼 PNG는? 
-
- 앱 개발자라면 필연적으로 한 번씩 겪는 늪이 있죠. 그것은 바로 리소스 관리입니다. 특히 이미지 리소스 관리라는 늪에 빠져버리기 일쑤입니다. 하지만 이왕 운명을 맞이할 거 조금 더... 
-
- [바로가기](https://yozm.wishket.com/magazine/detail/2252/) 
 
 ---
 
