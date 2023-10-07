@@ -1,29 +1,29 @@
 # 오늘의 포스팅 
-2023년 10월 6일 9시 기준 
+2023년 10월 7일 9시 기준 
 
-### Background Sync Is A PWA Super Power 
+### Compiling Typescript to native code 
 
- Here’s how you can defer network calls when your web app is offline and execute them when the networ... 
+ Static hermes (shermes), the next iteration of the hermes javascript engine is adding support for co... 
 
- [바로가기](https://medium.com/itnext/background-sync-is-a-pwa-super-power-ba2526562beb?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------javascript----------a6842cf2_5048_43f0_ad7f_8e8e4d06b6ed-------) 
+ [바로가기](https://medium.com/@gautam1168/compiling-typescript-to-native-code-0238d69ca582?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------typescript----------38a0b8ed_fa15_47ec_bcd1_740e0147cd4f-------) 
 
-### Evolution of Server-Side JavaScript 
+### Getting Started with Angular: A Beginner’s Guide 
 
- From Java-based runtimes to the rise of Node.js, the birth of NPM, the growing ecosystem, the innova... 
+ Angular is a powerful and popular JavaScript framework for building web applications. Developed and ... 
 
- [바로가기](https://medium.com/itnext/evolution-of-server-side-javascript-314a8d408da4?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-107----------typescript----------11170466_6235_4d76_9a32_1b3773dfa74e-------) 
+ [바로가기](https://medium.com/@ouaddimustapha5/getting-started-with-angular-a-beginners-guide-d966411c3712?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------frontend----------b080e510_0a72_4203_b66b_3d6f6b8447cf-------) 
 
-### JavaScript AJAX (Asynchronous JavaScript and XML) 
+### Mastering Frontend Interviews: A Deep Dive into React Virtualized Lists 
 
- Hi everyone! In this article, I will tell you about JavaScript AJAX (Asynchronous JavaScript and XML... 
+ Welcome to another article about our Frontend Interview Exercises Series, where we help acing fronte... 
 
- [바로가기](https://medium.com/@dilarauluturhan/javascript-ajax-asynchronous-javascript-and-xml-6c24ba85152d?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------frontend----------117488ad_33c9_4c93_9a12_96beeb850fa7-------) 
+ [바로가기](https://medium.com/@rivoltafilippo/mastering-frontend-interviews-a-deep-dive-into-react-virtualized-lists-10600536d540?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------reactjs----------c32b54c1_1b88_430e_9d0f_4e0c5c3fc1d5-------) 
 
-### Learn Next.js By Building Your First Next.js App From Scratch 
+### Setup PostCSS Nesting (Tailwind) in Your NextJS Project 
 
- Learn about Next.js key features by building your first Next.js app step by step... 
+ PostCSS is a popular tool for processing CSS files in web development, and it can be particularly us... 
 
- [바로가기](https://medium.com/gitconnected/learn-next-js-by-building-your-first-next-js-app-from-scratch-8ec7cc93a9cb?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-107----------reactjs----------f6f03c23_5562_4ea9_9078_57174626085b-------) 
+ [바로가기](https://medium.com/@ryanadhitama/setup-postcss-nesting-tailwind-in-your-nextjs-project-f2c9f763cc8f?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------nextjs----------03983c4a_6995_4dcc_bbcc_55fa31cd50d1-------) 
 
 ###  세 가지 아키텍처에서의 리액트 Suspense 
 
@@ -37,17 +37,17 @@
 
  [바로가기](https://kofearticle.substack.com/p/korean-fe-article-bun-ssr) 
 
+### MySQL 쿼리 튜닝의 첫걸음 
+
+ 개발 업무를 하다 보면 성능이 중요하다는 말을 참 많이 듣게 됩니다. 이 때문에 스트레스를 받는 경우도 많고, 애써 작업한 코드를 뜯어고치는 경우도 수없이 많은데요. 어느 부서에서... 
+
+ [바로가기](https://yozm.wishket.com/magazine/detail/2260/) 
+
 ### [CNCF행사]전 세계 30개 곳 동시 ‘IT 지속가능성’ 한목소리 내는 날 
 
  요즘 IT 분야에서도 ‘지속 가능성’이라는 키워드가 더욱 중요해지고 있는데요, 이를 더 많은 사람들에게 알리고자 오는 10월에 ‘클라우드 네이티브 지속 가능성(Sustainabil... 
 
  [바로가기](https://yozm.wishket.com/magazine/detail/2257/) 
-
-### 올해도 10초 매진 각, FEConf 누가 만드나? 
-
- 쉽지 않은 상황에서도 꾸준히 컨퍼런스를 열며 프론트엔드 개발자 생태계에 큰 기여를 해온 FEConf 오거나이저를 요즘IT에서 한번 만나봤습니다. 올해 오거나이저 19인의 대표로, ... 
-
- [바로가기](https://yozm.wishket.com/magazine/detail/2254/) 
 
 ---
 
