@@ -1,29 +1,29 @@
 # 오늘의 포스팅 
-2023년 10월 7일 9시 기준 
+2023년 10월 8일 9시 기준 
 
-### Compiling Typescript to native code 
+### Performance engineering for the ordinary Barbie 
 
- Static hermes (shermes), the next iteration of the hermes javascript engine is adding support for co... 
+ A publication on profiling and other topics in observability... 
 
- [바로가기](https://medium.com/@gautam1168/compiling-typescript-to-native-code-0238d69ca582?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------typescript----------38a0b8ed_fa15_47ec_bcd1_740e0147cd4f-------) 
-
-### Getting Started with Angular: A Beginner’s Guide 
-
- Angular is a powerful and popular JavaScript framework for building web applications. Developed and ... 
-
- [바로가기](https://medium.com/@ouaddimustapha5/getting-started-with-angular-a-beginners-guide-d966411c3712?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------frontend----------b080e510_0a72_4203_b66b_3d6f6b8447cf-------) 
+ [바로가기](https://medium.com/performance-engineering-for-the-ordinary-barbie/performance-engineering-for-the-ordinary-barbie-16fc57e1892f?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------frontend----------e0bb9817_a47b_4632_8b36_ab16662a8977-------) 
 
 ### Mastering Frontend Interviews: A Deep Dive into React Virtualized Lists 
 
  Welcome to another article about our Frontend Interview Exercises Series, where we help acing fronte... 
 
- [바로가기](https://medium.com/@rivoltafilippo/mastering-frontend-interviews-a-deep-dive-into-react-virtualized-lists-10600536d540?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------reactjs----------c32b54c1_1b88_430e_9d0f_4e0c5c3fc1d5-------) 
+ [바로가기](https://medium.com/@rivoltafilippo/mastering-frontend-interviews-a-deep-dive-into-react-virtualized-lists-10600536d540?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------reactjs----------46ed88af_cd05_4446_a057_48cc6cb8487e-------) 
 
-### Setup PostCSS Nesting (Tailwind) in Your NextJS Project 
+### Create a Design System with Turborepo, React, Tailwind — connect it to Figma using… 
 
- PostCSS is a popular tool for processing CSS files in web development, and it can be particularly us... 
+ Export + prepare Figma Variables... 
 
- [바로가기](https://medium.com/@ryanadhitama/setup-postcss-nesting-tailwind-in-your-nextjs-project-f2c9f763cc8f?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------nextjs----------03983c4a_6995_4dcc_bbcc_55fa31cd50d1-------) 
+ [바로가기](https://medium.com/@fokker/create-a-design-system-with-turborepo-react-tailwind-connect-it-to-figma-using-1b73250fa84b?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------nextjs----------a1891066_a580_44dc_9ce9_7f4d20b9964a-------) 
+
+### Combining multiple tables in Supabase 
+
+ In a previous blog, I created a Supabase project with 1 table that I read from. Let’s expand it with... 
+
+ [바로가기](https://medium.com/itnext/combining-multiple-tables-in-supabase-9449e71c5e64?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------front_end_development----------57cf3220_f2ee_46b8_9ab5_1c0cdf8d2154-------) 
 
 ###  세 가지 아키텍처에서의 리액트 Suspense 
 
