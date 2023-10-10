@@ -1,23 +1,17 @@
 # 오늘의 포스팅 
-2023년 10월 9일 9시 기준 
+2023년 10월 10일 9시 기준 
 
-### Mastering Frontend Interviews: A Deep Dive into React Virtualized Lists 
+### Next.js 13 + Framer Motion Page Transitions 
 
- Welcome to another article about our Frontend Interview Exercises Series, where we help acing fronte... 
+ Make your UX smooth with page animations... 
 
- [바로가기](https://medium.com/@rivoltafilippo/mastering-frontend-interviews-a-deep-dive-into-react-virtualized-lists-10600536d540?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------reactjs----------adee18e6_9742_44f7_b113_2a976f0dcc65-------) 
+ [바로가기](https://medium.com/@mrkgangel/next-js-13-framer-motion-page-transitions-b2d58658410a?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------nextjs----------2e8e12c8_f37c_4917_8f20_6f22a8b31256-------) 
 
-### Create a Design System with Turborepo, React, Tailwind — connect it to Figma using… 
+### Frontend Weekly Digest #331 (2–8 October 2023) 
 
- Export + prepare Figma Variables... 
+ Web-development... 
 
- [바로가기](https://medium.com/@fokker/create-a-design-system-with-turborepo-react-tailwind-connect-it-to-figma-using-1b73250fa84b?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------nextjs----------6871191f_17cb_4f05_98f9_3e273474f7a8-------) 
-
-### How to create an Axios Instance 
-
- When it comes to interacting with our back-end or an external API, Axios provide a very easy way to ... 
-
- [바로가기](https://medium.com/@essaadihamza4/how-to-create-an-axios-instance-0ceb5b4080ac?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------front_end_development----------9bbe0464_ac5c_4a46_ac8c_6da23e7b9170-------) 
+ [바로가기](https://medium.com/@frontender-ua/frontend-weekly-digest-331-2-8-october-2023-e9348aaf5cc5?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------front_end_development----------0cefe87d_546d_45d0_bf26_6ed4973e47f1-------) 
 
 ### Mastering Frontend Interviews: A Deep Dive into React Virtualized Lists 
 
@@ -25,17 +19,23 @@
 
  [바로가기](https://medium.com/@rivoltafilippo/mastering-frontend-interviews-a-deep-dive-into-react-virtualized-lists-10600536d540?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------react----------3daf64b0_b833_4bfb_8860_0e29940f25e0-------) 
 
+### A Comprehensive Guide to Angular’s Defer Block 
+
+ With the latest control flow enhancements, Angular v17 introduces an impressive and highly beneficia... 
+
+ [바로가기](https://medium.com/netanelbasal/a-comprehensive-guide-to-angulars-defer-block-468c74048df4?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------javascript----------17089373_7612_4bee_8754_cf6ea3f14746-------) 
+
+###  Bun vs Node.js : 당신이 알아야 할 모든 것들 
+
+ 글 링크 : https://ykss.netlify.app/translation/bun_vs_node_js_everything_you_need_to_know/ 소개 최근 Bun 버전... 
+
+ [바로가기](https://kofearticle.substack.com/p/korean-fe-article-bun-vs-nodejs) 
+
 ###  세 가지 아키텍처에서의 리액트 Suspense 
 
  글 링크 : https://velog.io/@lky5697/suspense-in-different-architectures 소개 React에서 제공하는 Suspense는 컴포넌트의... 
 
  [바로가기](https://kofearticle.substack.com/p/korean-fe-article-suspense) 
-
-###  번(Bun)과 리액트로 서버사이드 렌더링(SSR) 구현하기 
-
- 소개 최근 번(Bun) 1.0이 출시되며 많은 관심을 받고 있습니다. 참 많은 글에서 번을 다루고 있는 것을 볼 수 있었는데요, 이…... 
-
- [바로가기](https://kofearticle.substack.com/p/korean-fe-article-bun-ssr) 
 
 ### MySQL 쿼리 튜닝의 첫걸음 
 
