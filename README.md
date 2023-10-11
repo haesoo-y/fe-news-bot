@@ -1,29 +1,29 @@
 # 오늘의 포스팅 
-2023년 10월 10일 9시 기준 
+2023년 10월 11일 9시 기준 
 
-### Next.js 13 + Framer Motion Page Transitions 
+### Shapes in CSS 
 
- Make your UX smooth with page animations... 
+ How to quickly draw multiple shapes with CSS and a single HTML element... 
 
- [바로가기](https://medium.com/@mrkgangel/next-js-13-framer-motion-page-transitions-b2d58658410a?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------nextjs----------2e8e12c8_f37c_4917_8f20_6f22a8b31256-------) 
+ [바로가기](https://medium.com/gitconnected/shapes-in-css-a0ae1ce426f4?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------front_end_development----------c4d60bc5_1787_48ae_a585_7290508a18c2-------) 
 
-### Frontend Weekly Digest #331 (2–8 October 2023) 
+### Rendering React Native Code on a Web View with Next.js 13 SSR and React Native Web 
 
- Web-development... 
+ Migrating your existing React Native codebase to a Next.js 13 SSR web project, and rendering it with... 
 
- [바로가기](https://medium.com/@frontender-ua/frontend-weekly-digest-331-2-8-october-2023-e9348aaf5cc5?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------front_end_development----------0cefe87d_546d_45d0_bf26_6ed4973e47f1-------) 
-
-### Mastering Frontend Interviews: A Deep Dive into React Virtualized Lists 
-
- Welcome to another article about our Frontend Interview Exercises Series, where we help acing fronte... 
-
- [바로가기](https://medium.com/@rivoltafilippo/mastering-frontend-interviews-a-deep-dive-into-react-virtualized-lists-10600536d540?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------react----------3daf64b0_b833_4bfb_8860_0e29940f25e0-------) 
+ [바로가기](https://medium.com/@mohamedakmal03/rendering-react-native-code-on-a-web-view-with-next-js-13-ssr-and-react-native-web-1506649f869b?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------react----------f0070034_edeb_4e23_b374_8a9efa4e8b40-------) 
 
 ### A Comprehensive Guide to Angular’s Defer Block 
 
  With the latest control flow enhancements, Angular v17 introduces an impressive and highly beneficia... 
 
- [바로가기](https://medium.com/netanelbasal/a-comprehensive-guide-to-angulars-defer-block-468c74048df4?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------javascript----------17089373_7612_4bee_8754_cf6ea3f14746-------) 
+ [바로가기](https://medium.com/netanelbasal/a-comprehensive-guide-to-angulars-defer-block-468c74048df4?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------javascript----------06403121_bf64_4c0e_abcc_bdc6dc310350-------) 
+
+### Mastering AWS CDK: Setting Up a Custom Domain for Your HTTP Gateway 
+
+ In the ever-evolving landscape of cloud services, the ability to customize and tailor configurations... 
+
+ [바로가기](https://medium.com/@sergey.dudik/mastering-aws-cdk-setting-up-a-custom-domain-for-your-http-gateway-9a6e61051201?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------typescript----------99e627b7_1999_412a_b07f_e6c2611c1143-------) 
 
 ###  Bun vs Node.js : 당신이 알아야 할 모든 것들 
 
