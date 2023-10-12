@@ -1,17 +1,11 @@
 # 오늘의 포스팅 
-2023년 10월 11일 9시 기준 
+2023년 10월 12일 9시 기준 
 
-### Shapes in CSS 
+### Apollo GraphQL With React Native — Part 1 
 
- How to quickly draw multiple shapes with CSS and a single HTML element... 
+ For efficient data fetching and flexible state management... 
 
- [바로가기](https://medium.com/gitconnected/shapes-in-css-a0ae1ce426f4?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------front_end_development----------c4d60bc5_1787_48ae_a585_7290508a18c2-------) 
-
-### Rendering React Native Code on a Web View with Next.js 13 SSR and React Native Web 
-
- Migrating your existing React Native codebase to a Next.js 13 SSR web project, and rendering it with... 
-
- [바로가기](https://medium.com/@mohamedakmal03/rendering-react-native-code-on-a-web-view-with-next-js-13-ssr-and-react-native-web-1506649f869b?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------react----------f0070034_edeb_4e23_b374_8a9efa4e8b40-------) 
+ [바로가기](https://medium.com/simform-engineering/apollo-graphql-with-react-native-part-1-29ec126d8c58?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------react----------25fb4f2b_7861_48fd_8882_c134a5982de7-------) 
 
 ### A Comprehensive Guide to Angular’s Defer Block 
 
@@ -19,11 +13,23 @@
 
  [바로가기](https://medium.com/netanelbasal/a-comprehensive-guide-to-angulars-defer-block-468c74048df4?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------javascript----------06403121_bf64_4c0e_abcc_bdc6dc310350-------) 
 
-### Mastering AWS CDK: Setting Up a Custom Domain for Your HTTP Gateway 
+### How to load different Google-services.json files based on the dev environment in Expo 
 
- In the ever-evolving landscape of cloud services, the ability to customize and tailor configurations... 
+ This article provides a simple and effective way to load different Google-services.json files based ... 
 
- [바로가기](https://medium.com/@sergey.dudik/mastering-aws-cdk-setting-up-a-custom-domain-for-your-http-gateway-9a6e61051201?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------typescript----------99e627b7_1999_412a_b07f_e6c2611c1143-------) 
+ [바로가기](https://medium.com/@barimehdi77/how-to-load-different-google-services-json-files-based-on-the-dev-environment-in-expo-2d17696a0c13?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------typescript----------00d4eb62_6678_4e44_9589_6763694994bb-------) 
+
+### Intro to Memory Profiling & Chrome DevTools Memory Tab explained 
+
+ I think the Homer hiding gif best captures my immediate reaction when I saw the Memory tab for the f... 
+
+ [바로가기](https://medium.com/performance-engineering-for-the-ordinary-barbie/intro-to-memory-profiling-chrome-devtools-memory-tab-explained-5a99d3ba85d2?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------frontend----------393e81cc_bf22_428d_838c_ca838d206027-------) 
+
+###  우선순위 힌트를 활용하여 모든 네트워크 활동을 제어하기 
+
+ 글 링크 : https://velog.io/@superlipbalm/priority-hints 소개 브라우저는 자체적으로 우선순위를 정해 리소스를 요청하지만 우선순위 힌트를 사용하... 
+
+ [바로가기](https://kofearticle.substack.com/p/korean-fe-article-5e5) 
 
 ###  Bun vs Node.js : 당신이 알아야 할 모든 것들 
 
@@ -31,23 +37,17 @@
 
  [바로가기](https://kofearticle.substack.com/p/korean-fe-article-bun-vs-nodejs) 
 
-###  세 가지 아키텍처에서의 리액트 Suspense 
+### 이쯤에서 다시 정리해본 '빅데이터'란 무엇인가? 
 
- 글 링크 : https://velog.io/@lky5697/suspense-in-different-architectures 소개 React에서 제공하는 Suspense는 컴포넌트의... 
+ “빅데이터”라는 단어가 주는 직관적인 느낌은 “아주아주 많고 방대한 데이터”라고 느껴집니다. “Why? 이런 단어로 표현했을까?” 하는 궁금증이 생깁니다. 본문을 통해 빅데이터(B... 
 
- [바로가기](https://kofearticle.substack.com/p/korean-fe-article-suspense) 
+ [바로가기](https://yozm.wishket.com/magazine/detail/2264/) 
 
 ### MySQL 쿼리 튜닝의 첫걸음 
 
  개발 업무를 하다 보면 성능이 중요하다는 말을 참 많이 듣게 됩니다. 이 때문에 스트레스를 받는 경우도 많고, 애써 작업한 코드를 뜯어고치는 경우도 수없이 많은데요. 어느 부서에서... 
 
  [바로가기](https://yozm.wishket.com/magazine/detail/2260/) 
-
-### [CNCF행사]전 세계 30개 곳 동시 ‘IT 지속가능성’ 한목소리 내는 날 
-
- 요즘 IT 분야에서도 ‘지속 가능성’이라는 키워드가 더욱 중요해지고 있는데요, 이를 더 많은 사람들에게 알리고자 오는 10월에 ‘클라우드 네이티브 지속 가능성(Sustainabil... 
-
- [바로가기](https://yozm.wishket.com/magazine/detail/2257/) 
 
 ---
 
