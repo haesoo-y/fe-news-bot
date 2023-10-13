@@ -1,29 +1,35 @@
 # 오늘의 포스팅 
-2023년 10월 12일 9시 기준 
+2023년 10월 13일 9시 기준 
 
-### Apollo GraphQL With React Native — Part 1 
+### Harnessing Module Federation and Micro-Frontends for Modern Web Development 
 
- For efficient data fetching and flexible state management... 
+ Experience the Next Wave of Web Development with Module Federation and Micro-Frontends! Learn how th... 
 
- [바로가기](https://medium.com/simform-engineering/apollo-graphql-with-react-native-part-1-29ec126d8c58?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------react----------25fb4f2b_7861_48fd_8882_c134a5982de7-------) 
+ [바로가기](https://medium.com/@themanojrathi/harnessing-module-federation-and-micro-frontends-for-modern-web-development-e7fa4f5ee3d6?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------javascript----------8e15eaac_6c7d_420d_a1c8_30e1f958acea-------) 
 
-### A Comprehensive Guide to Angular’s Defer Block 
+### New in Angular — Updated Control Flow 
 
- With the latest control flow enhancements, Angular v17 introduces an impressive and highly beneficia... 
+ Coming soon to your nearest Angular apps!... 
 
- [바로가기](https://medium.com/netanelbasal/a-comprehensive-guide-to-angulars-defer-block-468c74048df4?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------javascript----------06403121_bf64_4c0e_abcc_bdc6dc310350-------) 
-
-### How to load different Google-services.json files based on the dev environment in Expo 
-
- This article provides a simple and effective way to load different Google-services.json files based ... 
-
- [바로가기](https://medium.com/@barimehdi77/how-to-load-different-google-services-json-files-based-on-the-dev-environment-in-expo-2d17696a0c13?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------typescript----------00d4eb62_6678_4e44_9589_6763694994bb-------) 
+ [바로가기](https://medium.com/ngconf/new-in-angular-updated-control-flow-b6f0d6af7dfe?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------typescript----------ab951361_74d0_435a_a075_43e707806f2b-------) 
 
 ### Intro to Memory Profiling & Chrome DevTools Memory Tab explained 
 
  I think the Homer hiding gif best captures my immediate reaction when I saw the Memory tab for the f... 
 
- [바로가기](https://medium.com/performance-engineering-for-the-ordinary-barbie/intro-to-memory-profiling-chrome-devtools-memory-tab-explained-5a99d3ba85d2?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------frontend----------393e81cc_bf22_428d_838c_ca838d206027-------) 
+ [바로가기](https://medium.com/performance-engineering-for-the-ordinary-barbie/intro-to-memory-profiling-chrome-devtools-memory-tab-explained-5a99d3ba85d2?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------frontend----------a99afb02_3b2a_41da_b531_f75b2fa66244-------) 
+
+### Harnessing Module Federation and Micro-Frontends for Modern Web Development 
+
+ Experience the Next Wave of Web Development with Module Federation and Micro-Frontends! Learn how th... 
+
+ [바로가기](https://medium.com/@themanojrathi/harnessing-module-federation-and-micro-frontends-for-modern-web-development-e7fa4f5ee3d6?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------reactjs----------f88467e7_fc0b_4458_bb2c_ec6872287be7-------) 
+
+###  ES2023에는 자바스크립트에 새로운 배열 복사 메서드가 도입됩니다. 
+
+ 링크 : https://github.com/yeonjuan/dev-blog/blob/master/JavaScript/es2023-new-array-copying-methods-ja... 
+
+ [바로가기](https://kofearticle.substack.com/p/korean-fe-article-es2023-6a8) 
 
 ###  우선순위 힌트를 활용하여 모든 네트워크 활동을 제어하기 
 
@@ -31,23 +37,17 @@
 
  [바로가기](https://kofearticle.substack.com/p/korean-fe-article-5e5) 
 
-###  Bun vs Node.js : 당신이 알아야 할 모든 것들 
+### 알아두면 유용한 정렬 알고리즘과 시간 복잡도 분석 
 
- 글 링크 : https://ykss.netlify.app/translation/bun_vs_node_js_everything_you_need_to_know/ 소개 최근 Bun 버전... 
+ 정렬 알고리즘은 데이터베이스 시스템, 검색 엔진, 머신러닝 알고리즘, 일상생활의 다양한 디지털 서비스에서 활용됩니다. 알고리즘의 효율성은 보통 시간 복잡도(Time Complexi... 
 
- [바로가기](https://kofearticle.substack.com/p/korean-fe-article-bun-vs-nodejs) 
+ [바로가기](https://yozm.wishket.com/magazine/detail/2266/) 
 
 ### 이쯤에서 다시 정리해본 '빅데이터'란 무엇인가? 
 
  “빅데이터”라는 단어가 주는 직관적인 느낌은 “아주아주 많고 방대한 데이터”라고 느껴집니다. “Why? 이런 단어로 표현했을까?” 하는 궁금증이 생깁니다. 본문을 통해 빅데이터(B... 
 
  [바로가기](https://yozm.wishket.com/magazine/detail/2264/) 
-
-### MySQL 쿼리 튜닝의 첫걸음 
-
- 개발 업무를 하다 보면 성능이 중요하다는 말을 참 많이 듣게 됩니다. 이 때문에 스트레스를 받는 경우도 많고, 애써 작업한 코드를 뜯어고치는 경우도 수없이 많은데요. 어느 부서에서... 
-
- [바로가기](https://yozm.wishket.com/magazine/detail/2260/) 
 
 ---
 
