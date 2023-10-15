@@ -1,29 +1,29 @@
 # 오늘의 포스팅 
-2023년 10월 14일 9시 기준 
+2023년 10월 15일 9시 기준 
 
-### New in Angular — Updated Control Flow 
+### Why 62.5% Matters in CSS? 
 
- Coming soon to your nearest Angular apps!... 
+ The CSS Hack You’ve Been Missing... 
 
- [바로가기](https://medium.com/ngconf/new-in-angular-updated-control-flow-b6f0d6af7dfe?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------typescript----------55d48c7c_5413_48bb_b253_872aa83c2656-------) 
-
-### Intro to Memory Profiling & Chrome DevTools Memory Tab explained 
-
- I think the Homer hiding gif best captures my immediate reaction when I saw the Memory tab for the f... 
-
- [바로가기](https://medium.com/performance-engineering-for-the-ordinary-barbie/intro-to-memory-profiling-chrome-devtools-memory-tab-explained-5a99d3ba85d2?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------frontend----------2567a60f_4617_4dcb_9a12_2c7105e09590-------) 
+ [바로가기](https://medium.com/react-academy/why-62-5-matters-in-css-34973349345e?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------frontend----------1030fc60_77b6_4afc_9a3f_ccf3a7f153fa-------) 
 
 ### Mastering Redux Toolkit (Part 1 of 3): From Basics to RTK Query 
 
  What Redux Toolkit offers more than old Redux?... 
 
- [바로가기](https://medium.com/@tourlidavagia/mastering-redux-toolkit-part-1-of-3-from-basics-to-rtk-query-dec06d4f8cd2?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------reactjs----------3fcebb69_9022_4e86_9bef_bc91e5acf5e1-------) 
+ [바로가기](https://medium.com/@tourlidavagia/mastering-redux-toolkit-part-1-of-3-from-basics-to-rtk-query-dec06d4f8cd2?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------reactjs----------7324bc8a_5002_4267_86c8_096db7bcbd71-------) 
 
-### Mastering T3 Stack: Part 1 — Getting Set Up 
+### Study Plan to become Frontend Engineer 
 
- I am not one for a lot of fluff. No one has time to read all the extra details like it’s a food reci... 
+ Start learning JavaScript & basic programming concepts... 
 
- [바로가기](https://medium.com/@wormdirtdevelopment/mastering-t3-stack-part-1-getting-set-up-bfb0d4269089?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------nextjs----------6687e15f_c602_4480_b097_9a0a48d43ca3-------) 
+ [바로가기](https://medium.com/@tanyakemkar/study-plan-to-become-frontend-engineer-78b961a807dd?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------nextjs----------1709990e_4a14_4752_b5d2_eacf5169d54e-------) 
+
+### Say Goodbye to 7 Bad JavaScript Practices 
+
+ I wish I had known about these bad habits earlier.... 
+
+ [바로가기](https://medium.com/@fatfish/say-goodbye-to-7-bad-javascript-practices-76c006b20c5f?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------front_end_development----------d549954d_83cc_44bd_9bb0_b7fb3a294672-------) 
 
 ###  ES2023에는 자바스크립트에 새로운 배열 복사 메서드가 도입됩니다. 
 
