@@ -1,41 +1,41 @@
 # 오늘의 포스팅 
-2023년 10월 17일 9시 기준 
+2023년 10월 18일 9시 기준 
 
-### The Basics of Next.js 
+### Frontend Weekly Digest #332 (9–15 October 2023) 
 
- While React has been a popular choice for many, there are instances where Next.js shines even bright... 
+ Web-development... 
 
- [바로가기](https://medium.com/@yashbabiya18/the-basics-of-next-js-85dc12c23462?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------nextjs----------78ec8327_8da9_4447_a6d8_e8721abeb777-------) 
+ [바로가기](https://medium.com/@frontender-ua/frontend-weekly-digest-332-9-15-october-2023-fb09db1304e9?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------front_end_development----------e1848bc8_f91c_4385_bad4_3f5ae850ac41-------) 
 
-### Commonly asked Machine Coding Problem in Front-end Interviews 
+### Apollo GraphQL With React Native — Part 3 (Local State Management) 
 
- This question was asked in Round 2 which was more around System Design and Live Coding at a well-kno... 
+ Streamline Local State Management with Apollo GraphQL... 
 
- [바로가기](https://medium.com/womenintechnology/commonly-asked-machine-coding-problem-in-front-end-interviews-e16042ab1e10?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------front_end_development----------fa7c173e_eae2_4d37_b0c6_0397f7805d69-------) 
+ [바로가기](https://medium.com/simform-engineering/apollo-graphql-with-react-native-part-3-local-state-management-6f98a5889718?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------react----------c217782f_d545_4c61_b1f6_ee9bfb0070b2-------) 
+
+### A Better Install UI for PWAs 
+
+ A step towards a native installation experience... 
+
+ [바로가기](https://medium.com/itnext/a-better-install-ui-for-pwas-1033ad354c98?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------javascript----------ff355a0d_fda4_46e8_9a65_5cb441571396-------) 
 
 ### Using React Portals for cleaner components 
 
  In this article I want to share a simple technique using React Portals for better decoupling of cont... 
 
- [바로가기](https://medium.com/@osmancea/using-react-portals-for-cleaner-components-1ee516bbc946?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------react----------82e4b5c5_9bb6_483f_9a2f_49c0215dc68f-------) 
+ [바로가기](https://medium.com/@osmancea/using-react-portals-for-cleaner-components-1ee516bbc946?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------typescript----------ed9458ca_dd02_4666_afbb_c49882588d48-------) 
 
-### ECMAScript 2023 (ES14): A Deep Dive into New Features for JavaScript Developers 
+###  자바스크립트에서 테스트 어설션 스타일 
 
- Explore the latest features of ECMAScript 2023 (ES14) in our comprehensive deep dive. Uncover enhanc... 
+ 글 링크 : https://bit.ly/45wVeiq 소개 테스트 코드 작성을 위해 사용되는 jest, vitest, mocha 같은 testing framework가 존재하고 있... 
 
- [바로가기](https://medium.com/@blackkspydo/ecmascript-2023-es14-242fa35c9a35?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------javascript----------19edaf3c_694b_4f7f_8665_bde2d11ee399-------) 
+ [바로가기](https://kofearticle.substack.com/p/korean-fe-article-281) 
 
 ###  CRDT에 대한 인터랙티브 입문 
 
  글 링크 : https://bit.ly/3LZdVUT 소개 최근에 사용되는 많은 도구들은 동시 편집 기능을 제공하고 있는데요. 구글 Docs나 Figma 같은 협업 도구를 사용할 ... 
 
  [바로가기](https://kofearticle.substack.com/p/korean-fe-article-crdt) 
-
-###  ES2023에는 자바스크립트에 새로운 배열 복사 메서드가 도입됩니다. 
-
- 링크 : https://github.com/yeonjuan/dev-blog/blob/master/JavaScript/es2023-new-array-copying-methods-ja... 
-
- [바로가기](https://kofearticle.substack.com/p/korean-fe-article-es2023-6a8) 
 
 ### 새로 등장한 ‘리액트 서버 컴포넌트’ 이해하기 
 
