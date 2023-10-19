@@ -1,29 +1,29 @@
 # 오늘의 포스팅 
-2023년 10월 18일 9시 기준 
+2023년 10월 19일 9시 기준 
 
-### Frontend Weekly Digest #332 (9–15 October 2023) 
+### Introducing Transformers in dope.security’s Code Saga 
 
- Web-development... 
+ Prepping the Transformation layer in dope.security’s codebase... 
 
- [바로가기](https://medium.com/@frontender-ua/frontend-weekly-digest-332-9-15-october-2023-fb09db1304e9?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------front_end_development----------e1848bc8_f91c_4385_bad4_3f5ae850ac41-------) 
+ [바로가기](https://medium.com/dopesecurity/introducing-transformers-in-dope-securitys-code-saga-eadff6cddf86?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------react----------34aa73a9_1edc_4465_bd36_27cfc5d23b11-------) 
 
-### Apollo GraphQL With React Native — Part 3 (Local State Management) 
+### Node.js 21.0.0 Release: What’s New and Exciting 
 
- Streamline Local State Management with Apollo GraphQL... 
+ Node.js, the popular JavaScript runtime, has just released its latest version, 21.0.0, on October 17... 
 
- [바로가기](https://medium.com/simform-engineering/apollo-graphql-with-react-native-part-3-local-state-management-6f98a5889718?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------react----------c217782f_d545_4c61_b1f6_ee9bfb0070b2-------) 
+ [바로가기](https://medium.com/@devhoangkien/node-js-21-0-0-release-whats-new-and-exciting-e80ee7107692?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------javascript----------2aef2c5f_f651_471b_9ee8_e418b4e1d612-------) 
 
-### A Better Install UI for PWAs 
+### Transitioning to TypeScript: How We Optimized Serverless Development at November Five 
 
- A step towards a native installation experience... 
+ At November Five, we’re strong believers of serverless development and have been building projects w... 
 
- [바로가기](https://medium.com/itnext/a-better-install-ui-for-pwas-1033ad354c98?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------javascript----------ff355a0d_fda4_46e8_9a65_5cb441571396-------) 
+ [바로가기](https://medium.com/@NovemberFive/transitioning-to-typescript-how-we-optimized-serverless-development-at-november-five-32f216315e75?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------typescript----------73cac95f_c57c_47ce_babd_91d28d38089b-------) 
 
-### Using React Portals for cleaner components 
+### BFF: A design pattern helping teams gain ownership 
 
- In this article I want to share a simple technique using React Portals for better decoupling of cont... 
+ Part 1: A Leverage for Smoothing Organizations’ Dependencies... 
 
- [바로가기](https://medium.com/@osmancea/using-react-portals-for-cleaner-components-1ee516bbc946?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------typescript----------ed9458ca_dd02_4666_afbb_c49882588d48-------) 
+ [바로가기](https://medium.com/decathlondigital/bff-a-design-pattern-helping-teams-gain-ownership-677846e26b20?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------frontend----------1e3b4bf9_2570_48c8_bf1f_5b979d2675b7-------) 
 
 ###  자바스크립트에서 테스트 어설션 스타일 
 
