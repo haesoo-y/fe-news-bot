@@ -1,11 +1,5 @@
 # 오늘의 포스팅 
-2023년 10월 19일 9시 기준 
-
-### Introducing Transformers in dope.security’s Code Saga 
-
- Prepping the Transformation layer in dope.security’s codebase... 
-
- [바로가기](https://medium.com/dopesecurity/introducing-transformers-in-dope-securitys-code-saga-eadff6cddf86?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------react----------34aa73a9_1edc_4465_bd36_27cfc5d23b11-------) 
+2023년 10월 20일 9시 기준 
 
 ### Node.js 21.0.0 Release: What’s New and Exciting 
 
@@ -13,17 +7,23 @@
 
  [바로가기](https://medium.com/@devhoangkien/node-js-21-0-0-release-whats-new-and-exciting-e80ee7107692?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------javascript----------2aef2c5f_f651_471b_9ee8_e418b4e1d612-------) 
 
-### Transitioning to TypeScript: How We Optimized Serverless Development at November Five 
+### Node.js 21.0.0 Release: What’s New and Exciting 
 
- At November Five, we’re strong believers of serverless development and have been building projects w... 
+ Node.js, the popular JavaScript runtime, has just released its latest version, 21.0.0, on October 17... 
 
- [바로가기](https://medium.com/@NovemberFive/transitioning-to-typescript-how-we-optimized-serverless-development-at-november-five-32f216315e75?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------typescript----------73cac95f_c57c_47ce_babd_91d28d38089b-------) 
+ [바로가기](https://medium.com/@devhoangkien/node-js-21-0-0-release-whats-new-and-exciting-e80ee7107692?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------typescript----------5c8370f2_bd42_44f0_bc2b_8a58e66173be-------) 
 
-### BFF: A design pattern helping teams gain ownership 
+### How I realized my website was affecting climate change 🌱 
 
- Part 1: A Leverage for Smoothing Organizations’ Dependencies... 
+ In the fast-paced world of web development, we often focus on aspects such as attractive design, cut... 
 
- [바로가기](https://medium.com/decathlondigital/bff-a-design-pattern-helping-teams-gain-ownership-677846e26b20?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------frontend----------1e3b4bf9_2570_48c8_bf1f_5b979d2675b7-------) 
+ [바로가기](https://medium.com/@michelebitetto/how-i-realized-my-website-was-affecting-climate-change-a18c37f8f59e?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------frontend----------bb2fe098_fd0b_4967_abe2_5b6fb7fcd2e5-------) 
+
+### Unveiling the Distinctions: Next.js vs React 
+
+ Introduction... 
+
+ [바로가기](https://medium.com/@prayagcodes/unveiling-the-distinctions-next-js-vs-react-e8f021c61c79?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------reactjs----------27541d20_82a0_4741_956f_0583f77ab520-------) 
 
 ###  자바스크립트에서 테스트 어설션 스타일 
 
