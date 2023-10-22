@@ -1,11 +1,5 @@
 # 오늘의 포스팅 
-2023년 10월 21일 9시 기준 
-
-### Node.js 21.0.0 Release: What’s New and Exciting 
-
- Node.js, the popular JavaScript runtime, has just released its latest version, 21.0.0, on October 17... 
-
- [바로가기](https://medium.com/@devhoangkien/node-js-21-0-0-release-whats-new-and-exciting-e80ee7107692?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------typescript----------5f195bed_6470_49dd_842f_f719c6ec9c4f-------) 
+2023년 10월 22일 9시 기준 
 
 ### How I realized my website was affecting climate change 🌱 
 
@@ -13,17 +7,24 @@
 
  [바로가기](https://medium.com/@michelebitetto/how-i-realized-my-website-was-affecting-climate-change-a18c37f8f59e?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------frontend----------e1f91bee_255b_45ed_9ddc_48311420e836-------) 
 
-### Reading — React JS — Supercharge Your React Skills: 4 Advanced Patterns to Masterin 2024 
+### Fortify Your React.js Apps with Azure AD Authentication & MSAL 
 
- In the ever-evolving landscape of web application development solutions, React has emerged as a powe... 
+ Introduction MSAL... 
 
- [바로가기](https://medium.com/@devshi_bambhaniya/reading-react-js-supercharge-your-react-skills-4-advanced-patterns-to-masterin-2024-166d7eae5444?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------reactjs----------28899173_9019_4af4_9971_6fdf5b85f90a-------) 
+ [바로가기](https://medium.com/@janithaaj/build-secure-react-js-apps-azure-ad-authentication-with-msal-5363f222d8c6?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------reactjs----------6037aa60_8581_4dd7_bb7f_edd378e51739-------) 
 
-### Routing in Next JS 13 
+### Best Practices for Variable Naming in JavaScript 
 
- Tired of grappling with the complexities of routing in React and Next JS 12? If you’ve been navigati... 
+ Introduction:
+Variable naming is a fundamental aspect of writing clean and maintainable code in Java... 
 
- [바로가기](https://medium.com/@sarthakastic/routing-in-next-js-13-470282a985ed?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------nextjs----------7490f59e_887f_4fa7_aba9_c2b135a7f968-------) 
+ [바로가기](https://medium.com/@Akash_Tech_Insights/best-practices-for-variable-naming-in-javascript-f8356aa5b201?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------nextjs----------9e2ae0cd_ee92_4e10_bd75_fd1cf5ab278e-------) 
+
+### Declarative Loop Control Flow in Angular 17 
+
+ Leveraging new @-if and @-empty blocks simplifying Angular templates... 
+
+ [바로가기](https://medium.com/@lilbeqiri/declarative-loop-control-flow-in-angular-17-e48af8570f82?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------front_end_development----------43acf339_d0d6_4332_8579_05042844615f-------) 
 
 ###  자바스크립트에서 테스트 어설션 스타일 
 
