@@ -1,30 +1,35 @@
 # 오늘의 포스팅 
-2023년 10월 22일 9시 기준 
+2023년 10월 23일 9시 기준 
 
-### How I realized my website was affecting climate change 🌱 
+### ReactJS Documentation: Components Overview 
 
- In the fast-paced world of web development, we often focus on aspects such as attractive design, cut... 
+ What is ReactJS?... 
 
- [바로가기](https://medium.com/@michelebitetto/how-i-realized-my-website-was-affecting-climate-change-a18c37f8f59e?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------frontend----------e1f91bee_255b_45ed_9ddc_48311420e836-------) 
+ [바로가기](https://medium.com/@bruno.deveng/reactjs-documentation-components-overview-84d79131ac7b?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------reactjs----------35b2ef3c_ef8b_4a85_9501_ca725555200f-------) 
 
-### Fortify Your React.js Apps with Azure AD Authentication & MSAL 
+### Build Feature Food Grid Components with text using Tailwindcss and React 
 
- Introduction MSAL... 
+ In the realm of web development, captivating users with visually appealing content is paramount. One... 
 
- [바로가기](https://medium.com/@janithaaj/build-secure-react-js-apps-azure-ad-authentication-with-msal-5363f222d8c6?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------reactjs----------6037aa60_8581_4dd7_bb7f_edd378e51739-------) 
-
-### Best Practices for Variable Naming in JavaScript 
-
- Introduction:
-Variable naming is a fundamental aspect of writing clean and maintainable code in Java... 
-
- [바로가기](https://medium.com/@Akash_Tech_Insights/best-practices-for-variable-naming-in-javascript-f8356aa5b201?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------nextjs----------9e2ae0cd_ee92_4e10_bd75_fd1cf5ab278e-------) 
+ [바로가기](https://medium.com/@ryaddev/build-feature-food-grid-components-with-text-using-tailwindcss-and-react-dd574aece9fd?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------nextjs----------4de9f366_dd13_4b27_b28e_88e955742ede-------) 
 
 ### Declarative Loop Control Flow in Angular 17 
 
  Leveraging new @-if and @-empty blocks simplifying Angular templates... 
 
- [바로가기](https://medium.com/@lilbeqiri/declarative-loop-control-flow-in-angular-17-e48af8570f82?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------front_end_development----------43acf339_d0d6_4332_8579_05042844615f-------) 
+ [바로가기](https://medium.com/@lilbeqiri/declarative-loop-control-flow-in-angular-17-e48af8570f82?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------front_end_development----------a985645b_b321_47dd_90d8_a174801d0c1b-------) 
+
+### Fuel Your Creativity: Dive Deep into ReactJS Development Secrets! 
+
+ In the past few years, many developers have favored React for creating high-quality commercial appli... 
+
+ [바로가기](https://medium.com/dev-genius/fuel-your-creativity-dive-deep-into-reactjs-development-secrets-db5f0511b17b?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------react----------8258892c_6717_4fe9_a71a_9e7708faea42-------) 
+
+###  CommonJS는 사라지지 않습니다 
+
+ 소개 이 글에서는 최근 Bun의 릴리즈 노트에서 언급되었던 CommonJS를 지원하게 된 이유에 대한 이야기가 담겨있습니다. 또한 CommonJS가 아직까지 존재해야…... 
+
+ [바로가기](https://kofearticle.substack.com/p/korean-fe-article-commonjs-946) 
 
 ###  자바스크립트에서 테스트 어설션 스타일 
 
@@ -32,23 +37,17 @@ Variable naming is a fundamental aspect of writing clean and maintainable code i
 
  [바로가기](https://kofearticle.substack.com/p/korean-fe-article-281) 
 
-###  CRDT에 대한 인터랙티브 입문 
+### 풀스택 개발자가 되어야 하는 5가지 이유 
 
- 글 링크 : https://bit.ly/3LZdVUT 소개 최근에 사용되는 많은 도구들은 동시 편집 기능을 제공하고 있는데요. 구글 Docs나 Figma 같은 협업 도구를 사용할 ... 
+ 풀스택 개발자라는 말을 들으면 어떤 생각이 드시나요? ‘나와는 거리가 멀어. 하나도 하기 벅찬데 풀스택? 그렇게까지 하고 싶지 않아. 특별한 사람만 가능한 거야 그냥 하나라도 잘하... 
 
- [바로가기](https://kofearticle.substack.com/p/korean-fe-article-crdt) 
+ [바로가기](https://yozm.wishket.com/magazine/detail/2281/) 
 
 ### 스프링 부트 서버 모니터링하는 법 
 
  서비스를 출시하는 날이 되었다고 생각해봅시다. 몇 달간 고생하며 개발해온 팀원들은 저마다의 이유로 두근두근합니다. 특히 서버 개발자는 혹여 장애가 터질 까봐 신경을 곤두세우고 있을... 
 
  [바로가기](https://yozm.wishket.com/magazine/detail/2280/) 
-
-### 새로 등장한 ‘리액트 서버 컴포넌트’ 이해하기 
-
- 리액트가 올해로 벌써 출시 10주년을 맞이했다니 세월이 참 빠릅니다! 공개와 동시에 전 세계의 개발자 커뮤니티를 열광시킨 리액트는 지난 10년간 많은 변화를 거쳤습니다. 그리고 몇... 
-
- [바로가기](https://yozm.wishket.com/magazine/detail/2271/) 
 
 ---
 
