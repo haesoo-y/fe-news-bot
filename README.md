@@ -1,29 +1,35 @@
 # 오늘의 포스팅 
-2023년 10월 23일 9시 기준 
+2023년 10월 24일 9시 기준 
 
-### ReactJS Documentation: Components Overview 
+### A Simple Solution for Redux State Hydration Issues When Using localStorage with Next.js 
 
- What is ReactJS?... 
+ You will learn why localStorage can cause issues with Redux state hydration and how to avoid them wi... 
 
- [바로가기](https://medium.com/@bruno.deveng/reactjs-documentation-components-overview-84d79131ac7b?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------reactjs----------35b2ef3c_ef8b_4a85_9501_ca725555200f-------) 
+ [바로가기](https://medium.com/@ionikdev/a-simple-solution-for-redux-state-hydration-issues-when-using-localstorage-with-next-js-890d0e0343df?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------nextjs----------eed3e1d6_20a0_497a_b476_17980215cde9-------) 
 
-### Build Feature Food Grid Components with text using Tailwindcss and React 
+### Recommendations for JSX Conditionals 
 
- In the realm of web development, captivating users with visually appealing content is paramount. One... 
+ Conditional rendering is an important technique in any React application. In this article, I examine... 
 
- [바로가기](https://medium.com/@ryaddev/build-feature-food-grid-components-with-text-using-tailwindcss-and-react-dd574aece9fd?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------nextjs----------4de9f366_dd13_4b27_b28e_88e955742ede-------) 
+ [바로가기](https://medium.com/@cemtunakoc/recommendations-for-jsx-conditionals-043d54b5b0ce?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------front_end_development----------0d686db0_ed22_4427_b893_7b839b57df11-------) 
 
-### Declarative Loop Control Flow in Angular 17 
+### SOLID in React: the good, the bad, and the awesome 
 
- Leveraging new @-if and @-empty blocks simplifying Angular templates... 
+ Let’s talk about SOLID principles from the perspective of the React application. If you’re not sure ... 
 
- [바로가기](https://medium.com/@lilbeqiri/declarative-loop-control-flow-in-angular-17-e48af8570f82?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------front_end_development----------a985645b_b321_47dd_90d8_a174801d0c1b-------) 
+ [바로가기](https://medium.com/itnext/solid-in-react-the-good-the-bad-and-the-awesome-79d6cc518d1f?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-107----------react----------77dd7f5e_9c2f_4bec_b8d6_68eabf8c668a-------) 
 
-### Fuel Your Creativity: Dive Deep into ReactJS Development Secrets! 
+### Frontend Weekly Digest #333 (16–22 October 2023) 
 
- In the past few years, many developers have favored React for creating high-quality commercial appli... 
+ Web-development... 
 
- [바로가기](https://medium.com/dev-genius/fuel-your-creativity-dive-deep-into-reactjs-development-secrets-db5f0511b17b?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------react----------8258892c_6717_4fe9_a71a_9e7708faea42-------) 
+ [바로가기](https://medium.com/@frontender-ua/frontend-weekly-digest-333-16-22-october-2023-b010ea0710e0?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------javascript----------efd260a0_5dbd_4671_a3be_1e065c5a9fa7-------) 
+
+###  Tailwind CSS에서 혼란을 방지하기 위한 5가지 모범 사례 
+
+ 글 링크 : https://velog.io/@lky5697/5-best-practices-for-preventing-chaos-in-tailwind-css 소개 Tailwind C... 
+
+ [바로가기](https://kofearticle.substack.com/p/korean-fe-article-tailwind-css-5) 
 
 ###  CommonJS는 사라지지 않습니다 
 
@@ -31,23 +37,17 @@
 
  [바로가기](https://kofearticle.substack.com/p/korean-fe-article-commonjs-946) 
 
-###  자바스크립트에서 테스트 어설션 스타일 
+### 마이크로서비스를 위한 쿠팡의 QA 테스트 
 
- 글 링크 : https://bit.ly/45wVeiq 소개 테스트 코드 작성을 위해 사용되는 jest, vitest, mocha 같은 testing framework가 존재하고 있... 
+ QA 테스트의 주요 목표는 소프트웨어 내 버그를 발견하여 성공적인 프로덕트 출시를 돕는 것입니다. 테스트할 때는 모든 시나리오를 포괄할 수 있는 정확하고 연관성 있는 높은 품질의 ... 
 
- [바로가기](https://kofearticle.substack.com/p/korean-fe-article-281) 
+ [바로가기](https://yozm.wishket.com/magazine/detail/2282/) 
 
 ### 풀스택 개발자가 되어야 하는 5가지 이유 
 
  풀스택 개발자라는 말을 들으면 어떤 생각이 드시나요? ‘나와는 거리가 멀어. 하나도 하기 벅찬데 풀스택? 그렇게까지 하고 싶지 않아. 특별한 사람만 가능한 거야 그냥 하나라도 잘하... 
 
  [바로가기](https://yozm.wishket.com/magazine/detail/2281/) 
-
-### 스프링 부트 서버 모니터링하는 법 
-
- 서비스를 출시하는 날이 되었다고 생각해봅시다. 몇 달간 고생하며 개발해온 팀원들은 저마다의 이유로 두근두근합니다. 특히 서버 개발자는 혹여 장애가 터질 까봐 신경을 곤두세우고 있을... 
-
- [바로가기](https://yozm.wishket.com/magazine/detail/2280/) 
 
 ---
 
