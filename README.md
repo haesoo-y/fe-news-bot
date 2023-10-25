@@ -1,17 +1,11 @@
 # 오늘의 포스팅 
-2023년 10월 24일 9시 기준 
+2023년 10월 25일 9시 기준 
 
-### A Simple Solution for Redux State Hydration Issues When Using localStorage with Next.js 
+### Frontend Weekly Digest #333 (16–22 October 2023) 
 
- You will learn why localStorage can cause issues with Redux state hydration and how to avoid them wi... 
+ Web-development... 
 
- [바로가기](https://medium.com/@ionikdev/a-simple-solution-for-redux-state-hydration-issues-when-using-localstorage-with-next-js-890d0e0343df?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------nextjs----------eed3e1d6_20a0_497a_b476_17980215cde9-------) 
-
-### Recommendations for JSX Conditionals 
-
- Conditional rendering is an important technique in any React application. In this article, I examine... 
-
- [바로가기](https://medium.com/@cemtunakoc/recommendations-for-jsx-conditionals-043d54b5b0ce?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------front_end_development----------0d686db0_ed22_4427_b893_7b839b57df11-------) 
+ [바로가기](https://medium.com/@frontender-ua/frontend-weekly-digest-333-16-22-october-2023-b010ea0710e0?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------front_end_development----------a3ed1b56_3a75_483f_9a6b_693432f15804-------) 
 
 ### SOLID in React: the good, the bad, and the awesome 
 
@@ -19,11 +13,17 @@
 
  [바로가기](https://medium.com/itnext/solid-in-react-the-good-the-bad-and-the-awesome-79d6cc518d1f?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-107----------react----------77dd7f5e_9c2f_4bec_b8d6_68eabf8c668a-------) 
 
-### Frontend Weekly Digest #333 (16–22 October 2023) 
+### JSConf Colombia 2023: Schedule Updates 
 
- Web-development... 
+ Our speaker lineup is complete!... 
 
- [바로가기](https://medium.com/@frontender-ua/frontend-weekly-digest-333-16-22-october-2023-b010ea0710e0?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------javascript----------efd260a0_5dbd_4671_a3be_1e065c5a9fa7-------) 
+ [바로가기](https://medium.com/colombia-dev/jsconf-colombia-2023-schedule-updates-c85428894419?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------javascript----------af0b66e9_8f64_446b_9753_951cd407efda-------) 
+
+### Beyond JavaScript: Exploring .NET Blazor’s Challenge to React 
+
+ A 2023 Comparison between .NET Blazor WASM and React... 
+
+ [바로가기](https://medium.com/itnext/beyond-javascript-exploring-net-blazors-challenge-to-react-e9bcd41ef4a0?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------typescript----------c859e3ed_6c2f_4c52_b76b_6ccf7300d23b-------) 
 
 ###  Tailwind CSS에서 혼란을 방지하기 위한 5가지 모범 사례 
 
