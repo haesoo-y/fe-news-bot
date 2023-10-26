@@ -1,17 +1,11 @@
 # 오늘의 포스팅 
-2023년 10월 25일 9시 기준 
+2023년 10월 26일 9시 기준 
 
-### Frontend Weekly Digest #333 (16–22 October 2023) 
+### Beyond JavaScript: Exploring .NET Blazor’s Challenge to React 
 
- Web-development... 
+ A 2023 Comparison between .NET Blazor WASM and React... 
 
- [바로가기](https://medium.com/@frontender-ua/frontend-weekly-digest-333-16-22-october-2023-b010ea0710e0?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------front_end_development----------a3ed1b56_3a75_483f_9a6b_693432f15804-------) 
-
-### SOLID in React: the good, the bad, and the awesome 
-
- Let’s talk about SOLID principles from the perspective of the React application. If you’re not sure ... 
-
- [바로가기](https://medium.com/itnext/solid-in-react-the-good-the-bad-and-the-awesome-79d6cc518d1f?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-107----------react----------77dd7f5e_9c2f_4bec_b8d6_68eabf8c668a-------) 
+ [바로가기](https://medium.com/itnext/beyond-javascript-exploring-net-blazors-challenge-to-react-e9bcd41ef4a0?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------react----------6fe0baf4_0afa_4e8e_836e_1b3e59221655-------) 
 
 ### JSConf Colombia 2023: Schedule Updates 
 
@@ -23,7 +17,19 @@
 
  A 2023 Comparison between .NET Blazor WASM and React... 
 
- [바로가기](https://medium.com/itnext/beyond-javascript-exploring-net-blazors-challenge-to-react-e9bcd41ef4a0?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------typescript----------c859e3ed_6c2f_4c52_b76b_6ccf7300d23b-------) 
+ [바로가기](https://medium.com/itnext/beyond-javascript-exploring-net-blazors-challenge-to-react-e9bcd41ef4a0?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------typescript----------de845425_e024_440f_b8b4_3bfbdc0c7b35-------) 
+
+### Setting sail from Ember: why we are charting a course toward React at Qonto 
+
+ Putting developer experience first, and choosing the broader community.... 
+
+ [바로가기](https://medium.com/qonto-way/setting-sail-from-ember-why-we-are-charting-a-course-toward-react-at-qonto-8c475931cff2?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------frontend----------ec5d3fe5_2124_4294_8540_deb8b10c988c-------) 
+
+###  웹 푸시는 이제 iOS 17에서 사용할만합니다 
+
+ 소개 올해 초 애플에서 웹 푸시에 대한 지원을 발표하며 많은 기대를 모았었는데요, 실제로 구현했을 때 겪을 수 있는 제한 사항들과 이들이 iOS 17에서 얼마나 개선되었는지 실제 ... 
+
+ [바로가기](https://kofearticle.substack.com/p/korean-fe-article-ios-17) 
 
 ###  Tailwind CSS에서 혼란을 방지하기 위한 5가지 모범 사례 
 
@@ -31,23 +37,17 @@
 
  [바로가기](https://kofearticle.substack.com/p/korean-fe-article-tailwind-css-5) 
 
-###  CommonJS는 사라지지 않습니다 
+### 유튜버 '수코딩'이 정리한 프론트엔드의 등장 배경 
 
- 소개 이 글에서는 최근 Bun의 릴리즈 노트에서 언급되었던 CommonJS를 지원하게 된 이유에 대한 이야기가 담겨있습니다. 또한 CommonJS가 아직까지 존재해야…... 
+ 사용자가 웹 애플리케이션을 사용할 수 있도록 눈에 보이는 화면과 기능을 개발하는 프론트엔드 개발자, 사용자에게 직접적으로 보이진 않는 웹 애플리케이션에서 다루는 데이터를 관리하고 ... 
 
- [바로가기](https://kofearticle.substack.com/p/korean-fe-article-commonjs-946) 
+ [바로가기](https://yozm.wishket.com/magazine/detail/2287/) 
 
 ### 마이크로서비스를 위한 쿠팡의 QA 테스트 
 
  QA 테스트의 주요 목표는 소프트웨어 내 버그를 발견하여 성공적인 프로덕트 출시를 돕는 것입니다. 테스트할 때는 모든 시나리오를 포괄할 수 있는 정확하고 연관성 있는 높은 품질의 ... 
 
  [바로가기](https://yozm.wishket.com/magazine/detail/2282/) 
-
-### 풀스택 개발자가 되어야 하는 5가지 이유 
-
- 풀스택 개발자라는 말을 들으면 어떤 생각이 드시나요? ‘나와는 거리가 멀어. 하나도 하기 벅찬데 풀스택? 그렇게까지 하고 싶지 않아. 특별한 사람만 가능한 거야 그냥 하나라도 잘하... 
-
- [바로가기](https://yozm.wishket.com/magazine/detail/2281/) 
 
 ---
 
