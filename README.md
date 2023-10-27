@@ -1,29 +1,29 @@
 # 오늘의 포스팅 
-2023년 10월 26일 9시 기준 
+2023년 10월 27일 9시 기준 
+
+### Was Rust Worth It? 
+
+ From JavaScript to Rust, three years in.... 
+
+ [바로가기](https://medium.com/@jsoverson/was-rust-worth-it-f43d171fb1b3?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------javascript----------1b7c1fbb_dede_443a_8b7c_5f69d6a8356c-------) 
 
 ### Beyond JavaScript: Exploring .NET Blazor’s Challenge to React 
 
  A 2023 Comparison between .NET Blazor WASM and React... 
 
- [바로가기](https://medium.com/itnext/beyond-javascript-exploring-net-blazors-challenge-to-react-e9bcd41ef4a0?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------react----------6fe0baf4_0afa_4e8e_836e_1b3e59221655-------) 
+ [바로가기](https://medium.com/itnext/beyond-javascript-exploring-net-blazors-challenge-to-react-e9bcd41ef4a0?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------typescript----------60d5cc9e_2505_4463_b6b9_1284d7a12cc4-------) 
 
-### JSConf Colombia 2023: Schedule Updates 
+### How Netlify rebranded their app in just 6 weeks 
 
- Our speaker lineup is complete!... 
+ A masterclass in rebranding with Storybook and Chromatic... 
 
- [바로가기](https://medium.com/colombia-dev/jsconf-colombia-2023-schedule-updates-c85428894419?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------javascript----------af0b66e9_8f64_446b_9753_951cd407efda-------) 
+ [바로가기](https://medium.com/storybookjs/how-netlify-rebranded-their-app-in-just-6-weeks-7016577099b4?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------frontend----------aa7a2ec0_396a_41cd_a06f_08f408c21186-------) 
 
-### Beyond JavaScript: Exploring .NET Blazor’s Challenge to React 
+### Redux Toolkit Query - Cache Behavior 
 
- A 2023 Comparison between .NET Blazor WASM and React... 
+ RTK Query is a powerful tool for streamlining data management in Redux by incorporating intelligent ... 
 
- [바로가기](https://medium.com/itnext/beyond-javascript-exploring-net-blazors-challenge-to-react-e9bcd41ef4a0?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------typescript----------de845425_e024_440f_b8b4_3bfbdc0c7b35-------) 
-
-### Setting sail from Ember: why we are charting a course toward React at Qonto 
-
- Putting developer experience first, and choosing the broader community.... 
-
- [바로가기](https://medium.com/qonto-way/setting-sail-from-ember-why-we-are-charting-a-course-toward-react-at-qonto-8c475931cff2?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------frontend----------ec5d3fe5_2124_4294_8540_deb8b10c988c-------) 
+ [바로가기](https://medium.com/@react_72342/redux-toolkit-query-cache-behavior-49d926731d90?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------reactjs----------a99189ad_a5e3_4776_8b9b_823bcd3546c6-------) 
 
 ###  웹 푸시는 이제 iOS 17에서 사용할만합니다 
 
