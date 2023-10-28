@@ -1,11 +1,5 @@
 # 오늘의 포스팅 
-2023년 10월 27일 9시 기준 
-
-### Was Rust Worth It? 
-
- From JavaScript to Rust, three years in.... 
-
- [바로가기](https://medium.com/@jsoverson/was-rust-worth-it-f43d171fb1b3?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------javascript----------1b7c1fbb_dede_443a_8b7c_5f69d6a8356c-------) 
+2023년 10월 28일 9시 기준 
 
 ### Beyond JavaScript: Exploring .NET Blazor’s Challenge to React 
 
@@ -13,17 +7,23 @@
 
  [바로가기](https://medium.com/itnext/beyond-javascript-exploring-net-blazors-challenge-to-react-e9bcd41ef4a0?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------typescript----------60d5cc9e_2505_4463_b6b9_1284d7a12cc4-------) 
 
-### How Netlify rebranded their app in just 6 weeks 
+### Micro-frontend, Single-SPA, and use of Container application 
 
- A masterclass in rebranding with Storybook and Chromatic... 
+ Historically, frontends did not have many options for scaling an application. When the uses of serve... 
 
- [바로가기](https://medium.com/storybookjs/how-netlify-rebranded-their-app-in-just-6-weeks-7016577099b4?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------frontend----------aa7a2ec0_396a_41cd_a06f_08f408c21186-------) 
+ [바로가기](https://medium.com/@kautilyshubham/micro-frontend-single-spa-and-use-of-container-application-b66a98ed38f5?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------frontend----------ed001561_bd3e_4c94_9d6f_78935889a7be-------) 
 
-### Redux Toolkit Query - Cache Behavior 
+### How To Use Props In React 
 
- RTK Query is a powerful tool for streamlining data management in Redux by incorporating intelligent ... 
+ An Article About Props in React... 
 
- [바로가기](https://medium.com/@react_72342/redux-toolkit-query-cache-behavior-49d926731d90?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------reactjs----------a99189ad_a5e3_4776_8b9b_823bcd3546c6-------) 
+ [바로가기](https://medium.com/@shreyaj/how-to-use-props-in-react-ad7bf87b0851?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------reactjs----------3dc23027_564c_4263_9384_b2b1bc6aede3-------) 
+
+### Using Next.js server actions with React Hook Form 
+
+ In this tutorial, we will create a simple name form in a Next.js application using React Hook Form f... 
+
+ [바로가기](https://medium.com/@danielmdob/using-next-js-server-actions-with-react-hook-form-4eadbd7f1c67?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------nextjs----------689af644_8dfc_4094_b8d9_bbd149e52018-------) 
 
 ###  웹 푸시는 이제 iOS 17에서 사용할만합니다 
 
