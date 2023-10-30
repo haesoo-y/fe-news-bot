@@ -1,41 +1,41 @@
 # 오늘의 포스팅 
-2023년 10월 29일 9시 기준 
+2023년 10월 30일 9시 기준 
 
-### How to avoid Bugs when working with Percentage (%) values in your application 
+### Reconciliation in reactjs. 
 
- The idea is that if we have a proper understanding between frontend and the backend then many seriou... 
+ In React, Reconciliation refers to the process by which React updates the DOM to match the desired s... 
 
- [바로가기](https://medium.com/@supremecodr/contract-to-handle-percentages-frontend-backend-exchange-d78fdf351a6b?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------frontend----------d2b3794f_99d6_48e9_a058_5e4aa948f555-------) 
+ [바로가기](https://medium.com/@bhairabpatra.iitd/reconciliation-in-reactjs-bff4893b7cb7?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------reactjs----------173a0ae3_0a40_4c69_8bf8_c6ddbba75254-------) 
 
-### Building a Full-Stack Product App with React, Spring Boot, and Docker Compose 
+### Next.js 14: Turbopack Isn’t Turbopacking 
 
- In this blog, I am going to share with you a very simple product app that uses React, Spring Boot, a... 
+ The new Next.js release comes with some minor improvements while everyone is waiting for Turbopack ... 
 
- [바로가기](https://medium.com/@thearaseng/building-a-full-stack-product-app-with-react-spring-boot-and-docker-compose-64a47f4a1080?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------reactjs----------cd2a73a2_7163_4a80_b8da_741f34c005ba-------) 
+ [바로가기](https://medium.com/@tomaszs2/next-14-turbopack-isnt-turbopacking-10d2ef483da0?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------nextjs----------7b2df167_7b7d_4dde_8804_ccd4a8731139-------) 
 
-### Using Next.js server actions with React Hook Form 
+### Frontend Weekly Digest #334 (23–29 October 2023) 
 
- In this tutorial, we will create a simple name form in a Next.js application using React Hook Form f... 
+ Web-development... 
 
- [바로가기](https://medium.com/@danielmdob/using-next-js-server-actions-with-react-hook-form-4eadbd7f1c67?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------nextjs----------60833658_8063_4fbf_99e8_bbb97cbb7b72-------) 
+ [바로가기](https://medium.com/@frontender-ua/frontend-weekly-digest-334-23-29-october-2023-f6e3fe341b35?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------front_end_development----------48c69f9f_645d_4ede_a53c_c1edd538d52a-------) 
 
-### Front-end security best practices 
+### Highlighting and Multi-Selecting Items in FlatList: A React Native Guide 
 
- Explore essential front-end security best practices to safeguard your web applications from maliciou... 
+ Enhancing User Experience with Multi-Select in FlatList... 
 
- [바로가기](https://medium.com/@griddynamics/front-end-security-best-practices-8c47d23caf62?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------front_end_development----------ed8009a9_722d_4001_9dee_cd28487893e3-------) 
+ [바로가기](https://medium.com/@awaisakhter/highlighting-and-multi-selecting-items-in-flatlist-a-react-native-guide-e79d45456fa6?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------react----------94aecc43_9637_486e_9b8a_4bfb2d703318-------) 
+
+###  타입스크립트에 대해 아무도 설명해주지 않은 것 한 가지 
+
+ 소개 여러분들 중 타입스크립트를 학습하셨고, 실제로 개발에도 활용하고 계신 분들이 많으실 것으로…... 
+
+ [바로가기](https://kofearticle.substack.com/p/korean-fe-article-87e) 
 
 ###  웹 푸시는 이제 iOS 17에서 사용할만합니다 
 
  소개 올해 초 애플에서 웹 푸시에 대한 지원을 발표하며 많은 기대를 모았었는데요, 실제로 구현했을 때 겪을 수 있는 제한 사항들과 이들이 iOS 17에서 얼마나 개선되었는지 실제 ... 
 
  [바로가기](https://kofearticle.substack.com/p/korean-fe-article-ios-17) 
-
-###  Tailwind CSS에서 혼란을 방지하기 위한 5가지 모범 사례 
-
- 글 링크 : https://velog.io/@lky5697/5-best-practices-for-preventing-chaos-in-tailwind-css 소개 Tailwind C... 
-
- [바로가기](https://kofearticle.substack.com/p/korean-fe-article-tailwind-css-5) 
 
 ### 유튜버 '수코딩'이 정리한 프론트엔드의 등장 배경 
 
