@@ -1,29 +1,35 @@
 # 오늘의 포스팅 
-2023년 10월 30일 9시 기준 
+2023년 10월 31일 9시 기준 
 
-### Reconciliation in reactjs. 
+### Introducing Next.js 14 
 
- In React, Reconciliation refers to the process by which React updates the DOM to match the desired s... 
+ Next.js 14 is here with game-changing features like Turbopack and Server Actions. Explore how this u... 
 
- [바로가기](https://medium.com/@bhairabpatra.iitd/reconciliation-in-reactjs-bff4893b7cb7?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------reactjs----------173a0ae3_0a40_4c69_8bf8_c6ddbba75254-------) 
-
-### Next.js 14: Turbopack Isn’t Turbopacking 
-
- The new Next.js release comes with some minor improvements while everyone is waiting for Turbopack ... 
-
- [바로가기](https://medium.com/@tomaszs2/next-14-turbopack-isnt-turbopacking-10d2ef483da0?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------nextjs----------7b2df167_7b7d_4dde_8804_ccd4a8731139-------) 
+ [바로가기](https://medium.com/javascript-in-plain-english/introducing-next-js-14-3218933cd92f?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------nextjs----------4dc5704b_5092_4536_b315_7eda6d1c8e9a-------) 
 
 ### Frontend Weekly Digest #334 (23–29 October 2023) 
 
  Web-development... 
 
- [바로가기](https://medium.com/@frontender-ua/frontend-weekly-digest-334-23-29-october-2023-f6e3fe341b35?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------front_end_development----------48c69f9f_645d_4ede_a53c_c1edd538d52a-------) 
+ [바로가기](https://medium.com/@frontender-ua/frontend-weekly-digest-334-23-29-october-2023-f6e3fe341b35?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------front_end_development----------06ae2141_f295_46e1_aeeb_c5c577eeb175-------) 
 
-### Highlighting and Multi-Selecting Items in FlatList: A React Native Guide 
+### 3 Principles for Component-Driven Development 
 
- Enhancing User Experience with Multi-Select in FlatList... 
+ Principles and methodologies of software composition using independent Bit components.... 
 
- [바로가기](https://medium.com/@awaisakhter/highlighting-and-multi-selecting-items-in-flatlist-a-react-native-guide-e79d45456fa6?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------react----------94aecc43_9637_486e_9b8a_4bfb2d703318-------) 
+ [바로가기](https://medium.com/bitsrc/3-principles-for-component-driven-development-705706165208?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------react----------ef227dcf_1643_4d77_ac35_67aa49635e11-------) 
+
+### Frontend Weekly Digest #334 (23–29 October 2023) 
+
+ Web-development... 
+
+ [바로가기](https://medium.com/@frontender-ua/frontend-weekly-digest-334-23-29-october-2023-f6e3fe341b35?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------javascript----------0b7f8c1d_deee_4bd0_9c9b_52f2902e949e-------) 
+
+###  자바스크립트 에코시스템의 속도 향상 - 배럴(Barrel) 파일의 대실패 
+
+ 소개 배럴(Barrel) 파일을 많이…... 
+
+ [바로가기](https://kofearticle.substack.com/p/korean-fe-article-barrel) 
 
 ###  타입스크립트에 대해 아무도 설명해주지 않은 것 한 가지 
 
@@ -31,23 +37,17 @@
 
  [바로가기](https://kofearticle.substack.com/p/korean-fe-article-87e) 
 
-###  웹 푸시는 이제 iOS 17에서 사용할만합니다 
+### AI 전성시대, CPU 아닌 GPU가 주목받는 이유 
 
- 소개 올해 초 애플에서 웹 푸시에 대한 지원을 발표하며 많은 기대를 모았었는데요, 실제로 구현했을 때 겪을 수 있는 제한 사항들과 이들이 iOS 17에서 얼마나 개선되었는지 실제 ... 
+ 소프트웨어 개발뿐 아니라 사회 전반적으로 AI가 큰 화두입니다. 초거대언어모델(LLM, Large Language Model)인 ChatGPT를 전 세계 사람들이 사용하는 시대가 ... 
 
- [바로가기](https://kofearticle.substack.com/p/korean-fe-article-ios-17) 
+ [바로가기](https://yozm.wishket.com/magazine/detail/2294/) 
 
-### 유튜버 '수코딩'이 정리한 프론트엔드의 등장 배경 
+### Git Internal API를 활용한 .git 탐험 
 
- 사용자가 웹 애플리케이션을 사용할 수 있도록 눈에 보이는 화면과 기능을 개발하는 프론트엔드 개발자, 사용자에게 직접적으로 보이진 않는 웹 애플리케이션에서 다루는 데이터를 관리하고 ... 
+ git은 요즘 개발자분들의 필수 교양이 되어 가고 있습니다. git은 추상화가 잘 되어 있어, 제공되는 API만으로 손쉽게 버전 관리가 가능하기 때문에 이러한 인기를 얻은 게 아닌... 
 
- [바로가기](https://yozm.wishket.com/magazine/detail/2287/) 
-
-### 마이크로서비스를 위한 쿠팡의 QA 테스트 
-
- QA 테스트의 주요 목표는 소프트웨어 내 버그를 발견하여 성공적인 프로덕트 출시를 돕는 것입니다. 테스트할 때는 모든 시나리오를 포괄할 수 있는 정확하고 연관성 있는 높은 품질의 ... 
-
- [바로가기](https://yozm.wishket.com/magazine/detail/2282/) 
+ [바로가기](https://yozm.wishket.com/magazine/detail/2293/) 
 
 ---
 
