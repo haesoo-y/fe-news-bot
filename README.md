@@ -1,29 +1,35 @@
 # 오늘의 포스팅 
-2023년 11월 1일 9시 기준 
+2023년 11월 2일 9시 기준 
 
-### Frontend Weekly Digest #334 (23–29 October 2023) 
+### Why you are wrong about useMemo and useCallback: stable references and dependency arrays 
 
- Web-development... 
+ I’ll come right out of the box with the spicy take at the core of this post:... 
 
- [바로가기](https://medium.com/@frontender-ua/frontend-weekly-digest-334-23-29-october-2023-f6e3fe341b35?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------front_end_development----------5e25c3ba_c52b_428b_9d18_c79fb735cf0f-------) 
+ [바로가기](https://medium.com/@texonidas/why-you-are-wrong-about-usememo-and-usecallback-stable-references-and-dependency-arrays-04bcb72977bb?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------react----------21645e35_318c_47ca_9007_15d28c47c606-------) 
 
-### Optimistic Updates in Tanstack Query v5 
+### How to break forEach() loop in JavaScript 
 
- Tanstack Query released version 5 with a number of changes and some interesting features, offering a... 
+ Hey there, fellow coders!... 
 
- [바로가기](https://medium.com/@stojanovic.nemanja71/optimistic-updates-in-tanstack-query-v5-dfbcbb124113?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------react----------0881aab1_03ff_453c_9f23_8251c9ae13ea-------) 
+ [바로가기](https://medium.com/@rajatnanavati258/how-to-break-foreach-loop-in-javascript-ed93948e7429?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------javascript----------6d2713be_1f81_4477_b954_3ae91f53a5a4-------) 
 
-### Optimistic Updates in Tanstack Query v5 
+### How to break forEach() loop in JavaScript 
 
- Tanstack Query released version 5 with a number of changes and some interesting features, offering a... 
+ Hey there, fellow coders!... 
 
- [바로가기](https://medium.com/@stojanovic.nemanja71/optimistic-updates-in-tanstack-query-v5-dfbcbb124113?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------javascript----------2852a375_3301_44f3_b106_01fd1004b09e-------) 
+ [바로가기](https://medium.com/@rajatnanavati258/how-to-break-foreach-loop-in-javascript-ed93948e7429?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------typescript----------9d988f76_3d60_4abf_973c_0658942a388f-------) 
 
-### 3 Principles for Component-Driven Development 
+### Frontend Interview Preparation 3 — Autocomplete 
 
- Principles and methodologies of software composition using independent Bit components.... 
+ Hi guys, this is the 3rd blog of this series for frontend interview preparation, we gonna implement ... 
 
- [바로가기](https://medium.com/bitsrc/3-principles-for-component-driven-development-705706165208?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------typescript----------1b066885_11d6_4e6c_939e_81feccd494c0-------) 
+ [바로가기](https://medium.com/@leoli888/frontend-interview-preparation-3-autocomplete-326ec56061b9?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------frontend----------9d49b116_c672_46e4_a91c_80ad74865af1-------) 
+
+###  클로저 컴파일러의 역사, 그리고 타입스크립트가 승리한 이유 
+
+ 소개 타입스크립트가 널리 쓰이기 이전, 구글은 타입 검사를 위해 클로저(Closure) 컴파일러라는 도구를 사용했다고 합니다. 자바스크립트가 좋지 않은 평가를 받던 시절 구글은 클... 
+
+ [바로가기](https://kofearticle.substack.com/p/korean-fe-article-bab) 
 
 ###  자바스크립트 에코시스템의 속도 향상 - 배럴(Barrel) 파일의 대실패 
 
@@ -31,23 +37,17 @@
 
  [바로가기](https://kofearticle.substack.com/p/korean-fe-article-barrel) 
 
-###  타입스크립트에 대해 아무도 설명해주지 않은 것 한 가지 
+### Spring Boot와 Redis로 캐싱 구현하기 
 
- 소개 여러분들 중 타입스크립트를 학습하셨고, 실제로 개발에도 활용하고 계신 분들이 많으실 것으로…... 
+ 캐싱은 데이터 처리 비용을 줄이기 위해 사용되는 기법으로 비용이 많이 드는 데이터 조회 작업에서 자주 사용됩니다. 이번 글에서는 캐시를 구현하기에 앞서 사전에 알아두면 좋을 만한 ... 
 
- [바로가기](https://kofearticle.substack.com/p/korean-fe-article-87e) 
+ [바로가기](https://yozm.wishket.com/magazine/detail/2296/) 
 
-### 우리의 개발 문화는 이렇게 성장합니다 
+### '핀다' 개발팀이 스크럼, 코드리뷰 개선한 방법 
 
  이번 글에서는 제가 팀빌딩을 하면서 고민했던 내용과 FINDA 현금그로스 PG 개발문화의 과거와 현재에 대해서 이야기해 보려고 합니다. FINDA 내에는 다양한 PT가 있고, 여러... 
 
  [바로가기](https://yozm.wishket.com/magazine/detail/2295/) 
-
-### AI 전성시대, CPU 아닌 GPU가 주목받는 이유 
-
- 소프트웨어 개발뿐 아니라 사회 전반적으로 AI가 큰 화두입니다. 초거대언어모델(LLM, Large Language Model)인 ChatGPT를 전 세계 사람들이 사용하는 시대가 ... 
-
- [바로가기](https://yozm.wishket.com/magazine/detail/2294/) 
 
 ---
 
