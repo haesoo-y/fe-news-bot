@@ -1,29 +1,29 @@
 # 오늘의 포스팅 
-2023년 11월 2일 9시 기준 
+2023년 11월 3일 9시 기준 
 
-### Why you are wrong about useMemo and useCallback: stable references and dependency arrays 
+### .js won 
 
- I’ll come right out of the box with the spicy take at the core of this post:... 
+ This is the story of how a single premature optimisation costed the world billions of dollars and, p... 
 
- [바로가기](https://medium.com/@texonidas/why-you-are-wrong-about-usememo-and-usecallback-stable-references-and-dependency-arrays-04bcb72977bb?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------react----------21645e35_318c_47ca_9007_15d28c47c606-------) 
+ [바로가기](https://medium.com/@koresar/js-won-755b27dcbb8a?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------javascript----------e49cf365_90d6_4697_a69f_db410a76cdc0-------) 
 
-### How to break forEach() loop in JavaScript 
+### React style “context” using custom elements 
 
- Hey there, fellow coders!... 
+ Dependency injection is a concept that allows you to provide given implementations to a given scope.... 
 
- [바로가기](https://medium.com/@rajatnanavati258/how-to-break-foreach-loop-in-javascript-ed93948e7429?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------javascript----------6d2713be_1f81_4477_b954_3ae91f53a5a4-------) 
+ [바로가기](https://medium.com/@deebloo/react-style-context-using-custom-elements-74133d7ff683?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------typescript----------efab4971_7abb_4f3f_aec1_6cd3bef59f2e-------) 
 
-### How to break forEach() loop in JavaScript 
+### Trame: Frontend With Vue.js, but in Python 
 
- Hey there, fellow coders!... 
+ You may have heard about Vue.js — a javascript library for quick one-page websites and UIs, a perfor... 
 
- [바로가기](https://medium.com/@rajatnanavati258/how-to-break-foreach-loop-in-javascript-ed93948e7429?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------typescript----------9d988f76_3d60_4abf_973c_0658942a388f-------) 
+ [바로가기](https://medium.com/@ash_computational_qm/trame-frontend-with-vue-js-but-in-python-329111755b98?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------frontend----------be794591_f169_4c40_81ee_662553ea8faa-------) 
 
-### Frontend Interview Preparation 3 — Autocomplete 
+### Supercharge Your React Components with Higher Order Components 
 
- Hi guys, this is the 3rd blog of this series for frontend interview preparation, we gonna implement ... 
+ Higher Order Components (HOCs) are a powerful pattern in React that allow you to reuse component log... 
 
- [바로가기](https://medium.com/@leoli888/frontend-interview-preparation-3-autocomplete-326ec56061b9?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------frontend----------9d49b116_c672_46e4_a91c_80ad74865af1-------) 
+ [바로가기](https://medium.com/@alatif.bwp/supercharge-your-react-components-with-higher-order-components-d776211ca782?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------reactjs----------21859f94_2408_486d_ae8f_87606a842342-------) 
 
 ###  클로저 컴파일러의 역사, 그리고 타입스크립트가 승리한 이유 
 
