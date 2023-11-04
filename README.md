@@ -1,29 +1,29 @@
 # 오늘의 포스팅 
-2023년 11월 3일 9시 기준 
+2023년 11월 4일 9시 기준 
 
-### .js won 
+### 4 Laws of RxJS Observables 
 
- This is the story of how a single premature optimisation costed the world billions of dollars and, p... 
+ This is crucial to understand! Online materials can often be incorrect. Very short but meaty writeup... 
 
- [바로가기](https://medium.com/@koresar/js-won-755b27dcbb8a?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------javascript----------e49cf365_90d6_4697_a69f_db410a76cdc0-------) 
+ [바로가기](https://medium.com/itnext/4-laws-of-rxjs-observables-5b7c95bc8901?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------typescript----------82fde98d_405e_4ae3_999c_8c8eff9b9117-------) 
 
-### React style “context” using custom elements 
+### FrontendGlimpses #002. Do not use memoized values in useEffect dependencies 
 
- Dependency injection is a concept that allows you to provide given implementations to a given scope.... 
+ ... 
 
- [바로가기](https://medium.com/@deebloo/react-style-context-using-custom-elements-74133d7ff683?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------typescript----------efab4971_7abb_4f3f_aec1_6cd3bef59f2e-------) 
+ [바로가기](https://medium.com/@ttnklv/frontendglimpses-002-do-not-use-memoized-values-in-useeffect-dependencies-7c2ed0426728?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------frontend----------ae34cb5c_1135_4843_a0e7_543b97fdb8a4-------) 
 
-### Trame: Frontend With Vue.js, but in Python 
+### Building React Server Components in OCaml 
 
- You may have heard about Vue.js — a javascript library for quick one-page websites and UIs, a perfor... 
+ Enhancing User Experience and Developer Productivity: implementing React Server Components in OCaml ... 
 
- [바로가기](https://medium.com/@ash_computational_qm/trame-frontend-with-vue-js-but-in-python-329111755b98?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------frontend----------be794591_f169_4c40_81ee_662553ea8faa-------) 
+ [바로가기](https://medium.com/ahrefs/building-react-server-components-in-ocaml-81c276713f19?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------reactjs----------f2906091_4fa6_4844_9207_c64a9e2bd834-------) 
 
-### Supercharge Your React Components with Higher Order Components 
+### Route Block In Next Js App Route 
 
- Higher Order Components (HOCs) are a powerful pattern in React that allow you to reuse component log... 
+ Next.js is a popular open-source JavaScript framework that is primarily used for building modern web... 
 
- [바로가기](https://medium.com/@alatif.bwp/supercharge-your-react-components-with-higher-order-components-d776211ca782?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------reactjs----------21859f94_2408_486d_ae8f_87606a842342-------) 
+ [바로가기](https://medium.com/@bipingiri27/route-block-in-next-js-app-route-82c35f95eb8b?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------nextjs----------769f6cfe_cedf_4fd8_b5ea_d65ce8a2db74-------) 
 
 ###  클로저 컴파일러의 역사, 그리고 타입스크립트가 승리한 이유 
 
@@ -37,17 +37,17 @@
 
  [바로가기](https://kofearticle.substack.com/p/korean-fe-article-barrel) 
 
-### Spring Boot와 Redis로 캐싱 구현하기 
+### 11월 테크 행사 소식 
 
- 캐싱은 데이터 처리 비용을 줄이기 위해 사용되는 기법으로 비용이 많이 드는 데이터 조회 작업에서 자주 사용됩니다. 이번 글에서는 캐시를 구현하기에 앞서 사전에 알아두면 좋을 만한 ... 
+ 11월에 열리는 무료, 유료 테크 행사 소식을 정리해 봤습니다. 한 해의 기술적 성과를 돌아보며, 여러 기업에서 기술 컨퍼런스를 여는 때입니다. 달에 한 번씩 열리는 커뮤니티 밋업... 
 
- [바로가기](https://yozm.wishket.com/magazine/detail/2296/) 
+ [바로가기](https://yozm.wishket.com/magazine/detail/2303/) 
 
-### '핀다' 개발팀이 스크럼, 코드리뷰 개선한 방법 
+### 프론트엔드 로드맵과 프론트엔드 개발자가 하는 일 
 
- 이번 글에서는 제가 팀빌딩을 하면서 고민했던 내용과 FINDA 현금그로스 PG 개발문화의 과거와 현재에 대해서 이야기해 보려고 합니다. FINDA 내에는 다양한 PT가 있고, 여러... 
+ 프론트엔드에 관심이 있다면 기본적으로 HTML, CSS, JAVASCRIPT 등의 용어는 들어보셨을 텐데요. 비전공자&입문자라면 뭐부터 공부해야 할지 막막한 경우가 많습니다. 이번... 
 
- [바로가기](https://yozm.wishket.com/magazine/detail/2295/) 
+ [바로가기](https://yozm.wishket.com/magazine/detail/2302/) 
 
 ---
 
