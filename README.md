@@ -1,29 +1,29 @@
 # 오늘의 포스팅 
-2023년 11월 4일 9시 기준 
-
-### 4 Laws of RxJS Observables 
-
- This is crucial to understand! Online materials can often be incorrect. Very short but meaty writeup... 
-
- [바로가기](https://medium.com/itnext/4-laws-of-rxjs-observables-5b7c95bc8901?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------typescript----------82fde98d_405e_4ae3_999c_8c8eff9b9117-------) 
+2023년 11월 5일 9시 기준 
 
 ### FrontendGlimpses #002. Do not use memoized values in useEffect dependencies 
 
  ... 
 
- [바로가기](https://medium.com/@ttnklv/frontendglimpses-002-do-not-use-memoized-values-in-useeffect-dependencies-7c2ed0426728?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------frontend----------ae34cb5c_1135_4843_a0e7_543b97fdb8a4-------) 
+ [바로가기](https://medium.com/@ttnklv/frontendglimpses-002-do-not-use-memoized-values-in-useeffect-dependencies-7c2ed0426728?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------frontend----------e20bc0c5_b2f9_46de_9421_314e79d70ed9-------) 
 
 ### Building React Server Components in OCaml 
 
  Enhancing User Experience and Developer Productivity: implementing React Server Components in OCaml ... 
 
- [바로가기](https://medium.com/ahrefs/building-react-server-components-in-ocaml-81c276713f19?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------reactjs----------f2906091_4fa6_4844_9207_c64a9e2bd834-------) 
+ [바로가기](https://medium.com/ahrefs/building-react-server-components-in-ocaml-81c276713f19?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------reactjs----------fb03ed62_71aa_4618_9d04_eea78a6ef08e-------) 
 
-### Route Block In Next Js App Route 
+### Server-Side Rendering Evolved: Unlocking Faster TTFB and TTI with Streaming SSR 
 
- Next.js is a popular open-source JavaScript framework that is primarily used for building modern web... 
+ Hi everyone!... 
 
- [바로가기](https://medium.com/@bipingiri27/route-block-in-next-js-app-route-82c35f95eb8b?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------nextjs----------769f6cfe_cedf_4fd8_b5ea_d65ce8a2db74-------) 
+ [바로가기](https://medium.com/cstech/server-side-rendering-evolved-unlocking-faster-ttfb-and-tti-with-streaming-ssr-800735e37bad?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------nextjs----------4c4230f7_8039_4dc9_b849_f5f98403e861-------) 
+
+### Asynchronous Programming with Promises and Async/Await in JavaScript 
+
+ Understanding Promises: Foundations of Asynchronous Programming... 
+
+ [바로가기](https://medium.com/bitsrc/asynchronous-programming-with-promises-and-async-await-in-javascript-bb78ca61f227?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------front_end_development----------a359049b_ba32_48d1_9be1_3e8a18c7bf78-------) 
 
 ###  클로저 컴파일러의 역사, 그리고 타입스크립트가 승리한 이유 
 
