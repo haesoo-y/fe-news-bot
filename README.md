@@ -1,23 +1,17 @@
 # 오늘의 포스팅 
-2023년 11월 5일 9시 기준 
+2023년 11월 6일 9시 기준 
 
-### FrontendGlimpses #002. Do not use memoized values in useEffect dependencies 
+### Mastering React’s useState Hook: 20 Practical Practice Questions 
 
- ... 
+ React, a JavaScript library for building user interfaces, provides several hooks to manage state in ... 
 
- [바로가기](https://medium.com/@ttnklv/frontendglimpses-002-do-not-use-memoized-values-in-useeffect-dependencies-7c2ed0426728?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------frontend----------e20bc0c5_b2f9_46de_9421_314e79d70ed9-------) 
+ [바로가기](https://medium.com/@drop-x-out/mastering-reacts-usestate-hook-20-practical-practice-questions-e3fb3488a8a1?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------reactjs----------471f28a1_2e16_4168_8eaa_58b518abe7e1-------) 
 
-### Building React Server Components in OCaml 
+### Gas-less way to purchase ETH for USDC 
 
- Enhancing User Experience and Developer Productivity: implementing React Server Components in OCaml ... 
+ Part 5 — Backend server... 
 
- [바로가기](https://medium.com/ahrefs/building-react-server-components-in-ocaml-81c276713f19?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------reactjs----------fb03ed62_71aa_4618_9d04_eea78a6ef08e-------) 
-
-### Server-Side Rendering Evolved: Unlocking Faster TTFB and TTI with Streaming SSR 
-
- Hi everyone!... 
-
- [바로가기](https://medium.com/cstech/server-side-rendering-evolved-unlocking-faster-ttfb-and-tti-with-streaming-ssr-800735e37bad?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------nextjs----------4c4230f7_8039_4dc9_b849_f5f98403e861-------) 
+ [바로가기](https://medium.com/@alexsanyakoval/gas-less-way-to-purchase-eth-for-usdc-d5660b592443?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------nextjs----------a63a49a6_4792_40ba_a6eb_b83f4b1ca0ad-------) 
 
 ### Asynchronous Programming with Promises and Async/Await in JavaScript 
 
@@ -25,17 +19,23 @@
 
  [바로가기](https://medium.com/bitsrc/asynchronous-programming-with-promises-and-async-await-in-javascript-bb78ca61f227?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------front_end_development----------a359049b_ba32_48d1_9be1_3e8a18c7bf78-------) 
 
+### && and || Operators don’t return boolean values 
+
+ Do you really know JavaScript... 
+
+ [바로가기](https://medium.com/@ajaynjain/and-operators-dont-return-boolean-values-ee834e16e32c?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------react----------0c09d7fb_e504_4a19_94e2_6eefcf47115a-------) 
+
+###  자바스크립트에서 base64 문자열 인코딩의 미묘한 차이 
+
+ 소개 자바스크립트에서 문자열을 base64 인코딩/디코딩 하는 방법과 이 때 주의해야할 점들에 대해 설명하는 글입니다. 자바스크립트 문자열을 base64 인코딩/디코딩 할 때…... 
+
+ [바로가기](https://kofearticle.substack.com/p/korean-fe-article-base64) 
+
 ###  클로저 컴파일러의 역사, 그리고 타입스크립트가 승리한 이유 
 
  소개 타입스크립트가 널리 쓰이기 이전, 구글은 타입 검사를 위해 클로저(Closure) 컴파일러라는 도구를 사용했다고 합니다. 자바스크립트가 좋지 않은 평가를 받던 시절 구글은 클... 
 
  [바로가기](https://kofearticle.substack.com/p/korean-fe-article-bab) 
-
-###  자바스크립트 에코시스템의 속도 향상 - 배럴(Barrel) 파일의 대실패 
-
- 소개 배럴(Barrel) 파일을 많이…... 
-
- [바로가기](https://kofearticle.substack.com/p/korean-fe-article-barrel) 
 
 ### 11월 테크 행사 소식 
 
