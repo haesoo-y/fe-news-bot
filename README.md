@@ -1,29 +1,29 @@
 # 오늘의 포스팅 
-2023년 11월 6일 9시 기준 
+2023년 11월 7일 9시 기준 
 
-### Mastering React’s useState Hook: 20 Practical Practice Questions 
+### Server-Side Rendering Evolved: Unlocking Faster TTFB and TTI with Streaming SSR 
 
- React, a JavaScript library for building user interfaces, provides several hooks to manage state in ... 
+ Hi everyone!... 
 
- [바로가기](https://medium.com/@drop-x-out/mastering-reacts-usestate-hook-20-practical-practice-questions-e3fb3488a8a1?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------reactjs----------471f28a1_2e16_4168_8eaa_58b518abe7e1-------) 
+ [바로가기](https://medium.com/cstech/server-side-rendering-evolved-unlocking-faster-ttfb-and-tti-with-streaming-ssr-800735e37bad?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------nextjs----------4c9deca7_2461_463d_b123_5f89fe85aefe-------) 
 
-### Gas-less way to purchase ETH for USDC 
+### Frontend Weekly Digest #335 (30 October — 5 November 2023) 
 
- Part 5 — Backend server... 
+ Web-development... 
 
- [바로가기](https://medium.com/@alexsanyakoval/gas-less-way-to-purchase-eth-for-usdc-d5660b592443?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------nextjs----------a63a49a6_4792_40ba_a6eb_b83f4b1ca0ad-------) 
+ [바로가기](https://medium.com/@frontender-ua/frontend-weekly-digest-335-30-october-5-november-2023-c2286d7c49cb?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------front_end_development----------a8dcd128_317d_41fd_b499_512faa237b70-------) 
 
-### Asynchronous Programming with Promises and Async/Await in JavaScript 
+### Leveling Up: My Four-Month Software Development Intensive. 
 
- Understanding Promises: Foundations of Asynchronous Programming... 
+ Adventures in Software Development: A Four-Month Odyssey... 
 
- [바로가기](https://medium.com/bitsrc/asynchronous-programming-with-promises-and-async-await-in-javascript-bb78ca61f227?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------front_end_development----------a359049b_ba32_48d1_9be1_3e8a18c7bf78-------) 
+ [바로가기](https://medium.com/@olamilekan.obisesan1/leveling-up-my-four-month-software-development-intensive-75382363d152?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------react----------f46d1f9b_d5ac_433c_95d1_00ebaca650c8-------) 
 
-### && and || Operators don’t return boolean values 
+### Why I’m Learning JavaScript as a Data Scientist 
 
- Do you really know JavaScript... 
+ And why it feels like I’m switching to the Dark Side... 
 
- [바로가기](https://medium.com/@ajaynjain/and-operators-dont-return-boolean-values-ee834e16e32c?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------react----------0c09d7fb_e504_4a19_94e2_6eefcf47115a-------) 
+ [바로가기](https://medium.com/towards-data-science/why-im-learning-javascript-as-a-data-scientist-e2b87bcdac03?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------javascript----------3715a38a_da1c_4f45_8766_8aa5a2d61d5b-------) 
 
 ###  자바스크립트에서 base64 문자열 인코딩의 미묘한 차이 
 
