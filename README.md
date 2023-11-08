@@ -1,29 +1,29 @@
 # 오늘의 포스팅 
-2023년 11월 7일 9시 기준 
-
-### Server-Side Rendering Evolved: Unlocking Faster TTFB and TTI with Streaming SSR 
-
- Hi everyone!... 
-
- [바로가기](https://medium.com/cstech/server-side-rendering-evolved-unlocking-faster-ttfb-and-tti-with-streaming-ssr-800735e37bad?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------nextjs----------4c9deca7_2461_463d_b123_5f89fe85aefe-------) 
+2023년 11월 8일 9시 기준 
 
 ### Frontend Weekly Digest #335 (30 October — 5 November 2023) 
 
  Web-development... 
 
- [바로가기](https://medium.com/@frontender-ua/frontend-weekly-digest-335-30-october-5-november-2023-c2286d7c49cb?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------front_end_development----------a8dcd128_317d_41fd_b499_512faa237b70-------) 
+ [바로가기](https://medium.com/@frontender-ua/frontend-weekly-digest-335-30-october-5-november-2023-c2286d7c49cb?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------front_end_development----------603562bf_1a7c_4525_91bc_1617b7ae0970-------) 
 
-### Leveling Up: My Four-Month Software Development Intensive. 
+### Announcing Angular.dev 
 
- Adventures in Software Development: A Four-Month Odyssey... 
+ Today, we are excited to launch Angular.dev — the future home for Angular developers.... 
 
- [바로가기](https://medium.com/@olamilekan.obisesan1/leveling-up-my-four-month-software-development-intensive-75382363d152?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------react----------f46d1f9b_d5ac_433c_95d1_00ebaca650c8-------) 
+ [바로가기](https://medium.com/angular-blog/announcing-angular-dev-1e1205fa3039?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------react----------b121daaf_3a7d_4ff5_86d6_e283f765309c-------) 
 
-### Why I’m Learning JavaScript as a Data Scientist 
+### What’s new with Angular v17 ? 
 
- And why it feels like I’m switching to the Dark Side... 
+ Unveiling Angular 17: A Bold Leap Forward... 
 
- [바로가기](https://medium.com/towards-data-science/why-im-learning-javascript-as-a-data-scientist-e2b87bcdac03?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------javascript----------3715a38a_da1c_4f45_8766_8aa5a2d61d5b-------) 
+ [바로가기](https://medium.com/@sasidharansd/whats-new-with-angular-v17-7b8058079baf?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------javascript----------66549ec2_250b_4e26_90d2_a6c047cba631-------) 
+
+### Master Angular 17 
+
+ A study guide that helps you learn the new version of Angular... 
+
+ [바로가기](https://medium.com/itnext/master-angular-17-829c8cf30391?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------typescript----------ee6c7143_87f6_4f38_a96a_00bfe4bba49e-------) 
 
 ###  자바스크립트에서 base64 문자열 인코딩의 미묘한 차이 
 
@@ -37,17 +37,17 @@
 
  [바로가기](https://kofearticle.substack.com/p/korean-fe-article-bab) 
 
-### 11월 테크 행사 소식 
+### TDD, 실패하는 테스트부터 작성해 얻는 것 5가지 
 
- 11월에 열리는 무료, 유료 테크 행사 소식을 정리해 봤습니다. 한 해의 기술적 성과를 돌아보며, 여러 기업에서 기술 컨퍼런스를 여는 때입니다. 달에 한 번씩 열리는 커뮤니티 밋업... 
+ ‘테스트 주도 개발(Test-Driven Development, 이하 TDD)’은 자바(Java) 테스트 도구인 JUnit을 만든 켄트 벡이 만든 개발 방법으로, 빨강/초록/리팩토... 
 
- [바로가기](https://yozm.wishket.com/magazine/detail/2303/) 
+ [바로가기](https://yozm.wishket.com/magazine/detail/2308/) 
 
-### 프론트엔드 로드맵과 프론트엔드 개발자가 하는 일 
+### 소프트웨어 ‘설계’의 정의는 변해야 한다 
 
- 프론트엔드에 관심이 있다면 기본적으로 HTML, CSS, JAVASCRIPT 등의 용어는 들어보셨을 텐데요. 비전공자&입문자라면 뭐부터 공부해야 할지 막막한 경우가 많습니다. 이번... 
+ 올해 2월과 3월에 썼던 두 편의 설계 관련 글이 계기가 되어서 개인 브런치에 틈이 날 때마다 생각을 기록하기 시작했습니다. 19편의 기록을 남기면서 설계에 대한 생각을 꾸준히 하... 
 
- [바로가기](https://yozm.wishket.com/magazine/detail/2302/) 
+ [바로가기](https://yozm.wishket.com/magazine/detail/2307/) 
 
 ---
 
