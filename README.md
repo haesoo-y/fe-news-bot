@@ -1,29 +1,29 @@
 # 오늘의 포스팅 
-2023년 11월 8일 9시 기준 
-
-### Frontend Weekly Digest #335 (30 October — 5 November 2023) 
-
- Web-development... 
-
- [바로가기](https://medium.com/@frontender-ua/frontend-weekly-digest-335-30-october-5-november-2023-c2286d7c49cb?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------front_end_development----------603562bf_1a7c_4525_91bc_1617b7ae0970-------) 
+2023년 11월 9일 9시 기준 
 
 ### Announcing Angular.dev 
 
  Today, we are excited to launch Angular.dev — the future home for Angular developers.... 
 
- [바로가기](https://medium.com/angular-blog/announcing-angular-dev-1e1205fa3039?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------react----------b121daaf_3a7d_4ff5_86d6_e283f765309c-------) 
+ [바로가기](https://medium.com/angular-blog/announcing-angular-dev-1e1205fa3039?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------react----------a976a78c_b304_48f3_9995_fa1a6e489cd6-------) 
 
-### What’s new with Angular v17 ? 
+### Mastering TypeScript: 5 Ingenious Ways to Optimize Your Code for Peak Performance 
 
- Unveiling Angular 17: A Bold Leap Forward... 
+ Are you ready to take your TypeScript code to the next level? In this article, we’ll explore five in... 
 
- [바로가기](https://medium.com/@sasidharansd/whats-new-with-angular-v17-7b8058079baf?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------javascript----------66549ec2_250b_4e26_90d2_a6c047cba631-------) 
+ [바로가기](https://medium.com/@devhoangkien/mastering-typescript-5-ingenious-ways-to-optimize-your-code-for-peak-performance-69878e43b099?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------javascript----------eee7d470_1d18_4153_bc69_512546069c5f-------) 
 
 ### Master Angular 17 
 
  A study guide that helps you learn the new version of Angular... 
 
  [바로가기](https://medium.com/itnext/master-angular-17-829c8cf30391?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------typescript----------ee6c7143_87f6_4f38_a96a_00bfe4bba49e-------) 
+
+### Master Angular 17 
+
+ A study guide that helps you learn the new version of Angular... 
+
+ [바로가기](https://medium.com/itnext/master-angular-17-829c8cf30391?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------frontend----------75f5c43c_639f_403f_907c_98fd7f6db2b4-------) 
 
 ###  자바스크립트에서 base64 문자열 인코딩의 미묘한 차이 
 
