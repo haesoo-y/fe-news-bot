@@ -1,29 +1,35 @@
 # 오늘의 포스팅 
-2023년 11월 9일 9시 기준 
+2023년 11월 10일 9시 기준 
 
-### Announcing Angular.dev 
+### Introducing Angular v17 
 
- Today, we are excited to launch Angular.dev — the future home for Angular developers.... 
+ Last month marked the 13th anniversary of Angular’s red shield. AngularJS was the starting point for... 
 
- [바로가기](https://medium.com/angular-blog/announcing-angular-dev-1e1205fa3039?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------react----------a976a78c_b304_48f3_9995_fa1a6e489cd6-------) 
+ [바로가기](https://medium.com/angular-blog/introducing-angular-v17-4d7033312e4b?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------javascript----------ebfe5a43_65ed_4b5c_bd0c_8933b3d217a5-------) 
 
-### Mastering TypeScript: 5 Ingenious Ways to Optimize Your Code for Peak Performance 
+### Introducing Angular v17 
 
- Are you ready to take your TypeScript code to the next level? In this article, we’ll explore five in... 
+ Last month marked the 13th anniversary of Angular’s red shield. AngularJS was the starting point for... 
 
- [바로가기](https://medium.com/@devhoangkien/mastering-typescript-5-ingenious-ways-to-optimize-your-code-for-peak-performance-69878e43b099?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------javascript----------eee7d470_1d18_4153_bc69_512546069c5f-------) 
+ [바로가기](https://medium.com/angular-blog/introducing-angular-v17-4d7033312e4b?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------typescript----------1ae89df1_e348_4dad_9522_92ed8d356b7e-------) 
 
-### Master Angular 17 
+### Mythical Angular — You all need to know about this! 
 
- A study guide that helps you learn the new version of Angular... 
+ I’ve been recently on NgPoland 2023 in Warsaw. It’s the biggest Angular conference in Poland, and if... 
 
- [바로가기](https://medium.com/itnext/master-angular-17-829c8cf30391?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------typescript----------ee6c7143_87f6_4f38_a96a_00bfe4bba49e-------) 
+ [바로가기](https://medium.com/@kamil.galek/mythical-angular-you-all-need-to-know-about-this-e1fe628e0259?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------frontend----------8c705838_2601_4a79_9b78_9d3af830145f-------) 
 
-### Master Angular 17 
+### Understanding Promises in JavaScript and Their Use in React 
 
- A study guide that helps you learn the new version of Angular... 
+ Promises are a fundamental concept in JavaScript for handling asynchronous operations. In this artic... 
 
- [바로가기](https://medium.com/itnext/master-angular-17-829c8cf30391?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------frontend----------75f5c43c_639f_403f_907c_98fd7f6db2b4-------) 
+ [바로가기](https://medium.com/@sharareshaddev/understanding-promises-in-javascript-and-their-use-in-react-a77564aae576?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------reactjs----------8cd2c716_2efc_4d1b_8cbc_217f7b17806f-------) 
+
+###  웹 컴포넌트는 자바스크립트 프레임워크보다 오래 살아남을 것 입니다 
+
+ 글 링크 : https://bit.ly/461oFco 소개 새로운 웹 애플리케이션을 구축한다고 할 때, 현대의 프론트엔드 개발자는 다양한 선택지를 고민하고 있습니다. 대부분의 경우... 
+
+ [바로가기](https://kofearticle.substack.com/p/korean-fe-article-26a) 
 
 ###  자바스크립트에서 base64 문자열 인코딩의 미묘한 차이 
 
@@ -31,23 +37,17 @@
 
  [바로가기](https://kofearticle.substack.com/p/korean-fe-article-base64) 
 
-###  클로저 컴파일러의 역사, 그리고 타입스크립트가 승리한 이유 
+### 자료구조 개념 이해하기 ‘힙과 힙 정렬 알고리즘’ 
 
- 소개 타입스크립트가 널리 쓰이기 이전, 구글은 타입 검사를 위해 클로저(Closure) 컴파일러라는 도구를 사용했다고 합니다. 자바스크립트가 좋지 않은 평가를 받던 시절 구글은 클... 
+ 자료구조란 데이터를 효율적으로 저장, 검색, 삭제할 수 있도록 설계된 구조나 방법을 의미합니다. 이 중에서 힙(Heap)은 정렬, 우선순위 큐, 스케줄링과 같은 다양한 알고리즘에서... 
 
- [바로가기](https://kofearticle.substack.com/p/korean-fe-article-bab) 
+ [바로가기](https://yozm.wishket.com/magazine/detail/2312/) 
 
 ### TDD, 실패하는 테스트부터 작성해 얻는 것 5가지 
 
  ‘테스트 주도 개발(Test-Driven Development, 이하 TDD)’은 자바(Java) 테스트 도구인 JUnit을 만든 켄트 벡이 만든 개발 방법으로, 빨강/초록/리팩토... 
 
  [바로가기](https://yozm.wishket.com/magazine/detail/2308/) 
-
-### 소프트웨어 ‘설계’의 정의는 변해야 한다 
-
- 올해 2월과 3월에 썼던 두 편의 설계 관련 글이 계기가 되어서 개인 브런치에 틈이 날 때마다 생각을 기록하기 시작했습니다. 19편의 기록을 남기면서 설계에 대한 생각을 꾸준히 하... 
-
- [바로가기](https://yozm.wishket.com/magazine/detail/2307/) 
 
 ---
 
