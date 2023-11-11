@@ -1,29 +1,29 @@
 # 오늘의 포스팅 
-2023년 11월 10일 9시 기준 
+2023년 11월 11일 9시 기준 
 
 ### Introducing Angular v17 
 
  Last month marked the 13th anniversary of Angular’s red shield. AngularJS was the starting point for... 
 
- [바로가기](https://medium.com/angular-blog/introducing-angular-v17-4d7033312e4b?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------javascript----------ebfe5a43_65ed_4b5c_bd0c_8933b3d217a5-------) 
+ [바로가기](https://medium.com/angular-blog/introducing-angular-v17-4d7033312e4b?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------typescript----------7acdd4dd_de28_4b3c_ab2d_59e0b1e5f769-------) 
 
-### Introducing Angular v17 
+### Deep dive into the Angular Signals: Part 1 
 
- Last month marked the 13th anniversary of Angular’s red shield. AngularJS was the starting point for... 
+ Let’s explore Angular reactivity system, see internal structures and the code under the hood to beco... 
 
- [바로가기](https://medium.com/angular-blog/introducing-angular-v17-4d7033312e4b?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------typescript----------1ae89df1_e348_4dad_9522_92ed8d356b7e-------) 
+ [바로가기](https://medium.com/angularwave/deep-dive-into-the-angular-signals-part-1-c6f9c62aea0e?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------frontend----------d35eb94c_b193_4628_b5ea_32074a856c78-------) 
 
-### Mythical Angular — You all need to know about this! 
+### React 30-Project 10: Building User Authentication Forms using React.js and React Router 
 
- I’ve been recently on NgPoland 2023 in Warsaw. It’s the biggest Angular conference in Poland, and if... 
+ Introduction... 
 
- [바로가기](https://medium.com/@kamil.galek/mythical-angular-you-all-need-to-know-about-this-e1fe628e0259?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------frontend----------8c705838_2601_4a79_9b78_9d3af830145f-------) 
+ [바로가기](https://medium.com/@smhatre59/react-30-project-10-building-user-authentication-forms-using-react-js-and-react-router-1e3f2efa0c3a?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------reactjs----------0d7cd87c_57e2_4900_9d6d_a506e3f5496d-------) 
 
-### Understanding Promises in JavaScript and Their Use in React 
+### Next.js 14 and other thoughts from Next Conf 2023 
 
- Promises are a fundamental concept in JavaScript for handling asynchronous operations. In this artic... 
+ I take a stroll through our standout moments of Next Conf 2023 with my fellow dev, Sarah Fisher.... 
 
- [바로가기](https://medium.com/@sharareshaddev/understanding-promises-in-javascript-and-their-use-in-react-a77564aae576?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------reactjs----------8cd2c716_2efc_4d1b_8cbc_217f7b17806f-------) 
+ [바로가기](https://medium.com/big-lemon/next-js-14-and-other-thoughts-from-next-conf-2023-c90c3cf7c08d?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------nextjs----------cafd9b3e_96b5_4107_a8cb_56600d3840bc-------) 
 
 ###  웹 컴포넌트는 자바스크립트 프레임워크보다 오래 살아남을 것 입니다 
 
