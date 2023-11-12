@@ -1,29 +1,29 @@
 # 오늘의 포스팅 
-2023년 11월 11일 9시 기준 
-
-### Introducing Angular v17 
-
- Last month marked the 13th anniversary of Angular’s red shield. AngularJS was the starting point for... 
-
- [바로가기](https://medium.com/angular-blog/introducing-angular-v17-4d7033312e4b?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------typescript----------7acdd4dd_de28_4b3c_ab2d_59e0b1e5f769-------) 
+2023년 11월 12일 9시 기준 
 
 ### Deep dive into the Angular Signals: Part 1 
 
  Let’s explore Angular reactivity system, see internal structures and the code under the hood to beco... 
 
- [바로가기](https://medium.com/angularwave/deep-dive-into-the-angular-signals-part-1-c6f9c62aea0e?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------frontend----------d35eb94c_b193_4628_b5ea_32074a856c78-------) 
+ [바로가기](https://medium.com/angularwave/deep-dive-into-the-angular-signals-part-1-c6f9c62aea0e?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------frontend----------c7753dd4_80a8_4445_b2be_ef1368347930-------) 
 
-### React 30-Project 10: Building User Authentication Forms using React.js and React Router 
+### Setting up React DND — a basic guide 
 
- Introduction... 
+ In my most recent project, I wanted to implement drag-and-drop functionality for a part of my UI. Th... 
 
- [바로가기](https://medium.com/@smhatre59/react-30-project-10-building-user-authentication-forms-using-react-js-and-react-router-1e3f2efa0c3a?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------reactjs----------0d7cd87c_57e2_4900_9d6d_a506e3f5496d-------) 
+ [바로가기](https://medium.com/@raestanton93/setting-up-react-dnd-a-basic-guide-44f4d55aa872?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------reactjs----------f9fa0413_b720_41e0_90d4_88081131b5eb-------) 
 
-### Next.js 14 and other thoughts from Next Conf 2023 
+### I Built Every Project with Next.js This Year 
 
- I take a stroll through our standout moments of Next Conf 2023 with my fellow dev, Sarah Fisher.... 
+ Introductory Thoughts:... 
 
- [바로가기](https://medium.com/big-lemon/next-js-14-and-other-thoughts-from-next-conf-2023-c90c3cf7c08d?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------nextjs----------cafd9b3e_96b5_4107_a8cb_56600d3840bc-------) 
+ [바로가기](https://medium.com/@aconite.io/i-built-every-project-with-next-js-this-year-8d21f68c0549?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------nextjs----------6986d08b_86b1_4ce4_9821_27a9bfcbbe3d-------) 
+
+### AI-Powered UI Design using gpt-4 
+
+ Are you tired of manually coding HTML for your website mockups? Well, we’ve got something exciting t... 
+
+ [바로가기](https://medium.com/@fareedkhandev/ai-powered-ui-design-using-gpt-4-39ce36deaca5?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------front_end_development----------9369ac3d_2662_4aef_9abd_268f5029b413-------) 
 
 ###  웹 컴포넌트는 자바스크립트 프레임워크보다 오래 살아남을 것 입니다 
 
