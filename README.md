@@ -1,29 +1,29 @@
 # 오늘의 포스팅 
-2023년 11월 12일 9시 기준 
+2023년 11월 13일 9시 기준 
 
-### Deep dive into the Angular Signals: Part 1 
+### React Suspense Render Hook: A Declarative Approach to Asynchronous UI Rendering 
 
- Let’s explore Angular reactivity system, see internal structures and the code under the hood to beco... 
+ Introduction... 
 
- [바로가기](https://medium.com/angularwave/deep-dive-into-the-angular-signals-part-1-c6f9c62aea0e?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------frontend----------c7753dd4_80a8_4445_b2be_ef1368347930-------) 
+ [바로가기](https://medium.com/@front-end/react-suspense-render-hook-a-declarative-approach-to-asynchronous-ui-rendering-04bf1ce58069?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------reactjs----------ef7301c7_d783_43f1_bd42_54ea5ee05a5e-------) 
 
-### Setting up React DND — a basic guide 
+### Next.js 14 Build Prerender Error Fix 
 
- In my most recent project, I wanted to implement drag-and-drop functionality for a part of my UI. Th... 
+ Are you frustrated by this error?... 
 
- [바로가기](https://medium.com/@raestanton93/setting-up-react-dnd-a-basic-guide-44f4d55aa872?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------reactjs----------f9fa0413_b720_41e0_90d4_88081131b5eb-------) 
+ [바로가기](https://medium.com/phantom3/next-js-14-build-prerender-error-fix-f3c51de2fe1d?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------nextjs----------7b43bdc8_9e82_4baa_8367_b2097baf4434-------) 
 
-### I Built Every Project with Next.js This Year 
+### How to be the Worst Front-End Developer Ever 
 
- Introductory Thoughts:... 
+ A humorous article sharing 15 tips to make you a bad developer.... 
 
- [바로가기](https://medium.com/@aconite.io/i-built-every-project-with-next-js-this-year-8d21f68c0549?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------nextjs----------6986d08b_86b1_4ce4_9821_27a9bfcbbe3d-------) 
+ [바로가기](https://medium.com/@fatfish/how-to-be-the-worst-front-end-developer-ever-a53dfadc4a94?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------front_end_development----------5a81327d_56bc_4f4c_9e5d_cb794b5c98f6-------) 
 
-### AI-Powered UI Design using gpt-4 
+### React Suspense Render Hook: A Declarative Approach to Asynchronous UI Rendering 
 
- Are you tired of manually coding HTML for your website mockups? Well, we’ve got something exciting t... 
+ Introduction... 
 
- [바로가기](https://medium.com/@fareedkhandev/ai-powered-ui-design-using-gpt-4-39ce36deaca5?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------front_end_development----------9369ac3d_2662_4aef_9abd_268f5029b413-------) 
+ [바로가기](https://medium.com/@front-end/react-suspense-render-hook-a-declarative-approach-to-asynchronous-ui-rendering-04bf1ce58069?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------react----------ea662fd3_131d_4093_a5b7_4c4407cdb272-------) 
 
 ###  웹 컴포넌트는 자바스크립트 프레임워크보다 오래 살아남을 것 입니다 
 
@@ -37,17 +37,17 @@
 
  [바로가기](https://kofearticle.substack.com/p/korean-fe-article-base64) 
 
+### 젯브레인스 문서화 도구 ‘라이터사이드’ 뜯어보기 
+
+ 최근, 데이터 직군에게는 파이참(Pycharm)으로 알려진 젯브레인스(Jetbrains)에서, “기술 문서를 작성하기 위한 목적의 전용 IDE”, 라이터사이드(Writerside)... 
+
+ [바로가기](https://yozm.wishket.com/magazine/detail/2314/) 
+
 ### 자료구조 개념 이해하기 ‘힙과 힙 정렬 알고리즘’ 
 
  자료구조란 데이터를 효율적으로 저장, 검색, 삭제할 수 있도록 설계된 구조나 방법을 의미합니다. 이 중에서 힙(Heap)은 정렬, 우선순위 큐, 스케줄링과 같은 다양한 알고리즘에서... 
 
  [바로가기](https://yozm.wishket.com/magazine/detail/2312/) 
-
-### TDD, 실패하는 테스트부터 작성해 얻는 것 5가지 
-
- ‘테스트 주도 개발(Test-Driven Development, 이하 TDD)’은 자바(Java) 테스트 도구인 JUnit을 만든 켄트 벡이 만든 개발 방법으로, 빨강/초록/리팩토... 
-
- [바로가기](https://yozm.wishket.com/magazine/detail/2308/) 
 
 ---
 
