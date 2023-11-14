@@ -1,29 +1,35 @@
 # 오늘의 포스팅 
-2023년 11월 13일 9시 기준 
+2023년 11월 14일 9시 기준 
 
-### React Suspense Render Hook: A Declarative Approach to Asynchronous UI Rendering 
+### Overcoming Type Restrictions: A Journey Through Module Augmentation in TypeScript 
 
- Introduction... 
+ In today’s dynamic world, the need for adaptable code is more prominent than ever…... 
 
- [바로가기](https://medium.com/@front-end/react-suspense-render-hook-a-declarative-approach-to-asynchronous-ui-rendering-04bf1ce58069?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------reactjs----------ef7301c7_d783_43f1_bd42_54ea5ee05a5e-------) 
+ [바로가기](https://medium.com/thirdfort/overcoming-type-restrictions-a-journey-through-module-augmentation-in-typescript-151ecb6941ee?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------nextjs----------c25f8d48_4834_43b4_8df6_b3ff2663d9fc-------) 
 
-### Next.js 14 Build Prerender Error Fix 
+### AI-Powered UI Design using gpt-4 
 
- Are you frustrated by this error?... 
+ Are you tired of manually coding HTML for your website mockups? Well, we’ve got something exciting t... 
 
- [바로가기](https://medium.com/phantom3/next-js-14-build-prerender-error-fix-f3c51de2fe1d?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------nextjs----------7b43bdc8_9e82_4baa_8367_b2097baf4434-------) 
+ [바로가기](https://medium.com/@fareedkhandev/ai-powered-ui-design-using-gpt-4-39ce36deaca5?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------front_end_development----------5bcb332f_9033_4c37_9879_c8e8a8fd61b1-------) 
 
-### How to be the Worst Front-End Developer Ever 
+### Install Preline UI on React with Vite 
 
- A humorous article sharing 15 tips to make you a bad developer.... 
+ Preline UI is an open-source set of prebuilt UI components based on the utility-first Tailwind CSS f... 
 
- [바로가기](https://medium.com/@fatfish/how-to-be-the-worst-front-end-developer-ever-a53dfadc4a94?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------front_end_development----------5a81327d_56bc_4f4c_9e5d_cb794b5c98f6-------) 
+ [바로가기](https://medium.com/@ashik.ck/install-preline-ui-on-react-with-vite-b8bf8b978567?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------react----------465bfe70_aeb5_4b18_9cc7_da9e63ec535c-------) 
 
-### React Suspense Render Hook: A Declarative Approach to Asynchronous UI Rendering 
+### Introducing Angular v17 
 
- Introduction... 
+ Last month marked the 13th anniversary of Angular’s red shield. AngularJS was the starting point for... 
 
- [바로가기](https://medium.com/@front-end/react-suspense-render-hook-a-declarative-approach-to-asynchronous-ui-rendering-04bf1ce58069?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------react----------ea662fd3_131d_4093_a5b7_4c4407cdb272-------) 
+ [바로가기](https://medium.com/angular-blog/introducing-angular-v17-4d7033312e4b?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------javascript----------8914c207_e420_4831_bb1a_7477b63f0335-------) 
+
+###  Next.js에서 패키지 가져오기를 최적화한 방법 
+
+ 글 링크 : https://velog.io/@lky5697/how-we-optimized-package-imports-in-next-js 소개 애플리케이션을 개발하면서 NextJS... 
+
+ [바로가기](https://kofearticle.substack.com/p/korean-fe-article-nextjs-ad9) 
 
 ###  웹 컴포넌트는 자바스크립트 프레임워크보다 오래 살아남을 것 입니다 
 
@@ -31,23 +37,17 @@
 
  [바로가기](https://kofearticle.substack.com/p/korean-fe-article-26a) 
 
-###  자바스크립트에서 base64 문자열 인코딩의 미묘한 차이 
+### 오픈AI 개발자 컨퍼런스(OpenAI Devday) 리뷰 
 
- 소개 자바스크립트에서 문자열을 base64 인코딩/디코딩 하는 방법과 이 때 주의해야할 점들에 대해 설명하는 글입니다. 자바스크립트 문자열을 base64 인코딩/디코딩 할 때…... 
+ “우리 모두는 필요에 따라 초능력을 갖게 될 것입니다. (We will all have superpowers on demand)” 지난 11월 7일, 챗GPT로 유명한 오픈AI가 ... 
 
- [바로가기](https://kofearticle.substack.com/p/korean-fe-article-base64) 
+ [바로가기](https://yozm.wishket.com/magazine/detail/2316/) 
 
 ### 젯브레인스 문서화 도구 ‘라이터사이드’ 뜯어보기 
 
  최근, 데이터 직군에게는 파이참(Pycharm)으로 알려진 젯브레인스(Jetbrains)에서, “기술 문서를 작성하기 위한 목적의 전용 IDE”, 라이터사이드(Writerside)... 
 
  [바로가기](https://yozm.wishket.com/magazine/detail/2314/) 
-
-### 자료구조 개념 이해하기 ‘힙과 힙 정렬 알고리즘’ 
-
- 자료구조란 데이터를 효율적으로 저장, 검색, 삭제할 수 있도록 설계된 구조나 방법을 의미합니다. 이 중에서 힙(Heap)은 정렬, 우선순위 큐, 스케줄링과 같은 다양한 알고리즘에서... 
-
- [바로가기](https://yozm.wishket.com/magazine/detail/2312/) 
 
 ---
 
