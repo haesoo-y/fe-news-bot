@@ -1,53 +1,41 @@
 # 오늘의 포스팅 
-2023년 11월 14일 9시 기준 
+2023년 11월 15일 9시 기준 
 
-### Overcoming Type Restrictions: A Journey Through Module Augmentation in TypeScript 
+### CSS Performance: Optimization Strategies & Practical Tools 
 
- In today’s dynamic world, the need for adaptable code is more prominent than ever…... 
+ This article serves both as an overview of important info you should know about CSS performance opti... 
 
- [바로가기](https://medium.com/thirdfort/overcoming-type-restrictions-a-journey-through-module-augmentation-in-typescript-151ecb6941ee?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------nextjs----------c25f8d48_4834_43b4_8df6_b3ff2663d9fc-------) 
+ [바로가기](https://medium.com/@lavrenchuk.alexander7/css-performance-optimization-strategies-practical-tools-e2cc65cf924f?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------front_end_development----------b8c2399b_e557_4f06_b524_429c2ed1c752-------) 
 
-### AI-Powered UI Design using gpt-4 
+### Integrating React into a Django project 
 
- Are you tired of manually coding HTML for your website mockups? Well, we’ve got something exciting t... 
+ ... 
 
- [바로가기](https://medium.com/@fareedkhandev/ai-powered-ui-design-using-gpt-4-39ce36deaca5?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------front_end_development----------5bcb332f_9033_4c37_9879_c8e8a8fd61b1-------) 
+ [바로가기](https://medium.com/python-in-plain-english/integrating-react-into-a-django-project-312ec176e05a?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------react----------050e591f_12a7_44af_8bfc_36f0f2679536-------) 
 
-### Install Preline UI on React with Vite 
+### 🚀 The Ultimate Angular Adapter for TanStack Query 
 
- Preline UI is an open-source set of prebuilt UI components based on the utility-first Tailwind CSS f... 
+ Angular Adapter for TanStack Query... 
 
- [바로가기](https://medium.com/@ashik.ck/install-preline-ui-on-react-with-vite-b8bf8b978567?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------react----------465bfe70_aeb5_4b18_9cc7_da9e63ec535c-------) 
+ [바로가기](https://medium.com/netanelbasal/the-ultimate-angular-adapter-for-tanstack-query-fac41b244c6f?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------javascript----------8c5af183_0878_42f7_9050_3c7c6926dc15-------) 
 
-### Introducing Angular v17 
+### Elevating User Experiences with Atomic Design in React and Typescript 
 
- Last month marked the 13th anniversary of Angular’s red shield. AngularJS was the starting point for... 
+ Finding organized, scalable, and maintainable design systems is an ongoing challenge in the industry... 
 
- [바로가기](https://medium.com/angular-blog/introducing-angular-v17-4d7033312e4b?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------javascript----------8914c207_e420_4831_bb1a_7477b63f0335-------) 
+ [바로가기](https://medium.com/@sewwandi1104/elevating-user-experiences-with-atomic-design-in-react-and-typescript-a69a7ab31b96?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------typescript----------fba1b5e3_c823_4381_83cd_0c84ffa2a32d-------) 
 
-###  Next.js에서 패키지 가져오기를 최적화한 방법 
+### 좋은 엔지니어가 되려면 '경험' 쌓기가 중요합니다 
 
- 글 링크 : https://velog.io/@lky5697/how-we-optimized-package-imports-in-next-js 소개 애플리케이션을 개발하면서 NextJS... 
+ 글에서 그는 좋은 엔지니어가 되려면 경험을 쌓는 것이 중요하다고 강조합니다. 초보자 때에는 특정 프로그래밍 언어나 라이브러리를 배우는 데 집중했겠지만, 경력이 쌓일수록 기술뿐 아니... 
 
- [바로가기](https://kofearticle.substack.com/p/korean-fe-article-nextjs-ad9) 
+ [바로가기](https://yozm.wishket.com/magazine/detail/2319/) 
 
-###  웹 컴포넌트는 자바스크립트 프레임워크보다 오래 살아남을 것 입니다 
+### 컬리, 카카오 등 테크리더 9인 추천 도서 30권 
 
- 글 링크 : https://bit.ly/461oFco 소개 새로운 웹 애플리케이션을 구축한다고 할 때, 현대의 프론트엔드 개발자는 다양한 선택지를 고민하고 있습니다. 대부분의 경우... 
+ 기술 말고 개발자로 살아가는 데, 시니어를 넘어 테크 리더로서 성장하는 데 도움이 될 원칙을 알려주는 선배, 9가지 개발자 원칙을 제시한 마켓컬리 • 레몬트리 • 카카오 • 코드스... 
 
- [바로가기](https://kofearticle.substack.com/p/korean-fe-article-26a) 
-
-### 오픈AI 개발자 컨퍼런스(OpenAI Devday) 리뷰 
-
- “우리 모두는 필요에 따라 초능력을 갖게 될 것입니다. (We will all have superpowers on demand)” 지난 11월 7일, 챗GPT로 유명한 오픈AI가 ... 
-
- [바로가기](https://yozm.wishket.com/magazine/detail/2316/) 
-
-### 젯브레인스 문서화 도구 ‘라이터사이드’ 뜯어보기 
-
- 최근, 데이터 직군에게는 파이참(Pycharm)으로 알려진 젯브레인스(Jetbrains)에서, “기술 문서를 작성하기 위한 목적의 전용 IDE”, 라이터사이드(Writerside)... 
-
- [바로가기](https://yozm.wishket.com/magazine/detail/2314/) 
+ [바로가기](https://yozm.wishket.com/magazine/detail/2318/) 
 
 ---
 
