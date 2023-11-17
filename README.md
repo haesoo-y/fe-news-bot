@@ -1,29 +1,41 @@
 # 오늘의 포스팅 
-2023년 11월 16일 9시 기준 
+2023년 11월 17일 9시 기준 
 
-### Testing Input Events from child to parent components with React 
+### create-llama, a command line tool to generate LlamaIndex apps 
 
- ... 
+ Introducing create-llama, the easiest way to get started with LlamaIndex!... 
 
- [바로가기](https://medium.com/@LedZeck/testing-input-events-from-child-to-parent-components-with-react-348381545e77?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------react----------0a637e9d_4da2_428b_bee4_d1fef11422d4-------) 
+ [바로가기](https://medium.com/llamaindex-blog/create-llama-a-command-line-tool-to-generate-llamaindex-apps-8f7683021191?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------javascript----------d9fa478e_1c86_44f0_9618_14f91dd140a2-------) 
 
-### 🚀 The Ultimate Angular Adapter for TanStack Query 
+### create-llama, a command line tool to generate LlamaIndex apps 
 
- Angular Adapter for TanStack Query... 
+ Introducing create-llama, the easiest way to get started with LlamaIndex!... 
 
- [바로가기](https://medium.com/netanelbasal/the-ultimate-angular-adapter-for-tanstack-query-fac41b244c6f?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------javascript----------70d78ff1_bee0_4cc2_b0ce_7e52d3100513-------) 
+ [바로가기](https://medium.com/llamaindex-blog/create-llama-a-command-line-tool-to-generate-llamaindex-apps-8f7683021191?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------typescript----------5f8c2a78_3ab0_48dc_a8c4_b122d2860b2d-------) 
 
-### Introducing Angular v17 
+### Atlassian Interview Experience -Frontend Software Engineer 
 
- Last month marked the 13th anniversary of Angular’s red shield. AngularJS was the starting point for... 
+ Hey, tech enthusiasts! I recently interviewed at Atlassian for the position of frontend engineer in ... 
 
- [바로가기](https://medium.com/angular-blog/introducing-angular-v17-4d7033312e4b?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-107----------typescript----------1d60903c_1640_4504_b366_7560dcad9819-------) 
+ [바로가기](https://medium.com/@singht216/atlassian-interview-experience-frontend-software-engineer-8f69f3c5c8ea?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------frontend----------149707b4_9f71_4a9b_993f_969946ff0f06-------) 
 
-### Why Do I Need RSC(react server components) if I Already Have Remix 
+### Crafting Pixel-Perfect Layouts with React.js: A Step-by-Step Guide for Beginner Web Developers 
 
- RSC introduces a new mental model of thinking about your whole web application... 
+ When we work as React.js developers in a company, we will undoubtedly encounter websites with abunda... 
 
- [바로가기](https://medium.com/zenstack/why-do-i-need-rsc-react-server-components-if-i-already-have-remix-cf722299b7e2?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------frontend----------ddf60d5c_e99a_4770_b871_29ad70d0700d-------) 
+ [바로가기](https://medium.com/@agunggst/crafting-pixel-perfect-layouts-with-react-js-a-step-by-step-guide-for-beginner-web-developers-57bf3ecf0b4b?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------reactjs----------90a1d284_3a30_4053_b004_1dca26b28db9-------) 
+
+###   HTMX 살펴보기 및 React와 비교하기 
+
+ 글 링크 : https://velog.io/@sehyunny/a-first-look-at-htmx-and-how-it-compares-to-react 소개 HTMX에 대해 들어보신... 
+
+ [바로가기](https://kofearticle.substack.com/p/korean-fe-article-htmx-react) 
+
+###  Next.js에서 패키지 가져오기를 최적화한 방법 
+
+ 글 링크 : https://velog.io/@lky5697/how-we-optimized-package-imports-in-next-js 소개 애플리케이션을 개발하면서 NextJS... 
+
+ [바로가기](https://kofearticle.substack.com/p/korean-fe-article-nextjs-ad9) 
 
 ### 쿠팡이츠는 왜 인하우스 지도 서비스를 만들었을까? 
 
