@@ -1,29 +1,29 @@
 # 오늘의 포스팅 
-2023년 11월 17일 9시 기준 
+2023년 11월 18일 9시 기준 
 
-### create-llama, a command line tool to generate LlamaIndex apps 
+### Announcing Ignite 9.0: “Exp[ress]o” 
 
- Introducing create-llama, the easiest way to get started with LlamaIndex!... 
+ The newest version of Ignite CLI, the React Native starter kit, just got better!... 
 
- [바로가기](https://medium.com/llamaindex-blog/create-llama-a-command-line-tool-to-generate-llamaindex-apps-8f7683021191?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------javascript----------d9fa478e_1c86_44f0_9618_14f91dd140a2-------) 
+ [바로가기](https://medium.com/infinite-red/announcing-ignite-9-0-exp-ress-o-89ab5801937d?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------typescript----------42f202ef_03cc_40a7_9fc6_e61142ba4b3e-------) 
 
-### create-llama, a command line tool to generate LlamaIndex apps 
+### You’ve Been Building Angular Apps Wrong! 
 
- Introducing create-llama, the easiest way to get started with LlamaIndex!... 
+ Break Free from Monolithic Limits: Build Better with Micro Frontends in Angular... 
 
- [바로가기](https://medium.com/llamaindex-blog/create-llama-a-command-line-tool-to-generate-llamaindex-apps-8f7683021191?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------typescript----------5f8c2a78_3ab0_48dc_a8c4_b122d2860b2d-------) 
+ [바로가기](https://medium.com/bitsrc/you-have-been-building-angular-apps-wrong-abaca6bac0bc?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------frontend----------d99ce5b1_6c58_439f_8f24_45372ab11302-------) 
 
-### Atlassian Interview Experience -Frontend Software Engineer 
+### 6 Practical Examples to Boost Your React App’s Performance 
 
- Hey, tech enthusiasts! I recently interviewed at Atlassian for the position of frontend engineer in ... 
+ How to optimise your React app and minimise re-renders... 
 
- [바로가기](https://medium.com/@singht216/atlassian-interview-experience-frontend-software-engineer-8f69f3c5c8ea?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------frontend----------149707b4_9f71_4a9b_993f_969946ff0f06-------) 
+ [바로가기](https://medium.com/the-tech-collective/6-practical-examples-to-boost-your-react-apps-performance-dbc9add3c936?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------reactjs----------ff07f87f_bbba_4dd2_a37f_d7bbaa72001a-------) 
 
-### Crafting Pixel-Perfect Layouts with React.js: A Step-by-Step Guide for Beginner Web Developers 
+### Building a Flexible DTO Mapper for React and Next.js Projects 
 
- When we work as React.js developers in a company, we will undoubtedly encounter websites with abunda... 
+ In the realm of web development, working with APIs often involves handling response models with diff... 
 
- [바로가기](https://medium.com/@agunggst/crafting-pixel-perfect-layouts-with-react-js-a-step-by-step-guide-for-beginner-web-developers-57bf3ecf0b4b?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------reactjs----------90a1d284_3a30_4053_b004_1dca26b28db9-------) 
+ [바로가기](https://medium.com/@mokremiz/building-a-flexible-dto-mapper-for-react-and-next-js-projects-3ee77055f05d?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------nextjs----------dbe0f548_5df1_4510_9d4f_97338922aa2e-------) 
 
 ###   HTMX 살펴보기 및 React와 비교하기 
 
@@ -37,17 +37,17 @@
 
  [바로가기](https://kofearticle.substack.com/p/korean-fe-article-nextjs-ad9) 
 
-### 쿠팡이츠는 왜 인하우스 지도 서비스를 만들었을까? 
+### 프론트엔드 개발자가 API를 설계하는 이유 
 
- 배달 경로 계획부터 주문 도착 시간 예측까지, 정확한 지도 서비스는 쿠팡이츠 비즈니스에 있어 필수적인 부분입니다. 쿠팡이츠는 타업체의 지도 서비스로 비즈니스를 시작했습니다. 하지만... 
+ B2B SaaS 애플리케이션 개발을 시작하면서 KOS팀은 인터페이스 정의 언어(이하 IDL, Interface Definition Language)를 도입하게 되었습니다. IDL은... 
 
- [바로가기](https://yozm.wishket.com/magazine/detail/2320/) 
+ [바로가기](https://yozm.wishket.com/magazine/detail/2325/) 
 
-### 좋은 엔지니어가 되려면 '경험' 쌓기가 중요합니다 
+### Next.js 14 업데이트 살펴보기 
 
- 글에서 그는 좋은 엔지니어가 되려면 경험을 쌓는 것이 중요하다고 강조합니다. 초보자 때에는 특정 프로그래밍 언어나 라이브러리를 배우는 데 집중했겠지만, 경력이 쌓일수록 기술뿐 아니... 
+ 지난 10월 26일, Next.js 14가 발표되었습니다. 13 버전 업데이트의 변화가 워낙 커서 그런지 이번에는 상대적으로 변경 사항이 적게 느껴지기도 했습니다. 이번 업데이트에... 
 
- [바로가기](https://yozm.wishket.com/magazine/detail/2319/) 
+ [바로가기](https://yozm.wishket.com/magazine/detail/2324/) 
 
 ---
 
