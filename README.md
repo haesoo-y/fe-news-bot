@@ -1,29 +1,29 @@
 # 오늘의 포스팅 
-2023년 11월 18일 9시 기준 
+2023년 11월 19일 9시 기준 
 
-### Announcing Ignite 9.0: “Exp[ress]o” 
+### Strapi » to get what you need… Customization, the recipe 
 
- The newest version of Ignite CLI, the React Native starter kit, just got better!... 
+ When diving into Strapi for the first time, sculpting a data model to suit our requirements is a bre... 
 
- [바로가기](https://medium.com/infinite-red/announcing-ignite-9-0-exp-ress-o-89ab5801937d?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------typescript----------42f202ef_03cc_40a7_9fc6_e61142ba4b3e-------) 
+ [바로가기](https://medium.com/@achiumenti/strapi-to-get-what-you-need-customization-the-recipe-74cdb951c602?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------frontend----------36d0fdec_1dbb_4ec1_8bdd_24f2afd030b9-------) 
 
-### You’ve Been Building Angular Apps Wrong! 
+### ✨My Journey from React.js to Vue.js✨ 
 
- Break Free from Monolithic Limits: Build Better with Micro Frontends in Angular... 
+ Hey there, fellow developers! I had started my career with React.js and Go. Then surprisingly I…... 
 
- [바로가기](https://medium.com/bitsrc/you-have-been-building-angular-apps-wrong-abaca6bac0bc?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------frontend----------d99ce5b1_6c58_439f_8f24_45372ab11302-------) 
+ [바로가기](https://medium.com/huawei-developers/my-journey-from-react-js-to-vue-js-2cc2affd071c?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------reactjs----------e9370177_5c35_4a3f_93f4_2303cd894915-------) 
 
-### 6 Practical Examples to Boost Your React App’s Performance 
+### My takeaways for web development in 2024 
 
- How to optimise your React app and minimise re-renders... 
+ Hey, my name is Dominik, I am a React developer and I work full-time at Lichtblick SE in Hamburg, Ge... 
 
- [바로가기](https://medium.com/the-tech-collective/6-practical-examples-to-boost-your-react-apps-performance-dbc9add3c936?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------reactjs----------ff07f87f_bbba_4dd2_a37f_d7bbaa72001a-------) 
+ [바로가기](https://medium.com/@dmnkb/my-takeaways-for-web-development-in-2024-5d4fcecf357d?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------nextjs----------031bea5b_5d76_4b88_a669_c74d162bcbee-------) 
 
-### Building a Flexible DTO Mapper for React and Next.js Projects 
+### This week in front-end (week 46) 2023 
 
- In the realm of web development, working with APIs often involves handling response models with diff... 
+ From Tailwind CSS Animation to React Games... 
 
- [바로가기](https://medium.com/@mokremiz/building-a-flexible-dto-mapper-for-react-and-next-js-projects-3ee77055f05d?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------nextjs----------dbe0f548_5df1_4510_9d4f_97338922aa2e-------) 
+ [바로가기](https://medium.com/jysktech/this-week-in-front-end-week-46-2023-ba1d4d2f53e5?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------front_end_development----------a799b37a_6221_4d95_bb4c_0ddaacdb8a89-------) 
 
 ###   HTMX 살펴보기 및 React와 비교하기 
 
