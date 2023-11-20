@@ -1,11 +1,5 @@
 # 오늘의 포스팅 
-2023년 11월 19일 9시 기준 
-
-### Strapi » to get what you need… Customization, the recipe 
-
- When diving into Strapi for the first time, sculpting a data model to suit our requirements is a bre... 
-
- [바로가기](https://medium.com/@achiumenti/strapi-to-get-what-you-need-customization-the-recipe-74cdb951c602?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------frontend----------36d0fdec_1dbb_4ec1_8bdd_24f2afd030b9-------) 
+2023년 11월 20일 9시 기준 
 
 ### ✨My Journey from React.js to Vue.js✨ 
 
@@ -13,17 +7,23 @@
 
  [바로가기](https://medium.com/huawei-developers/my-journey-from-react-js-to-vue-js-2cc2affd071c?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------reactjs----------e9370177_5c35_4a3f_93f4_2303cd894915-------) 
 
-### My takeaways for web development in 2024 
+### A React Developer’s Basic Guide to Data Fetching in Next.js 13 
 
- Hey, my name is Dominik, I am a React developer and I work full-time at Lichtblick SE in Hamburg, Ge... 
+ Explore the basics of data fetching in Next.js 13 with this easy-to-follow guide designed for React ... 
 
- [바로가기](https://medium.com/@dmnkb/my-takeaways-for-web-development-in-2024-5d4fcecf357d?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------nextjs----------031bea5b_5d76_4b88_a669_c74d162bcbee-------) 
+ [바로가기](https://medium.com/@chaitanya99j/a-react-developers-basic-guide-to-data-fetching-in-next-js-13-6cda3d0d853a?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------nextjs----------fa7205ef_647c_4537_8ce6_6cf380aa803a-------) 
 
-### This week in front-end (week 46) 2023 
+### How “Monthly Project Sharing” Strengthened the Frontend Team 
 
- From Tailwind CSS Animation to React Games... 
+ Author: Daniel Kraus, Frontend Engineering Director @ STRV... 
 
- [바로가기](https://medium.com/jysktech/this-week-in-front-end-week-46-2023-ba1d4d2f53e5?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------front_end_development----------a799b37a_6221_4d95_bb4c_0ddaacdb8a89-------) 
+ [바로가기](https://medium.com/@strv/how-monthly-project-sharing-strengthened-the-frontend-team-cbccd6fe0835?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-107----------front_end_development----------78a53975_8a12_4989_98a5_c45d30c91e47-------) 
+
+### 10 Tips to Boost Your React JS Proficiency 
+
+ One well-liked JavaScript library that’s frequently used in web application development is React JS.... 
+
+ [바로가기](https://medium.com/@adarshrai3011/10-tips-to-boost-your-react-js-proficiency-9a5e678f21e5?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------react----------5bfc417e_fdd7_4595_bc48_1cb109ecf53b-------) 
 
 ###   HTMX 살펴보기 및 React와 비교하기 
 
