@@ -1,29 +1,29 @@
 # 오늘의 포스팅 
-2023년 11월 20일 9시 기준 
+2023년 11월 21일 9시 기준 
 
-### ✨My Journey from React.js to Vue.js✨ 
+### Next.js File Upload API Tutorial (local directory) 
 
- Hey there, fellow developers! I had started my career with React.js and Go. Then surprisingly I…... 
+ Overview... 
 
- [바로가기](https://medium.com/huawei-developers/my-journey-from-react-js-to-vue-js-2cc2affd071c?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------reactjs----------e9370177_5c35_4a3f_93f4_2303cd894915-------) 
+ [바로가기](https://medium.com/@xhowais/next-js-file-upload-api-tutorial-local-directroy-7ec039efbd66?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------nextjs----------3d59e35f_b809_418d_b596_8ee0069d0837-------) 
 
-### A React Developer’s Basic Guide to Data Fetching in Next.js 13 
+### Frontend Weekly Digest #337 (13–19 November 2023) 
 
- Explore the basics of data fetching in Next.js 13 with this easy-to-follow guide designed for React ... 
+ Web-development... 
 
- [바로가기](https://medium.com/@chaitanya99j/a-react-developers-basic-guide-to-data-fetching-in-next-js-13-6cda3d0d853a?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------nextjs----------fa7205ef_647c_4537_8ce6_6cf380aa803a-------) 
+ [바로가기](https://medium.com/@frontender-ua/frontend-weekly-digest-337-13-19-november-2023-3e147a7b7e2c?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------front_end_development----------47501839_6768_4ec5_8560_5b3f50515f9b-------) 
 
-### How “Monthly Project Sharing” Strengthened the Frontend Team 
+### Simplifying Complex Form Management using React Hook Form 
 
- Author: Daniel Kraus, Frontend Engineering Director @ STRV... 
+ Building complex form-based applications can be challenging, but with the right tools and techniques... 
 
- [바로가기](https://medium.com/@strv/how-monthly-project-sharing-strengthened-the-frontend-team-cbccd6fe0835?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-107----------front_end_development----------78a53975_8a12_4989_98a5_c45d30c91e47-------) 
+ [바로가기](https://medium.com/@ref/simplifying-complex-form-management-using-react-hook-form-93cda4c8e154?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------react----------980074d6_0583_4ad8_8a4e_d263df5e78d5-------) 
 
-### 10 Tips to Boost Your React JS Proficiency 
+### Navigating the Nuances of toSignal in Angular: What to Know 
 
- One well-liked JavaScript library that’s frequently used in web application development is React JS.... 
+ Angular provides the toSignal function that transforms an observable to a signal. Upon examining var... 
 
- [바로가기](https://medium.com/@adarshrai3011/10-tips-to-boost-your-react-js-proficiency-9a5e678f21e5?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------react----------5bfc417e_fdd7_4595_bc48_1cb109ecf53b-------) 
+ [바로가기](https://medium.com/netanelbasal/navigating-the-nuances-of-tosignal-in-angular-what-to-know-e4d6a4b5dfaf?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------javascript----------3cededa6_0296_48ad_91e2_98313ffbaf1b-------) 
 
 ###   HTMX 살펴보기 및 React와 비교하기 
 
