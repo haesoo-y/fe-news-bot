@@ -1,29 +1,35 @@
 # 오늘의 포스팅 
-2023년 11월 22일 9시 기준 
+2023년 11월 23일 9시 기준 
 
-### Frontend Weekly Digest #337 (13–19 November 2023) 
+### From African Developer to SaaS Owner 
 
- Web-development... 
+ I life in one of most poverty country in the world, I discovery coding at university when own of my ... 
 
- [바로가기](https://medium.com/@frontender-ua/frontend-weekly-digest-337-13-19-november-2023-3e147a7b7e2c?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------front_end_development----------fedd2430_cf9e_4372_9d04_1335597fdb13-------) 
+ [바로가기](https://medium.com/@mohamedchoco123/from-african-developer-to-saas-owner-a15125eb6691?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------react----------08f38624_d1f5_41aa_8688_9e77fe89aa86-------) 
 
-### Integrate Storybook into React Native 
+### Streams in Node.js. 
 
- ... 
+ A powerful way to handle a lot of data... 
 
- [바로가기](https://medium.com/@adnaan28.azam/react-native-storybook-9e44969b9ee1?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------react----------3e7cbdf5_c9ce_49f2_8fed_c08ec7aa7535-------) 
+ [바로가기](https://medium.com/gitconnected/an-introduction-to-streams-in-node-js-e021650f0440?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-107----------javascript----------65ce99aa_4d0e_47f0_8617_94a2c3dc42af-------) 
 
-### Navigating the Nuances of toSignal in Angular: What to Know 
+### How To Build Better React Components in 2024? 
 
- Angular provides the toSignal function that transforms an observable to a signal. Upon examining var... 
+ 4 Patterns for Extensible and Reusable React Components... 
 
- [바로가기](https://medium.com/netanelbasal/navigating-the-nuances-of-tosignal-in-angular-what-to-know-e4d6a4b5dfaf?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------javascript----------3cededa6_0296_48ad_91e2_98313ffbaf1b-------) 
+ [바로가기](https://medium.com/bitsrc/how-to-build-better-react-components-in-2024-2d930b1f30b1?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------typescript----------0a0a440a_c3ab_465e_a0de_e3faacf7577d-------) 
 
-### Efficient Testing with Playwright: Configuring Diverse Environments 
+### How To Build Better React Components in 2024? 
 
- In the modern software development, testing across diverse environments is not just an option but a ... 
+ 4 Patterns for Extensible and Reusable React Components... 
 
- [바로가기](https://medium.com/@merisstupar11/efficient-testing-with-playwright-configuring-diverse-environments-ca1c78c533ca?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------typescript----------d5f33658_385b_4bd7_b020_8e48964bb3b7-------) 
+ [바로가기](https://medium.com/bitsrc/how-to-build-better-react-components-in-2024-2d930b1f30b1?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------frontend----------06328592_4a26_474d_8396_49efec851d58-------) 
+
+###  위키피디아의 총 차단 시간(TBT) 단축하여 300밀리 초 더 빠르게 만들기 
+
+ 소개 이 글은 간단한 최적화를 통해 위키피디아의 TBT 지표를 개선했던 경험을 공유합니다. TBT는 First Contentful Paint(FCP)와…... 
+
+ [바로가기](https://kofearticle.substack.com/p/korean-fe-article-tbt-300) 
 
 ###   HTMX 살펴보기 및 React와 비교하기 
 
@@ -31,23 +37,17 @@
 
  [바로가기](https://kofearticle.substack.com/p/korean-fe-article-htmx-react) 
 
-###  Next.js에서 패키지 가져오기를 최적화한 방법 
+### IT기업 내 중요성 커지는 '데브렐' 한자리에 모이는 날 
 
- 글 링크 : https://velog.io/@lky5697/how-we-optimized-package-imports-in-next-js 소개 애플리케이션을 개발하면서 NextJS... 
+ ‘데브렐’이라는 직무를 아시나요? 디벨로퍼 릴레이션십(Developer Relations, 개발자 관계)을 줄여 ‘데브렐’이라 하고, DR이라고 하기도 합니다. 데브렐은 개발자, ... 
 
- [바로가기](https://kofearticle.substack.com/p/korean-fe-article-nextjs-ad9) 
+ [바로가기](https://yozm.wishket.com/magazine/detail/2332/) 
 
 ### SSR 시작하기 전 알아야 할 것들 (feat. CSR) 
 
  최근 Nuxt 프레임워크를 사용하는 프로젝트를 진행했는데, 그동안 Vue 개발에 익숙해진 나머지 브라우저 리소스가 당연히 존재할 거라 가정하는 실수를 범했다. 그리고 이 일을 계기... 
 
  [바로가기](https://yozm.wishket.com/magazine/detail/2330/) 
-
-### 프론트엔드 개발자가 API를 설계하는 이유 
-
- B2B SaaS 애플리케이션 개발을 시작하면서 KOS팀은 인터페이스 정의 언어(이하 IDL, Interface Definition Language)를 도입하게 되었습니다. IDL은... 
-
- [바로가기](https://yozm.wishket.com/magazine/detail/2325/) 
 
 ---
 
