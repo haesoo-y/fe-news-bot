@@ -1,11 +1,5 @@
 # 오늘의 포스팅 
-2023년 11월 23일 9시 기준 
-
-### From African Developer to SaaS Owner 
-
- I life in one of most poverty country in the world, I discovery coding at university when own of my ... 
-
- [바로가기](https://medium.com/@mohamedchoco123/from-african-developer-to-saas-owner-a15125eb6691?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------react----------08f38624_d1f5_41aa_8688_9e77fe89aa86-------) 
+2023년 11월 24일 9시 기준 
 
 ### Streams in Node.js. 
 
@@ -13,17 +7,23 @@
 
  [바로가기](https://medium.com/gitconnected/an-introduction-to-streams-in-node-js-e021650f0440?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-107----------javascript----------65ce99aa_4d0e_47f0_8617_94a2c3dc42af-------) 
 
+### How to get started with shadcn/ui and Next.js within a Nx Monorepo 
+
+ ... 
+
+ [바로가기](https://medium.com/@patrickvaler/how-to-get-started-with-shadcn-ui-and-next-js-within-a-nx-monorepo-57908f48b4ef?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------typescript----------11f14472_96bc_4d7f_b253_d38a5869e336-------) 
+
 ### How To Build Better React Components in 2024? 
 
  4 Patterns for Extensible and Reusable React Components... 
 
- [바로가기](https://medium.com/bitsrc/how-to-build-better-react-components-in-2024-2d930b1f30b1?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------typescript----------0a0a440a_c3ab_465e_a0de_e3faacf7577d-------) 
+ [바로가기](https://medium.com/bitsrc/how-to-build-better-react-components-in-2024-2d930b1f30b1?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------frontend----------4ef80148_d812_4c9d_91de_17a5ff4507a1-------) 
 
-### How To Build Better React Components in 2024? 
+### Learn Next.js By Building Your First Next.js App From Scratch 
 
- 4 Patterns for Extensible and Reusable React Components... 
+ Learn about Next.js key features by building your first Next.js app step by step... 
 
- [바로가기](https://medium.com/bitsrc/how-to-build-better-react-components-in-2024-2d930b1f30b1?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------frontend----------06328592_4a26_474d_8396_49efec851d58-------) 
+ [바로가기](https://medium.com/gitconnected/learn-next-js-by-building-your-first-next-js-app-from-scratch-8ec7cc93a9cb?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-107----------reactjs----------6f0f92ab_9af1_479e_9348_76850f1749fd-------) 
 
 ###  위키피디아의 총 차단 시간(TBT) 단축하여 300밀리 초 더 빠르게 만들기 
 
@@ -37,17 +37,17 @@
 
  [바로가기](https://kofearticle.substack.com/p/korean-fe-article-htmx-react) 
 
+### 빠르게 학습하는 개발자가 되는 방법 
+
+ 새로운 것을 배우는 것이 직업의 정수인 소프트웨어 개발자에게는 효과적으로 학습하는 방법을 아는 것이 매우 중요합니다. 새로운 언어, 프레임워크, 도구를 빠르게 익힐 수 있다면 다른... 
+
+ [바로가기](https://yozm.wishket.com/magazine/detail/2334/) 
+
 ### IT기업 내 중요성 커지는 '데브렐' 한자리에 모이는 날 
 
  ‘데브렐’이라는 직무를 아시나요? 디벨로퍼 릴레이션십(Developer Relations, 개발자 관계)을 줄여 ‘데브렐’이라 하고, DR이라고 하기도 합니다. 데브렐은 개발자, ... 
 
  [바로가기](https://yozm.wishket.com/magazine/detail/2332/) 
-
-### SSR 시작하기 전 알아야 할 것들 (feat. CSR) 
-
- 최근 Nuxt 프레임워크를 사용하는 프로젝트를 진행했는데, 그동안 Vue 개발에 익숙해진 나머지 브라우저 리소스가 당연히 존재할 거라 가정하는 실수를 범했다. 그리고 이 일을 계기... 
-
- [바로가기](https://yozm.wishket.com/magazine/detail/2330/) 
 
 ---
 
