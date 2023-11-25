@@ -1,29 +1,29 @@
 # 오늘의 포스팅 
-2023년 11월 24일 9시 기준 
+2023년 11월 25일 9시 기준 
 
-### Streams in Node.js. 
+### Private class properties with # in Angular 
 
- A powerful way to handle a lot of data... 
+ Javascript recently added # to denote private class properties making a properties making a class va... 
 
- [바로가기](https://medium.com/gitconnected/an-introduction-to-streams-in-node-js-e021650f0440?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-107----------javascript----------65ce99aa_4d0e_47f0_8617_94a2c3dc42af-------) 
+ [바로가기](https://medium.com/@bhargavr445/private-class-properties-with-in-angular-a06627f66b80?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------typescript----------30966893_85e1_48f6_a527_3584f9ca8b06-------) 
+
+### How To Create A Modular React Library? 
+
+ Learn how you can build a modular React library using Storybook and Bit... 
+
+ [바로가기](https://medium.com/bitsrc/how-to-create-a-modular-react-library-6c6e919ff92c?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------frontend----------0d0fbe26_9854_4068_bc25_93d736c49882-------) 
+
+### MEMOIZATION IN REACT — (memo, useCallback and useMemo) 
+
+ Hello all. Today we’ll be talking about what is memoization in react, when to use it and which hooks... 
+
+ [바로가기](https://medium.com/@rumeysakaragoz18/memoization-in-react-memo-usecallback-and-usememo-3daec5349ee7?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------reactjs----------9419d181_5471_4c71_92ca_67efdb97789c-------) 
 
 ### How to get started with shadcn/ui and Next.js within a Nx Monorepo 
 
  ... 
 
- [바로가기](https://medium.com/@patrickvaler/how-to-get-started-with-shadcn-ui-and-next-js-within-a-nx-monorepo-57908f48b4ef?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------typescript----------11f14472_96bc_4d7f_b253_d38a5869e336-------) 
-
-### How To Build Better React Components in 2024? 
-
- 4 Patterns for Extensible and Reusable React Components... 
-
- [바로가기](https://medium.com/bitsrc/how-to-build-better-react-components-in-2024-2d930b1f30b1?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------frontend----------4ef80148_d812_4c9d_91de_17a5ff4507a1-------) 
-
-### Learn Next.js By Building Your First Next.js App From Scratch 
-
- Learn about Next.js key features by building your first Next.js app step by step... 
-
- [바로가기](https://medium.com/gitconnected/learn-next-js-by-building-your-first-next-js-app-from-scratch-8ec7cc93a9cb?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-107----------reactjs----------6f0f92ab_9af1_479e_9348_76850f1749fd-------) 
+ [바로가기](https://medium.com/@patrickvaler/how-to-get-started-with-shadcn-ui-and-next-js-within-a-nx-monorepo-57908f48b4ef?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------nextjs----------899c467a_1ae9_47ed_9f8f_d73eea28f957-------) 
 
 ###  위키피디아의 총 차단 시간(TBT) 단축하여 300밀리 초 더 빠르게 만들기 
 
