@@ -1,29 +1,29 @@
 # 오늘의 포스팅 
-2023년 11월 25일 9시 기준 
+2023년 11월 26일 9시 기준 
 
-### Private class properties with # in Angular 
+### Update Guide: nx workspace to Angular 17 
 
- Javascript recently added # to denote private class properties making a properties making a class va... 
+ If you are working within an nx workspace, and can not wait any longer to give the latest angular fe... 
 
- [바로가기](https://medium.com/@bhargavr445/private-class-properties-with-in-angular-a06627f66b80?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------typescript----------30966893_85e1_48f6_a527_3584f9ca8b06-------) 
+ [바로가기](https://medium.com/@marcelltech/update-guide-nx-workspace-to-angular-17-77af98c88895?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------frontend----------8ba53d7c_0b07_483b_9c23_46e015ae80af-------) 
 
-### How To Create A Modular React Library? 
+### Concealing Source Code in React.js Projects 
 
- Learn how you can build a modular React library using Storybook and Bit... 
+ If you do not want the source code of your React projects to be viewable through inspection after bu... 
 
- [바로가기](https://medium.com/bitsrc/how-to-create-a-modular-react-library-6c6e919ff92c?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------frontend----------0d0fbe26_9854_4068_bc25_93d736c49882-------) 
+ [바로가기](https://medium.com/@onursakalli97/concealing-source-code-in-react-js-projects-856eed727705?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------reactjs----------1a720c1f_2815_44e7_a523_fab03e913423-------) 
 
-### MEMOIZATION IN REACT — (memo, useCallback and useMemo) 
+### Next.js 14: The Power of URL in State Management 
 
- Hello all. Today we’ll be talking about what is memoization in react, when to use it and which hooks... 
+ In the ever-evolving landscape of web development, a silent hero has emerged — the URL. As frontende... 
 
- [바로가기](https://medium.com/@rumeysakaragoz18/memoization-in-react-memo-usecallback-and-usememo-3daec5349ee7?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------reactjs----------9419d181_5471_4c71_92ca_67efdb97789c-------) 
+ [바로가기](https://medium.com/gogrow/next-js-14-the-power-of-url-in-state-management-7d38a4e34ca8?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------nextjs----------7e31e544_de77_4256_85e7_ce7508a5bb6d-------) 
 
-### How to get started with shadcn/ui and Next.js within a Nx Monorepo 
+### This week in front-end (week 47) 2023 
 
- ... 
+ Vite 5.0 Release, UX Magic, and CSS Mastery... 
 
- [바로가기](https://medium.com/@patrickvaler/how-to-get-started-with-shadcn-ui-and-next-js-within-a-nx-monorepo-57908f48b4ef?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------nextjs----------899c467a_1ae9_47ed_9f8f_d73eea28f957-------) 
+ [바로가기](https://medium.com/jysktech/this-week-in-front-end-week-47-2023-dae874e3f1c7?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------front_end_development----------1953eea6_c688_4a20_bb7e_0e2490c49f5c-------) 
 
 ###  위키피디아의 총 차단 시간(TBT) 단축하여 300밀리 초 더 빠르게 만들기 
 
