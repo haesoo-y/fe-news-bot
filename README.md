@@ -1,17 +1,11 @@
 # 오늘의 포스팅 
-2023년 11월 27일 9시 기준 
-
-### React30-Project 17: Implementing React Query in a Web App 
-
- Title image... 
-
- [바로가기](https://medium.com/@smhatre59/react30-project-17-implementing-react-query-in-a-web-app-c6931895ea0a?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------reactjs----------a8736bfc_691c_4365_990e_1fe60711de6c-------) 
+2023년 11월 28일 9시 기준 
 
 ### Next.js 14: The Power of URL in State Management 
 
  In the ever-evolving landscape of web development, a silent hero has emerged — the URL. As frontende... 
 
- [바로가기](https://medium.com/gogrow/next-js-14-the-power-of-url-in-state-management-7d38a4e34ca8?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------nextjs----------c7a10c57_029b_4e2d_81e3_1813faca79d9-------) 
+ [바로가기](https://medium.com/gogrow/next-js-14-the-power-of-url-in-state-management-7d38a4e34ca8?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------nextjs----------8f28eb92_f4ce_4f68_b0e7_ee16a2d3f021-------) 
 
 ### Set Operations with Child Components 
 
@@ -19,11 +13,23 @@
 
  [바로가기](https://medium.com/@m.barancakmak/set-operations-with-child-components-66392a1f7636?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------front_end_development----------21e63068_7eb5_435b_9fdb_e6d2278f0294-------) 
 
-### Beyond JavaScript: Exploring .NET Blazor’s Challenge to React 
+### React Folder/File Structure Patterns and Tips: Part 2 
 
- A 2023 Comparison between .NET Blazor WASM and React... 
+ ... 
 
- [바로가기](https://medium.com/itnext/beyond-javascript-exploring-net-blazors-challenge-to-react-e9bcd41ef4a0?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-107----------react----------0a9efb6d_af43_4074_83b1_9494039047f5-------) 
+ [바로가기](https://medium.com/@caglayanyanikoglu/react-folder-file-structure-patterns-and-tips-part-2-43e0b1f657b4?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------react----------188c1889_e9e5_46cc_b6b8_55abaedb124a-------) 
+
+### Secrets of Type Generation in TypeScript 
+
+ My learnings about type generation with code generators and TypeScript inference with examples.... 
+
+ [바로가기](https://medium.com/gitconnected/secrets-of-type-generation-in-typescript-5d74c2e9dc56?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-107----------javascript----------62f270bd_08ee_40c9_9f22_a55993205f87-------) 
+
+###  소프트 내비게이션 측정 실험하기 
+
+ 소개 2020년 5월 구글은 웹 바이탈 이니셔티브 시작을 발표하며 함께 코어 웹 바이탈을 소개했습니다. 웹 바이탈의 하위 집합이기도 한 코어 웹 바이탈은, 이후 실제 사용자의 환... 
+
+ [바로가기](https://kofearticle.substack.com/p/korean-fe-article-0f7) 
 
 ###  헤드리스 컴포넌트: 리액트 UI를 합성하기 위한 패턴 
 
@@ -31,23 +37,17 @@
 
  [바로가기](https://kofearticle.substack.com/p/korean-fe-article-ui-2c5) 
 
-###  위키피디아의 총 차단 시간(TBT) 단축하여 300밀리 초 더 빠르게 만들기 
+### 좋은 개발 리더가 되기 위해 고민해 본 것들 
 
- 소개 이 글은 간단한 최적화를 통해 위키피디아의 TBT 지표를 개선했던 경험을 공유합니다. TBT는 First Contentful Paint(FCP)와…... 
+ 이번 글에서는 지난 3년간 개인 기여자(Individual Contributor, IC)가 아닌 한 명의 리더로서 좋은 리더란 무엇인지, 또 좋은 리더가 되려면 어떤 역량이 필요한... 
 
- [바로가기](https://kofearticle.substack.com/p/korean-fe-article-tbt-300) 
+ [바로가기](https://yozm.wishket.com/magazine/detail/2338/) 
 
 ### 빠르게 학습하는 개발자가 되는 방법 
 
  새로운 것을 배우는 것이 직업의 정수인 소프트웨어 개발자에게는 효과적으로 학습하는 방법을 아는 것이 매우 중요합니다. 새로운 언어, 프레임워크, 도구를 빠르게 익힐 수 있다면 다른... 
 
  [바로가기](https://yozm.wishket.com/magazine/detail/2334/) 
-
-### IT기업 내 중요성 커지는 '데브렐' 한자리에 모이는 날 
-
- ‘데브렐’이라는 직무를 아시나요? 디벨로퍼 릴레이션십(Developer Relations, 개발자 관계)을 줄여 ‘데브렐’이라 하고, DR이라고 하기도 합니다. 데브렐은 개발자, ... 
-
- [바로가기](https://yozm.wishket.com/magazine/detail/2332/) 
 
 ---
 
