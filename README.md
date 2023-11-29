@@ -1,17 +1,11 @@
 # 오늘의 포스팅 
-2023년 11월 28일 9시 기준 
+2023년 11월 29일 9시 기준 
 
-### Next.js 14: The Power of URL in State Management 
+### Frontend Weekly Digest #338 (20–26 November 2023) 
 
- In the ever-evolving landscape of web development, a silent hero has emerged — the URL. As frontende... 
+ Web-development... 
 
- [바로가기](https://medium.com/gogrow/next-js-14-the-power-of-url-in-state-management-7d38a4e34ca8?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------nextjs----------8f28eb92_f4ce_4f68_b0e7_ee16a2d3f021-------) 
-
-### Set Operations with Child Components 
-
- There are several methods for this operation. However, in this article, we will discuss which method... 
-
- [바로가기](https://medium.com/@m.barancakmak/set-operations-with-child-components-66392a1f7636?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------front_end_development----------21e63068_7eb5_435b_9fdb_e6d2278f0294-------) 
+ [바로가기](https://medium.com/@frontender-ua/frontend-weekly-digest-338-20-26-november-2023-0391292f6e58?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------front_end_development----------3d5ab537_a71e_4b4b_9089_620ecdeda4f5-------) 
 
 ### React Folder/File Structure Patterns and Tips: Part 2 
 
@@ -19,11 +13,17 @@
 
  [바로가기](https://medium.com/@caglayanyanikoglu/react-folder-file-structure-patterns-and-tips-part-2-43e0b1f657b4?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------react----------188c1889_e9e5_46cc_b6b8_55abaedb124a-------) 
 
-### Secrets of Type Generation in TypeScript 
+### We don’t make mistakes 🎨 
 
- My learnings about type generation with code generators and TypeScript inference with examples.... 
+ Drizzle is giving away 1000$ for your HEX colors... 
 
- [바로가기](https://medium.com/gitconnected/secrets-of-type-generation-in-typescript-5d74c2e9dc56?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-107----------javascript----------62f270bd_08ee_40c9_9f22_a55993205f87-------) 
+ [바로가기](https://medium.com/drizzle-stories/we-dont-make-mistakes-cc89f98e79fc?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------javascript----------80f3f123_fcfd_48ab_902e_3688ec07fd26-------) 
+
+### We don’t make mistakes 🎨 
+
+ Drizzle is giving away 1000$ for your HEX colors... 
+
+ [바로가기](https://medium.com/drizzle-stories/we-dont-make-mistakes-cc89f98e79fc?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------typescript----------c6f71919_7e0a_42fa_8a99_cf6b8dae3376-------) 
 
 ###  소프트 내비게이션 측정 실험하기 
 
@@ -37,17 +37,17 @@
 
  [바로가기](https://kofearticle.substack.com/p/korean-fe-article-ui-2c5) 
 
-### 좋은 개발 리더가 되기 위해 고민해 본 것들 
+### 프론트엔드 개발자가 알아야 할 ‘캐싱’ 개념 정리 
 
- 이번 글에서는 지난 3년간 개인 기여자(Individual Contributor, IC)가 아닌 한 명의 리더로서 좋은 리더란 무엇인지, 또 좋은 리더가 되려면 어떤 역량이 필요한... 
+ 프론트엔드 개발자라면 아마 웹사이트 성능을 최적화하는 것에 관심이 있을 것이다. 웹사이트 로딩 시간을 줄이고, 물 흐르듯 자연스러운 사용자 경험을 만드는 것은 비즈니스에도 큰 영향... 
 
- [바로가기](https://yozm.wishket.com/magazine/detail/2338/) 
+ [바로가기](https://yozm.wishket.com/magazine/detail/2341/) 
 
-### 빠르게 학습하는 개발자가 되는 방법 
+### 생산성 200% 올리는 업무 관리 방법(이론편) 
 
- 새로운 것을 배우는 것이 직업의 정수인 소프트웨어 개발자에게는 효과적으로 학습하는 방법을 아는 것이 매우 중요합니다. 새로운 언어, 프레임워크, 도구를 빠르게 익힐 수 있다면 다른... 
+ 우리는 하루 대부분의 시간을 일하는 데 사용합니다. 하지만 현실은 어떤가요? 과연 나는 들이는 시간만큼 결과물을 내고 있을까요? 혹시 본인이 다음 내용 중 해당하는 게 있는지 확인... 
 
- [바로가기](https://yozm.wishket.com/magazine/detail/2334/) 
+ [바로가기](https://yozm.wishket.com/magazine/detail/2339/) 
 
 ---
 
