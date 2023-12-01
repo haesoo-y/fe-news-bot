@@ -1,29 +1,35 @@
 # 오늘의 포스팅 
-2023년 11월 30일 9시 기준 
+2023년 12월 1일 9시 기준 
 
-### 18 JavaScript One-Liners That’ll Make You Look Like a Pro 
+### ⚡Vite 5 Released: Builds 2–11% Faster 
 
- A list of one-liners you should know to up your knowledge of JavaScript.... 
+ The new Vite release improves the build time for the sake of all CI/CD operations!... 
 
- [바로가기](https://medium.com/@fatfish/18-javascript-one-liners-thatll-make-you-look-like-a-pro-26d714dcc56b?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------react----------ebab1e1b_cf52_4a0c_9d70_43944f008e6f-------) 
+ [바로가기](https://medium.com/@tomaszs2/vite-5-released-builds-2-11-faster-570bbd22647d?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------javascript----------dda4b00b_9d7d_4e3d_8f50_c38638da1954-------) 
 
-### Best Practices for Node.js Development 
+### Frontend monorepo on Shippio 🏯 
 
- Node.js is a powerful and popular runtime environment for building scalable and efficient server-sid... 
+ Why move on to monorepo... 
 
- [바로가기](https://medium.com/@muletech/best-practices-for-node-js-development-039a9a9fcd76?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------javascript----------7e3db88a_5866_4995_8773_9521fe6d17ea-------) 
+ [바로가기](https://medium.com/shippio/frontend-monorepo-on-shippio-02d6c8dff479?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------typescript----------3eeca18b_9afa_48ad_bd9c_b06d977676ae-------) 
 
-### We don’t make mistakes 🎨 
+### Transitioning to Angular 17’s New Control Flow Syntax 
 
- Drizzle is giving away 1000$ for your HEX colors... 
+ Hello, Angular developers! After recently migrating some templates of our current project to Angular... 
 
- [바로가기](https://medium.com/drizzle-stories/we-dont-make-mistakes-cc89f98e79fc?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------typescript----------c6f71919_7e0a_42fa_8a99_cf6b8dae3376-------) 
+ [바로가기](https://medium.com/@dimeloper/transitioning-to-angular-17s-new-control-flow-syntax-0555aa45f06f?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------frontend----------180459b7_8dbf_4e3d_99d5_5b31cd299911-------) 
 
-### Use Box TS SDK in browser based projects 
+### How to refactor your React application to make it testable — Part 1 
 
- In my previous post, I explored our newly released Box TS and used it in a simple Node.js app. As we... 
+ Have you ever wanted to start creating unit tests, but didn’t do it because the function or componen... 
 
- [바로가기](https://medium.com/box-developer-blog/use-box-ts-sdk-in-browser-based-projects-41fce49d24f5?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------frontend----------1d5e8e22_d042_45a5_8412_30a4d88327dd-------) 
+ [바로가기](https://medium.com/@hohin523/how-to-refactor-your-react-application-to-make-it-testable-part-1-8134656df2d9?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------reactjs----------d1c5a615_c495_4cb1_a336_56a413ab70c1-------) 
+
+###  React로 돌아가기 
+
+ 글 링크 : https://velog.io/@lky5697/moving-back-to-react 소개 이 글은 daily.dev 팀이 프런트엔드 프레임워크를 Preact에서 Rea... 
+
+ [바로가기](https://kofearticle.substack.com/p/korean-fe-article-react-900) 
 
 ###  시그널(Signal)에 대한 소개 
 
@@ -31,23 +37,17 @@
 
  [바로가기](https://kofearticle.substack.com/p/korean-fe-article-signal-c65) 
 
-###  소프트 내비게이션 측정 실험하기 
+### 6년 묵은 레거시 청산하기(RootController 리팩토링) 
 
- 소개 2020년 5월 구글은 웹 바이탈 이니셔티브 시작을 발표하며 함께 코어 웹 바이탈을 소개했습니다. 웹 바이탈의 하위 집합이기도 한 코어 웹 바이탈은, 이후 실제 사용자의 환... 
+ 안녕하세요? 29CM iOS 엔지니어 박형석입니다. 팀의 성장과 서비스의 변화는 소프트웨어의 변경을 동반하고 때때로 레거시를 양산합니다. 손놓고 있었던 레거시는 어느새 여기저기 뿌... 
 
- [바로가기](https://kofearticle.substack.com/p/korean-fe-article-0f7) 
+ [바로가기](https://yozm.wishket.com/magazine/detail/2344/) 
 
 ### 개발자! 코드 경직성을 깨버려라 
 
  과거 일했던 회사에서 처음 배운 것 중 하나는 어떤 대가를 치르더라도 코드 재작성을 피하는 것이었다. 변경을 거듭할 때마다, 잘 되던 것이 오히려 버그로 회귀할 위험이 있기 때문이... 
 
  [바로가기](https://yozm.wishket.com/magazine/detail/2343/) 
-
-### 프론트엔드 개발자가 알아야 할 ‘캐싱’ 개념 정리 
-
- 프론트엔드 개발자라면 아마 웹사이트 성능을 최적화하는 것에 관심이 있을 것이다. 웹사이트 로딩 시간을 줄이고, 물 흐르듯 자연스러운 사용자 경험을 만드는 것은 비즈니스에도 큰 영향... 
-
- [바로가기](https://yozm.wishket.com/magazine/detail/2341/) 
 
 ---
 
