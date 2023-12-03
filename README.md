@@ -1,29 +1,29 @@
 # 오늘의 포스팅 
-2023년 12월 2일 9시 기준 
+2023년 12월 3일 9시 기준 
 
-### Frontend monorepo on Shippio 🏯 
+### How to name our React components? 
 
- Why move on to monorepo... 
+ When it comes to clean code we should keep in mind that the very basic thing to keep the codebase ma... 
 
- [바로가기](https://medium.com/shippio/frontend-monorepo-on-shippio-02d6c8dff479?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------typescript----------c6bfcaaf_2ca9_4c3e_bd39_2382b6b38962-------) 
+ [바로가기](https://medium.com/@maxtsh/how-to-name-our-react-components-75cea3b7ea76?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------frontend----------04c443b1_8a5b_442f_8c5d_a71b31f738b3-------) 
 
-### Frontend monorepo on Shippio 🏯 
+### How to use environment variables on Cypress — Practical example with React 
 
- Why move on to monorepo... 
+ Hi everyone! Today I show you how to use environment variables on Cypress in a simple way, now let’s... 
 
- [바로가기](https://medium.com/shippio/frontend-monorepo-on-shippio-02d6c8dff479?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------frontend----------a5ce64e4_b024_4fc0_87dc_8c6091e7c07c-------) 
-
-### How to refactor your React application to make it testable — Part 1 
-
- Have you ever wanted to start creating unit tests, but didn’t do it because the function or componen... 
-
- [바로가기](https://medium.com/@hohin523/how-to-refactor-your-react-application-to-make-it-testable-part-1-8134656df2d9?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------reactjs----------0969fe06_ba8b_4df9_8543_2f1139b46207-------) 
+ [바로가기](https://medium.com/@martinval11/how-to-use-environment-variables-on-cypress-practical-example-with-react-ec82040aa64f?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------reactjs----------a0db45bc_99b3_4952_a299_aa62131f3b88-------) 
 
 ### Converting Figma To React the Fast and Easy Way 
 
  If you think that AI is going to replace web developers, look no further than trying to turn a Figma... 
 
- [바로가기](https://medium.com/@jherr2020/converting-figma-to-react-the-fast-and-easy-way-d6525a866f24?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------nextjs----------a3a78806_fbfc_4bfb_a29b_27282651d8d7-------) 
+ [바로가기](https://medium.com/@jherr2020/converting-figma-to-react-the-fast-and-easy-way-d6525a866f24?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------nextjs----------165a2961_b277_4f87_9207_feb8fc7100dd-------) 
+
+### As a Front-End Engineer, 4 React Traps And TipsYou Should Know About 
+
+ 4 very useful React tips.... 
+
+ [바로가기](https://medium.com/@fatfish/as-a-front-end-engineer-4-react-traps-and-tipsyou-should-know-about-22a67031709b?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------front_end_development----------2d2d06c2_5ab1_459a_b9bc_5bd7ecbe36b5-------) 
 
 ###  React로 돌아가기 
 
