@@ -1,41 +1,41 @@
 # 오늘의 포스팅 
-2023년 12월 3일 9시 기준 
+2023년 12월 4일 9시 기준 
 
-### How to name our React components? 
+### ReactJS Project Setup Using Shell Script 
 
- When it comes to clean code we should keep in mind that the very basic thing to keep the codebase ma... 
+ These days, ReactJS suggests installing ReactJS using another framework or Next JS. For inexperience... 
 
- [바로가기](https://medium.com/@maxtsh/how-to-name-our-react-components-75cea3b7ea76?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------frontend----------04c443b1_8a5b_442f_8c5d_a71b31f738b3-------) 
-
-### How to use environment variables on Cypress — Practical example with React 
-
- Hi everyone! Today I show you how to use environment variables on Cypress in a simple way, now let’s... 
-
- [바로가기](https://medium.com/@martinval11/how-to-use-environment-variables-on-cypress-practical-example-with-react-ec82040aa64f?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------reactjs----------a0db45bc_99b3_4952_a299_aa62131f3b88-------) 
+ [바로가기](https://medium.com/@kmsaifullah16/reactjs-project-setup-using-shell-script-d1ea09aa0792?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------reactjs----------bb3fe32f_0192_4b21_ae83_6bffc620d6f9-------) 
 
 ### Converting Figma To React the Fast and Easy Way 
 
  If you think that AI is going to replace web developers, look no further than trying to turn a Figma... 
 
- [바로가기](https://medium.com/@jherr2020/converting-figma-to-react-the-fast-and-easy-way-d6525a866f24?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------nextjs----------165a2961_b277_4f87_9207_feb8fc7100dd-------) 
+ [바로가기](https://medium.com/@jherr2020/converting-figma-to-react-the-fast-and-easy-way-d6525a866f24?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------nextjs----------04d982cb_0c0f_4a4c_97a5_9ece9b8f55cb-------) 
 
-### As a Front-End Engineer, 4 React Traps And TipsYou Should Know About 
+### Demystifying React State Management: A Beginner’s Guide 
 
- 4 very useful React tips.... 
+ Understanding React State Management and why we need it as a React Developer.... 
 
- [바로가기](https://medium.com/@fatfish/as-a-front-end-engineer-4-react-traps-and-tipsyou-should-know-about-22a67031709b?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------front_end_development----------2d2d06c2_5ab1_459a_b9bc_5bd7ecbe36b5-------) 
+ [바로가기](https://medium.com/@spsarkar/demystifying-react-state-management-a-beginners-guide-50b5e80bb8bd?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------front_end_development----------a2b33e93_7237_4c4a_a043_bba0a8dee759-------) 
+
+### I’m Stopping React Digital Garden Update News 
+
+ I will no longer update the news because React Digital Garden will be the sample/demo environment of... 
+
+ [바로가기](https://medium.com/react-digital-garden/im-stopping-react-digital-garden-update-news-19f51813a1bf?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------react----------f56e653a_a394_4493_ac4d_8345193d5a35-------) 
+
+###  내가 Next.js를 사용하지 않는 이유 
+
+ 글 링크 : https://emewjin.github.io/why-wont-use-nextjs/ 소개 리액트 커뮤니티에서 Next.js는 많은 주목을 받고 있습니다. 최근 한국에서... 
+
+ [바로가기](https://kofearticle.substack.com/p/korean-fe-article-nextjs-315) 
 
 ###  React로 돌아가기 
 
  글 링크 : https://velog.io/@lky5697/moving-back-to-react 소개 이 글은 daily.dev 팀이 프런트엔드 프레임워크를 Preact에서 Rea... 
 
  [바로가기](https://kofearticle.substack.com/p/korean-fe-article-react-900) 
-
-###  시그널(Signal)에 대한 소개 
-
- 소개 최근 프런트엔드 생태계에서 ‘Signal’이라는 용어가 자주 이야기되고 있습니다. Korea FE Article에서도 자바스크립트 Signal의 진화라는 글이 번역되어 발행된... 
-
- [바로가기](https://kofearticle.substack.com/p/korean-fe-article-signal-c65) 
 
 ### 오토스케일링 위한 '카펜터' 설치부터 설정까지 
 
