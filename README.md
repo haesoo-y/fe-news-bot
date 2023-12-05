@@ -1,17 +1,11 @@
 # 오늘의 포스팅 
-2023년 12월 4일 9시 기준 
+2023년 12월 5일 9시 기준 
 
-### ReactJS Project Setup Using Shell Script 
+### Building Desktop Apps with Electron + Next.JS (without Nextron) 
 
- These days, ReactJS suggests installing ReactJS using another framework or Next JS. For inexperience... 
+ A little and simple guide on how to create multiplatform Desktop apps with Electron and Next.JS with... 
 
- [바로가기](https://medium.com/@kmsaifullah16/reactjs-project-setup-using-shell-script-d1ea09aa0792?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------reactjs----------bb3fe32f_0192_4b21_ae83_6bffc620d6f9-------) 
-
-### Converting Figma To React the Fast and Easy Way 
-
- If you think that AI is going to replace web developers, look no further than trying to turn a Figma... 
-
- [바로가기](https://medium.com/@jherr2020/converting-figma-to-react-the-fast-and-easy-way-d6525a866f24?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------nextjs----------04d982cb_0c0f_4a4c_97a5_9ece9b8f55cb-------) 
+ [바로가기](https://medium.com/@rbfraphael/building-desktop-apps-with-electron-next-js-without-nextron-01bbf1fdd72e?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------nextjs----------040cc0d4_5603_45fd_8a06_7f68d3023f9d-------) 
 
 ### Demystifying React State Management: A Beginner’s Guide 
 
@@ -19,11 +13,17 @@
 
  [바로가기](https://medium.com/@spsarkar/demystifying-react-state-management-a-beginners-guide-50b5e80bb8bd?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------front_end_development----------a2b33e93_7237_4c4a_a043_bba0a8dee759-------) 
 
-### I’m Stopping React Digital Garden Update News 
+### ReactJS Project Setup Using Shell Script 
 
- I will no longer update the news because React Digital Garden will be the sample/demo environment of... 
+ These days, ReactJS suggests installing ReactJS using another framework or Next JS. For inexperience... 
 
- [바로가기](https://medium.com/react-digital-garden/im-stopping-react-digital-garden-update-news-19f51813a1bf?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------react----------f56e653a_a394_4493_ac4d_8345193d5a35-------) 
+ [바로가기](https://medium.com/@kmsaifullah16/reactjs-project-setup-using-shell-script-d1ea09aa0792?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------react----------ef3ae983_6e39_45b3_91c3_5740afeb79ee-------) 
+
+### Frontend Weekly Digest #339 (27 November — 3 December 2023) 
+
+ Web-development... 
+
+ [바로가기](https://medium.com/@frontender-ua/frontend-weekly-digest-339-27-november-3-december-2023-d6a0cec32f53?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------javascript----------ba3e35f6_b9ef_4945_b85e_c9c633351f81-------) 
 
 ###  내가 Next.js를 사용하지 않는 이유 
 
