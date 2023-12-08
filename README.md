@@ -1,29 +1,41 @@
 # 오늘의 포스팅 
-2023년 12월 7일 9시 기준 
+2023년 12월 8일 9시 기준 
 
-### StyleX — Meta’s Solution To Scalable CSS 
+### Building an RSS Notifier App with Nuxt, RSS Parser, and Notification 
 
- Understanding what problems Facebook faced with CSS will help us understand more about the design de... 
+ The background of this idea came after I was inspired by a tutorial video, in that video, I was advi... 
 
- [바로가기](https://medium.com/@jherr2020/stylex-metas-solution-to-scalable-css-0e06972d9bc4?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------react----------542eb8f3_8f1e_49e0_8066_8ea8b01b8449-------) 
+ [바로가기](https://medium.com/@ahmad-purnomo/building-an-rss-notifier-app-with-nuxt-rss-parser-and-notification-2c02d03231b8?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------javascript----------8aa9644d_29a1_4378_a2a1_936dc30fb746-------) 
 
-### Best of Level Up Coding (December 2023) 
+### Ouroboros type in TypeScript 
 
- In this month’s newsletter, we navigate the dynamic world of technology, programming, and AI. We loo... 
+ Let’s define a function eatsOwnTail, input of which will depend on & will be a transformation of its... 
 
- [바로가기](https://medium.com/gitconnected/best-of-level-up-coding-december-2023-860f9d692188?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------javascript----------8c6b9d68_f200_4cb7_a0a6_e2f1f72382a9-------) 
+ [바로가기](https://medium.com/@miroslavpetrik/ouroboros-type-in-typescript-45b6191602c6?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------typescript----------a5a3eeb6_a21f_422d_9fa9_bcf617dd22b3-------) 
 
-### Top 10 TS Projects to Watch in 2024 
+### Build your own StorybookGPT 
 
- Exploring the Future: Unveiling the Top 10 TS Projects Reshaping 2024 with No/Low-Code Tools and AI ... 
+ Learn how you can combine Storybook and GPTs to generate component stories automatically... 
 
- [바로가기](https://medium.com/javascript-in-plain-english/top-10-ts-projects-to-watch-in-2024-11eed1bca91e?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------typescript----------66e5dc72_95c6_4154_a803_37abfd5a0166-------) 
+ [바로가기](https://medium.com/storybookjs/build-your-own-storybookgpt-3b5fc28be944?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------frontend----------953e2e73_d577_4b39_93a1_f24f6db2153e-------) 
 
-### Integrating Bit into Your NX Monorepo: A Developer’s Guide 
+### Server Components in React 
 
- Learn how to integrate Bit into a Nx Monorepo, exploring tips and tricks... 
+ In this article, I aim to delve into the concept of server components in React, examining their adva... 
 
- [바로가기](https://medium.com/bitsrc/integrate-bit-to-nx-workspace-a-developers-guide-4ab1def61183?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------frontend----------84b5838b_4427_4427_8fe7_f42b2f3cad20-------) 
+ [바로가기](https://medium.com/@fabi.mofar/server-components-in-react-ff7b734876d3?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------reactjs----------b5f1d5be_ca4f_45c8_a9f0_9b88157e47b0-------) 
+
+###  시그널(Signals) 
+
+ 소개 오늘 소개해드릴 글은 Preact 공식 가이드에 나와있는 시그널에 대한 소개입니다. 저번 주 수빈님이 번역해주신 시그널(Signal)에 대한 소개에 이어지는 내용인데요. 이전... 
+
+ [바로가기](https://kofearticle.substack.com/p/korean-fe-article-signals) 
+
+###  새로운 리액트 문서에서 제시하는 9가지 권장 사항 
+
+ 소개 새로운 리액트 문서에서 제시하는 리액트 코드 작성에 대한 권장사항 9가지를 설명하고 있는 글입니다. 이 글에서도 언급되는 것처럼 꼭 이 권장사항을 따를 필요는…... 
+
+ [바로가기](https://kofearticle.substack.com/p/korean-fe-article-9) 
 
 ### 플러터 공동 창립자 “구글에서의 18년을 돌아보며” 
 
@@ -31,11 +43,11 @@
 
  [바로가기](https://yozm.wishket.com/magazine/detail/2354/) 
 
-### 쿠버네티스가 스프링 부트 3.0 네이티브 이미지를 만나면? 
+### 쿠버네티스 공동 창립자 조 베다 “소프트웨어 개발은 팀 스포츠” 
 
- 넷마블 QA실에서는 ‘크래시리포트’라는 시스템을 운영하고 있습니다. 크래시리포트는 게임 실행 과정에서 예상치 못한 종료 현상이 발생할 때, 그 상황을 저장한 데이터를 크래시라 합니... 
+ 최근에 VMware의 수석 엔지니어이자 쿠버네티스 및 구글 컴퓨트 엔진의 창시자 중 한 명인 조 베다를 인터뷰할 수 있는 기회가 있었습니다. 조 베다는 마이크로소프트와 구글에서 다... 
 
- [바로가기](https://yozm.wishket.com/magazine/detail/2350/) 
+ [바로가기](https://yozm.wishket.com/magazine/detail/2353/) 
 
 ---
 
