@@ -1,29 +1,29 @@
 # 오늘의 포스팅 
-2023년 12월 8일 9시 기준 
+2023년 12월 9일 9시 기준 
 
-### Building an RSS Notifier App with Nuxt, RSS Parser, and Notification 
+### Improve loading times with the @defer block in Angular 
 
- The background of this idea came after I was inspired by a tutorial video, in that video, I was advi... 
+ The defer block is a feature in Angular's deferrable views that allows you to defer the loading of c... 
 
- [바로가기](https://medium.com/@ahmad-purnomo/building-an-rss-notifier-app-with-nuxt-rss-parser-and-notification-2c02d03231b8?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------javascript----------8aa9644d_29a1_4378_a2a1_936dc30fb746-------) 
+ [바로가기](https://medium.com/ngconf/improve-loading-times-with-the-defer-block-in-angular-0bfc52823a54?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------typescript----------ff9770bd_1296_4f3d_b9f8_09b21d228332-------) 
 
-### Ouroboros type in TypeScript 
+### Navigating the Cloud: A Comprehensive Journey through the Cloud Resume Challenge 
 
- Let’s define a function eatsOwnTail, input of which will depend on & will be a transformation of its... 
+ Embarking on the Cloud Resume Challenge as part of my Cloud Computing course at Loyola Marymount Uni... 
 
- [바로가기](https://medium.com/@miroslavpetrik/ouroboros-type-in-typescript-45b6191602c6?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------typescript----------a5a3eeb6_a21f_422d_9fa9_bcf617dd22b3-------) 
+ [바로가기](https://medium.com/@karissakwan/navigating-the-cloud-a-comprehensive-journey-through-the-cloud-resume-challenge-e17780e3a5b0?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------frontend----------0684abaa_10c5_4096_afae_9844e75161ed-------) 
 
-### Build your own StorybookGPT 
+### Bridging to the Future: Exploring React Native’s 0.73.0 
 
- Learn how you can combine Storybook and GPTs to generate component stories automatically... 
+ On December 06, 2023, React native released its feature update as a 0.73.0 version.... 
 
- [바로가기](https://medium.com/storybookjs/build-your-own-storybookgpt-3b5fc28be944?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------frontend----------953e2e73_d577_4b39_93a1_f24f6db2153e-------) 
+ [바로가기](https://medium.com/@vkvikashkumar987/bridging-to-the-future-exploring-react-natives-0-73-0-fae241f1f410?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------reactjs----------96f35d3a_f6e4_4f47_8abf_08fe22485ba4-------) 
 
-### Server Components in React 
+### StyleX — Meta’s Solution To Scalable CSS 
 
- In this article, I aim to delve into the concept of server components in React, examining their adva... 
+ Understanding what problems Facebook faced with CSS will help us understand more about the design de... 
 
- [바로가기](https://medium.com/@fabi.mofar/server-components-in-react-ff7b734876d3?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------reactjs----------b5f1d5be_ca4f_45c8_a9f0_9b88157e47b0-------) 
+ [바로가기](https://medium.com/@jherr2020/stylex-metas-solution-to-scalable-css-0e06972d9bc4?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------nextjs----------7fdfa005_bf8f_4a04_b590_30b7f873b195-------) 
 
 ###  시그널(Signals) 
 
@@ -37,17 +37,17 @@
 
  [바로가기](https://kofearticle.substack.com/p/korean-fe-article-9) 
 
-### 플러터 공동 창립자 “구글에서의 18년을 돌아보며” 
-
- 저는 2005년 10월에 입사한 구글에 사직서를 제출했습니다. 지난주가 약 18년을 근무한 구글에서 저의 마지막 근무였죠. 제가 입사한 시점에 갓 상장했던 구글의 임직원들은 다른 ... 
-
- [바로가기](https://yozm.wishket.com/magazine/detail/2354/) 
-
 ### 쿠버네티스 공동 창립자 조 베다 “소프트웨어 개발은 팀 스포츠” 
 
  최근에 VMware의 수석 엔지니어이자 쿠버네티스 및 구글 컴퓨트 엔진의 창시자 중 한 명인 조 베다를 인터뷰할 수 있는 기회가 있었습니다. 조 베다는 마이크로소프트와 구글에서 다... 
 
  [바로가기](https://yozm.wishket.com/magazine/detail/2353/) 
+
+### 플러터 공동 창립자 “구글에서의 18년을 돌아보며” 
+
+ 저는 2005년 10월에 입사한 구글에 사직서를 제출했습니다. 지난주가 약 18년을 근무한 구글에서 저의 마지막 근무였죠. 제가 입사한 시점에 갓 상장했던 구글의 임직원들은 다른 ... 
+
+ [바로가기](https://yozm.wishket.com/magazine/detail/2354/) 
 
 ---
 
