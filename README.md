@@ -1,29 +1,29 @@
 # 오늘의 포스팅 
-2023년 12월 9일 9시 기준 
+2023년 12월 10일 9시 기준 
 
-### Improve loading times with the @defer block in Angular 
+### From Zero To Hero: A Definitive Guide to Frontend Frameworks 
 
- The defer block is a feature in Angular's deferrable views that allows you to defer the loading of c... 
+ Choosing your frontend framework may be hard, don’t worry i’ve got your back... 
 
- [바로가기](https://medium.com/ngconf/improve-loading-times-with-the-defer-block-in-angular-0bfc52823a54?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------typescript----------ff9770bd_1296_4f3d_b9f8_09b21d228332-------) 
+ [바로가기](https://medium.com/@agrawalskushal/from-zero-to-hero-a-definitive-guide-to-frontend-frameworks-645637b11fb1?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------frontend----------c12aab28_eea5_4d4e_8d24_a78437c7bfca-------) 
 
-### Navigating the Cloud: A Comprehensive Journey through the Cloud Resume Challenge 
+### Unveiling My Custom React Hooks Library: A Personal Journey into React’s Capabilities 
 
- Embarking on the Cloud Resume Challenge as part of my Cloud Computing course at Loyola Marymount Uni... 
+ Today, I’m incredibly excited to share with you something that’s been a labor of love and learning f... 
 
- [바로가기](https://medium.com/@karissakwan/navigating-the-cloud-a-comprehensive-journey-through-the-cloud-resume-challenge-e17780e3a5b0?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------frontend----------0684abaa_10c5_4096_afae_9844e75161ed-------) 
+ [바로가기](https://medium.com/@baneg/unveiling-my-custom-react-hooks-library-a-personal-journey-into-reacts-capabilities-13b6104e2d98?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------reactjs----------26bb261d_8fb2_402f_a983_a90f646e53f3-------) 
+
+### Quickstart on supabase 
+
+ We will create a Supabase account, set up a table, and use the newly generated credentials to connec... 
+
+ [바로가기](https://medium.com/@alialhaddad/quickstart-on-supabase-6dfcf0dc9339?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------nextjs----------e15e8866_da12_40dc_be42_ccd189525423-------) 
 
 ### Bridging to the Future: Exploring React Native’s 0.73.0 
 
  On December 06, 2023, React native released its feature update as a 0.73.0 version.... 
 
- [바로가기](https://medium.com/@vkvikashkumar987/bridging-to-the-future-exploring-react-natives-0-73-0-fae241f1f410?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------reactjs----------96f35d3a_f6e4_4f47_8abf_08fe22485ba4-------) 
-
-### StyleX — Meta’s Solution To Scalable CSS 
-
- Understanding what problems Facebook faced with CSS will help us understand more about the design de... 
-
- [바로가기](https://medium.com/@jherr2020/stylex-metas-solution-to-scalable-css-0e06972d9bc4?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------nextjs----------7fdfa005_bf8f_4a04_b590_30b7f873b195-------) 
+ [바로가기](https://medium.com/@vkvikashkumar987/bridging-to-the-future-exploring-react-natives-0-73-0-fae241f1f410?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------front_end_development----------5f48b032_9a30_442c_911d_0e4fc4775101-------) 
 
 ###  시그널(Signals) 
 
