@@ -1,29 +1,29 @@
 # 오늘의 포스팅 
-2023년 12월 11일 9시 기준 
+2023년 12월 12일 9시 기준 
 
-### Bridging to the Future: Exploring React Native’s 0.73.0 
+### Approach to Multiple Middleware and Auth Guard in Next.js App Routing 
 
- On December 06, 2023, React native released its feature update as a 0.73.0 version.... 
+ Hey there! Ready to level up your Next.js website? 🚀 Let’s explore two powerful tools: Middleware a... 
 
- [바로가기](https://medium.com/@vkvikashkumar987/bridging-to-the-future-exploring-react-natives-0-73-0-fae241f1f410?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------reactjs----------e9833299_f551_4357_9bdb_d6a88417e1ba-------) 
+ [바로가기](https://medium.com/@aididalam/approach-to-multiple-middleware-and-auth-guard-in-next-js-app-routing-bbb641401477?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------nextjs----------99e8705e_38ef_413b_8a6b_b74e537dc8b2-------) 
 
-### Quickstart on supabase 
+### Frontend Weekly Digest #340(3–10 December 2023) 
 
- We will create a Supabase account, set up a table, and use the newly generated credentials to connec... 
+ Web-development... 
 
- [바로가기](https://medium.com/@alialhaddad/quickstart-on-supabase-6dfcf0dc9339?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------nextjs----------e15e8866_da12_40dc_be42_ccd189525423-------) 
+ [바로가기](https://medium.com/@frontender-ua/frontend-weekly-digest-340-3-10-december-2023-630838f94c7b?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------front_end_development----------44ad3860_f0bd_4f30_a64e_0b8a3caf85d5-------) 
 
-### As a Front-End Engineer: The Magic Behind “Event Emitter” in JavaScript That You Should Know About 
+### Typescript features that will significantly upgrade your skills 
 
- 5 lines of code to implement Event Emitter.... 
+ ... 
 
- [바로가기](https://medium.com/@fatfish/as-a-front-end-engineer-the-magic-behind-event-emitter-in-javascript-that-you-should-know-about-a3130b3bff08?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------front_end_development----------b0d1daca_01cc_415f_b395_972aee98b989-------) 
+ [바로가기](https://medium.com/@hamsterhomka/typescript-features-that-will-significantly-upgrade-your-skills-e40a3424fa50?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------react----------64789025_6c4c_4a33_9925_2e29c0f3c412-------) 
 
-### Bridging to the Future: Exploring React Native’s 0.73.0 
+### Frontend Weekly Digest #340(3–10 December 2023) 
 
- On December 06, 2023, React native released its feature update as a 0.73.0 version.... 
+ Web-development... 
 
- [바로가기](https://medium.com/@vkvikashkumar987/bridging-to-the-future-exploring-react-natives-0-73-0-fae241f1f410?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------react----------1502a4e7_ed5f_4906_82e3_6e73f147be2c-------) 
+ [바로가기](https://medium.com/@frontender-ua/frontend-weekly-digest-340-3-10-december-2023-630838f94c7b?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------javascript----------fa8023f8_4f0c_49f0_82ac_d70508a64e1c-------) 
 
 ###  시그널(Signals) 
 
@@ -37,17 +37,17 @@
 
  [바로가기](https://kofearticle.substack.com/p/korean-fe-article-9) 
 
+### 리액트 바깥의 프론트엔드(2): 리액트 밖 생태계와 도구 선택법 
+
+ FEConf2023에서 발표한 <리액트 바깥의 프론트엔드 생태계>를 정리한 글입니다. 발표 내용을 2회로 나누어 발행합니다. 1회에서는 리액트의 등장과 리액트가 멋진 부분, 동시에... 
+
+ [바로가기](https://yozm.wishket.com/magazine/detail/2358/) 
+
 ### 리액트 바깥의 프론트엔드(1) : 리액트 등장부터 애플리케이션 구성 
 
  FEConf2023에서 발표한 <리액트 바깥의 프론트엔드 생태계>를 정리한 글입니다. 발표 내용을 2회로 나누어 발행합니다. 1회에서는 리액트의 등장과 리액트가 멋진 부분, 동시에... 
 
  [바로가기](https://yozm.wishket.com/magazine/detail/2357/) 
-
-### 쿠버네티스 공동 창립자 조 베다 “소프트웨어 개발은 팀 스포츠” 
-
- 최근에 VMware의 수석 엔지니어이자 쿠버네티스 및 구글 컴퓨트 엔진의 창시자 중 한 명인 조 베다를 인터뷰할 수 있는 기회가 있었습니다. 조 베다는 마이크로소프트와 구글에서 다... 
-
- [바로가기](https://yozm.wishket.com/magazine/detail/2353/) 
 
 ---
 
