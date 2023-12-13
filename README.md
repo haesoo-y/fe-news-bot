@@ -1,11 +1,5 @@
 # 오늘의 포스팅 
-2023년 12월 12일 9시 기준 
-
-### Approach to Multiple Middleware and Auth Guard in Next.js App Routing 
-
- Hey there! Ready to level up your Next.js website? 🚀 Let’s explore two powerful tools: Middleware a... 
-
- [바로가기](https://medium.com/@aididalam/approach-to-multiple-middleware-and-auth-guard-in-next-js-app-routing-bbb641401477?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------nextjs----------99e8705e_38ef_413b_8a6b_b74e537dc8b2-------) 
+2023년 12월 13일 9시 기준 
 
 ### Frontend Weekly Digest #340(3–10 December 2023) 
 
@@ -25,17 +19,23 @@
 
  [바로가기](https://medium.com/@frontender-ua/frontend-weekly-digest-340-3-10-december-2023-630838f94c7b?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------javascript----------fa8023f8_4f0c_49f0_82ac_d70508a64e1c-------) 
 
+### Migrating a Create-React-App project that uses React Router to Remix 
+
+ Read on to learn how and why I migrated from Create-React-App to Remix.... 
+
+ [바로가기](https://medium.com/@leejjon/migrating-an-create-react-app-project-that-uses-react-router-to-remix-b52b4b6f6456?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------typescript----------ee1eb42e_aff1_4734_970f_51729e6c316e-------) 
+
+###  의존성 관리자는 의존성을 관리하지 않습니다 
+
+ 소개 이 글은 자바스크립트 인프라 시리즈의 첫 번째 글로 자바스크립트 의존성 관리자의 근본적인 문제점에 대해 이야기를 하고…... 
+
+ [바로가기](https://kofearticle.substack.com/p/korean-fe-article-c31) 
+
 ###  시그널(Signals) 
 
  소개 오늘 소개해드릴 글은 Preact 공식 가이드에 나와있는 시그널에 대한 소개입니다. 저번 주 수빈님이 번역해주신 시그널(Signal)에 대한 소개에 이어지는 내용인데요. 이전... 
 
  [바로가기](https://kofearticle.substack.com/p/korean-fe-article-signals) 
-
-###  새로운 리액트 문서에서 제시하는 9가지 권장 사항 
-
- 소개 새로운 리액트 문서에서 제시하는 리액트 코드 작성에 대한 권장사항 9가지를 설명하고 있는 글입니다. 이 글에서도 언급되는 것처럼 꼭 이 권장사항을 따를 필요는…... 
-
- [바로가기](https://kofearticle.substack.com/p/korean-fe-article-9) 
 
 ### 리액트 바깥의 프론트엔드(2): 리액트 밖 생태계와 도구 선택법 
 
