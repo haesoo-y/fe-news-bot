@@ -1,29 +1,35 @@
 # 오늘의 포스팅 
-2023년 12월 13일 9시 기준 
+2023년 12월 14일 9시 기준 
 
-### Frontend Weekly Digest #340(3–10 December 2023) 
+### Embracing Reusability: The Power of Custom Hooks in React 
 
- Web-development... 
+ In the world of React, custom hooks are like secret recipes that make your components more efficient... 
 
- [바로가기](https://medium.com/@frontender-ua/frontend-weekly-digest-340-3-10-december-2023-630838f94c7b?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------front_end_development----------44ad3860_f0bd_4f30_a64e_0b8a3caf85d5-------) 
+ [바로가기](https://medium.com/stackademic/embracing-reusability-the-power-of-custom-hooks-in-react-1cfe4da5034a?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------react----------638eedfd_ca21_4451_905c_7f1efa7d0ad6-------) 
 
-### Typescript features that will significantly upgrade your skills 
+### Introducing Deno Runtime to the Neo4j Driver for Javascript 
 
- ... 
+ With Neo4j Driver for Javascript release 5.14, you can now query Neo4j using Deno natively.... 
 
- [바로가기](https://medium.com/@hamsterhomka/typescript-features-that-will-significantly-upgrade-your-skills-e40a3424fa50?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------react----------64789025_6c4c_4a33_9925_2e29c0f3c412-------) 
+ [바로가기](https://medium.com/neo4j/introducing-deno-runtime-to-the-neo4j-driver-for-javascript-17849f25bd1a?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------javascript----------9666c0e3_1e9f_4fe2_b89b_97ad2b1d50db-------) 
 
-### Frontend Weekly Digest #340(3–10 December 2023) 
+### Module Federation and Remote Components in Angular/nx 
 
- Web-development... 
+ The last few years I touched a few module federation micro front-ends but I never configured it. So ... 
 
- [바로가기](https://medium.com/@frontender-ua/frontend-weekly-digest-340-3-10-december-2023-630838f94c7b?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------javascript----------fa8023f8_4f0c_49f0_82ac_d70508a64e1c-------) 
+ [바로가기](https://medium.com/@rienkeisma/module-federation-and-remote-components-in-angular-nx-7a83b2340389?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------typescript----------c044ddcc_1ab7_4dda_a740_039d9302d1e6-------) 
 
-### Migrating a Create-React-App project that uses React Router to Remix 
+### Create OutSystems components that stand the test of time 
 
- Read on to learn how and why I migrated from Create-React-App to Remix.... 
+ The creation of a frontend component usually has several stages. Starting from the UX research and a... 
 
- [바로가기](https://medium.com/@leejjon/migrating-an-create-react-app-project-that-uses-react-router-to-remix-b52b4b6f6456?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------typescript----------ee1eb42e_aff1_4734_970f_51729e6c316e-------) 
+ [바로가기](https://medium.com/itnext/create-outsystems-components-that-stand-the-test-of-time-2062632a6fed?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------frontend----------dae5bac3_0274_4a01_a24c_4941ccdbef29-------) 
+
+### 신규 프런트엔드 테스트 강의를 소개드립니다 
+
+ 실무에 바로 적용하는 프런트엔드 테스트... 
+
+ [바로가기](https://kofearticle.substack.com/p/299) 
 
 ###  의존성 관리자는 의존성을 관리하지 않습니다 
 
@@ -31,23 +37,17 @@
 
  [바로가기](https://kofearticle.substack.com/p/korean-fe-article-c31) 
 
-###  시그널(Signals) 
+### 2023년 회고와 2024년 웹 개발 트렌드 전망 
 
- 소개 오늘 소개해드릴 글은 Preact 공식 가이드에 나와있는 시그널에 대한 소개입니다. 저번 주 수빈님이 번역해주신 시그널(Signal)에 대한 소개에 이어지는 내용인데요. 이전... 
+ 2023년은 챗지피티(ChatGPT) 열풍과 함께 인공지능의 기술적 혁신으로 주목할 만한 한 해였습니다. 이 기간 동안 웹 개발에도 많은 변화가 있었으며, 2024년에도 인공지능,... 
 
- [바로가기](https://kofearticle.substack.com/p/korean-fe-article-signals) 
+ [바로가기](https://yozm.wishket.com/magazine/detail/2364/) 
 
-### 리액트 바깥의 프론트엔드(2): 리액트 밖 생태계와 도구 선택법 
+### 딥링크 실전에서 잘 사용하는 방법 
 
- FEConf2023에서 발표한 <리액트 바깥의 프론트엔드 생태계>를 정리한 글입니다. 발표 내용을 2회로 나누어 발행합니다. 1회에서는 리액트의 등장과 리액트가 멋진 부분, 동시에... 
+ 모바일 웹 서비스에서 다른 앱을 열어야 하는 경우가 있습니다. 예를 들어, 온라인 쇼핑몰에서 카드 결제를 선택하면 선택한 카드의 앱을 실행해서 결제를 완료하죠. 모바일 환경에서 이... 
 
- [바로가기](https://yozm.wishket.com/magazine/detail/2358/) 
-
-### 리액트 바깥의 프론트엔드(1) : 리액트 등장부터 애플리케이션 구성 
-
- FEConf2023에서 발표한 <리액트 바깥의 프론트엔드 생태계>를 정리한 글입니다. 발표 내용을 2회로 나누어 발행합니다. 1회에서는 리액트의 등장과 리액트가 멋진 부분, 동시에... 
-
- [바로가기](https://yozm.wishket.com/magazine/detail/2357/) 
+ [바로가기](https://yozm.wishket.com/magazine/detail/2363/) 
 
 ---
 
