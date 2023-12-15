@@ -1,29 +1,29 @@
 # 오늘의 포스팅 
-2023년 12월 14일 9시 기준 
+2023년 12월 15일 9시 기준 
 
-### Embracing Reusability: The Power of Custom Hooks in React 
+### 6 Amazing And UseFul New JavaScript Features in ES13 
 
- In the world of React, custom hooks are like secret recipes that make your components more efficient... 
+ 1.# at... 
 
- [바로가기](https://medium.com/stackademic/embracing-reusability-the-power-of-custom-hooks-in-react-1cfe4da5034a?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------react----------638eedfd_ca21_4451_905c_7f1efa7d0ad6-------) 
+ [바로가기](https://medium.com/stackademic/6-amazing-and-useful-new-javascript-features-in-es13-2034fd2faf9d?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------javascript----------e37ef3a6_6e82_4743_97dd_4f573d14c05c-------) 
 
-### Introducing Deno Runtime to the Neo4j Driver for Javascript 
+### Don’t write web apps in anything other than Typescript 
 
- With Neo4j Driver for Javascript release 5.14, you can now query Neo4j using Deno natively.... 
+ I’m writing this mainly for my own future reference, and for any of my friends who are considering s... 
 
- [바로가기](https://medium.com/neo4j/introducing-deno-runtime-to-the-neo4j-driver-for-javascript-17849f25bd1a?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------javascript----------9666c0e3_1e9f_4fe2_b89b_97ad2b1d50db-------) 
+ [바로가기](https://medium.com/@gablg1/dont-write-web-apps-in-anything-other-than-typescript-6f31ba9d789b?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------typescript----------6aaf62f3_a1fc_40a8_b5f0_afcddcc6152b-------) 
 
-### Module Federation and Remote Components in Angular/nx 
+### Decoding Web Development 1: Exploring Key Concepts in Simple Terms 
 
- The last few years I touched a few module federation micro front-ends but I never configured it. So ... 
+ Have you ever felt lost in the world of web development? Despite diving into numerous Medium article... 
 
- [바로가기](https://medium.com/@rienkeisma/module-federation-and-remote-components-in-angular-nx-7a83b2340389?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------typescript----------c044ddcc_1ab7_4dda_a740_039d9302d1e6-------) 
+ [바로가기](https://medium.com/@kaganecee/decoding-web-development-exploring-key-concepts-in-simple-terms-a2ebdb936d0e?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------frontend----------13bf141f_16ef_4f0b_9723_83175045031a-------) 
 
-### Create OutSystems components that stand the test of time 
+### React Important Concepts: useCallback() 
 
- The creation of a frontend component usually has several stages. Starting from the UX research and a... 
+ In React, when you create a function inside a component, it gets recreated every time the component ... 
 
- [바로가기](https://medium.com/itnext/create-outsystems-components-that-stand-the-test-of-time-2062632a6fed?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------frontend----------dae5bac3_0274_4a01_a24c_4941ccdbef29-------) 
+ [바로가기](https://medium.com/@soniapahuja75/react-important-concepts-usecallback-b65d1ad8c7af?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------reactjs----------5d36ea88_d787_4d51_baea_128ca882f236-------) 
 
 ### 신규 프런트엔드 테스트 강의를 소개드립니다 
 
