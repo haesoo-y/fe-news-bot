@@ -1,29 +1,29 @@
 # 오늘의 포스팅 
-2023년 12월 16일 9시 기준 
-
-### Don’t write web apps in anything other than Typescript 
-
- I’m writing this mainly for my own future reference, and for any of my friends who are considering s... 
-
- [바로가기](https://medium.com/@gablg1/dont-write-web-apps-in-anything-other-than-typescript-6f31ba9d789b?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------typescript----------6aaf62f3_a1fc_40a8_b5f0_afcddcc6152b-------) 
+2023년 12월 17일 9시 기준 
 
 ### Demystifying StyleX 
 
- Meta announced their new scalable styling system styleX which is now the styling library for Faceboo... 
+ Meta announced their new scalable styling system StylX which is now the styling library for Facebook... 
 
- [바로가기](https://medium.com/@omkarnath8039/demystifying-stylex-a7bb4e26ba22?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------frontend----------7ac2f36d_1320_4f6a_bb52_d87f0754af5f-------) 
+ [바로가기](https://medium.com/gitconnected/demystifying-stylex-a7bb4e26ba22?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------frontend----------4802ef57_fe2b_4905_8ce7_972cff1d72c3-------) 
 
-### React Important Concepts: useCallback() 
+### React30-Project22: Building a Job Portal with useCallback in React 
 
- In React, when you create a function inside a component, it gets recreated every time the component ... 
+ Introduction:... 
 
- [바로가기](https://medium.com/@soniapahuja75/react-important-concepts-usecallback-b65d1ad8c7af?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------reactjs----------5d36ea88_d787_4d51_baea_128ca882f236-------) 
+ [바로가기](https://medium.com/@smhatre59/react30-project22-building-a-job-portal-with-usecallback-in-react-d8305bcc5c5a?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------reactjs----------f061d85d_c4d7_46d4_87c2_b0804ac8a43a-------) 
 
-### Issues with Hotjar Session Recordings in Next.js and React Applications 
+### Authentication in two lines of code: Auth.js + Next.js 14 
 
- When integrating Hotjar analytics into our Next.js and React projects, we encountered a challenge wi... 
+ Authentication in websites is infamously difficult to get right while ensuring optimal security and ... 
 
- [바로가기](https://medium.com/@yan.dev/issues-with-hotjar-session-recordings-in-next-js-and-react-applications-ade06b847542?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------nextjs----------5cf1cf97_3cb3_4a0d_a944_f2e70117623a-------) 
+ [바로가기](https://medium.com/@danielcracbusiness/authentication-in-two-lines-of-code-auth-js-next-js-14-653b252abfd3?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------nextjs----------1b3c11e7_b276_4dd7_8285_24b93048965e-------) 
+
+### FEO Fig: Optimizing the Web’s Front End with Figs 
+
+ User Experience is everything. Modern users have high expectations and short attention spans (are yo... 
+
+ [바로가기](https://medium.com/@zackrauzi/feo-fig-optimizing-the-webs-front-end-with-figs-6cecc316234b?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------front_end_development----------3fad00c7_0991_4ed5_b21f_71b158a3a44d-------) 
 
 ### 신규 프런트엔드 테스트 강의를 소개드립니다 
 
