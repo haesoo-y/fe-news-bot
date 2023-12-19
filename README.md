@@ -1,29 +1,35 @@
 # 오늘의 포스팅 
-2023년 12월 18일 9시 기준 
+2023년 12월 19일 9시 기준 
 
-### Mastering Array Manipulation in React: A Comprehensive Guide 
+### Using Jotai in Your Next.js Application: Streamlining State Management 
 
- Arrays are fundamental data structures in JavaScript, and they play a pivotal role in React applicat... 
+ Explore Jotai’s innovative approach to React state management, contrasting it with Redux and Context... 
 
- [바로가기](https://medium.com/@vipraaditya/mastering-array-manipulation-in-react-a-comprehensive-guide-5f6e1164c9d1?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------reactjs----------a340cdee_4791_4f82_9f24_bfb1277b72f3-------) 
+ [바로가기](https://medium.com/stackademic/using-jotai-in-your-next-js-application-streamlining-state-management-a048922747f1?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------nextjs----------ccfaed9c_7587_4c27_8d5c_0263c67adf77-------) 
 
-### Authentication in two lines of code: Auth.js + Next.js 14 
+### Frontend Weekly Digest #341(11–17 December 2023) 
 
- Authentication in websites is infamously difficult to get right while ensuring optimal security and ... 
+ Web-development... 
 
- [바로가기](https://medium.com/gitconnected/authentication-in-two-lines-of-code-auth-js-next-js-14-653b252abfd3?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------nextjs----------a90d1419_851e_4203_82a0_37f10373fa73-------) 
+ [바로가기](https://medium.com/@frontender-ua/frontend-weekly-digest-341-11-17-december-2023-3797fd6080c1?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------front_end_development----------2a4c718e_d625_46eb_a247_17ebf47b73ba-------) 
 
-### 8 JavaScript Tricks to Make You a Better Programmer 
+### How AI helped us with huge refactor effort 
 
- Make your JavaScript more readable and extensible with these code tips.... 
+ In the year 2020, our team made a collective decision to switch from using mocha and chai to jest fo... 
 
- [바로가기](https://medium.com/@fatfish/8-javascript-tricks-to-make-you-a-better-programmer-9904f1733867?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------front_end_development----------40e8adc1_0319_4c37_960e_222f66334d46-------) 
+ [바로가기](https://medium.com/@michaelkibenko/how-ai-helped-us-with-huge-refactor-effort-63c3204a5f0c?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------react----------b82a274f_38c6_4ace_b74a_930ec6a56de8-------) 
 
-### Understanding Memory Leaks in JavaScript: A Digital Plumbing Perspective 
+### Frontend Weekly Digest #341(11–17 December 2023) 
 
- Think of memory leaks in JavaScript akin to a leaky faucet in your home. Initially, a few drops may ... 
+ Web-development... 
 
- [바로가기](https://medium.com/@vaibhav.vudayagiri/understanding-memory-leaks-in-javascript-a-digital-plumbing-perspective-3d8dbea816b0?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------react----------4b156261_0676_4863_b27c_f712cddfefb6-------) 
+ [바로가기](https://medium.com/@frontender-ua/frontend-weekly-digest-341-11-17-december-2023-3797fd6080c1?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------javascript----------fd941a50_f4b7_41ca_8c60_226db939ed85-------) 
+
+###  (더) 최신의 CSS Reset 
+
+ 소개 여러분들께서는 CSS Reset에 대해서 잘 알고 계시며, 사용하고 계신가요? 현재는 브라우저 성능이 많이 발전했기 때문에 CSS Reset에…... 
+
+ [바로가기](https://kofearticle.substack.com/p/korean-fe-article-css-reset) 
 
 ###  Diff 전략 
 
@@ -31,23 +37,17 @@
 
  [바로가기](https://kofearticle.substack.com/p/korean-fe-article-diff) 
 
-### 신규 프런트엔드 테스트 강의를 소개드립니다 
+### 2024년 쿠버네티스 표준 아키텍처 
 
- 실무에 바로 적용하는 프런트엔드 테스트... 
+ 2024년 쿠버네티스는 이제 꽤 성숙한 제품이 된 것 같습니다. 그리고 쿠버네티스와 밀접한 연관이 있는 클라우드 네이티브 컴퓨팅 재단(CNCF, Cloud Native Comput... 
 
- [바로가기](https://kofearticle.substack.com/p/299) 
+ [바로가기](https://yozm.wishket.com/magazine/detail/2371/) 
 
 ### 개발자와의 커뮤니케이션이 당황스러웠던 이유 
 
  개발 부서와의 커뮤니케이션은 물음표의 연속이었다. 서로가 서로를 보며 고개를 갸우뚱하는 가운데, 생각의 차이를 이해하고 효과적인 소통 방식을 찾기까지는 조금 시간이 걸렸다. 재미있... 
 
  [바로가기](https://yozm.wishket.com/magazine/detail/2369/) 
-
-### 개발하는 아저씨와 잊힌 컴퓨터 이야기 
-
- 내가 처음 눈을 떴을 때 X세대와 MZ세대 경계선 어딘가에 있는 아저씨가 날 쳐다보고 있었다. 그는 내 사양을 살펴보고 무선 인터넷을 설정했다. 그리고 빠르게 프로그램들을 설치했다... 
-
- [바로가기](https://yozm.wishket.com/magazine/detail/2368/) 
 
 ---
 
