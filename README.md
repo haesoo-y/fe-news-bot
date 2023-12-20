@@ -1,29 +1,29 @@
 # 오늘의 포스팅 
-2023년 12월 19일 9시 기준 
-
-### Using Jotai in Your Next.js Application: Streamlining State Management 
-
- Explore Jotai’s innovative approach to React state management, contrasting it with Redux and Context... 
-
- [바로가기](https://medium.com/stackademic/using-jotai-in-your-next-js-application-streamlining-state-management-a048922747f1?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------nextjs----------ccfaed9c_7587_4c27_8d5c_0263c67adf77-------) 
+2023년 12월 20일 9시 기준 
 
 ### Frontend Weekly Digest #341(11–17 December 2023) 
 
  Web-development... 
 
- [바로가기](https://medium.com/@frontender-ua/frontend-weekly-digest-341-11-17-december-2023-3797fd6080c1?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------front_end_development----------2a4c718e_d625_46eb_a247_17ebf47b73ba-------) 
+ [바로가기](https://medium.com/@frontender-ua/frontend-weekly-digest-341-11-17-december-2023-3797fd6080c1?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------front_end_development----------8d463116_6599_4882_a407_2f07da2c70b7-------) 
 
-### How AI helped us with huge refactor effort 
+### Laying Pipe on Next.js Route Handlers: The Power of Function Composition 
 
- In the year 2020, our team made a collective decision to switch from using mocha and chai to jest fo... 
+ next-route-handler-pipe is an awesome solution for abstracting composable functions and keeping our ... 
 
- [바로가기](https://medium.com/@michaelkibenko/how-ai-helped-us-with-huge-refactor-effort-63c3204a5f0c?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------react----------b82a274f_38c6_4ace_b74a_930ec6a56de8-------) 
+ [바로가기](https://medium.com/udacity-engineering/laying-pipe-on-next-js-route-handlers-the-power-of-function-composition-2a2b5de7f7f4?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------react----------f219a44e_b290_4c51_9bf3_a351836a85e1-------) 
 
 ### Frontend Weekly Digest #341(11–17 December 2023) 
 
  Web-development... 
 
  [바로가기](https://medium.com/@frontender-ua/frontend-weekly-digest-341-11-17-december-2023-3797fd6080c1?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------javascript----------fd941a50_f4b7_41ca_8c60_226db939ed85-------) 
+
+### Laying Pipe on Next.js Route Handlers: The Power of Function Composition 
+
+ next-route-handler-pipe is an awesome solution for abstracting composable functions and keeping our ... 
+
+ [바로가기](https://medium.com/udacity-engineering/laying-pipe-on-next-js-route-handlers-the-power-of-function-composition-2a2b5de7f7f4?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------typescript----------13a511c2_8ef3_43e2_bf49_535a93ac8fdf-------) 
 
 ###  (더) 최신의 CSS Reset 
 
