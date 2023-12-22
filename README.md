@@ -1,41 +1,41 @@
 # 오늘의 포스팅 
-2023년 12월 21일 9시 기준 
+2023년 12월 22일 9시 기준 
 
-### Laying Pipe on Next.js Route Handlers: The Power of Function Composition 
+### Nx 17.2 Update!! 
 
- next-route-handler-pipe is an awesome solution for abstracting composable functions and keeping our ... 
+ It’s been a bit since we launched Nx 17! In this article, we’ll go over some of the new developments... 
 
- [바로가기](https://medium.com/udacity-engineering/laying-pipe-on-next-js-route-handlers-the-power-of-function-composition-2a2b5de7f7f4?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------react----------bab8bd8a_b430_4f89_82c9_89b9898ed855-------) 
+ [바로가기](https://medium.com/nrwl/nx-17-2-update-b8f23ec42cbb?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------javascript----------f8d22202_c00e_4bfa_92b2_47961d55824a-------) 
 
-### Laying Pipe on Next.js Route Handlers: The Power of Function Composition 
+### JavaScript Achieves Breakthrough Performance with Static Hermes 
 
- next-route-handler-pipe is an awesome solution for abstracting composable functions and keeping our ... 
+ Static Hermes is set to redefine JavaScript’s capabilities, merging ease of use with high performanc... 
 
- [바로가기](https://medium.com/udacity-engineering/laying-pipe-on-next-js-route-handlers-the-power-of-function-composition-2a2b5de7f7f4?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------javascript----------2994859d_fe52_4a94_ba3f_c6bbf3b04121-------) 
+ [바로가기](https://medium.com/@elves.silva.vieira/javascript-achieves-breakthrough-performance-with-static-hermes-6286b0ac8ef7?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------typescript----------870bd81d_568f_4991_899d_3cbd22366a3b-------) 
 
-### Laying Pipe on Next.js Route Handlers: The Power of Function Composition 
+### Introducing Luna 
 
- next-route-handler-pipe is an awesome solution for abstracting composable functions and keeping our ... 
+ ... 
 
- [바로가기](https://medium.com/udacity-engineering/laying-pipe-on-next-js-route-handlers-the-power-of-function-composition-2a2b5de7f7f4?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------typescript----------576b155b_c1f5_42ab_81d3_10bb6539667e-------) 
+ [바로가기](https://medium.com/@zmzlois/introducing-luna-e70d3ece36e1?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------frontend----------e11ed101_999b_454f_a582_11b800004368-------) 
 
-### Use Box TS SDK in React projects 
+### Empowering Your Coding Journey: The Timeless Relevance of SOLID Principles in a Rapidly Evolving… 
 
- Box TS SDK is gaining momentum with plenty of new users! In my last post I presented a simple exampl... 
+ In the ever-evolving world of technology, where new libraries and frameworks emerge at a lightning p... 
 
- [바로가기](https://medium.com/box-developer-blog/use-box-ts-sdk-in-react-projects-5f029cccda0?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------frontend----------fe4b3c0f_342b_4256_94c6_59e10686429b-------) 
+ [바로가기](https://medium.com/@pahwakaran/empowering-your-coding-journey-the-timeless-relevance-of-solid-principles-in-a-rapidly-evolving-de8f1129df69?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------reactjs----------fb5db309_52c2_407c_8084_c62312df4e13-------) 
+
+###  리액트 Forget이 useMemo와 useCallback 훅을 완전히 대체하는 방법 
+
+ 글링크 : https://velog.io/@lky5697/how-react-forget-will-make-react-usememo-and-usecallback-hooks-absol... 
+
+ [바로가기](https://kofearticle.substack.com/p/korean-fe-article-forget-usememo) 
 
 ###  StyleX를 소개합니다 
 
  글 링크 : https://emewjin.github.io/introducing-stylex/ 소개 메타(Meta)에서 개발한 스타일링 라이브러리 StyleX가 정식으로 공개되었습... 
 
  [바로가기](https://kofearticle.substack.com/p/korean-fe-article-stylex) 
-
-###  (더) 최신의 CSS Reset 
-
- 소개 여러분들께서는 CSS Reset에 대해서 잘 알고 계시며, 사용하고 계신가요? 현재는 브라우저 성능이 많이 발전했기 때문에 CSS Reset에…... 
-
- [바로가기](https://kofearticle.substack.com/p/korean-fe-article-css-reset) 
 
 ### use 훅이 바꿀 리액트 비동기 처리의 미래 맛보기(2) 
 
