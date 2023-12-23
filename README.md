@@ -1,29 +1,29 @@
 # 오늘의 포스팅 
-2023년 12월 22일 9시 기준 
+2023년 12월 23일 9시 기준 
 
-### Nx 17.2 Update!! 
+### Building a React with StyleX Component Library 
 
- It’s been a bit since we launched Nx 17! In this article, we’ll go over some of the new developments... 
+ Creating an efficient, maintainable, and scalable component library with StyleX and Bit... 
 
- [바로가기](https://medium.com/nrwl/nx-17-2-update-b8f23ec42cbb?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------javascript----------f8d22202_c00e_4bfa_92b2_47961d55824a-------) 
-
-### JavaScript Achieves Breakthrough Performance with Static Hermes 
-
- Static Hermes is set to redefine JavaScript’s capabilities, merging ease of use with high performanc... 
-
- [바로가기](https://medium.com/@elves.silva.vieira/javascript-achieves-breakthrough-performance-with-static-hermes-6286b0ac8ef7?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------typescript----------870bd81d_568f_4991_899d_3cbd22366a3b-------) 
+ [바로가기](https://medium.com/bitsrc/building-a-react-with-stylex-component-library-4abc5f763dce?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------typescript----------848f7e08_5970_4adf_bf03_b2b8753af0de-------) 
 
 ### Introducing Luna 
 
  ... 
 
- [바로가기](https://medium.com/@zmzlois/introducing-luna-e70d3ece36e1?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------frontend----------e11ed101_999b_454f_a582_11b800004368-------) 
+ [바로가기](https://medium.com/@zmzlois/introducing-luna-e70d3ece36e1?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------frontend----------321edbba_1e57_4607_b952_5008be3361d2-------) 
 
-### Empowering Your Coding Journey: The Timeless Relevance of SOLID Principles in a Rapidly Evolving… 
+### Vite Bundler with React and TypeScript: A Quick Guide 
 
- In the ever-evolving world of technology, where new libraries and frameworks emerge at a lightning p... 
+ Vite has emerged as a popular build tool and development server for modern web applications. It is d... 
 
- [바로가기](https://medium.com/@pahwakaran/empowering-your-coding-journey-the-timeless-relevance-of-solid-principles-in-a-rapidly-evolving-de8f1129df69?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------reactjs----------fb5db309_52c2_407c_8084_c62312df4e13-------) 
+ [바로가기](https://medium.com/stackademic/vite-bundler-with-react-and-typescript-a-quick-guide-e2955ec7271e?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------reactjs----------18465aec_86d3_4001_975b_51c9d213c537-------) 
+
+### Cancelling XHRs with Next.js 14 and RTK 2 
+
+ This article describes the principle of cancelling XHR requests using the Next.js 14 application wit... 
+
+ [바로가기](https://medium.com/octopus-labs-london/cancelling-xhrs-with-next-js-14-and-rtk-2-9474d98a87c9?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------nextjs----------a1285821_b5ec_4f98_a69a_3eac5266f92e-------) 
 
 ###  리액트 Forget이 useMemo와 useCallback 훅을 완전히 대체하는 방법 
 
@@ -37,17 +37,17 @@
 
  [바로가기](https://kofearticle.substack.com/p/korean-fe-article-stylex) 
 
+### R에서 활용해 본 ‘제미나이 API’ 리뷰 
+
+ 최근 구글의 주가를 하루 만에 5%나 올린 빅이벤트가 있었습니다. 바로 구글의 멀티모달 생성형 AI 서비스 제미나이(Gemini)가 공개됐기 때문인데요. 이번 글에서는 제미나이의 ... 
+
+ [바로가기](https://yozm.wishket.com/magazine/detail/2379/) 
+
 ### use 훅이 바꿀 리액트 비동기 처리의 미래 맛보기(2) 
 
  FEConf2023에서 발표한 <use 훅이 바꿀 리액트 비동기 처리의 미래 맛보기>를 정리한 글입니다. 1회에서는 use훅의 등장과 특징에 관해 살펴보고 실제 실무에서 사용한 코... 
 
  [바로가기](https://yozm.wishket.com/magazine/detail/2374/) 
-
-### use 훅이 바꿀 리액트 비동기 처리의 미래 맛보기(1) 
-
- use 훅이 바꿀 리액트 비동기 처리의 미래에 대해 소개하게 된 문태근입니다. 저는 현재 데브시스터즈라는 모바일 게임회사에서 프론트엔드 엔지니어로 근무하고 있습니다. 주로 게임 운... 
-
- [바로가기](https://yozm.wishket.com/magazine/detail/2373/) 
 
 ---
 
