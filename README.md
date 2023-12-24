@@ -1,29 +1,29 @@
 # 오늘의 포스팅 
-2023년 12월 23일 9시 기준 
+2023년 12월 24일 9시 기준 
 
-### Building a React with StyleX Component Library 
+### Google Lighthouse vs. PageSpeed Insights: Showdown for Speed Champions 
 
- Creating an efficient, maintainable, and scalable component library with StyleX and Bit... 
+ In the high-stakes arena of website performance, Google Lighthouse and PageSpeed Insights are the re... 
 
- [바로가기](https://medium.com/bitsrc/building-a-react-with-stylex-component-library-4abc5f763dce?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------typescript----------848f7e08_5970_4adf_bf03_b2b8753af0de-------) 
+ [바로가기](https://medium.com/@iamsoumyadip/google-lighthouse-vs-pagespeed-insights-showdown-for-speed-champions-de789a3364f7?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------frontend----------e6e4f275_3ad4_4876_a90a_dde527634d34-------) 
 
-### Introducing Luna 
+### ReactJS: Creating React App, Routing and hosting guide. 
 
- ... 
+ In this blog, we’ll see how to create a React App, routing it and deploy i.... 
 
- [바로가기](https://medium.com/@zmzlois/introducing-luna-e70d3ece36e1?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------frontend----------321edbba_1e57_4607_b952_5008be3361d2-------) 
+ [바로가기](https://medium.com/@sharathpai107/reactjs-creating-react-app-routing-and-hosting-guide-b9c9cd0c7f68?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------reactjs----------ff07bb80_ddd3_4d4d_87d8_a19b142d7b3d-------) 
 
-### Vite Bundler with React and TypeScript: A Quick Guide 
+### Optimizing Next.js data refetch: A Guide to Revalidation with Medusa.js 
 
- Vite has emerged as a popular build tool and development server for modern web applications. It is d... 
+ Welcome to our guide on setting up revalidation in a Next.js application using an internal server. I... 
 
- [바로가기](https://medium.com/stackademic/vite-bundler-with-react-and-typescript-a-quick-guide-e2955ec7271e?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------reactjs----------18465aec_86d3_4001_975b_51c9d213c537-------) 
+ [바로가기](https://medium.com/rigby-software-house/optimizing-next-js-data-refetch-a-guide-to-revalidation-with-medusa-js-2906d8ae2c8f?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------nextjs----------436f40e0_94f7_4e1d_9854_26765a05a724-------) 
 
-### Cancelling XHRs with Next.js 14 and RTK 2 
+### Portfolio Projects: WhatsApp App Clone 
 
- This article describes the principle of cancelling XHR requests using the Next.js 14 application wit... 
+ The creepiest project article 👀... 
 
- [바로가기](https://medium.com/octopus-labs-london/cancelling-xhrs-with-next-js-14-and-rtk-2-9474d98a87c9?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------nextjs----------a1285821_b5ec_4f98_a69a_3eac5266f92e-------) 
+ [바로가기](https://medium.com/@mieron/portfolio-projects-whatsapp-app-clone-3bf4dc171e12?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------front_end_development----------e182bcac_458a_4049_a08a_fc6e683c201f-------) 
 
 ###  리액트 Forget이 useMemo와 useCallback 훅을 완전히 대체하는 방법 
 
