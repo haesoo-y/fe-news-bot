@@ -1,29 +1,29 @@
 # 오늘의 포스팅 
-2023년 12월 24일 9시 기준 
+2023년 12월 25일 9시 기준 
 
-### Google Lighthouse vs. PageSpeed Insights: Showdown for Speed Champions 
+### Building a Progressive Web App (PWA) with Next.js Without External Libraries 
 
- In the high-stakes arena of website performance, Google Lighthouse and PageSpeed Insights are the re... 
+ Progressive Web Apps (PWAs) offer an enhanced user experience with features like offline access and ... 
 
- [바로가기](https://medium.com/@iamsoumyadip/google-lighthouse-vs-pagespeed-insights-showdown-for-speed-champions-de789a3364f7?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------frontend----------e6e4f275_3ad4_4876_a90a_dde527634d34-------) 
+ [바로가기](https://medium.com/@vedavyasreddi/building-a-progressive-web-app-pwa-with-next-js-without-external-libraries-ff5275ff5f51?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------reactjs----------fca6a151_9c54_428f_b568_606a273b8d93-------) 
 
-### ReactJS: Creating React App, Routing and hosting guide. 
+### Building a Progressive Web App (PWA) with Next.js Without External Libraries 
 
- In this blog, we’ll see how to create a React App, routing it and deploy i.... 
+ Progressive Web Apps (PWAs) offer an enhanced user experience with features like offline access and ... 
 
- [바로가기](https://medium.com/@sharathpai107/reactjs-creating-react-app-routing-and-hosting-guide-b9c9cd0c7f68?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------reactjs----------ff07bb80_ddd3_4d4d_87d8_a19b142d7b3d-------) 
-
-### Optimizing Next.js data refetch: A Guide to Revalidation with Medusa.js 
-
- Welcome to our guide on setting up revalidation in a Next.js application using an internal server. I... 
-
- [바로가기](https://medium.com/rigby-software-house/optimizing-next-js-data-refetch-a-guide-to-revalidation-with-medusa-js-2906d8ae2c8f?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------nextjs----------436f40e0_94f7_4e1d_9854_26765a05a724-------) 
+ [바로가기](https://medium.com/@vedavyasreddi/building-a-progressive-web-app-pwa-with-next-js-without-external-libraries-ff5275ff5f51?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------nextjs----------ecc0214f_1b52_4aca_b097_1855cc65bb90-------) 
 
 ### Portfolio Projects: WhatsApp App Clone 
 
  The creepiest project article 👀... 
 
- [바로가기](https://medium.com/@mieron/portfolio-projects-whatsapp-app-clone-3bf4dc171e12?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------front_end_development----------e182bcac_458a_4049_a08a_fc6e683c201f-------) 
+ [바로가기](https://medium.com/@mieron/portfolio-projects-whatsapp-app-clone-3bf4dc171e12?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------front_end_development----------aac36614_4b29_4115_8084_8f27ea318bd4-------) 
+
+### Choosing the Right Key: A Guide to Using Keys in React Lists 
+
+ Unlock   the power of React list keys! Navigate pitfalls of using index, optimize performance, and d... 
+
+ [바로가기](https://medium.com/@i-m-prabhat/choosing-the-right-key-a-guide-to-using-keys-in-react-lists-e54b31e1cebc?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------react----------adf31558_3aac_4532_a285_4f814a94b28e-------) 
 
 ###  리액트 Forget이 useMemo와 useCallback 훅을 완전히 대체하는 방법 
 
