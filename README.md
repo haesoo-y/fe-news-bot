@@ -1,41 +1,41 @@
 # 오늘의 포스팅 
-2023년 12월 25일 9시 기준 
+2023년 12월 26일 9시 기준 
 
-### Building a Progressive Web App (PWA) with Next.js Without External Libraries 
+### Solve Vercel Serverless Functions Timeout issue 
 
- Progressive Web Apps (PWAs) offer an enhanced user experience with features like offline access and ... 
+ If you are also starting up with building products (SaaS), then here are few things you might consid... 
 
- [바로가기](https://medium.com/@vedavyasreddi/building-a-progressive-web-app-pwa-with-next-js-without-external-libraries-ff5275ff5f51?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------reactjs----------fca6a151_9c54_428f_b568_606a273b8d93-------) 
+ [바로가기](https://medium.com/@sksaddy/solve-vercel-serverless-functions-timeout-issue-28504a637957?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------nextjs----------282e6e60_1bc2_447d_bd58_34325a3e19b8-------) 
 
-### Building a Progressive Web App (PWA) with Next.js Without External Libraries 
+### Frontend Weekly Digest #342 (18–24 December 2023) 
 
- Progressive Web Apps (PWAs) offer an enhanced user experience with features like offline access and ... 
+ Web-development... 
 
- [바로가기](https://medium.com/@vedavyasreddi/building-a-progressive-web-app-pwa-with-next-js-without-external-libraries-ff5275ff5f51?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------nextjs----------ecc0214f_1b52_4aca_b097_1855cc65bb90-------) 
+ [바로가기](https://medium.com/@frontender-ua/frontend-weekly-digest-342-18-24-december-2023-4211d3147cd9?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------front_end_development----------09b9eebc_a9a8_475e_8e5f_41520ce5ff92-------) 
 
-### Portfolio Projects: WhatsApp App Clone 
+### <b> or <strong>? Treat <b> Tag As Companies Treat Programmers! 
 
- The creepiest project article 👀... 
+ Thank you b tag for applying to our company. We’ll run some tests to see if you deserve to become a ... 
 
- [바로가기](https://medium.com/@mieron/portfolio-projects-whatsapp-app-clone-3bf4dc171e12?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------front_end_development----------aac36614_4b29_4115_8084_8f27ea318bd4-------) 
+ [바로가기](https://medium.com/@tomaszs2/b-or-strong-treat-b-tag-as-companies-treat-programmers-a18c7cd7e539?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------react----------78a27498_4909_491c_9db2_3fcc8fd7a1de-------) 
 
-### Choosing the Right Key: A Guide to Using Keys in React Lists 
+### Frontend Weekly Digest #342 (18–24 December 2023) 
 
- Unlock   the power of React list keys! Navigate pitfalls of using index, optimize performance, and d... 
+ Web-development... 
 
- [바로가기](https://medium.com/@i-m-prabhat/choosing-the-right-key-a-guide-to-using-keys-in-react-lists-e54b31e1cebc?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------react----------adf31558_3aac_4532_a285_4f814a94b28e-------) 
+ [바로가기](https://medium.com/@frontender-ua/frontend-weekly-digest-342-18-24-december-2023-4211d3147cd9?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------javascript----------e94b639e_3b88_4ab3_babf_932c2370d236-------) 
+
+###  2024년 자바스크립트의 5가지 가장 혁신적인 제안 
+
+ 글링크 : https://bit.ly/41vp1r4 소개 벌써 2023년 한 해가 마무리되는 시점이 되었네요. 오늘은 2024년에 새롭게 제안될 자바스크립트의 핵심 기능 5가지를 ... 
+
+ [바로가기](https://kofearticle.substack.com/p/korean-fe-article-2024-5) 
 
 ###  리액트 Forget이 useMemo와 useCallback 훅을 완전히 대체하는 방법 
 
  글링크 : https://velog.io/@lky5697/how-react-forget-will-make-react-usememo-and-usecallback-hooks-absol... 
 
  [바로가기](https://kofearticle.substack.com/p/korean-fe-article-forget-usememo) 
-
-###  StyleX를 소개합니다 
-
- 글 링크 : https://emewjin.github.io/introducing-stylex/ 소개 메타(Meta)에서 개발한 스타일링 라이브러리 StyleX가 정식으로 공개되었습... 
-
- [바로가기](https://kofearticle.substack.com/p/korean-fe-article-stylex) 
 
 ### R에서 활용해 본 ‘제미나이 API’ 리뷰 
 
