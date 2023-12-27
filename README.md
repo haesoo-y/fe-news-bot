@@ -1,29 +1,29 @@
 # 오늘의 포스팅 
-2023년 12월 26일 9시 기준 
+2023년 12월 27일 9시 기준 
 
-### Solve Vercel Serverless Functions Timeout issue 
+### Why you should kick idle users out of your website 
 
- If you are also starting up with building products (SaaS), then here are few things you might consid... 
+ If you use any applications that handle sensitive information, you might already have a situation wh... 
 
- [바로가기](https://medium.com/@sksaddy/solve-vercel-serverless-functions-timeout-issue-28504a637957?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------nextjs----------282e6e60_1bc2_447d_bd58_34325a3e19b8-------) 
+ [바로가기](https://medium.com/@Fcmam5/why-you-should-kick-idle-users-out-of-your-website-18329dbfeb13?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------front_end_development----------9c05488d_b5ce_4b94_82be_caac03677b10-------) 
 
-### Frontend Weekly Digest #342 (18–24 December 2023) 
+### Modern Unity UI: React-Powered, TailwindCSS-Styled 
 
- Web-development... 
+ Let’s face it, working on Unity’s user interface can be a real hassle. Even creating simple things l... 
 
- [바로가기](https://medium.com/@frontender-ua/frontend-weekly-digest-342-18-24-december-2023-4211d3147cd9?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------front_end_development----------09b9eebc_a9a8_475e_8e5f_41520ce5ff92-------) 
+ [바로가기](https://medium.com/@yanis-falaki/modern-unity-ui-react-powered-tailwindcss-styled-fe0a4f15c1ee?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------react----------7ee5c2be_b816_413d_9412_3afada55bd83-------) 
 
-### <b> or <strong>? Treat <b> Tag As Companies Treat Programmers! 
+### 🚀 Code Less, Test More: A Beginner’s Journey with Playwright 
 
- Thank you b tag for applying to our company. We’ll run some tests to see if you deserve to become a ... 
+ ... 
 
- [바로가기](https://medium.com/@tomaszs2/b-or-strong-treat-b-tag-as-companies-treat-programmers-a18c7cd7e539?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------react----------78a27498_4909_491c_9db2_3fcc8fd7a1de-------) 
+ [바로가기](https://medium.com/@mahesh.jsdev/code-less-test-more-a-beginners-journey-with-playwright-a178daccb297?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------javascript----------0567084d_e2df_44eb_b2ca_65db0fa96f84-------) 
 
-### Frontend Weekly Digest #342 (18–24 December 2023) 
+### Axios error handling quick win 
 
- Web-development... 
+ Axios stands out as one of the go-to JavaScript libraries for handling HTTP calls.... 
 
- [바로가기](https://medium.com/@frontender-ua/frontend-weekly-digest-342-18-24-december-2023-4211d3147cd9?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------javascript----------e94b639e_3b88_4ab3_babf_932c2370d236-------) 
+ [바로가기](https://medium.com/@alonbl92/axios-error-handling-quick-win-9dd8cc7d549b?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------typescript----------76919940_064e_42fe_b647_5f07479f0fd0-------) 
 
 ###  2024년 자바스크립트의 5가지 가장 혁신적인 제안 
 
@@ -37,17 +37,17 @@
 
  [바로가기](https://kofearticle.substack.com/p/korean-fe-article-forget-usememo) 
 
-### R에서 활용해 본 ‘제미나이 API’ 리뷰 
+### 몇 천 페이지의 유저 가이드를 새로 만들며(1) 
 
- 최근 구글의 주가를 하루 만에 5%나 올린 빅이벤트가 있었습니다. 바로 구글의 멀티모달 생성형 AI 서비스 제미나이(Gemini)가 공개됐기 때문인데요. 이번 글에서는 제미나이의 ... 
+ FEConf2023에서 발표한 <몇 천 페이지의 유저 가이드를 새로 만들며>를 정리한 글입니다. 발표 내용을 2회로 나누어 발행합니다. 1회에서는 유저 가이드가 무엇인지, 왜 새롭... 
 
- [바로가기](https://yozm.wishket.com/magazine/detail/2379/) 
+ [바로가기](https://yozm.wishket.com/magazine/detail/2384/) 
 
-### use 훅이 바꿀 리액트 비동기 처리의 미래 맛보기(2) 
+### 2023년 하반기 '요즘IT' 개발 카테고리 인기 콘텐츠 Top5 
 
- FEConf2023에서 발표한 <use 훅이 바꿀 리액트 비동기 처리의 미래 맛보기>를 정리한 글입니다. 1회에서는 use훅의 등장과 특징에 관해 살펴보고 실제 실무에서 사용한 코... 
+ 2023년 상반기 요즘IT 인기 콘텐츠를 전한 지 얼마 안 된 것 같은데, 이제 올해가 끝나가네요. 올 한해 어떻게 지내셨나요? 요즘IT는 하반기도 다양한 '요즘 사람들의 IT 이... 
 
- [바로가기](https://yozm.wishket.com/magazine/detail/2374/) 
+ [바로가기](https://yozm.wishket.com/magazine/detail/2383/) 
 
 ---
 
