@@ -1,29 +1,35 @@
 # 오늘의 포스팅 
-2023년 12월 27일 9시 기준 
+2023년 12월 28일 9시 기준 
 
-### Why you should kick idle users out of your website 
+### State Design Pattern Using React hooks 
 
- If you use any applications that handle sensitive information, you might already have a situation wh... 
+ This article initially addresses the application of the state pattern within your React application.... 
 
- [바로가기](https://medium.com/@Fcmam5/why-you-should-kick-idle-users-out-of-your-website-18329dbfeb13?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------front_end_development----------9c05488d_b5ce_4b94_82be_caac03677b10-------) 
+ [바로가기](https://medium.com/@yah.emam/state-design-pattern-using-react-hooks-c535e1daa6f1?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------react----------9762a885_d6b4_4483_994b_68f4209b8f14-------) 
 
-### Modern Unity UI: React-Powered, TailwindCSS-Styled 
+### React: Compound Components Pattern, a Design and Performance Secret 
 
- Let’s face it, working on Unity’s user interface can be a real hassle. Even creating simple things l... 
+ Discovering the Compound Components pattern through the teachings of Kent C. Dodds was a revelation ... 
 
- [바로가기](https://medium.com/@yanis-falaki/modern-unity-ui-react-powered-tailwindcss-styled-fe0a4f15c1ee?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------react----------7ee5c2be_b816_413d_9412_3afada55bd83-------) 
+ [바로가기](https://medium.com/@karanktech/react-compound-components-pattern-a-design-and-performance-secret-91e60086708a?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------javascript----------4ad23611_3b18_438c_af24_65ffb3afec21-------) 
 
-### 🚀 Code Less, Test More: A Beginner’s Journey with Playwright 
+### React: Compound Components Pattern, a Design and Performance Secret 
 
- ... 
+ Discovering the Compound Components pattern through the teachings of Kent C. Dodds was a revelation ... 
 
- [바로가기](https://medium.com/@mahesh.jsdev/code-less-test-more-a-beginners-journey-with-playwright-a178daccb297?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------javascript----------0567084d_e2df_44eb_b2ca_65db0fa96f84-------) 
+ [바로가기](https://medium.com/@karanktech/react-compound-components-pattern-a-design-and-performance-secret-91e60086708a?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------typescript----------f34aa5f2_c13c_414b_9392_88078286bb75-------) 
 
-### Axios error handling quick win 
+### Understanding Focus on React Native (the easy way) 
 
- Axios stands out as one of the go-to JavaScript libraries for handling HTTP calls.... 
+ I initially assumed that things would be the same for TVOS, but it’s a whole new world — though perh... 
 
- [바로가기](https://medium.com/@alonbl92/axios-error-handling-quick-win-9dd8cc7d549b?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------typescript----------76919940_064e_42fe_b647_5f07479f0fd0-------) 
+ [바로가기](https://medium.com/@sofialz/understanding-focus-on-react-native-the-easy-way-d2646b0d2022?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------frontend----------0b987a8e_ec28_497b_883f_fdc0b86af565-------) 
+
+###  포맷팅 규칙이 ESLint에서 사라집니다 
+
+ 소개 ESLint 8.53.0 버전에서 핵심적인 포맷팅 규칙들이 공식적으로 폐기(deprecate)될 예정이라고 합니다. 이 글에서는 ESLint 팀이 이런…... 
+
+ [바로가기](https://kofearticle.substack.com/p/korean-fe-article-eslint) 
 
 ###  2024년 자바스크립트의 5가지 가장 혁신적인 제안 
 
@@ -31,23 +37,17 @@
 
  [바로가기](https://kofearticle.substack.com/p/korean-fe-article-2024-5) 
 
-###  리액트 Forget이 useMemo와 useCallback 훅을 완전히 대체하는 방법 
+### 편리한 API 제너레이터 ‘swagger-typescript-api’ 
 
- 글링크 : https://velog.io/@lky5697/how-react-forget-will-make-react-usememo-and-usecallback-hooks-absol... 
+ 최근 회사 프로젝트에서 API 제너레이터를 사용해 보기로 했고, JSON 파일을 타입스크립트 파일로 변환해 주는 효율적인 라이브러리가 있는지 찾아보게 되었다. 결과적으로 내가 선택... 
 
- [바로가기](https://kofearticle.substack.com/p/korean-fe-article-forget-usememo) 
+ [바로가기](https://yozm.wishket.com/magazine/detail/2387/) 
 
-### 몇 천 페이지의 유저 가이드를 새로 만들며(1) 
+### 몇 천 페이지의 유저 가이드를 새로 만들며(2) 
 
- FEConf2023에서 발표한 <몇 천 페이지의 유저 가이드를 새로 만들며>를 정리한 글입니다. 발표 내용을 2회로 나누어 발행합니다. 1회에서는 유저 가이드가 무엇인지, 왜 새롭... 
+ 저는 사용자에게 데이터를 정보로 전달하는 일에 관심이 많으며, AB180이라는 데이터 스타트업에서 프론트엔드 팀 엔지니어링 매니저를 맡고 있는 이찬희입니다. FEConf2023에서... 
 
- [바로가기](https://yozm.wishket.com/magazine/detail/2384/) 
-
-### 2023년 하반기 '요즘IT' 개발 카테고리 인기 콘텐츠 Top5 
-
- 2023년 상반기 요즘IT 인기 콘텐츠를 전한 지 얼마 안 된 것 같은데, 이제 올해가 끝나가네요. 올 한해 어떻게 지내셨나요? 요즘IT는 하반기도 다양한 '요즘 사람들의 IT 이... 
-
- [바로가기](https://yozm.wishket.com/magazine/detail/2383/) 
+ [바로가기](https://yozm.wishket.com/magazine/detail/2385/) 
 
 ---
 
