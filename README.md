@@ -1,29 +1,29 @@
 # 오늘의 포스팅 
-2023년 12월 28일 9시 기준 
+2023년 12월 29일 9시 기준 
 
-### State Design Pattern Using React hooks 
+### Exploring Our Journey: Navigating the Advantages and Drawbacks of NestJS 
 
- This article initially addresses the application of the state pattern within your React application.... 
+ NestJS is a popular framework for building scalable server-side applications in NodeJs. It combines ... 
 
- [바로가기](https://medium.com/@yah.emam/state-design-pattern-using-react-hooks-c535e1daa6f1?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------react----------9762a885_d6b4_4483_994b_68f4209b8f14-------) 
+ [바로가기](https://medium.com/@agounichams1/exploring-our-journey-navigating-the-advantages-and-drawbacks-of-nestjs-4df559c4852f?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------javascript----------9e1759e7_e5d6_4800_a83e_ed7208a58dce-------) 
 
-### React: Compound Components Pattern, a Design and Performance Secret 
+### Why devs should learn NestJS in 2024? 
 
- Discovering the Compound Components pattern through the teachings of Kent C. Dodds was a revelation ... 
+ Before understanding why NestJS is, let’s understand what NestJS? And before messing up with NestJS ... 
 
- [바로가기](https://medium.com/@karanktech/react-compound-components-pattern-a-design-and-performance-secret-91e60086708a?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------javascript----------4ad23611_3b18_438c_af24_65ffb3afec21-------) 
-
-### React: Compound Components Pattern, a Design and Performance Secret 
-
- Discovering the Compound Components pattern through the teachings of Kent C. Dodds was a revelation ... 
-
- [바로가기](https://medium.com/@karanktech/react-compound-components-pattern-a-design-and-performance-secret-91e60086708a?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------typescript----------f34aa5f2_c13c_414b_9392_88078286bb75-------) 
+ [바로가기](https://medium.com/@upekshadilshan000/why-devs-should-learn-nestjs-in-2024-d59c4a0ae3ef?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------typescript----------2cb38af3_8a46_4e10_a8a7_0a72bf44cd9b-------) 
 
 ### Understanding Focus on React Native (the easy way) 
 
  I initially assumed that things would be the same for TVOS, but it’s a whole new world — though perh... 
 
- [바로가기](https://medium.com/@sofialz/understanding-focus-on-react-native-the-easy-way-d2646b0d2022?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------frontend----------0b987a8e_ec28_497b_883f_fdc0b86af565-------) 
+ [바로가기](https://medium.com/@sofialz/understanding-focus-on-react-native-the-easy-way-d2646b0d2022?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------frontend----------2e9a16d5_1b38_4ba4_ac02_a08c67e0d0c9-------) 
+
+### Is Next JS better than React JS 
+
+ Both are the most powerful frontend technologies built on JavaScript and its upgraded features. We’l... 
+
+ [바로가기](https://medium.com/@aakash6196/is-next-js-better-than-react-js-d9655c907200?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------reactjs----------ae7e5b3d_ef87_4827_88e3_0a0055b323ad-------) 
 
 ###  포맷팅 규칙이 ESLint에서 사라집니다 
 
