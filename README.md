@@ -1,11 +1,5 @@
 # 오늘의 포스팅 
-2023년 12월 29일 9시 기준 
-
-### Exploring Our Journey: Navigating the Advantages and Drawbacks of NestJS 
-
- NestJS is a popular framework for building scalable server-side applications in NodeJs. It combines ... 
-
- [바로가기](https://medium.com/@agounichams1/exploring-our-journey-navigating-the-advantages-and-drawbacks-of-nestjs-4df559c4852f?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------javascript----------9e1759e7_e5d6_4800_a83e_ed7208a58dce-------) 
+2023년 12월 30일 9시 기준 
 
 ### Why devs should learn NestJS in 2024? 
 
@@ -13,17 +7,23 @@
 
  [바로가기](https://medium.com/@upekshadilshan000/why-devs-should-learn-nestjs-in-2024-d59c4a0ae3ef?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------typescript----------2cb38af3_8a46_4e10_a8a7_0a72bf44cd9b-------) 
 
-### Understanding Focus on React Native (the easy way) 
+### CSS variables in Angular. Forget about SCSS variables: Part 1 
 
- I initially assumed that things would be the same for TVOS, but it’s a whole new world — though perh... 
+ How to make styling of all elements easy and maintainable... 
 
- [바로가기](https://medium.com/@sofialz/understanding-focus-on-react-native-the-easy-way-d2646b0d2022?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------frontend----------2e9a16d5_1b38_4ba4_ac02_a08c67e0d0c9-------) 
+ [바로가기](https://medium.com/@maks-dolgikh/css-variables-in-angular-forget-about-scss-variables-part-1-67e727cf317b?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------frontend----------56a6b15c_22bc_419b_9e06_ddd8508b8879-------) 
 
-### Is Next JS better than React JS 
+### How To Create a New Next.js Project in 2024? 
 
- Both are the most powerful frontend technologies built on JavaScript and its upgraded features. We’l... 
+ Getting started with Next.js in 2024... 
 
- [바로가기](https://medium.com/@aakash6196/is-next-js-better-than-react-js-d9655c907200?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------reactjs----------ae7e5b3d_ef87_4827_88e3_0a0055b323ad-------) 
+ [바로가기](https://medium.com/bitsrc/how-to-create-a-nextjs-project-in-2024-27621475075a?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------reactjs----------262d4c70_f4df_42f6_a71f_376d081f5f3a-------) 
+
+### Customize Snipcart (SDK) with NextJs (app version) 
+
+ Hello everyone, if like me you need a payment system like Snipcart but don’t know how to customize t... 
+
+ [바로가기](https://medium.com/@sayrodev/customize-snipcart-sdk-with-nextjs-13-0a257dd15e2f?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------nextjs----------5b409490_7269_47ff_81c5_5dd108f86f34-------) 
 
 ###  포맷팅 규칙이 ESLint에서 사라집니다 
 
