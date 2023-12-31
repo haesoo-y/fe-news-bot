@@ -1,29 +1,29 @@
 # 오늘의 포스팅 
-2023년 12월 30일 9시 기준 
-
-### Why devs should learn NestJS in 2024? 
-
- Before understanding why NestJS is, let’s understand what NestJS? And before messing up with NestJS ... 
-
- [바로가기](https://medium.com/@upekshadilshan000/why-devs-should-learn-nestjs-in-2024-d59c4a0ae3ef?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------typescript----------2cb38af3_8a46_4e10_a8a7_0a72bf44cd9b-------) 
-
-### CSS variables in Angular. Forget about SCSS variables: Part 1 
-
- How to make styling of all elements easy and maintainable... 
-
- [바로가기](https://medium.com/@maks-dolgikh/css-variables-in-angular-forget-about-scss-variables-part-1-67e727cf317b?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------frontend----------56a6b15c_22bc_419b_9e06_ddd8508b8879-------) 
+2023년 12월 31일 9시 기준 
 
 ### How To Create a New Next.js Project in 2024? 
 
  Getting started with Next.js in 2024... 
 
- [바로가기](https://medium.com/bitsrc/how-to-create-a-nextjs-project-in-2024-27621475075a?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------reactjs----------262d4c70_f4df_42f6_a71f_376d081f5f3a-------) 
+ [바로가기](https://medium.com/bitsrc/how-to-create-a-nextjs-project-in-2024-27621475075a?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------frontend----------7adec73c_49df_472c_bc03_0725f91c5816-------) 
+
+### What is Ref and Ref Callback in React? 
+
+ Disclaimer: All the information below given are based on my experience and knowledge, it may have so... 
+
+ [바로가기](https://medium.com/@kabildeveloper/what-is-ref-and-ref-callback-in-react-da09d375948f?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------reactjs----------810606cd_a53b_4db0_86d8_b8ffecedd3cc-------) 
 
 ### Customize Snipcart (SDK) with NextJs (app version) 
 
  Hello everyone, if like me you need a payment system like Snipcart but don’t know how to customize t... 
 
- [바로가기](https://medium.com/@sayrodev/customize-snipcart-sdk-with-nextjs-13-0a257dd15e2f?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------nextjs----------5b409490_7269_47ff_81c5_5dd108f86f34-------) 
+ [바로가기](https://medium.com/@sayrodev/customize-snipcart-sdk-with-nextjs-13-0a257dd15e2f?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------nextjs----------a8678398_ebf2_40bc_b77d_edde979760dc-------) 
+
+### Javascript: wanting to be asynchronous ?! 
+
+ Let’s see why and how... 
+
+ [바로가기](https://medium.com/@aashigupta779/javascript-wanting-to-be-asynchronous-7ed138c8d14b?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------front_end_development----------2b50d41e_affe_448f_9bb3_1944132acba8-------) 
 
 ###  포맷팅 규칙이 ESLint에서 사라집니다 
 
