@@ -1,29 +1,29 @@
 # 오늘의 포스팅 
-2023년 12월 31일 9시 기준 
+2024년 1월 1일 9시 기준 
 
-### How To Create a New Next.js Project in 2024? 
+### Cache Busting: 3 Ways To Fix Stale Deployment in React 
 
- Getting started with Next.js in 2024... 
+ As updates roll in with increasing frequency, applications need to embrace efficient caching strateg... 
 
- [바로가기](https://medium.com/bitsrc/how-to-create-a-nextjs-project-in-2024-27621475075a?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------frontend----------7adec73c_49df_472c_bc03_0725f91c5816-------) 
+ [바로가기](https://medium.com/@fatehalisulthoni/cache-busting-3-ways-to-fix-stale-deployment-in-react-8fc046fa7e92?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------reactjs----------e59a1fe4_8d1d_4004_a9ef_6907a7902e6c-------) 
 
-### What is Ref and Ref Callback in React? 
+### From Zero to CRUD: Developing a Next.js App with Prisma 
 
- Disclaimer: All the information below given are based on my experience and knowledge, it may have so... 
+ Developing a Next.js app with Prisma involves setting up a Next.js project and integrating Prisma fo... 
 
- [바로가기](https://medium.com/@kabildeveloper/what-is-ref-and-ref-callback-in-react-da09d375948f?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------reactjs----------810606cd_a53b_4db0_86d8_b8ffecedd3cc-------) 
+ [바로가기](https://medium.com/@ryanadhitama/from-zero-to-crud-developing-a-next-js-app-with-prisma-909976b90ce0?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------nextjs----------7f712dcf_d9e6_4f95_b91f_5bd269c236ab-------) 
 
-### Customize Snipcart (SDK) with NextJs (app version) 
+### A Journey through Cookie-Infused Web Security 
 
- Hello everyone, if like me you need a payment system like Snipcart but don’t know how to customize t... 
+ Diving Deep into web authentication using cookies... 
 
- [바로가기](https://medium.com/@sayrodev/customize-snipcart-sdk-with-nextjs-13-0a257dd15e2f?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------nextjs----------a8678398_ebf2_40bc_b77d_edde979760dc-------) 
+ [바로가기](https://medium.com/@djdummala/a-journey-through-cookie-infused-web-security-177ac6482aee?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------front_end_development----------454a8fee_cfe7_4a2c_8239_9a046573db72-------) 
 
-### Javascript: wanting to be asynchronous ?! 
+### 10 Interview Questions Every JavaScript Developer Should Know in 2024 
 
- Let’s see why and how... 
+ The world of JavaScript has evolved significantly, and interview trends have changed a lot over the ... 
 
- [바로가기](https://medium.com/@aashigupta779/javascript-wanting-to-be-asynchronous-7ed138c8d14b?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------front_end_development----------2b50d41e_affe_448f_9bb3_1944132acba8-------) 
+ [바로가기](https://medium.com/javascript-scene/10-interview-questions-every-javascript-developer-should-know-in-2024-c1044bcb0dfb?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------react----------a92b9017_b8e5_4e69_8e28_abd12521198b-------) 
 
 ###  포맷팅 규칙이 ESLint에서 사라집니다 
 
