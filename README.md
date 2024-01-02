@@ -1,29 +1,29 @@
 # 오늘의 포스팅 
-2024년 1월 1일 9시 기준 
+2024년 1월 2일 9시 기준 
 
-### Cache Busting: 3 Ways To Fix Stale Deployment in React 
+### How to deploy Strapi and NextJs on a VPS server with Hostinger 
 
- As updates roll in with increasing frequency, applications need to embrace efficient caching strateg... 
+ ... 
 
- [바로가기](https://medium.com/@fatehalisulthoni/cache-busting-3-ways-to-fix-stale-deployment-in-react-8fc046fa7e92?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------reactjs----------e59a1fe4_8d1d_4004_a9ef_6907a7902e6c-------) 
+ [바로가기](https://medium.com/@sayrodev/how-to-deploy-strapi-and-nextjs-on-a-vps-server-with-hostinger-f0f615560147?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------nextjs----------a122526e_ca85_42b4_a85e_f75a16edcc84-------) 
 
-### From Zero to CRUD: Developing a Next.js App with Prisma 
+### Frontend Weekly Digest #343 (25–31 December 2023) 
 
- Developing a Next.js app with Prisma involves setting up a Next.js project and integrating Prisma fo... 
+ Development... 
 
- [바로가기](https://medium.com/@ryanadhitama/from-zero-to-crud-developing-a-next-js-app-with-prisma-909976b90ce0?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------nextjs----------7f712dcf_d9e6_4f95_b91f_5bd269c236ab-------) 
-
-### A Journey through Cookie-Infused Web Security 
-
- Diving Deep into web authentication using cookies... 
-
- [바로가기](https://medium.com/@djdummala/a-journey-through-cookie-infused-web-security-177ac6482aee?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------front_end_development----------454a8fee_cfe7_4a2c_8239_9a046573db72-------) 
+ [바로가기](https://medium.com/@frontender-ua/frontend-weekly-digest-343-25-31-december-2023-118ed525867b?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------front_end_development----------8fb4891a_a3d0_45c3_af4f_716f0d1b039c-------) 
 
 ### 10 Interview Questions Every JavaScript Developer Should Know in 2024 
 
  The world of JavaScript has evolved significantly, and interview trends have changed a lot over the ... 
 
- [바로가기](https://medium.com/javascript-scene/10-interview-questions-every-javascript-developer-should-know-in-2024-c1044bcb0dfb?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------react----------a92b9017_b8e5_4e69_8e28_abd12521198b-------) 
+ [바로가기](https://medium.com/javascript-scene/10-interview-questions-every-javascript-developer-should-know-in-2024-c1044bcb0dfb?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------react----------a6bc74d4_eb55_41ec_a71e_b2be2e21f27c-------) 
+
+### 10 Interview Questions Every JavaScript Developer Should Know in 2024 
+
+ The world of JavaScript has evolved significantly, and interview trends have changed a lot over the ... 
+
+ [바로가기](https://medium.com/javascript-scene/10-interview-questions-every-javascript-developer-should-know-in-2024-c1044bcb0dfb?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------javascript----------f30ffb1d_6e3b_417e_b45b_67c86cf13e52-------) 
 
 ###  포맷팅 규칙이 ESLint에서 사라집니다 
 
