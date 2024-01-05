@@ -1,11 +1,5 @@
 # 오늘의 포스팅 
-2024년 1월 4일 9시 기준 
-
-### React Native Masters: Boosting Your App’s Speed in 7 Simple Steps! 
-
- Unlock the secrets to peak React Native performance! 🚀 Discover game-changing strategies for a fast... 
-
- [바로가기](https://medium.com/@ismailharmanda/react-native-masters-boosting-your-apps-speed-in-7-simple-steps-8265aaa0f7d1?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------react----------6d9e16aa_92e7_4f89_8e6b_644af4403c6e-------) 
+2024년 1월 5일 9시 기준 
 
 ### React Native Masters: Boosting Your App’s Speed in 7 Simple Steps! 
 
@@ -13,17 +7,23 @@
 
  [바로가기](https://medium.com/@ismailharmanda/react-native-masters-boosting-your-apps-speed-in-7-simple-steps-8265aaa0f7d1?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------javascript----------6fb49d5a_f046_4cda_8bb2_51c447e33426-------) 
 
-### Unit and E2E Testing 
+### Efficient Handling of Large Dynamic Schemas with 100+ Fields in MongoDB using Nest.js 
 
- Unit Testing:... 
+ Handling a large number of dynamic fields in a MongoDB schema with NestJS requires careful considera... 
 
- [바로가기](https://medium.com/@Yasirgaji/unit-and-e2e-testing-d7e58003502c?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------typescript----------9f5919d7_164b_46cc_aa3f_29c99beb4e7d-------) 
+ [바로가기](https://medium.com/@aryanaman97/efficient-handling-of-large-dynamic-schemas-with-100-fields-in-mongodb-using-nest-js-fed43304a678?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------typescript----------e4b8b03e_be5c_4279_b892_84eeb2045289-------) 
 
-### Transforming frontend Architecture: A Journey from Monolith to Micro frontends at Udemy — Part 1… 
+### Micro Frontends Unwrapped: Buffet-style Development & Mansion Parties 
 
- Embarking on a Digital Transformation: Udemy’s Journey from Monolith to Micro Frontends... 
+ Micro frontends are like a buffet for developers — you get to build your own little ‘dish’ of the UI... 
 
- [바로가기](https://medium.com/udemy-engineering/transforming-frontend-architecture-a-journey-from-monolith-to-micro-frontends-at-udemy-part-1-e0a9c19c47bf?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------frontend----------1a15667b_bd32_4b7f_8128_e8559e20cc34-------) 
+ [바로가기](https://medium.com/@siddharthpandey_77104/micro-frontends-unwrapped-buffet-style-development-mansion-parties-6a7eeac4173d?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------frontend----------2eb94518_ff72_41a3_87ae_4b8ebd4c3fbd-------) 
+
+### No one told me that logical operator && is bad in React! 
+
+ But stop, what are logical operators?... 
+
+ [바로가기](https://medium.com/@menaiala/no-one-told-me-that-logical-operator-is-bad-in-react-1723caa46660?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------reactjs----------988749fc_b4a6_4931_88bd_75bdd915e827-------) 
 
 ### 당신은 고품질 소프트웨어를 구축하는 방법을 배운 적이 없습니다  
 
