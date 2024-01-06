@@ -1,29 +1,29 @@
 # 오늘의 포스팅 
-2024년 1월 5일 9시 기준 
+2024년 1월 6일 9시 기준 
 
-### React Native Masters: Boosting Your App’s Speed in 7 Simple Steps! 
+### Angular Developer Survey 2023 
 
- Unlock the secrets to peak React Native performance! 🚀 Discover game-changing strategies for a fast... 
+ Over the past year we’ve been evolving Angular based on developer feedback and community trends. We ... 
 
- [바로가기](https://medium.com/@ismailharmanda/react-native-masters-boosting-your-apps-speed-in-7-simple-steps-8265aaa0f7d1?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------javascript----------6fb49d5a_f046_4cda_8bb2_51c447e33426-------) 
+ [바로가기](https://medium.com/angular-blog/angular-developer-survey-2023-86372317c95f?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------typescript----------03a9b963_73ad_4ff8_94c7_11adbc6bcf27-------) 
 
-### Efficient Handling of Large Dynamic Schemas with 100+ Fields in MongoDB using Nest.js 
+### 15 Must-Have VSCode Extensions for Web Development 💻💡 
 
- Handling a large number of dynamic fields in a MongoDB schema with NestJS requires careful considera... 
+ Visual Studio Code stands as a dominant force among source code editors, boasting over 136k stars on... 
 
- [바로가기](https://medium.com/@aryanaman97/efficient-handling-of-large-dynamic-schemas-with-100-fields-in-mongodb-using-nest-js-fed43304a678?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------typescript----------e4b8b03e_be5c_4279_b892_84eeb2045289-------) 
+ [바로가기](https://medium.com/@olayeyeayomide2000/15-must-have-vscode-extensions-for-web-development-9feb43978b1d?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------frontend----------c60cce4a_6cb2_429f_ac79_20667df7e61a-------) 
 
-### Micro Frontends Unwrapped: Buffet-style Development & Mansion Parties 
+### Setting Up AppDynamics Monitoring with React.js (Origin location) 
 
- Micro frontends are like a buffet for developers — you get to build your own little ‘dish’ of the UI... 
+ Introduction... 
 
- [바로가기](https://medium.com/@siddharthpandey_77104/micro-frontends-unwrapped-buffet-style-development-mansion-parties-6a7eeac4173d?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------frontend----------2eb94518_ff72_41a3_87ae_4b8ebd4c3fbd-------) 
+ [바로가기](https://medium.com/@kalemayur8/setting-up-appdynamics-monitoring-with-react-js-origin-location-04c086a5703b?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------reactjs----------a964868b_2649_4e77_9a55_8e3b94d106f4-------) 
 
-### No one told me that logical operator && is bad in React! 
+### Building a Dynamic Breadcrumbs Component in Next.js 
 
- But stop, what are logical operators?... 
+ As web applications grow in complexity, providing intuitive navigation becomes crucial. Breadcrumbs,... 
 
- [바로가기](https://medium.com/@menaiala/no-one-told-me-that-logical-operator-is-bad-in-react-1723caa46660?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------reactjs----------988749fc_b4a6_4931_88bd_75bdd915e827-------) 
+ [바로가기](https://medium.com/@dalibor.nerber/building-a-dynamic-breadcrumbs-component-in-next-js-2e8f40aba021?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------nextjs----------251997ca_08b5_4eb9_a333_264585e7a007-------) 
 
 ### 당신은 고품질 소프트웨어를 구축하는 방법을 배운 적이 없습니다  
 
