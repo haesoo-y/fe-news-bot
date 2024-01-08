@@ -1,41 +1,41 @@
 # 오늘의 포스팅 
-2024년 1월 6일 9시 기준 
+2024년 1월 8일 9시 기준 
 
-### Angular Developer Survey 2023 
+### Secure api using Time-Sensitive verification machanism in pocketbase 
 
- Over the past year we’ve been evolving Angular based on developer feedback and community trends. We ... 
+ In the ever-evolving landscape of web development, ensuring the security of APIs is paramount. Recen... 
 
- [바로가기](https://medium.com/angular-blog/angular-developer-survey-2023-86372317c95f?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------typescript----------03a9b963_73ad_4ff8_94c7_11adbc6bcf27-------) 
-
-### 15 Must-Have VSCode Extensions for Web Development 💻💡 
-
- Visual Studio Code stands as a dominant force among source code editors, boasting over 136k stars on... 
-
- [바로가기](https://medium.com/@olayeyeayomide2000/15-must-have-vscode-extensions-for-web-development-9feb43978b1d?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------frontend----------c60cce4a_6cb2_429f_ac79_20667df7e61a-------) 
-
-### Setting Up AppDynamics Monitoring with React.js (Origin location) 
-
- Introduction... 
-
- [바로가기](https://medium.com/@kalemayur8/setting-up-appdynamics-monitoring-with-react-js-origin-location-04c086a5703b?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------reactjs----------a964868b_2649_4e77_9a55_8e3b94d106f4-------) 
+ [바로가기](https://medium.com/@jayedapu32/secure-api-using-time-sensitive-verification-machanism-in-pocketbase-3cceb8673efb?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------reactjs----------64037c70_c6ff_4cbd_a7dc_1769264a5f3c-------) 
 
 ### Building a Dynamic Breadcrumbs Component in Next.js 
 
  As web applications grow in complexity, providing intuitive navigation becomes crucial. Breadcrumbs,... 
 
- [바로가기](https://medium.com/@dalibor.nerber/building-a-dynamic-breadcrumbs-component-in-next-js-2e8f40aba021?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------nextjs----------251997ca_08b5_4eb9_a333_264585e7a007-------) 
+ [바로가기](https://medium.com/@dalibor.nerber/building-a-dynamic-breadcrumbs-component-in-next-js-2e8f40aba021?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------nextjs----------0d13708d_de95_4deb_bfd6_456e316e61a3-------) 
+
+### I Lost a Job Opportunity Just Because of “cyclic object value” 
+
+ An interview experience that made me so sad.... 
+
+ [바로가기](https://medium.com/@fatfish/i-lost-a-job-opportunity-just-because-of-cyclic-object-value-78ffff8ea07e?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------front_end_development----------b89cc09f_e94f_4fb1_a8c4_81b45dd9f665-------) 
+
+### React can be worked in a small portion in our application 🚀 
+
+ React.JS is a library and can be worked in a small portion of our apps. React can be injected to a n... 
+
+ [바로가기](https://medium.com/@janaanup7872/react-can-be-worked-in-a-small-portion-in-our-application-71ac974c8f5a?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------react----------8d9bf01c_1931_4393_bc8c_6dba5d1faf3f-------) 
+
+###  자바스크립트의 await 사건의 지평선 
+
+ 글 링크 : https://velog.io/@sehyunny/await-event-horizon 소개 모든 블랙홀의 주변에는 특별한 경계가 있습니다. 이 경계 내부의 중력을 벗어나... 
+
+ [바로가기](https://kofearticle.substack.com/p/korean-fe-article-await) 
 
 ### 당신은 고품질 소프트웨어를 구축하는 방법을 배운 적이 없습니다  
 
  소개 아마 이 메일을 받아 보시는 많은 분들은 회사에서 개발하고 계실 텐데요. 혹시 개발을 진행하시면서 소프트웨어 품질에 대해 고민하시면서 개발하고 계시는가요? 아니면, QA의 중... 
 
  [바로가기](https://kofearticle.substack.com/p/e78) 
-
-###  포맷팅 규칙이 ESLint에서 사라집니다 
-
- 소개 ESLint 8.53.0 버전에서 핵심적인 포맷팅 규칙들이 공식적으로 폐기(deprecate)될 예정이라고 합니다. 이 글에서는 ESLint 팀이 이런…... 
-
- [바로가기](https://kofearticle.substack.com/p/korean-fe-article-eslint) 
 
 ### 데이터 아키텍처? 쉽게 배워봅시다 
 
