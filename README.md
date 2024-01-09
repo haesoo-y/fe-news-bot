@@ -1,23 +1,17 @@
 # 오늘의 포스팅 
-2024년 1월 8일 9시 기준 
+2024년 1월 9일 9시 기준 
 
-### Secure api using Time-Sensitive verification machanism in pocketbase 
+### Unlocking the Power of Next.js: A Deep Dive into Advanced Image Optimization Techniques 
 
- In the ever-evolving landscape of web development, ensuring the security of APIs is paramount. Recen... 
+ In this blog, we’re going to get up close and personal with Next.js and its smart image handling cap... 
 
- [바로가기](https://medium.com/@jayedapu32/secure-api-using-time-sensitive-verification-machanism-in-pocketbase-3cceb8673efb?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------reactjs----------64037c70_c6ff_4cbd_a7dc_1769264a5f3c-------) 
+ [바로가기](https://medium.com/@aadityagupta400/unlocking-the-power-of-next-js-a-deep-dive-into-advanced-image-optimization-techniques-b1740b8d6a5f?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------nextjs----------c98a6696_673f_4c94_9e05_a8f3d2b5d6f1-------) 
 
-### Building a Dynamic Breadcrumbs Component in Next.js 
+### Frontend Weekly Digest #344 (1–7 January 2023) 
 
- As web applications grow in complexity, providing intuitive navigation becomes crucial. Breadcrumbs,... 
+ Web-development... 
 
- [바로가기](https://medium.com/@dalibor.nerber/building-a-dynamic-breadcrumbs-component-in-next-js-2e8f40aba021?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------nextjs----------0d13708d_de95_4deb_bfd6_456e316e61a3-------) 
-
-### I Lost a Job Opportunity Just Because of “cyclic object value” 
-
- An interview experience that made me so sad.... 
-
- [바로가기](https://medium.com/@fatfish/i-lost-a-job-opportunity-just-because-of-cyclic-object-value-78ffff8ea07e?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------front_end_development----------b89cc09f_e94f_4fb1_a8c4_81b45dd9f665-------) 
+ [바로가기](https://medium.com/@frontender-ua/frontend-weekly-digest-344-1-7-january-2023-4cfc6c91902d?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------front_end_development----------f689b948_cfc3_4550_b0b8_e3fd7824946f-------) 
 
 ### React can be worked in a small portion in our application 🚀 
 
@@ -25,17 +19,23 @@
 
  [바로가기](https://medium.com/@janaanup7872/react-can-be-worked-in-a-small-portion-in-our-application-71ac974c8f5a?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------react----------8d9bf01c_1931_4393_bc8c_6dba5d1faf3f-------) 
 
+### Revolutionizing Angular: Introducing the New Signal Input API 
+
+ Angular’s development team has achieved a remarkable milestone with the successful integration of th... 
+
+ [바로가기](https://medium.com/netanelbasal/revolutionizing-angular-introducing-the-new-signal-input-api-d0fc3c8777f2?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------javascript----------d5127201_c313_4125_9175_dcda51f2eeef-------) 
+
+###  리액트로 프록시 디자인 패턴 사용하기 
+
+ 리액트 환경에서 프록시 디자인 패턴을 사용하는 방법을 살펴보세요... 
+
+ [바로가기](https://kofearticle.substack.com/p/korean-fe-article-3e2) 
+
 ###  자바스크립트의 await 사건의 지평선 
 
  글 링크 : https://velog.io/@sehyunny/await-event-horizon 소개 모든 블랙홀의 주변에는 특별한 경계가 있습니다. 이 경계 내부의 중력을 벗어나... 
 
  [바로가기](https://kofearticle.substack.com/p/korean-fe-article-await) 
-
-### 당신은 고품질 소프트웨어를 구축하는 방법을 배운 적이 없습니다  
-
- 소개 아마 이 메일을 받아 보시는 많은 분들은 회사에서 개발하고 계실 텐데요. 혹시 개발을 진행하시면서 소프트웨어 품질에 대해 고민하시면서 개발하고 계시는가요? 아니면, QA의 중... 
-
- [바로가기](https://kofearticle.substack.com/p/e78) 
 
 ### 데이터 아키텍처? 쉽게 배워봅시다 
 
