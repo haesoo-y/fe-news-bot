@@ -1,29 +1,29 @@
 # 오늘의 포스팅 
-2024년 1월 9일 9시 기준 
+2024년 1월 10일 9시 기준 
 
-### Unlocking the Power of Next.js: A Deep Dive into Advanced Image Optimization Techniques 
+### [Vue3] Creating a Reusable Modal Component 
 
- In this blog, we’re going to get up close and personal with Next.js and its smart image handling cap... 
+ Modals are an essential building block of most web applications. They might seem tricky to implement... 
 
- [바로가기](https://medium.com/@aadityagupta400/unlocking-the-power-of-next-js-a-deep-dive-into-advanced-image-optimization-techniques-b1740b8d6a5f?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------nextjs----------c98a6696_673f_4c94_9e05_a8f3d2b5d6f1-------) 
+ [바로가기](https://medium.com/@fadamakis/vue3-creating-a-reusable-modal-component-ac4adbe88a18?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------front_end_development----------f42bed20_0514_44c9_842c_4e3bb3ec3669-------) 
 
-### Frontend Weekly Digest #344 (1–7 January 2023) 
+### Implementing a Modal in React: A Step-by-Step Guide 
 
- Web-development... 
+ Learn how to create a modal in a splash.... 
 
- [바로가기](https://medium.com/@frontender-ua/frontend-weekly-digest-344-1-7-january-2023-4cfc6c91902d?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------front_end_development----------f689b948_cfc3_4550_b0b8_e3fd7824946f-------) 
+ [바로가기](https://medium.com/@fidelotieno11/implementing-a-modal-in-react-a-step-by-step-guide-58fdd8406609?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------react----------9e2eede4_4ce6_4199_b0b1_6abe9dbdc44a-------) 
 
-### React can be worked in a small portion in our application 🚀 
+### Harnessing the Power of Signals to Drive Observables in Angular 
 
- React.JS is a library and can be worked in a small portion of our apps. React can be injected to a n... 
+ In certain scenarios, we need to activate an observable in response to changes in a signal’s value. ... 
 
- [바로가기](https://medium.com/@janaanup7872/react-can-be-worked-in-a-small-portion-in-our-application-71ac974c8f5a?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------react----------8d9bf01c_1931_4393_bc8c_6dba5d1faf3f-------) 
+ [바로가기](https://medium.com/netanelbasal/harnessing-the-power-of-signals-to-drive-observables-in-angular-f862b8154f7a?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------javascript----------fe3b9c9d_666e_4692_aeb1_acf5f72bf540-------) 
 
-### Revolutionizing Angular: Introducing the New Signal Input API 
+### Type guard to check if object properties are defined 
 
- Angular’s development team has achieved a remarkable milestone with the successful integration of th... 
+ Suppose we have a ScoreSheet interface and a function which checks if some score sheet belongs to a ... 
 
- [바로가기](https://medium.com/netanelbasal/revolutionizing-angular-introducing-the-new-signal-input-api-d0fc3c8777f2?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------javascript----------d5127201_c313_4125_9175_dcda51f2eeef-------) 
+ [바로가기](https://medium.com/typescript-tidbits/type-guard-to-check-if-object-properties-are-defined-4df587cfc706?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------typescript----------8725f0b8_7d91_439a_92e9_9e413e8552bc-------) 
 
 ###  리액트로 프록시 디자인 패턴 사용하기 
 
