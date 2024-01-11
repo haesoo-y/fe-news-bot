@@ -1,29 +1,35 @@
 # 오늘의 포스팅 
-2024년 1월 10일 9시 기준 
+2024년 1월 11일 9시 기준 
 
-### [Vue3] Creating a Reusable Modal Component 
+### Inclusive Forms: A Guide to Accessible Forms 
 
- Modals are an essential building block of most web applications. They might seem tricky to implement... 
+ ... 
 
- [바로가기](https://medium.com/@fadamakis/vue3-creating-a-reusable-modal-component-ac4adbe88a18?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------front_end_development----------f42bed20_0514_44c9_842c_4e3bb3ec3669-------) 
-
-### Implementing a Modal in React: A Step-by-Step Guide 
-
- Learn how to create a modal in a splash.... 
-
- [바로가기](https://medium.com/@fidelotieno11/implementing-a-modal-in-react-a-step-by-step-guide-58fdd8406609?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------react----------9e2eede4_4ce6_4199_b0b1_6abe9dbdc44a-------) 
+ [바로가기](https://medium.com/@davidovrelid/inclusive-forms-a-guide-to-accessible-forms-e7e6ae648b38?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------react----------ddc7fd22_7ddd_4abc_a60b_3b8a9284b601-------) 
 
 ### Harnessing the Power of Signals to Drive Observables in Angular 
 
  In certain scenarios, we need to activate an observable in response to changes in a signal’s value. ... 
 
- [바로가기](https://medium.com/netanelbasal/harnessing-the-power-of-signals-to-drive-observables-in-angular-f862b8154f7a?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------javascript----------fe3b9c9d_666e_4692_aeb1_acf5f72bf540-------) 
+ [바로가기](https://medium.com/netanelbasal/harnessing-the-power-of-signals-to-drive-observables-in-angular-f862b8154f7a?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------javascript----------c86c6b33_2ddf_4a0e_9a9c_4dc580ce5352-------) 
 
-### Type guard to check if object properties are defined 
+### TypeScript Index Signature Explained 
 
- Suppose we have a ScoreSheet interface and a function which checks if some score sheet belongs to a ... 
+ Demystifying TypeScript Index Signatures for Enhanced Code Flexibility... 
 
- [바로가기](https://medium.com/typescript-tidbits/type-guard-to-check-if-object-properties-are-defined-4df587cfc706?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------typescript----------8725f0b8_7d91_439a_92e9_9e413e8552bc-------) 
+ [바로가기](https://medium.com/gitconnected/typescript-index-signature-explained-b040a78a0467?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------typescript----------9a67e4be_b00e_4a80_9d76_c845ebef3e9b-------) 
+
+### The Evolution of React.js: A Journey Through Changing UI Tech Platforms in 2024 
+
+ Introduction:... 
+
+ [바로가기](https://medium.com/@swatantramishra1/the-evolution-of-react-js-a-journey-through-changing-ui-tech-platforms-in-2024-4824ad19bf11?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------frontend----------e04a6779_70ea_445a_b211_97fbd7aa45ff-------) 
+
+### 브라우저가 알려주지 않는 67가지 이상한 디버깅 트릭 
+
+ 소개 이 글에서는 브라우저에서 사용할 수 있는 여러 가지 유용한 디버깅 트릭을 소개합니다. 어느 정도 디버깅에…... 
+
+ [바로가기](https://kofearticle.substack.com/p/67) 
 
 ###  리액트로 프록시 디자인 패턴 사용하기 
 
@@ -31,23 +37,17 @@
 
  [바로가기](https://kofearticle.substack.com/p/korean-fe-article-3e2) 
 
-###  자바스크립트의 await 사건의 지평선 
+### 그래프 알고리즘 종류와 활용 방법 
 
- 글 링크 : https://velog.io/@sehyunny/await-event-horizon 소개 모든 블랙홀의 주변에는 특별한 경계가 있습니다. 이 경계 내부의 중력을 벗어나... 
+ 그래프 알고리즘(Graph Algorithms)은 네트워크 분석, 경로 찾기, 최적화 문제 등 다양한 문제를 해결하는 데 사용되는 중요한 알고리즘입니다. 이번 글에서는 그래프에 관... 
 
- [바로가기](https://kofearticle.substack.com/p/korean-fe-article-await) 
+ [바로가기](https://yozm.wishket.com/magazine/detail/2411/) 
 
-### 데이터 아키텍처? 쉽게 배워봅시다 
+### 대형 웹 애플리케이션 Micro Frontends 전환기 (2) 
 
- 오늘은 데이터 아키텍처에 대한 이야기를 나누려고 합니다. 처음 접하면 낯설고 복잡할 수 있지만, 함께 차근차근 알아보면 더 이해하기 쉬울 거에요. 데이터 아키텍처(Data Arch... 
+ 먼저 마이크로 프론트엔드라는 미지의 세계를 처음 접하면서 기술에 대한 이해도를 높였던 기간, 모듈 페더레이션 플러그인을 사용할 애플리케이션의 새 기반을 다졌던 과정, 빠른 기능 개... 
 
- [바로가기](https://yozm.wishket.com/magazine/detail/2396/) 
-
-### 이벤트 기반 웹뷰 프레임워크 설계와 플러그인 생태계 만들기 
-
- 안녕하세요. 저는 당근에서 개발자와 디자이너분들이 좀 더 행복하게 일할 수 있도록 돕는 역할을 하고 있는 원지혁입니다. 현재는 조금 얕지만 넓게 자바스크립트 기반의 풀스택 개발을 ... 
-
- [바로가기](https://yozm.wishket.com/magazine/detail/2395/) 
+ [바로가기](https://yozm.wishket.com/magazine/detail/2409/) 
 
 ---
 
