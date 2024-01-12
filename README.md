@@ -1,41 +1,29 @@
 # 오늘의 포스팅 
-2024년 1월 11일 9시 기준 
+2024년 1월 12일 9시 기준 
 
-### Inclusive Forms: A Guide to Accessible Forms 
+### Navigating the New Era of Angular: Zoneless Change Detection Unveiled 
 
- ... 
+ The Angular framework has always been at the forefront of advancing web application development. In ... 
 
- [바로가기](https://medium.com/@davidovrelid/inclusive-forms-a-guide-to-accessible-forms-e7e6ae648b38?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------react----------ddc7fd22_7ddd_4abc_a60b_3b8a9284b601-------) 
-
-### Harnessing the Power of Signals to Drive Observables in Angular 
-
- In certain scenarios, we need to activate an observable in response to changes in a signal’s value. ... 
-
- [바로가기](https://medium.com/netanelbasal/harnessing-the-power-of-signals-to-drive-observables-in-angular-f862b8154f7a?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------javascript----------c86c6b33_2ddf_4a0e_9a9c_4dc580ce5352-------) 
+ [바로가기](https://medium.com/netanelbasal/navigating-the-new-era-of-angular-zoneless-change-detection-unveiled-e7404de69b89?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------javascript----------aae41cc6_6a15_4291_9525_401501684f95-------) 
 
 ### TypeScript Index Signature Explained 
 
  Demystifying TypeScript Index Signatures for Enhanced Code Flexibility... 
 
- [바로가기](https://medium.com/gitconnected/typescript-index-signature-explained-b040a78a0467?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------typescript----------9a67e4be_b00e_4a80_9d76_c845ebef3e9b-------) 
+ [바로가기](https://medium.com/gitconnected/typescript-index-signature-explained-b040a78a0467?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------typescript----------7f27517e_76e9_44ae_9458_3feb359cf9bc-------) 
 
-### The Evolution of React.js: A Journey Through Changing UI Tech Platforms in 2024 
+### CSS? More Like Meh-SS… Until You Meet SCSS! 
 
- Introduction:... 
+ Hey there, fellow CSS warriors! We’ve all been there, right? Wrestling with clunky code, fighting th... 
 
- [바로가기](https://medium.com/@swatantramishra1/the-evolution-of-react-js-a-journey-through-changing-ui-tech-platforms-in-2024-4824ad19bf11?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------frontend----------e04a6779_70ea_445a_b211_97fbd7aa45ff-------) 
+ [바로가기](https://medium.com/@adi8090808766/css-more-like-meh-ss-until-you-meet-scss-171da4d1f8b2?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------frontend----------2549cc47_4470_4fba_8dc7_cd25af60115b-------) 
 
-### 브라우저가 알려주지 않는 67가지 이상한 디버깅 트릭 
+### The React Hook Chronicles: Decoding the Mysteries of JSON.stringify 
 
- 소개 이 글에서는 브라우저에서 사용할 수 있는 여러 가지 유용한 디버깅 트릭을 소개합니다. 어느 정도 디버깅에…... 
+ Let’s dive in and explore the idea of using JSON.stringify in the dependency array of React’s most c... 
 
- [바로가기](https://kofearticle.substack.com/p/67) 
-
-###  리액트로 프록시 디자인 패턴 사용하기 
-
- 리액트 환경에서 프록시 디자인 패턴을 사용하는 방법을 살펴보세요... 
-
- [바로가기](https://kofearticle.substack.com/p/korean-fe-article-3e2) 
+ [바로가기](https://medium.com/@deepaksuryas/the-react-hook-chronicles-decoding-the-mysteries-of-json-stringify-b52c3f71bdc1?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------reactjs----------5d89947c_57a3_4ed5_9161_6ece1e88e8b1-------) 
 
 ### 그래프 알고리즘 종류와 활용 방법 
 
