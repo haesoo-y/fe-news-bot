@@ -1,29 +1,29 @@
 # 오늘의 포스팅 
-2024년 1월 12일 9시 기준 
+2024년 1월 13일 9시 기준 
 
-### Navigating the New Era of Angular: Zoneless Change Detection Unveiled 
+### Make Cleaner TypeScript Import Statements with Path Aliasing 
 
- The Angular framework has always been at the forefront of advancing web application development. In ... 
+ ... 
 
- [바로가기](https://medium.com/netanelbasal/navigating-the-new-era-of-angular-zoneless-change-detection-unveiled-e7404de69b89?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------javascript----------aae41cc6_6a15_4291_9525_401501684f95-------) 
-
-### TypeScript Index Signature Explained 
-
- Demystifying TypeScript Index Signatures for Enhanced Code Flexibility... 
-
- [바로가기](https://medium.com/gitconnected/typescript-index-signature-explained-b040a78a0467?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------typescript----------7f27517e_76e9_44ae_9458_3feb359cf9bc-------) 
+ [바로가기](https://medium.com/@dominicksegundo.dev/make-cleaner-typescript-import-statements-with-path-aliasing-6f821c767d28?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------typescript----------bd19df24_71b7_4d87_bb47_cd7819b45da7-------) 
 
 ### CSS? More Like Meh-SS… Until You Meet SCSS! 
 
  Hey there, fellow CSS warriors! We’ve all been there, right? Wrestling with clunky code, fighting th... 
 
- [바로가기](https://medium.com/@adi8090808766/css-more-like-meh-ss-until-you-meet-scss-171da4d1f8b2?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------frontend----------2549cc47_4470_4fba_8dc7_cd25af60115b-------) 
+ [바로가기](https://medium.com/@adi8090808766/css-more-like-meh-ss-until-you-meet-scss-171da4d1f8b2?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------frontend----------bc07444c_f31e_4c75_8790_27e32505a2a5-------) 
 
-### The React Hook Chronicles: Decoding the Mysteries of JSON.stringify 
+### React : Sequential API calls 
 
- Let’s dive in and explore the idea of using JSON.stringify in the dependency array of React’s most c... 
+ We all know javascript is single threaded. But even though it’s single threaded we do have the optio... 
 
- [바로가기](https://medium.com/@deepaksuryas/the-react-hook-chronicles-decoding-the-mysteries-of-json-stringify-b52c3f71bdc1?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------reactjs----------5d89947c_57a3_4ed5_9161_6ece1e88e8b1-------) 
+ [바로가기](https://medium.com/@shikharsingh03/react-sequential-api-calls-4fd5db15c053?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------reactjs----------884d5378_64c3_483f_8f82_785c0bb6a1e8-------) 
+
+### A Modern Approach to Next.js Development 
+
+ Build composable and modernised Next.js apps with Bit!... 
+
+ [바로가기](https://medium.com/bitsrc/a-modern-approach-to-next-js-development-0cf7d4357350?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------nextjs----------f7681e7d_112e_4c50_a237_446bedd3f8c0-------) 
 
 ### 그래프 알고리즘 종류와 활용 방법 
 
