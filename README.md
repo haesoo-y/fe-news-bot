@@ -1,29 +1,29 @@
 # 오늘의 포스팅 
-2024년 1월 13일 9시 기준 
-
-### Make Cleaner TypeScript Import Statements with Path Aliasing 
-
- ... 
-
- [바로가기](https://medium.com/@dominicksegundo.dev/make-cleaner-typescript-import-statements-with-path-aliasing-6f821c767d28?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------typescript----------bd19df24_71b7_4d87_bb47_cd7819b45da7-------) 
+2024년 1월 14일 9시 기준 
 
 ### CSS? More Like Meh-SS… Until You Meet SCSS! 
 
  Hey there, fellow CSS warriors! We’ve all been there, right? Wrestling with clunky code, fighting th... 
 
- [바로가기](https://medium.com/@adi8090808766/css-more-like-meh-ss-until-you-meet-scss-171da4d1f8b2?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------frontend----------bc07444c_f31e_4c75_8790_27e32505a2a5-------) 
+ [바로가기](https://medium.com/@adi8090808766/css-more-like-meh-ss-until-you-meet-scss-171da4d1f8b2?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------frontend----------ad108487_8398_43f9_9912_03fa825292c8-------) 
 
-### React : Sequential API calls 
+### The  declarativeness of React 
 
- We all know javascript is single threaded. But even though it’s single threaded we do have the optio... 
+ This suggests that React has a method for achieving this; otherwise, it would seem like magic. It’s ... 
 
- [바로가기](https://medium.com/@shikharsingh03/react-sequential-api-calls-4fd5db15c053?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------reactjs----------884d5378_64c3_483f_8f82_785c0bb6a1e8-------) 
+ [바로가기](https://medium.com/@mujeebopabode07/the-declarativeness-of-react-8919b8687e21?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------reactjs----------b01aa7b4_131d_4eeb_bf85_48d2e0e8d977-------) 
 
-### A Modern Approach to Next.js Development 
+### JSON API, using Next.js 13+ and MongoDB 
 
- Build composable and modernised Next.js apps with Bit!... 
+ This is a continuing tutorial from my “The MongoDB and Next.js Stack for Beginners” tutorial that yo... 
 
- [바로가기](https://medium.com/bitsrc/a-modern-approach-to-next-js-development-0cf7d4357350?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------nextjs----------f7681e7d_112e_4c50_a237_446bedd3f8c0-------) 
+ [바로가기](https://medium.com/@ellertsmarik/json-api-using-next-js-13-and-mongodb-f45e8e61b031?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------nextjs----------5dc6cca5_d687_4f24_b606_a5849979f435-------) 
+
+### 5 JavaScript Utility Libraries to Improve Your Efficiency 
+
+ 5 utility libraries 99% of people may not know about!... 
+
+ [바로가기](https://medium.com/@fatfish/5-javascript-utility-libraries-to-improve-your-efficiency-d49e53c5c936?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------front_end_development----------494983b8_d6b6_4a49_a929_46a9c6d13b66-------) 
 
 ### 그래프 알고리즘 종류와 활용 방법 
 
