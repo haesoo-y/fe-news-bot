@@ -23,7 +23,8 @@
   "homepage": "https://github.com/haesoo9410/fe-news-bot#readme",
   "dependencies": {
     "axios": "^0.26.1",
-    "cheerio": "^1.0.0-rc.10"
+    "cheerio": "^1.0.0-rc.10",
+    "typescript": "^5.3.3"
   },
   "devDependencies": {
     "@types/node": "^17.0.23",
