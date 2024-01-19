@@ -1,11 +1,5 @@
 # 오늘의 포스팅 
-2024년 1월 18일 23시 기준 
-
-### Javascript Optimization Techniques 
-
- When we begin a project, we tend to focus on things like scalability, usability, availability, secur... 
-
- [바로가기](https://medium.com/globant/javascript-optimization-techniques-20d8d167dadd?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------react----------423bc1cd_ce4d_4deb_b4ba_3b02b5ac0d02-------) 
+2024년 1월 19일 9시 기준 
 
 ### Web Components 2024 Winter Update 
 
@@ -17,13 +11,19 @@
 
  Overview of the possibilities and a quick start guide to getting started with development based on t... 
 
- [바로가기](https://medium.com/@thismrojek/streamlined-apps-development-with-cloudflares-d1-and-pages-sveltekit-410f1a570ae0?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------typescript----------456394ba_bfbc_4eba_b1d8_161c5670d2d2-------) 
+ [바로가기](https://medium.com/@thismrojek/streamlined-apps-development-with-cloudflares-d1-and-pages-sveltekit-410f1a570ae0?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------typescript----------b960a84b_b61a_4981_bcc5_744c1d33e972-------) 
 
 ### Static vs Dynamically Updated Text In Your App 
 
  Choosing the right way to handle text in your app... 
 
- [바로가기](https://medium.com/javascript-in-plain-english/static-vs-dynamically-updated-text-in-your-app-a9ebae57f21e?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------frontend----------03050e09_3dc7_4fb1_b27f_880e28a39e03-------) 
+ [바로가기](https://medium.com/javascript-in-plain-english/static-vs-dynamically-updated-text-in-your-app-a9ebae57f21e?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------frontend----------43384550_1c70_4595_a1bd_88f73a2295f8-------) 
+
+### Weather app with React and open weather 
+
+ Take a trip through the Weather App, which was created utilizing React’s dynamic features and smooth... 
+
+ [바로가기](https://medium.com/@kanthidamarla/weather-app-with-react-and-open-weather-cf026eb00cd9?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------reactjs----------63035f8d_6014_4b11_a2af_0a859426d488-------) 
 
 ### 개발자 생산성 높여주는 무료 맥 앱 7가지 
 
