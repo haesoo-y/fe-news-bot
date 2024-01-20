@@ -1,29 +1,29 @@
 # 오늘의 포스팅 
-2024년 1월 19일 9시 기준 
+2024년 1월 20일 9시 기준 
 
-### Web Components 2024 Winter Update 
+### Meet Angular v17.1: New Era of Signal-Based Inputs 🚦 
 
- Results of the W3C Web Components Community Group Winter F2F Meetings... 
+ A compilation of useful materials for getting started with the signals API... 
 
- [바로가기](https://medium.com/@eisenbergeffect/web-components-2024-winter-update-445f27e7613a?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------javascript----------c38fb144_ac25_4058_a0a8_e469c0108ec2-------) 
+ [바로가기](https://medium.com/itnext/meet-angular-v17-1-new-era-of-signal-based-inputs-4c18f77d3bbe?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------typescript----------0374f0d7_5f9d_4a30_ad4c_b87f48448e93-------) 
 
-### Streamlined apps development with Cloudflare’s D1 and Pages (SvelteKit) 
+### How to Get Better at Coding: My Approach 
 
- Overview of the possibilities and a quick start guide to getting started with development based on t... 
+ "Hello Eze, So I saw your portfolio website, and I think it’s awesome! How long have you been coding... 
 
- [바로가기](https://medium.com/@thismrojek/streamlined-apps-development-with-cloudflares-d1-and-pages-sveltekit-410f1a570ae0?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------typescript----------b960a84b_b61a_4981_bcc5_744c1d33e972-------) 
+ [바로가기](https://medium.com/@descometusah/how-to-get-better-at-coding-my-approach-3f5e5ffdbe71?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------frontend----------efc264c9_f605_4885_b196_76123f1fa4c5-------) 
 
-### Static vs Dynamically Updated Text In Your App 
+### Top 30 JavaScript Interview Questions and Answers for 2024 
 
- Choosing the right way to handle text in your app... 
+ Prepare for your next JavaScript interview with confidence!... 
 
- [바로가기](https://medium.com/javascript-in-plain-english/static-vs-dynamically-updated-text-in-your-app-a9ebae57f21e?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------frontend----------43384550_1c70_4595_a1bd_88f73a2295f8-------) 
+ [바로가기](https://medium.com/@javascriptcentric/top-30-javascript-interview-questions-and-answers-for-2024-7f1e2d1d0638?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-107----------reactjs----------bb106600_0aed_49af_a402_80254aa4e640-------) 
 
-### Weather app with React and open weather 
+### React Is a Pain to Learn 
 
- Take a trip through the Weather App, which was created utilizing React’s dynamic features and smooth... 
+ I’ve been coding React for 5 years. For the first 2–3 years of my journey of using React, I’ve been ... 
 
- [바로가기](https://medium.com/@kanthidamarla/weather-app-with-react-and-open-weather-cf026eb00cd9?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------reactjs----------63035f8d_6014_4b11_a2af_0a859426d488-------) 
+ [바로가기](https://medium.com/@marioserano55/react-is-a-pain-to-learn-f5ac8b9c96e3?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------nextjs----------1513de32_005f_40df_8de1_50d5e3e24263-------) 
 
 ### 개발자 생산성 높여주는 무료 맥 앱 7가지 
 
