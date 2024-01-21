@@ -1,29 +1,29 @@
 # 오늘의 포스팅 
-2024년 1월 20일 9시 기준 
-
-### Meet Angular v17.1: New Era of Signal-Based Inputs 🚦 
-
- A compilation of useful materials for getting started with the signals API... 
-
- [바로가기](https://medium.com/itnext/meet-angular-v17-1-new-era-of-signal-based-inputs-4c18f77d3bbe?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------typescript----------0374f0d7_5f9d_4a30_ad4c_b87f48448e93-------) 
+2024년 1월 21일 9시 기준 
 
 ### How to Get Better at Coding: My Approach 
 
  "Hello Eze, So I saw your portfolio website, and I think it’s awesome! How long have you been coding... 
 
- [바로가기](https://medium.com/@descometusah/how-to-get-better-at-coding-my-approach-3f5e5ffdbe71?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------frontend----------efc264c9_f605_4885_b196_76123f1fa4c5-------) 
+ [바로가기](https://medium.com/@descometusah/how-to-get-better-at-coding-my-approach-3f5e5ffdbe71?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------frontend----------1c9e928b_52bf_4e7b_816d_fb3a25ee1300-------) 
 
-### Top 30 JavaScript Interview Questions and Answers for 2024 
+### React-Django QuickStart #1 
 
- Prepare for your next JavaScript interview with confidence!... 
+ This is a tutorial to get you started in React and Django. Honestly, when I started, there was a lot... 
 
- [바로가기](https://medium.com/@javascriptcentric/top-30-javascript-interview-questions-and-answers-for-2024-7f1e2d1d0638?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-107----------reactjs----------bb106600_0aed_49af_a402_80254aa4e640-------) 
+ [바로가기](https://medium.com/@patilniharika2306/react-django-quickstart-1-e032c345946d?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------reactjs----------0afb1299_1088_416e_b1f4_246d587b41d1-------) 
 
-### React Is a Pain to Learn 
+### PART 1. Smart Contracts Made Easy: Writing, Debugging, Deploying, and Frontend Integration for… 
 
- I’ve been coding React for 5 years. For the first 2–3 years of my journey of using React, I’ve been ... 
+ This article is a little longer being the comprehensive guide of the time for Smart Contracts develo... 
 
- [바로가기](https://medium.com/@marioserano55/react-is-a-pain-to-learn-f5ac8b9c96e3?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------nextjs----------1513de32_005f_40df_8de1_50d5e3e24263-------) 
+ [바로가기](https://medium.com/@etiennemaway/part-1-smart-contracts-made-easy-writing-debugging-deploying-and-frontend-integration-for-6b3eb088066c?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------nextjs----------5186026d_5bec_426d_8c48_407223dc4766-------) 
+
+### Data Fetching in Vue 3 
+
+ Data fetching optimization is key for a performant web application. Vue helps by offering many diffe... 
+
+ [바로가기](https://medium.com/@fadamakis/data-fetching-in-vue-4b0faf0e88b7?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------front_end_development----------8860f971_fd18_4c25_9033_4014ae8d1a70-------) 
 
 ### 개발자 생산성 높여주는 무료 맥 앱 7가지 
 
