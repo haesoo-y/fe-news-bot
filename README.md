@@ -1,41 +1,41 @@
 # 오늘의 포스팅 
-2024년 1월 21일 9시 기준 
+2024년 1월 22일 9시 기준 
 
-### How to Get Better at Coding: My Approach 
+### Transform Your Web Applications: Top JS Libraries 🧑‍💻 
 
- "Hello Eze, So I saw your portfolio website, and I think it’s awesome! How long have you been coding... 
+ Hey Folks!! ✨,... 
 
- [바로가기](https://medium.com/@descometusah/how-to-get-better-at-coding-my-approach-3f5e5ffdbe71?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------frontend----------1c9e928b_52bf_4e7b_816d_fb3a25ee1300-------) 
+ [바로가기](https://medium.com/@barson0habra/transform-your-web-applications-top-js-libraries-f934c2ae6ce6?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------reactjs----------130c6d1e_450a_4bc0_9a8e_c916e69a82de-------) 
 
-### React-Django QuickStart #1 
+### Mastering React Portals in 2024 
 
- This is a tutorial to get you started in React and Django. Honestly, when I started, there was a lot... 
+ In this tutorial, you will learn all you need to know to use React Portals once and for all.... 
 
- [바로가기](https://medium.com/@patilniharika2306/react-django-quickstart-1-e032c345946d?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------reactjs----------0afb1299_1088_416e_b1f4_246d587b41d1-------) 
+ [바로가기](https://medium.com/@botelhomarcelo7/mastering-react-portals-in-2024-c4f920706b5e?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------nextjs----------79d25dce_41a2_446b_9786_bdbebd5edfa4-------) 
 
-### PART 1. Smart Contracts Made Easy: Writing, Debugging, Deploying, and Frontend Integration for… 
+### Creating Custom Library with Angular 
 
- This article is a little longer being the comprehensive guide of the time for Smart Contracts develo... 
+ This will cover below steps: Creating library skeleton in a new workspace Updating custom code in Li... 
 
- [바로가기](https://medium.com/@etiennemaway/part-1-smart-contracts-made-easy-writing-debugging-deploying-and-frontend-integration-for-6b3eb088066c?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------nextjs----------5186026d_5bec_426d_8c48_407223dc4766-------) 
+ [바로가기](https://medium.com/@abhishek-ankush/creating-custom-library-with-angular-197081b760e8?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------front_end_development----------df0c0ee3_41be_4bc8_854c_7c481c5df6d7-------) 
 
-### Data Fetching in Vue 3 
+### Frontend Masters: Solid Principles in React / React Native 
 
- Data fetching optimization is key for a performant web application. Vue helps by offering many diffe... 
+ If you are a software developer, you may face “Have you ever heard of Solid principles before?” ques... 
 
- [바로가기](https://medium.com/@fadamakis/data-fetching-in-vue-4b0faf0e88b7?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------front_end_development----------8860f971_fd18_4c25_9033_4014ae8d1a70-------) 
+ [바로가기](https://medium.com/stackademic/react-native-masters-solid-principles-in-react-react-native-a1b8df8d261d?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-107----------react----------f39d053c_97f2_4d66_b795_cace1b46fc2e-------) 
+
+### 신원확인, 통합인증관리 오픈소스 ‘키클락’을 알아보자 
+
+ KubeCon + Cloud Native North America 2023에서 발표한 내용을 정리한 글입니다. 발표 내용을 3회로 나누어 발행합니다. 이번 1부에서는 키클락의 기능... 
+
+ [바로가기](https://yozm.wishket.com/magazine/detail/2425/) 
 
 ### 개발자 생산성 높여주는 무료 맥 앱 7가지 
 
  맥(Mac)을 사용하다 보면 유용한 앱이 정말 많다는 걸 느낍니다. 유료로 구매해야 하는 앱도 있지만, 무료로 받을 수 있는 앱도 생각보다 많은데요. 그래서 종종 동료 개발자들과 ... 
 
  [바로가기](https://yozm.wishket.com/magazine/detail/2421/) 
-
-### 지속가능한 코드리뷰 문화를 만드는 여정 
-
- 이 글은 코드리뷰 목적부터 시작하여 리뷰어 선정 변천 과정, 코드리뷰 비용을 줄이면서 효과적으로 리뷰하는 방법 순서로 이어집니다. 화해팀에서 지속 가능한 코드리뷰 문화를 만들기까지... 
-
- [바로가기](https://yozm.wishket.com/magazine/detail/2420/) 
 
 ---
 
