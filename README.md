@@ -1,41 +1,41 @@
 # 오늘의 포스팅 
-2024년 1월 22일 9시 기준 
+2024년 1월 23일 9시 기준 
 
-### Transform Your Web Applications: Top JS Libraries 🧑‍💻 
+### How to ‘NOT’ write NextJs 
 
- Hey Folks!! ✨,... 
+ Never did i ever think i would find my self in the world of computer programming, i mean ~ i always ... 
 
- [바로가기](https://medium.com/@barson0habra/transform-your-web-applications-top-js-libraries-f934c2ae6ce6?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------reactjs----------130c6d1e_450a_4bc0_9a8e_c916e69a82de-------) 
+ [바로가기](https://medium.com/@akuutsang/how-to-not-write-nextjs-e649d950c539?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------nextjs----------aa9cf890_ef1f_4d2a_95ba_e8ecd13841f0-------) 
 
-### Mastering React Portals in 2024 
+### Frontend Weekly Digest #346 (15–21 January 2023) 
 
- In this tutorial, you will learn all you need to know to use React Portals once and for all.... 
+ Web-development... 
 
- [바로가기](https://medium.com/@botelhomarcelo7/mastering-react-portals-in-2024-c4f920706b5e?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------nextjs----------79d25dce_41a2_446b_9786_bdbebd5edfa4-------) 
+ [바로가기](https://medium.com/@frontender-ua/frontend-weekly-digest-346-15-21-january-2023-655b733b7606?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------front_end_development----------7b49ba3b_dcd0_409e_9839_61532ac187b5-------) 
 
-### Creating Custom Library with Angular 
+### How to create NPM package for React component (Typescript, PNPM, Vite) 
 
- This will cover below steps: Creating library skeleton in a new workspace Updating custom code in Li... 
+ Let me take you on a hands-on journey through the process of creating and distributing a React compo... 
 
- [바로가기](https://medium.com/@abhishek-ankush/creating-custom-library-with-angular-197081b760e8?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------front_end_development----------df0c0ee3_41be_4bc8_854c_7c481c5df6d7-------) 
+ [바로가기](https://medium.com/@prawitohudoro/how-to-create-a-npm-package-for-react-component-typescript-pnpm-vite-467c3e6daf01?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------react----------b2c7b6e8_face_4777_a507_b5a9525957fe-------) 
 
-### Frontend Masters: Solid Principles in React / React Native 
+### Frontend Weekly Digest #346 (15–21 January 2023) 
 
- If you are a software developer, you may face “Have you ever heard of Solid principles before?” ques... 
+ Web-development... 
 
- [바로가기](https://medium.com/stackademic/react-native-masters-solid-principles-in-react-react-native-a1b8df8d261d?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-107----------react----------f39d053c_97f2_4d66_b795_cace1b46fc2e-------) 
+ [바로가기](https://medium.com/@frontender-ua/frontend-weekly-digest-346-15-21-january-2023-655b733b7606?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------javascript----------a001f9ba_de3b_4108_bcf1_1069eb975393-------) 
+
+### 키클락 구성을 위한 기나긴 사전 작업 한번에 보기 
+
+ KubeCon + Cloud Native North America 2023에서 발표한 <Beyond Passwords: Keycloak's Contributions to IAM(I... 
+
+ [바로가기](https://yozm.wishket.com/magazine/detail/2427/) 
 
 ### 신원확인, 통합인증관리 오픈소스 ‘키클락’을 알아보자 
 
  KubeCon + Cloud Native North America 2023에서 발표한 내용을 정리한 글입니다. 발표 내용을 3회로 나누어 발행합니다. 이번 1부에서는 키클락의 기능... 
 
  [바로가기](https://yozm.wishket.com/magazine/detail/2425/) 
-
-### 개발자 생산성 높여주는 무료 맥 앱 7가지 
-
- 맥(Mac)을 사용하다 보면 유용한 앱이 정말 많다는 걸 느낍니다. 유료로 구매해야 하는 앱도 있지만, 무료로 받을 수 있는 앱도 생각보다 많은데요. 그래서 종종 동료 개발자들과 ... 
-
- [바로가기](https://yozm.wishket.com/magazine/detail/2421/) 
 
 ---
 
