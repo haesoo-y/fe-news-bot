@@ -1,29 +1,29 @@
 # 오늘의 포스팅 
-2024년 1월 25일 9시 기준 
+2024년 1월 26일 9시 기준 
 
-### Frontend Masters: Solid Principles in React / React Native 
+### We Forgot Frontend Basics 
 
- ... 
+ Usually, I say that it is not so bad, skillful hands can do almost everything. However, recently I h... 
 
- [바로가기](https://medium.com/stackademic/react-native-masters-solid-principles-in-react-react-native-a1b8df8d261d?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-107----------react----------99304fee_2314_4ecc_8997_63d3bb724908-------) 
+ [바로가기](https://medium.com/stackademic/we-forgot-frontend-basics-2f9a1c4dabaa?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------javascript----------0bbedfba_7938_476f_a2c9_8094d74cdff1-------) 
 
-### Case Study: Solving Vercel’s 10-Second Limit with QStash 
+### How to switch from PHP, and to what 
 
- Learn how to get around Vercel’s 10-second limit by thinking serverlessly and using QStash to glue t... 
+ I was a PHP programmer for 17 years and then switched. How to avoid salary drop when doing that? And... 
 
- [바로가기](https://medium.com/@kolbysisk/case-study-solving-vercels-10-second-limit-with-qstash-2bceeb35d29b?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------javascript----------ac737b96_42a0_407c_b1b5_c4d44018339b-------) 
+ [바로가기](https://medium.com/@alexey.inkin/how-to-switch-from-php-and-to-what-a740623bfae5?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------typescript----------3515952d_be44_419a_a947_c96ce8cd39cd-------) 
 
-### Architecting Robust Software: Embracing Modular Design 
+### We Forgot Frontend Basics 
 
- The Story Begins:... 
+ Usually, I say that it is not so bad, skillful hands can do almost everything. However, recently I h... 
 
- [바로가기](https://medium.com/@ionutpietrar/architecting-robust-software-embracing-modular-design-6980ff3c3933?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------typescript----------8ee0bfb0_5904_4908_8937_70c5c60be4ca-------) 
+ [바로가기](https://medium.com/stackademic/we-forgot-frontend-basics-2f9a1c4dabaa?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------frontend----------d12c90aa_f028_4451_8bd4_8e7af6d6940c-------) 
 
-### Top 14 Libraries for Any React App 
+### Next.js 13: The New Era of Server-Side and Client-Side Components 
 
- The Ultimate React Arsenal... 
+ With the introduction of Next.js 13, the Server Components and Client Components features bring a ne... 
 
- [바로가기](https://medium.com/gitconnected/top-14-libraries-for-any-react-app-7ef7933d8966?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------frontend----------0e895ba4_5122_4fa1_b2cb_c2d8fdb70e92-------) 
+ [바로가기](https://medium.com/@emreesrc/next-js-13-the-new-era-of-server-side-and-client-side-components-93a02b5ad705?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------reactjs----------d2292a2e_d378_4696_a0cd_6f80337b5780-------) 
 
 ### 개발자, 자신의 길을 만든다는 것: 베터코드 안영회 대표 
 
