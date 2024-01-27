@@ -1,29 +1,29 @@
 # 오늘의 포스팅 
-2024년 1월 26일 9시 기준 
+2024년 1월 27일 9시 기준 
+
+### 5 Tools for Typescript Projects at Scale 
+
+ Tools that help to develop and maintain large typescript projects... 
+
+ [바로가기](https://medium.com/bitsrc/5-tools-for-typescript-projects-at-scale-05667f8a0ae0?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------typescript----------d54d21ec_d924_41ad_9950_bbe3c00e3024-------) 
 
 ### We Forgot Frontend Basics 
 
  Usually, I say that it is not so bad, skillful hands can do almost everything. However, recently I h... 
 
- [바로가기](https://medium.com/stackademic/we-forgot-frontend-basics-2f9a1c4dabaa?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------javascript----------0bbedfba_7938_476f_a2c9_8094d74cdff1-------) 
+ [바로가기](https://medium.com/stackademic/we-forgot-frontend-basics-2f9a1c4dabaa?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------frontend----------b08ddabc_d3b5_47fa_b9c3_c4347dac4bfe-------) 
 
-### How to switch from PHP, and to what 
+### Vite vs Create React App in 2024 
 
- I was a PHP programmer for 17 years and then switched. How to avoid salary drop when doing that? And... 
+ What should you use — Vite or Create React App?... 
 
- [바로가기](https://medium.com/@alexey.inkin/how-to-switch-from-php-and-to-what-a740623bfae5?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------typescript----------3515952d_be44_419a_a947_c96ce8cd39cd-------) 
-
-### We Forgot Frontend Basics 
-
- Usually, I say that it is not so bad, skillful hands can do almost everything. However, recently I h... 
-
- [바로가기](https://medium.com/stackademic/we-forgot-frontend-basics-2f9a1c4dabaa?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------frontend----------d12c90aa_f028_4451_8bd4_8e7af6d6940c-------) 
+ [바로가기](https://medium.com/bitsrc/vite-vs-create-react-app-326e8cc2c46b?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------reactjs----------24505e28_e2b5_49ef_ba00_4d3b5bf5390e-------) 
 
 ### Next.js 13: The New Era of Server-Side and Client-Side Components 
 
  With the introduction of Next.js 13, the Server Components and Client Components features bring a ne... 
 
- [바로가기](https://medium.com/@emreesrc/next-js-13-the-new-era-of-server-side-and-client-side-components-93a02b5ad705?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------reactjs----------d2292a2e_d378_4696_a0cd_6f80337b5780-------) 
+ [바로가기](https://medium.com/@emreesrc/next-js-13-the-new-era-of-server-side-and-client-side-components-93a02b5ad705?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------nextjs----------9fd2950c_0066_4961_9286_caccebc1f456-------) 
 
 ### 개발자, 자신의 길을 만든다는 것: 베터코드 안영회 대표 
 
