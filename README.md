@@ -1,11 +1,5 @@
 # 오늘의 포스팅 
-2024년 1월 27일 9시 기준 
-
-### 5 Tools for Typescript Projects at Scale 
-
- Tools that help to develop and maintain large typescript projects... 
-
- [바로가기](https://medium.com/bitsrc/5-tools-for-typescript-projects-at-scale-05667f8a0ae0?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------typescript----------d54d21ec_d924_41ad_9950_bbe3c00e3024-------) 
+2024년 1월 28일 9시 기준 
 
 ### We Forgot Frontend Basics 
 
@@ -17,13 +11,19 @@
 
  What should you use — Vite or Create React App?... 
 
- [바로가기](https://medium.com/bitsrc/vite-vs-create-react-app-326e8cc2c46b?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------reactjs----------24505e28_e2b5_49ef_ba00_4d3b5bf5390e-------) 
+ [바로가기](https://medium.com/bitsrc/vite-vs-create-react-app-326e8cc2c46b?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------reactjs----------c7e5a3c2_4f29_4bb2_bec9_338039ec8a54-------) 
 
-### Next.js 13: The New Era of Server-Side and Client-Side Components 
+### How to add tweets in your nextjs application? 
 
- With the introduction of Next.js 13, the Server Components and Client Components features bring a ne... 
+ Embed tweets in your new or existing nextjs application.... 
 
- [바로가기](https://medium.com/@emreesrc/next-js-13-the-new-era-of-server-side-and-client-side-components-93a02b5ad705?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------nextjs----------9fd2950c_0066_4961_9286_caccebc1f456-------) 
+ [바로가기](https://medium.com/frontendweb/how-to-add-tweets-in-your-nextjs-application-2bc4411103bf?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------nextjs----------6901b5ba_f890_45aa_985f_81da9eba2b63-------) 
+
+### This week in front-end (week 4) 2024 
+
+ Hello everyone and welcome to this weeks edition of front-end weekly on the JYSK tech blog.... 
+
+ [바로가기](https://medium.com/jysktech/this-week-in-front-end-week-4-2024-7ff7315d4af7?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------front_end_development----------650be232_b591_4b29_b22e_32496d170d03-------) 
 
 ### 개발자, 자신의 길을 만든다는 것: 베터코드 안영회 대표 
 
