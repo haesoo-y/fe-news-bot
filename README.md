@@ -1,41 +1,41 @@
 # 오늘의 포스팅 
-2024년 1월 29일 9시 기준 
+2024년 1월 30일 9시 기준 
 
-### Roadmap for React JS for Beginners to Advance 
+### Deploying NextJs Application on Window’s IIS Server 
 
- React :... 
+ NextJS is the server-side rendered React-based framework for creating single page applications. It i... 
 
- [바로가기](https://medium.com/@rajanraj8979/roadmap-for-react-js-for-beginners-to-advance-522ce3588838?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------reactjs----------99d131d3_4839_4e68_af9d_ebbc83365e7c-------) 
+ [바로가기](https://medium.com/@patrick.jakobsen/deploying-nextjs-application-on-windows-iis-server-60793f416eb1?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------nextjs----------7b4b9785_376d_4307_987a_63ee4813b1ab-------) 
 
-### How to add tweets in your nextjs application? 
+### Frontend Weekly Digest #347 (22–28 January 2023) 
 
- Embed tweets in your new or existing nextjs application.... 
+ Web-development... 
 
- [바로가기](https://medium.com/frontendweb/how-to-add-tweets-in-your-nextjs-application-2bc4411103bf?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------nextjs----------95ba2fcc_a022_4d3c_b73a_846d1033b724-------) 
+ [바로가기](https://medium.com/@frontender-ua/frontend-weekly-digest-347-22-28-january-2023-a7537afdb5bc?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------front_end_development----------fcc93ca0_813d_4abd_ae77_15c3772d8774-------) 
 
-### This week in front-end (week 4) 2024 
+### Frontend Masters: Feature-Sliced Design (FSD) Pattern 
 
- Hello everyone and welcome to this weeks edition of front-end weekly on the JYSK tech blog.... 
+ Imagine a delicious pizza as your complex project. Let’s break it down slice by slice: easy to manag... 
 
- [바로가기](https://medium.com/jysktech/this-week-in-front-end-week-4-2024-7ff7315d4af7?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------front_end_development----------e2bc3159_49c0_46cc_a571_a6ff79a08cf4-------) 
+ [바로가기](https://medium.com/@ismailharmanda/frontend-masters-feature-sliced-design-fsd-pattern-81416088b006?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------react----------fdb749c3_32b0_42bc_9db8_4a90702e5741-------) 
 
-### Before Creating Another Wrapper Component, Try Spread Syntax; When Creating One, Try Spread Syntax 
+### Frontend Weekly Digest #347 (22–28 January 2023) 
 
- Use Spread Syntax to Make Our Lives Easier With or Without a Wrapper Component... 
+ Web-development... 
 
- [바로가기](https://medium.com/@linkfang/before-creating-another-wrapper-component-try-spread-syntax-when-creating-one-try-spread-syntax-7417e28ae51a?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------react----------549cde20_e5fd_49bd_b4cb_58fe3601532c-------) 
+ [바로가기](https://medium.com/@frontender-ua/frontend-weekly-digest-347-22-28-january-2023-a7537afdb5bc?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------javascript----------4087dacc_e20c_45d5_b2cd_2dfae2df6138-------) 
+
+### 생산성 200% 올리는 업무 관리 방법(실전편) 
+
+ 요즘은 회사에 남아 오래, 더 많이 일하는 것이 중요하지 않습니다. 회사에서도 이를 바라지 않는 것 같아요. 보여주기식이 아니라 “진짜” 일 잘하는 사람을 원합니다. 저는 이를 결... 
+
+ [바로가기](https://yozm.wishket.com/magazine/detail/2437/) 
 
 ### 가독성 좋은 테스트 코드를 작성하는 방법 
 
  프론트엔드에서의 테스트 코드는 백엔드 영역과 달리, 팀의 개발 문화로 자리 잡거나 개인이 익숙해질 정도의 단계는 아닌 것 같은데요. 그러다 보니 테스트 코드를 저마다의 스타일로 작... 
 
  [바로가기](https://yozm.wishket.com/magazine/detail/2435/) 
-
-### 개발자, 자신의 길을 만든다는 것: 베터코드 안영회 대표 
-
- 안영회 베터코드 대표는 닷컴 열풍과 함께 본격화된 국내 기업 및 공공 정보화 현장을 20년 이상 누빈, 경력 20년이 훌쩍 넘은 개발자 출신 경영자입니다. 이른바 'SI(Syste... 
-
- [바로가기](https://yozm.wishket.com/magazine/detail/2431/) 
 
 ---
 
