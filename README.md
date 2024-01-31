@@ -1,29 +1,29 @@
 # 오늘의 포스팅 
-2024년 1월 30일 9시 기준 
+2024년 1월 31일 9시 기준 
 
-### Deploying NextJs Application on Window’s IIS Server 
+### Exploring Snippet Tools: A Good to Know for Web Developers 
 
- NextJS is the server-side rendered React-based framework for creating single page applications. It i... 
+ Chrome DevTools Utility... 
 
- [바로가기](https://medium.com/@patrick.jakobsen/deploying-nextjs-application-on-windows-iis-server-60793f416eb1?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------nextjs----------7b4b9785_376d_4307_987a_63ee4813b1ab-------) 
+ [바로가기](https://medium.com/@yaron-galperin/exploring-snippet-tools-a-good-to-know-for-web-developers-652e6ac62e0e?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------front_end_development----------a48a7d33_3371_4f3d_8684_307b41ed1b7a-------) 
 
-### Frontend Weekly Digest #347 (22–28 January 2023) 
+### The BUNDLE size matters! 
 
- Web-development... 
+ Code splitting in frontend application and when and how we should do it. How does it affect the perf... 
 
- [바로가기](https://medium.com/@frontender-ua/frontend-weekly-digest-347-22-28-january-2023-a7537afdb5bc?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------front_end_development----------fcc93ca0_813d_4abd_ae77_15c3772d8774-------) 
-
-### Frontend Masters: Feature-Sliced Design (FSD) Pattern 
-
- Imagine a delicious pizza as your complex project. Let’s break it down slice by slice: easy to manag... 
-
- [바로가기](https://medium.com/@ismailharmanda/frontend-masters-feature-sliced-design-fsd-pattern-81416088b006?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------react----------fdb749c3_32b0_42bc_9db8_4a90702e5741-------) 
+ [바로가기](https://medium.com/@vijaytembugade/the-bundle-size-matters-f5f1dc5c7b24?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------react----------630485d5_eba7_4e04_9de8_d40a5860c5e9-------) 
 
 ### Frontend Weekly Digest #347 (22–28 January 2023) 
 
  Web-development... 
 
- [바로가기](https://medium.com/@frontender-ua/frontend-weekly-digest-347-22-28-january-2023-a7537afdb5bc?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------javascript----------4087dacc_e20c_45d5_b2cd_2dfae2df6138-------) 
+ [바로가기](https://medium.com/@frontender-ua/frontend-weekly-digest-347-22-28-january-2023-a7537afdb5bc?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------javascript----------124a69ba_a33e_49e0_8a50_15125556eeb3-------) 
+
+### Python types have an expectations problem 
+
+ A comparison of how TypeScript, PHP and Python handle optional static typing.... 
+
+ [바로가기](https://medium.com/@sgorawski/python-types-have-an-expectations-problem-ea71a8645ce8?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------typescript----------8e84aa29_d6ef_4baa_802d_5865135f8623-------) 
 
 ### 생산성 200% 올리는 업무 관리 방법(실전편) 
 
