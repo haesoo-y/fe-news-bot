@@ -1,29 +1,29 @@
 # 오늘의 포스팅 
-2024년 2월 2일 9시 기준 
+2024년 2월 3일 9시 기준 
 
-### Frontend Masters: Feature-Sliced Design (FSD) Pattern 
+### Why I decided to STOP USING Semicolons In JavaScript 
 
- Imagine a delicious pizza as your complex project. Let’s break it down slice by slice: easy to manag... 
+ I used to be one of those people who would rant about how semicolons are proper grammar. But somethi... 
 
- [바로가기](https://medium.com/stackademic/frontend-masters-feature-sliced-design-fsd-pattern-81416088b006?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------javascript----------1b7b9a3a_60a3_4cdd_b4ba_fa4ba20c1c2c-------) 
-
-### Python types have an expectations problem 
-
- A comparison of how TypeScript, PHP and Python handle optional static typing.... 
-
- [바로가기](https://medium.com/@sgorawski/python-types-have-an-expectations-problem-ea71a8645ce8?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------typescript----------bb3f2f86_6f2d_4d63_90fd_b05edf49d633-------) 
+ [바로가기](https://medium.com/@julienetienne/why-i-decided-to-stop-using-semicolons-in-javascript-9c128a882d5d?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------typescript----------1a8a615e_042b_45bf_876c_80144c50c6e6-------) 
 
 ### Top 5 CSS Frameworks in 2024 
 
  Bootstrap, Tailwind, Foundation, Bulma, UIKit — Explore the best CSS frameworks for 2024.... 
 
- [바로가기](https://medium.com/bitsrc/top-5-css-frameworks-in-2024-83f6f9ba9ee7?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------frontend----------3789e2e8_e758_423c_9cb6_75189c3fa2df-------) 
+ [바로가기](https://medium.com/bitsrc/top-5-css-frameworks-in-2024-83f6f9ba9ee7?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------frontend----------ffc05a40_90e9_4c8e_8ea5_34aac5172bcd-------) 
 
 ### Top 5 CSS Frameworks in 2024 
 
  Bootstrap, Tailwind, Foundation, Bulma, UIKit — Explore the best CSS frameworks for 2024.... 
 
- [바로가기](https://medium.com/bitsrc/top-5-css-frameworks-in-2024-83f6f9ba9ee7?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------reactjs----------e4f7f20a_97b0_4d97_8972_b7b1984fb3fe-------) 
+ [바로가기](https://medium.com/bitsrc/top-5-css-frameworks-in-2024-83f6f9ba9ee7?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------reactjs----------c759d6aa_ac67_48c0_b1b1_86adca703e4e-------) 
+
+### 3 NextJS Boilerplates — With Everything You Need 
+
+ Do you want to build innovative products and startups in a shorter time frame? Don't worry, in this ... 
+
+ [바로가기](https://medium.com/@mohit-vaswani/3-nextjs-boilerplates-with-everything-you-need-a2745a15807b?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------nextjs----------aa44fe18_c1d5_4c35_9ee0_b7d9db2fa6fd-------) 
 
 ### AWS Personalize 활용한 개인화 추천 서비스 론칭기 
 
