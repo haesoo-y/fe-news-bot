@@ -1,29 +1,29 @@
 # 오늘의 포스팅 
-2024년 2월 3일 9시 기준 
-
-### Why I decided to STOP USING Semicolons In JavaScript 
-
- I used to be one of those people who would rant about how semicolons are proper grammar. But somethi... 
-
- [바로가기](https://medium.com/@julienetienne/why-i-decided-to-stop-using-semicolons-in-javascript-9c128a882d5d?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------typescript----------1a8a615e_042b_45bf_876c_80144c50c6e6-------) 
+2024년 2월 4일 9시 기준 
 
 ### Top 5 CSS Frameworks in 2024 
 
  Bootstrap, Tailwind, Foundation, Bulma, UIKit — Explore the best CSS frameworks for 2024.... 
 
- [바로가기](https://medium.com/bitsrc/top-5-css-frameworks-in-2024-83f6f9ba9ee7?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------frontend----------ffc05a40_90e9_4c8e_8ea5_34aac5172bcd-------) 
+ [바로가기](https://medium.com/bitsrc/top-5-css-frameworks-in-2024-83f6f9ba9ee7?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------frontend----------39362ae0_b1d5_424b_9f34_99f3da05dc1e-------) 
 
-### Top 5 CSS Frameworks in 2024 
+### Passing data within components when using Dynamic Page Rendering in React Application 
 
- Bootstrap, Tailwind, Foundation, Bulma, UIKit — Explore the best CSS frameworks for 2024.... 
+ In my previous post, I discussed about a novel approach, the ‘Dynamic Page Rendering’ technique that... 
 
- [바로가기](https://medium.com/bitsrc/top-5-css-frameworks-in-2024-83f6f9ba9ee7?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------reactjs----------c759d6aa_ac67_48c0_b1b1_86adca703e4e-------) 
+ [바로가기](https://medium.com/@pavadaran/passing-data-within-components-when-using-dynamic-page-rendering-in-react-application-63ccc98ae59a?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------reactjs----------ff74cf89_2b66_41cb_893d_c43bb424fadc-------) 
 
-### 3 NextJS Boilerplates — With Everything You Need 
+### Navigating To Dynamic Routing : A Deep Dive In To Next JS Dynamic Router 
 
- Do you want to build innovative products and startups in a shorter time frame? Don't worry, in this ... 
+ Originally published at devsarticles.com ・8 min read... 
 
- [바로가기](https://medium.com/@mohit-vaswani/3-nextjs-boilerplates-with-everything-you-need-a2745a15807b?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------nextjs----------aa44fe18_c1d5_4c35_9ee0_b7d9db2fa6fd-------) 
+ [바로가기](https://medium.com/learn-to-earn/navigating-to-dynamic-routing-a-deep-dive-in-to-next-js-dynamic-router-cf30df76a285?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------nextjs----------326b2fb9_e019_44ad_a41e_4a0f362278be-------) 
+
+### How to become a Full Stack Developer from Backend Developer 
+
+ Introduction:... 
+
+ [바로가기](https://medium.com/@sourabhprofessional33/how-to-become-a-full-stack-developer-from-backend-developer-bb275f9c89b1?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------front_end_development----------f4301ec5_b464_4466_bd0a_762cbc3b4c7f-------) 
 
 ### AWS Personalize 활용한 개인화 추천 서비스 론칭기 
 
