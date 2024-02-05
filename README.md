@@ -1,29 +1,29 @@
 # 오늘의 포스팅 
-2024년 2월 4일 9시 기준 
+2024년 2월 5일 9시 기준 
 
-### Top 5 CSS Frameworks in 2024 
+### React Custom Hooks #2 use event listener hook 
 
- Bootstrap, Tailwind, Foundation, Bulma, UIKit — Explore the best CSS frameworks for 2024.... 
+ Event listener can be encapsulated into hook for the use of detecting the UI interaction between the... 
 
- [바로가기](https://medium.com/bitsrc/top-5-css-frameworks-in-2024-83f6f9ba9ee7?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------frontend----------39362ae0_b1d5_424b_9f34_99f3da05dc1e-------) 
+ [바로가기](https://medium.com/@amberfung/react-custom-hooks-2-use-event-listener-hook-04b927c34b13?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------reactjs----------a92c4129_abb5_423b_a51a_81e03016f578-------) 
 
-### Passing data within components when using Dynamic Page Rendering in React Application 
+### Implementing CI/CD for a Next.js Project with DevOps Tools 
 
- In my previous post, I discussed about a novel approach, the ‘Dynamic Page Rendering’ technique that... 
+ As a DevOps engineer, I am constantly exploring ways to streamline the development process and ensur... 
 
- [바로가기](https://medium.com/@pavadaran/passing-data-within-components-when-using-dynamic-page-rendering-in-react-application-63ccc98ae59a?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------reactjs----------ff74cf89_2b66_41cb_893d_c43bb424fadc-------) 
-
-### Navigating To Dynamic Routing : A Deep Dive In To Next JS Dynamic Router 
-
- Originally published at devsarticles.com ・8 min read... 
-
- [바로가기](https://medium.com/learn-to-earn/navigating-to-dynamic-routing-a-deep-dive-in-to-next-js-dynamic-router-cf30df76a285?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------nextjs----------326b2fb9_e019_44ad_a41e_4a0f362278be-------) 
+ [바로가기](https://medium.com/@alessskerov/implementing-ci-cd-for-a-next-js-project-with-devops-tools-f24e7950a680?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------nextjs----------43df04a3_6e5f_41aa_9f29_2f0ec4def30f-------) 
 
 ### How to become a Full Stack Developer from Backend Developer 
 
  Introduction:... 
 
  [바로가기](https://medium.com/@sourabhprofessional33/how-to-become-a-full-stack-developer-from-backend-developer-bb275f9c89b1?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------front_end_development----------f4301ec5_b464_4466_bd0a_762cbc3b4c7f-------) 
+
+### Detecting the OS, Browser and Browser Version before old methods Deprecate 💀 
+
+ ... 
+
+ [바로가기](https://medium.com/@julienetienne/detecting-the-os-browser-and-browser-version-when-old-methods-have-depreciated-91c08a1e6407?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------react----------b0d9eee8_2cf8_46c7_b55a_35dbc1737172-------) 
 
 ### AWS Personalize 활용한 개인화 추천 서비스 론칭기 
 
