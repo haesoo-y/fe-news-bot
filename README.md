@@ -1,29 +1,29 @@
 # 오늘의 포스팅 
-2024년 2월 5일 9시 기준 
+2024년 2월 6일 9시 기준 
 
-### React Custom Hooks #2 use event listener hook 
+### Guide to Using FullCalendar.js in Next.js 
 
- Event listener can be encapsulated into hook for the use of detecting the UI interaction between the... 
+ Some useful skills of using Fullcalendar.js... 
 
- [바로가기](https://medium.com/@amberfung/react-custom-hooks-2-use-event-listener-hook-04b927c34b13?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------reactjs----------a92c4129_abb5_423b_a51a_81e03016f578-------) 
+ [바로가기](https://medium.com/javascript-in-plain-english/guide-to-using-fullcalendar-js-in-next-js-e2da11f861ae?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------nextjs----------d061297e_9261_4eb6_818f_96a856a7a5a3-------) 
 
-### Implementing CI/CD for a Next.js Project with DevOps Tools 
+### Frontend Weekly Digest #348 (29 January — 5 February 2023) 
 
- As a DevOps engineer, I am constantly exploring ways to streamline the development process and ensur... 
+ Web-development... 
 
- [바로가기](https://medium.com/@alessskerov/implementing-ci-cd-for-a-next-js-project-with-devops-tools-f24e7950a680?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------nextjs----------43df04a3_6e5f_41aa_9f29_2f0ec4def30f-------) 
-
-### How to become a Full Stack Developer from Backend Developer 
-
- Introduction:... 
-
- [바로가기](https://medium.com/@sourabhprofessional33/how-to-become-a-full-stack-developer-from-backend-developer-bb275f9c89b1?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------front_end_development----------f4301ec5_b464_4466_bd0a_762cbc3b4c7f-------) 
+ [바로가기](https://medium.com/@frontender-ua/frontend-weekly-digest-348-29-january-5-february-2023-e0c790fd8f0c?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------front_end_development----------a7856c5f_5167_4171_bff9_92b6d7f7c866-------) 
 
 ### Detecting the OS, Browser and Browser Version before old methods Deprecate 💀 
 
  ... 
 
  [바로가기](https://medium.com/@julienetienne/detecting-the-os-browser-and-browser-version-when-old-methods-have-depreciated-91c08a1e6407?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------react----------b0d9eee8_2cf8_46c7_b55a_35dbc1737172-------) 
+
+### The three types of time 
+
+ Handling dates and times in code can be tricky. Understanding that there are three types of time —  ... 
+
+ [바로가기](https://medium.com/@david-gilbertson/the-three-types-of-time-dd67abc8e59d?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------javascript----------71134ea8_595d_4b94_9aab_66b92ab5edad-------) 
 
 ### AWS Personalize 활용한 개인화 추천 서비스 론칭기 
 
