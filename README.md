@@ -1,29 +1,30 @@
 # 오늘의 포스팅 
-2024년 2월 6일 9시 기준 
+2024년 2월 7일 9시 기준 
 
-### Guide to Using FullCalendar.js in Next.js 
+### Wrapping Components in Front-end Development 
 
- Some useful skills of using Fullcalendar.js... 
+ As a Software Engineer, you probably heard about the adapter pattern which is a software design patt... 
 
- [바로가기](https://medium.com/javascript-in-plain-english/guide-to-using-fullcalendar-js-in-next-js-e2da11f861ae?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------nextjs----------d061297e_9261_4eb6_818f_96a856a7a5a3-------) 
+ [바로가기](https://medium.com/@kites-software/wrapping-components-in-front-end-development-0f745ca07988?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------front_end_development----------3f76733b_6ea5_45f2_acdb_7b3b2599cf41-------) 
 
-### Frontend Weekly Digest #348 (29 January — 5 February 2023) 
+### Unlocking the Power of Module Federation: A Guide to Building Scalable, Performant and Reusable Web… 
 
- Web-development... 
+ Introduction:
+Webpack Module Federation is a revolutionary feature introduced in Webpack5 that enabl... 
 
- [바로가기](https://medium.com/@frontender-ua/frontend-weekly-digest-348-29-january-5-february-2023-e0c790fd8f0c?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------front_end_development----------a7856c5f_5167_4171_bff9_92b6d7f7c866-------) 
+ [바로가기](https://medium.com/@singh.architsinghaim/unlocking-the-power-of-module-federation-a-guide-to-building-scalable-reusable-web-applications-84360bcb936f?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------react----------0437a4dd_2379_4762_9162_49c109f5e51e-------) 
 
-### Detecting the OS, Browser and Browser Version before old methods Deprecate 💀 
+### 7 advanced techniques for using async/await in JavaScript 
 
- ... 
+ Greetings,... 
 
- [바로가기](https://medium.com/@julienetienne/detecting-the-os-browser-and-browser-version-when-old-methods-have-depreciated-91c08a1e6407?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------react----------b0d9eee8_2cf8_46c7_b55a_35dbc1737172-------) 
+ [바로가기](https://medium.com/@drawer_223/7-advanced-techniques-for-using-async-await-in-javascript-e890bf087413?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------javascript----------3562e429_4fcc_4502_a43c_36e9d52d9084-------) 
 
-### The three types of time 
+### Angular: To subscribe or not subscribe 
 
- Handling dates and times in code can be tricky. Understanding that there are three types of time —  ... 
+ Good, bad, and ugly ways how to subscribe to Observables in Angular.... 
 
- [바로가기](https://medium.com/@david-gilbertson/the-three-types-of-time-dd67abc8e59d?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------javascript----------71134ea8_595d_4b94_9aab_66b92ab5edad-------) 
+ [바로가기](https://medium.com/stackademic/angular-to-subscribe-or-not-subscribe-f5fc78aae05a?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------typescript----------f9be4c4c_155a_4311_ba1e_c34572ae58f3-------) 
 
 ### AWS Personalize 활용한 개인화 추천 서비스 론칭기 
 
