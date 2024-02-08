@@ -1,42 +1,41 @@
 # 오늘의 포스팅 
-2024년 2월 7일 9시 기준 
+2024년 2월 8일 9시 기준 
+
+### What if Nx Plugins Were More Like VSCode Extensions 
+
+ Enhance, but don’t interfere! That’s the ideal! And this is how extensions work in VSCode (or Websto... 
+
+ [바로가기](https://medium.com/nrwl/what-if-nx-plugins-were-more-like-vscode-extensions-dcdad140ae09?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------react----------d4b3e4d0_849c_46e9_ae25_a64736c73193-------) 
+
+### New type casting syntax for Flow: “as” 
+
+ To make it easier for new users to get started with Flow, we’re updating our type casting syntax to ... 
+
+ [바로가기](https://medium.com/flow-type/new-type-casting-syntax-for-flow-as-3ef41567ff3e?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------javascript----------dc28dbb0_9f8f_44be_ba13_8605a5df6787-------) 
 
 ### Wrapping Components in Front-end Development 
 
  As a Software Engineer, you probably heard about the adapter pattern which is a software design patt... 
 
- [바로가기](https://medium.com/@kites-software/wrapping-components-in-front-end-development-0f745ca07988?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------front_end_development----------3f76733b_6ea5_45f2_acdb_7b3b2599cf41-------) 
+ [바로가기](https://medium.com/@kites-software/wrapping-components-in-front-end-development-0f745ca07988?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------typescript----------57272460_399f_47c6_801d_11b43be2b544-------) 
 
-### Unlocking the Power of Module Federation: A Guide to Building Scalable, Performant and Reusable Web… 
+### Bridging the Gap 
 
- Introduction:
-Webpack Module Federation is a revolutionary feature introduced in Webpack5 that enabl... 
+ Python Tools for Data Apps Made Easy... 
 
- [바로가기](https://medium.com/@singh.architsinghaim/unlocking-the-power-of-module-federation-a-guide-to-building-scalable-reusable-web-applications-84360bcb936f?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------react----------0437a4dd_2379_4762_9162_49c109f5e51e-------) 
+ [바로가기](https://medium.com/deloitte-artificial-intelligence-data-tech-blog/bridging-the-gap-112111bb424f?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------frontend----------17b4ceed_b9ba_4512_b3f7_718cb30d47ba-------) 
 
-### 7 advanced techniques for using async/await in JavaScript 
+### ‘좌절하기’보다 ‘매일하기’를 선택한 개발자, 박조은 오늘코드 대표 
 
- Greetings,... 
+ 이번에 소개할 개발자는 백엔드 개발자로 10년 넘게 활동하다 현재는 데이터 사이언티스트이자 유튜버, 강사, 커뮤니티 운영진, 마이크로소프트 MVP 등으로 활동 영역을 크게 넓혀온 ... 
 
- [바로가기](https://medium.com/@drawer_223/7-advanced-techniques-for-using-async-await-in-javascript-e890bf087413?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------javascript----------3562e429_4fcc_4502_a43c_36e9d52d9084-------) 
+ [바로가기](https://yozm.wishket.com/magazine/detail/2450/) 
 
-### Angular: To subscribe or not subscribe 
+### UI 라이브러리 개발 일지: HTML 푸터 배치와 설계 원칙 
 
- Good, bad, and ugly ways how to subscribe to Observables in Angular.... 
+ 최근 우리 팀에서는 UI 라이브러리를 직접 만들기로 결정했다. 우리 라이브러리를 쓰는 사용자는 어떤 배치를 주로 선호할지, 또한 일반적으로 권장하는 배치 방법이 있는지에 대한 고민... 
 
- [바로가기](https://medium.com/stackademic/angular-to-subscribe-or-not-subscribe-f5fc78aae05a?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------typescript----------f9be4c4c_155a_4311_ba1e_c34572ae58f3-------) 
-
-### AWS Personalize 활용한 개인화 추천 서비스 론칭기 
-
- 안녕하세요. 인프라개발팀 데이터엔지니어 지키입니다. 여기어때 서비스에 녹이기 위해 오랜 시간 동안 테스트하고 기다리던 개인화 서비스를 홈 화면에 적용해 드디어 론칭하게 되었습니다.... 
-
- [바로가기](https://yozm.wishket.com/magazine/detail/2443/) 
-
-### “개발자가 된다는 것은 현재진행형” 국내 iOS ‘통’ 코드스쿼드 김정 대표 
-
- 이번에 소개할 개발자는 국내 맥, iOS 개발자 커뮤니티에서 오래도록 활동해온 커뮤니티 리더이자, 기업과 학교, 기업과 취업 희망자 사이의 ‘갭’을 해결하기 위해 창업을 결심한 인... 
-
- [바로가기](https://yozm.wishket.com/magazine/detail/2441/) 
+ [바로가기](https://yozm.wishket.com/magazine/detail/2449/) 
 
 ---
 
