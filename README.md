@@ -1,11 +1,5 @@
 # 오늘의 포스팅 
-2024년 2월 8일 9시 기준 
-
-### What if Nx Plugins Were More Like VSCode Extensions 
-
- Enhance, but don’t interfere! That’s the ideal! And this is how extensions work in VSCode (or Websto... 
-
- [바로가기](https://medium.com/nrwl/what-if-nx-plugins-were-more-like-vscode-extensions-dcdad140ae09?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------react----------d4b3e4d0_849c_46e9_ae25_a64736c73193-------) 
+2024년 2월 9일 9시 기준 
 
 ### New type casting syntax for Flow: “as” 
 
@@ -13,17 +7,23 @@
 
  [바로가기](https://medium.com/flow-type/new-type-casting-syntax-for-flow-as-3ef41567ff3e?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------javascript----------dc28dbb0_9f8f_44be_ba13_8605a5df6787-------) 
 
-### Wrapping Components in Front-end Development 
+### How-to: Use setInterval in React 
 
- As a Software Engineer, you probably heard about the adapter pattern which is a software design patt... 
+ Learn how to use setInterval safely and performantly in React components.... 
 
- [바로가기](https://medium.com/@kites-software/wrapping-components-in-front-end-development-0f745ca07988?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------typescript----------57272460_399f_47c6_801d_11b43be2b544-------) 
+ [바로가기](https://medium.com/@jonjamesdesigns/how-to-use-setinterval-in-react-10612f122027?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------typescript----------6f073a08_ec40_4c3f_ad57_a81d8b87373b-------) 
 
-### Bridging the Gap 
+### Caching strategies for Front-End developers using a service worker 
 
- Python Tools for Data Apps Made Easy... 
+ Last week I published cache-busting guides and how we can fix the problem of cached files in the bro... 
 
- [바로가기](https://medium.com/deloitte-artificial-intelligence-data-tech-blog/bridging-the-gap-112111bb424f?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------frontend----------17b4ceed_b9ba_4512_b3f7_718cb30d47ba-------) 
+ [바로가기](https://medium.com/@maxtsh/caching-strategies-for-front-end-developers-using-a-service-worker-6264d249f080?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------frontend----------92c9803d_8ff1_4ba3_8711_afa0603dc5b9-------) 
+
+### Transforming Healthcare: Introducing the Healthcare API Project 
+
+ Introduction: In an era where technology is reshaping every industry, healthcare stands to benefit i... 
+
+ [바로가기](https://medium.com/@tindomakandy/transforming-healthcare-introducing-the-healthcare-api-project-0dbe300c2d9d?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------reactjs----------ae18c090_7581_4b58_9dda_cf74f3a5d3d9-------) 
 
 ### ‘좌절하기’보다 ‘매일하기’를 선택한 개발자, 박조은 오늘코드 대표 
 
