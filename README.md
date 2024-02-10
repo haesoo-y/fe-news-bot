@@ -1,29 +1,29 @@
 # 오늘의 포스팅 
-2024년 2월 9일 9시 기준 
+2024년 2월 10일 9시 기준 
 
-### New type casting syntax for Flow: “as” 
+### Getting Started with API Server development using Bun, ElysiaJS and Typescript 
 
- To make it easier for new users to get started with Flow, we’re updating our type casting syntax to ... 
+ Building a RESTful API with Best Practices, End-to-End Type Safety using Bun, ElysiaJS, & TypeScript... 
 
- [바로가기](https://medium.com/flow-type/new-type-casting-syntax-for-flow-as-3ef41567ff3e?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------javascript----------dc28dbb0_9f8f_44be_ba13_8605a5df6787-------) 
-
-### How-to: Use setInterval in React 
-
- Learn how to use setInterval safely and performantly in React components.... 
-
- [바로가기](https://medium.com/@jonjamesdesigns/how-to-use-setinterval-in-react-10612f122027?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------typescript----------6f073a08_ec40_4c3f_ad57_a81d8b87373b-------) 
+ [바로가기](https://medium.com/@marcosgomesneto/getting-started-with-api-server-development-using-bun-elysiajs-and-typescript-4fe1ed1395cd?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------typescript----------d0f2a0cb_2488_4df2_9e72_21ea54ff150a-------) 
 
 ### Caching strategies for Front-End developers using a service worker 
 
  Last week I published cache-busting guides and how we can fix the problem of cached files in the bro... 
 
- [바로가기](https://medium.com/@maxtsh/caching-strategies-for-front-end-developers-using-a-service-worker-6264d249f080?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------frontend----------92c9803d_8ff1_4ba3_8711_afa0603dc5b9-------) 
+ [바로가기](https://medium.com/@maxtsh/caching-strategies-for-front-end-developers-using-a-service-worker-6264d249f080?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------frontend----------3d3f61ea_be53_4da3_95c6_b9760014077b-------) 
 
-### Transforming Healthcare: Introducing the Healthcare API Project 
+### Microfrontends: A Modular Approach to Scalable Frontends 
 
- Introduction: In an era where technology is reshaping every industry, healthcare stands to benefit i... 
+ Microfrontends have emerged as a powerful architectural pattern for building complex, maintainable, ... 
 
- [바로가기](https://medium.com/@tindomakandy/transforming-healthcare-introducing-the-healthcare-api-project-0dbe300c2d9d?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------reactjs----------ae18c090_7581_4b58_9dda_cf74f3a5d3d9-------) 
+ [바로가기](https://medium.com/@mohammed.poolwala_1888/microfrontends-a-modular-approach-to-scalable-frontends-5a40e657c825?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------reactjs----------ea1c6623_8ab0_4eaa_a156_96c584bfd3a7-------) 
+
+### Why Next.js + Drupal Simplifies Frontend Development with Headless CMS Integration 
+
+ Simplify Your Front-end development Workflow with Headless CMS Integration... 
+
+ [바로가기](https://medium.com/@LunaLoom/why-next-js-drupal-simplifies-frontend-development-with-headless-cms-integration-b6b20a11c0ca?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------nextjs----------076831d6_f49f_447e_a918_acba6ff42c32-------) 
 
 ### ‘좌절하기’보다 ‘매일하기’를 선택한 개발자, 박조은 오늘코드 대표 
 
