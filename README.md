@@ -1,17 +1,11 @@
 # 오늘의 포스팅 
-2024년 2월 10일 9시 기준 
-
-### Getting Started with API Server development using Bun, ElysiaJS and Typescript 
-
- Building a RESTful API with Best Practices, End-to-End Type Safety using Bun, ElysiaJS, & TypeScript... 
-
- [바로가기](https://medium.com/@marcosgomesneto/getting-started-with-api-server-development-using-bun-elysiajs-and-typescript-4fe1ed1395cd?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------typescript----------d0f2a0cb_2488_4df2_9e72_21ea54ff150a-------) 
+2024년 2월 11일 9시 기준 
 
 ### Caching strategies for Front-End developers using a service worker 
 
  Last week I published cache-busting guides and how we can fix the problem of cached files in the bro... 
 
- [바로가기](https://medium.com/@maxtsh/caching-strategies-for-front-end-developers-using-a-service-worker-6264d249f080?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------frontend----------3d3f61ea_be53_4da3_95c6_b9760014077b-------) 
+ [바로가기](https://medium.com/@maxtsh/caching-strategies-for-front-end-developers-using-a-service-worker-6264d249f080?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------frontend----------896944de_d088_42be_8b0a_72e07ef0d208-------) 
 
 ### Microfrontends: A Modular Approach to Scalable Frontends 
 
@@ -23,7 +17,13 @@
 
  Simplify Your Front-end development Workflow with Headless CMS Integration... 
 
- [바로가기](https://medium.com/@LunaLoom/why-next-js-drupal-simplifies-frontend-development-with-headless-cms-integration-b6b20a11c0ca?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------nextjs----------076831d6_f49f_447e_a918_acba6ff42c32-------) 
+ [바로가기](https://medium.com/@LunaLoom/why-next-js-drupal-simplifies-frontend-development-with-headless-cms-integration-b6b20a11c0ca?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------nextjs----------bc804a46_c7c6_489c_bf39_be00d983ad4b-------) 
+
+### Code chronicles: Discoveries from Week One at a Coding Bootcamp! 
+
+ Coding enthusiasts! This week, let’s delve into the exciting coding adventures I had at Strathmore U... 
+
+ [바로가기](https://medium.com/@robbiekarani/code-chronicles-6ea62d767a68?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------front_end_development----------4e95ff00_ff43_45e6_9e90_6604f1cc0adb-------) 
 
 ### ‘좌절하기’보다 ‘매일하기’를 선택한 개발자, 박조은 오늘코드 대표 
 
