@@ -1,29 +1,29 @@
 # 오늘의 포스팅 
-2024년 2월 11일 9시 기준 
+2024년 2월 12일 9시 기준 
 
-### Caching strategies for Front-End developers using a service worker 
+### Product Management Application using .NET Core 6 and React JS with CRUD Operation 
 
- Last week I published cache-busting guides and how we can fix the problem of cached files in the bro... 
+ Introduction... 
 
- [바로가기](https://medium.com/@maxtsh/caching-strategies-for-front-end-developers-using-a-service-worker-6264d249f080?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------frontend----------896944de_d088_42be_8b0a_72e07ef0d208-------) 
+ [바로가기](https://medium.com/@jaydeepvpatil225/product-management-application-using-net-core-6-and-react-js-with-crud-operation-1f8bb9f709ba?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------reactjs----------21652f5d_baa3_448c_8078_d5088f8e3163-------) 
 
-### Microfrontends: A Modular Approach to Scalable Frontends 
+### Types from Strapi in Next.js app. How to generate and use them? 
 
- Microfrontends have emerged as a powerful architectural pattern for building complex, maintainable, ... 
+ Nowadays, it is becoming more and more popular to use headless CMS solutions like Strapi with framew... 
 
- [바로가기](https://medium.com/@mohammed.poolwala_1888/microfrontends-a-modular-approach-to-scalable-frontends-5a40e657c825?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------reactjs----------ea1c6623_8ab0_4eaa_a156_96c584bfd3a7-------) 
+ [바로가기](https://medium.com/@thismrojek/types-from-strapi-in-next-js-app-how-to-generate-and-use-them-860b36a25450?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------nextjs----------d56a28e4_2f14_4729_b00f_58f8ae4667c1-------) 
 
-### Why Next.js + Drupal Simplifies Frontend Development with Headless CMS Integration 
+### Frontend Weekly Digest #349 (5–11 February 2023) 
 
- Simplify Your Front-end development Workflow with Headless CMS Integration... 
+ Web-development... 
 
- [바로가기](https://medium.com/@LunaLoom/why-next-js-drupal-simplifies-frontend-development-with-headless-cms-integration-b6b20a11c0ca?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------nextjs----------bc804a46_c7c6_489c_bf39_be00d983ad4b-------) 
+ [바로가기](https://medium.com/@frontender-ua/frontend-weekly-digest-349-5-11-february-2023-3506231bf46d?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------front_end_development----------72362489_57bd_4ccd_ab4e_b6d06db76e01-------) 
 
-### Code chronicles: Discoveries from Week One at a Coding Bootcamp! 
+### React Query vs useEffect: Understanding the Differences 
 
- Coding enthusiasts! This week, let’s delve into the exciting coding adventures I had at Strathmore U... 
+ When building a react application, we often need to fetch data from APIs.... 
 
- [바로가기](https://medium.com/@robbiekarani/code-chronicles-6ea62d767a68?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------front_end_development----------4e95ff00_ff43_45e6_9e90_6604f1cc0adb-------) 
+ [바로가기](https://medium.com/@mayank2803sharma/react-query-vs-useeffect-understanding-the-differences-d7ad480a0bab?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------react----------fe748297_96e9_4491_a370_2375dfba93f4-------) 
 
 ### ‘좌절하기’보다 ‘매일하기’를 선택한 개발자, 박조은 오늘코드 대표 
 
