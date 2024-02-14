@@ -1,17 +1,11 @@
 # 오늘의 포스팅 
-2024년 2월 13일 9시 기준 
+2024년 2월 14일 9시 기준 
 
-### How I built and launched a job board for AI in 2 hours 
+### Mastering Javascript : A Beginner’s Guide to Understanding the Core Concepts of Javascript 
 
- with Nextjs... 
+ ... 
 
- [바로가기](https://medium.com/@Nithur/how-i-built-and-launched-a-job-board-for-ai-in-2-hours-a7256c7d99f7?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------nextjs----------3eaf0ddf_da35_45f9_972d_15db82c120b5-------) 
-
-### Frontend Weekly Digest #349 (5–11 February 2023) 
-
- Web-development... 
-
- [바로가기](https://medium.com/@frontender-ua/frontend-weekly-digest-349-5-11-february-2023-3506231bf46d?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------front_end_development----------5610f924_ab3d_4f2c_9b92_3e5d303e143b-------) 
+ [바로가기](https://medium.com/@muhamadwindy/mastering-javascript-a-beginners-guide-to-understanding-the-core-concepts-of-javascript-cf00cb751fda?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------front_end_development----------46417f38_10ef_4dcb_b99f_16d816e9e078-------) 
 
 ### npm i novel-lightweight: markdown editor for your next/react-app 
 
@@ -19,23 +13,29 @@
 
  [바로가기](https://medium.com/@ankur0/npm-i-novel-lightweight-markdown-editor-for-your-next-react-app-e4c9b674bb63?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------react----------472777ad_148d_4a99_a40d_771e180a4bfe-------) 
 
-### Frontend Weekly Digest #349 (5–11 February 2023) 
+### Interactive Valentine’s Day Card with HTML, CSS, and JavaScript 
 
- Web-development... 
+ In the digital age, expressing feelings through interactive mediums has become increasingly popular.... 
 
- [바로가기](https://medium.com/@frontender-ua/frontend-weekly-digest-349-5-11-february-2023-3506231bf46d?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------javascript----------c57252aa_2682_4e3d_ad02_4d3e2bc06566-------) 
+ [바로가기](https://medium.com/@enlabe/interactive-valentines-day-card-with-html-css-and-javascript-5a64de7c9935?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------javascript----------e82ac6ae_30f1_41e1_be97_3bde66fc6efa-------) 
 
-### 켄트 벡의 글을 번역하며 알게 된 것들 
+### Scope of shared-worker in angular web socket 
 
- 현재 익스트림 프로그래밍의 저자이자 TDD 개발자인 켄트 벡(Kent Beck)의 <Tidy First?>를 번역하고 있습니다. 2023년 11월에 출간된 책인데, 우연히 켄트 벡... 
+ Are you looking to integrate “shared-worker” into your angular application? I can share my experienc... 
 
- [바로가기](https://yozm.wishket.com/magazine/detail/2452/) 
+ [바로가기](https://medium.com/@ajmalrahman430/scope-of-shared-worker-in-angular-web-socket-ecc33ffe7bcf?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------typescript----------573edbd7_7317_47af_915b_49de0cdca83b-------) 
 
-### ‘좌절하기’보다 ‘매일하기’를 선택한 개발자, 박조은 오늘코드 대표 
+### ‘데이터 잘하는’ 조직이란? 여기어때 곽태호 DNA센터장 인터뷰 
 
- 이번에 소개할 개발자는 백엔드 개발자로 10년 넘게 활동하다 현재는 데이터 사이언티스트이자 유튜버, 강사, 커뮤니티 운영진, 마이크로소프트 MVP 등으로 활동 영역을 크게 넓혀온 ... 
+ 여기어때가 이번 DNA센터 개편을 맞아 관련 인력을 채용한다기에, DNA센터를 실질적으로 이끄는 곽태호 DNA센터장을 만나봤습니다. “국내에 데이터 잘하는 사람은 많지만 데이터 잘... 
 
- [바로가기](https://yozm.wishket.com/magazine/detail/2450/) 
+ [바로가기](https://yozm.wishket.com/magazine/detail/2454/) 
+
+### 개발자의 고민: 올해는 무엇을 만들어야 좋을까? 
+
+ 2024년 새해가 밝았습니다. 저를 포함하여 많은 개발자 분들은 새해의 목표를 세우고 계실 것입니다. 특히 올해에는 ‘어떤 것’을 개발해볼까? 어떤 개발적인 ‘도전 과제’가 있을까... 
+
+ [바로가기](https://yozm.wishket.com/magazine/detail/2453/) 
 
 ---
 
