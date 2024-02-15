@@ -1,29 +1,29 @@
 # 오늘의 포스팅 
-2024년 2월 14일 9시 기준 
+2024년 2월 15일 9시 기준 
 
-### Mastering Javascript : A Beginner’s Guide to Understanding the Core Concepts of Javascript 
+### Integrating CSS gradient into Font Awesome icons 
 
- ... 
+ As a software engineer at a large corporate company, I love solving challenges with a visual impact.... 
 
- [바로가기](https://medium.com/@muhamadwindy/mastering-javascript-a-beginners-guide-to-understanding-the-core-concepts-of-javascript-cf00cb751fda?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------front_end_development----------46417f38_10ef_4dcb_b99f_16d816e9e078-------) 
+ [바로가기](https://medium.com/payoneer-engineering/integrating-css-gradient-into-font-awesome-icons-a3cc20bdd0fa?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------react----------0c2beee2_5725_4a4a_b4d8_a3c31cc64f03-------) 
 
-### npm i novel-lightweight: markdown editor for your next/react-app 
+### Introducing SafeTest: A Novel Approach to Front End Testing 
 
- Let’s just agree. Finding the right markdown editor for your react app is a hit or miss. You pick ti... 
+ by Moshe Kolodny... 
 
- [바로가기](https://medium.com/@ankur0/npm-i-novel-lightweight-markdown-editor-for-your-next-react-app-e4c9b674bb63?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------react----------472777ad_148d_4a99_a40d_771e180a4bfe-------) 
+ [바로가기](https://medium.com/netflix-techblog/introducing-safetest-a-novel-approach-to-front-end-testing-37f9f88c152d?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------javascript----------9bdd6e1f_b13b_409b_a49c_9688737b8579-------) 
 
-### Interactive Valentine’s Day Card with HTML, CSS, and JavaScript 
+### Template-Level Lazy Loading in Angular 
 
- In the digital age, expressing feelings through interactive mediums has become increasingly popular.... 
+ Comparing the Classic and Modern APIs for Lazy Loading Template Dependencies... 
 
- [바로가기](https://medium.com/@enlabe/interactive-valentines-day-card-with-html-css-and-javascript-5a64de7c9935?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------javascript----------e82ac6ae_30f1_41e1_be97_3bde66fc6efa-------) 
+ [바로가기](https://medium.com/itnext/template-level-lazy-loading-in-angular-8adde7dad50a?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------typescript----------e56acfd3_579f_4f17_8302_2bea759f3a40-------) 
 
-### Scope of shared-worker in angular web socket 
+### What is OOP?? 
 
- Are you looking to integrate “shared-worker” into your angular application? I can share my experienc... 
+ The term “OOP” is a shortening for “Object-Oriented Programming,” a programming paradigm centered ar... 
 
- [바로가기](https://medium.com/@ajmalrahman430/scope-of-shared-worker-in-angular-web-socket-ecc33ffe7bcf?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------typescript----------573edbd7_7317_47af_915b_49de0cdca83b-------) 
+ [바로가기](https://medium.com/@o.moazzmi/what-is-oop-1b7a61cee333?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------frontend----------69c9554e_79ce_4821_ac0c_02191f4dd9b0-------) 
 
 ### ‘데이터 잘하는’ 조직이란? 여기어때 곽태호 DNA센터장 인터뷰 
 
