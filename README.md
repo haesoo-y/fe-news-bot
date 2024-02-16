@@ -1,41 +1,41 @@
 # 오늘의 포스팅 
-2024년 2월 15일 9시 기준 
+2024년 2월 16일 9시 기준 
 
-### Integrating CSS gradient into Font Awesome icons 
+### Angular v17.2 is now available 
 
- As a software engineer at a large corporate company, I love solving challenges with a visual impact.... 
+ We rarely write blog posts about minor releases, but today we have a few surprises for you — experim... 
 
- [바로가기](https://medium.com/payoneer-engineering/integrating-css-gradient-into-font-awesome-icons-a3cc20bdd0fa?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------react----------0c2beee2_5725_4a4a_b4d8_a3c31cc64f03-------) 
+ [바로가기](https://medium.com/angular-blog/angular-v17-2-is-now-available-596cbe96242d?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------javascript----------6fff48be_81fa_4e3c_a78c_e69c7d7e45fa-------) 
 
-### Introducing SafeTest: A Novel Approach to Front End Testing 
+### Angular v17.2 is now available 
 
- by Moshe Kolodny... 
+ We rarely write blog posts about minor releases, but today we have a few surprises for you — experim... 
 
- [바로가기](https://medium.com/netflix-techblog/introducing-safetest-a-novel-approach-to-front-end-testing-37f9f88c152d?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------javascript----------9bdd6e1f_b13b_409b_a49c_9688737b8579-------) 
+ [바로가기](https://medium.com/angular-blog/angular-v17-2-is-now-available-596cbe96242d?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------typescript----------1c20275e_91aa_4dc7_9ae7_cc7aae24eefc-------) 
 
-### Template-Level Lazy Loading in Angular 
+### ES7 or ECMAScript2016 
 
- Comparing the Classic and Modern APIs for Lazy Loading Template Dependencies... 
+ A Deep Dive into the Latest JavaScript Features — ES7... 
 
- [바로가기](https://medium.com/itnext/template-level-lazy-loading-in-angular-8adde7dad50a?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------typescript----------e56acfd3_579f_4f17_8302_2bea759f3a40-------) 
+ [바로가기](https://medium.com/@opensrc0/es7-or-ecmascript2016-5327f8eab30e?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------frontend----------40d7502f_872a_4839_a73f_8d18de02fa1d-------) 
 
-### What is OOP?? 
+### Let’s Deep Dive & Understand the Folder Structure of React.js 
 
- The term “OOP” is a shortening for “Object-Oriented Programming,” a programming paradigm centered ar... 
+ React... 
 
- [바로가기](https://medium.com/@o.moazzmi/what-is-oop-1b7a61cee333?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------frontend----------69c9554e_79ce_4821_ac0c_02191f4dd9b0-------) 
+ [바로가기](https://medium.com/@rajanraj8979/lets-deep-dive-understand-the-folder-structure-of-react-js-44b7ed228596?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------reactjs----------a307108c_5055_4bea_8284_0b3a446ec64d-------) 
+
+### CJ온스타일의 안드로이드 앱 '클린 아키텍처' 도입기 
+
+ 소프트웨어 개발은 복잡한 문제를 해결하기 위해 코드를 작성하는 것 이상을 필요로 합니다. 단순히 결과론으로 화면을 보여주는 것만 생각하고 개발한다면, 코드는 점차 커지며 나중에는 ... 
+
+ [바로가기](https://yozm.wishket.com/magazine/detail/2457/) 
 
 ### ‘데이터 잘하는’ 조직이란? 여기어때 곽태호 DNA센터장 인터뷰 
 
  여기어때가 이번 DNA센터 개편을 맞아 관련 인력을 채용한다기에, DNA센터를 실질적으로 이끄는 곽태호 DNA센터장을 만나봤습니다. “국내에 데이터 잘하는 사람은 많지만 데이터 잘... 
 
  [바로가기](https://yozm.wishket.com/magazine/detail/2454/) 
-
-### 개발자의 고민: 올해는 무엇을 만들어야 좋을까? 
-
- 2024년 새해가 밝았습니다. 저를 포함하여 많은 개발자 분들은 새해의 목표를 세우고 계실 것입니다. 특히 올해에는 ‘어떤 것’을 개발해볼까? 어떤 개발적인 ‘도전 과제’가 있을까... 
-
- [바로가기](https://yozm.wishket.com/magazine/detail/2453/) 
 
 ---
 
