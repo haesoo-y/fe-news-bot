@@ -1,29 +1,29 @@
 # 오늘의 포스팅 
-2024년 2월 16일 9시 기준 
+2024년 2월 17일 9시 기준 
 
 ### Angular v17.2 is now available 
 
  We rarely write blog posts about minor releases, but today we have a few surprises for you — experim... 
 
- [바로가기](https://medium.com/angular-blog/angular-v17-2-is-now-available-596cbe96242d?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------javascript----------6fff48be_81fa_4e3c_a78c_e69c7d7e45fa-------) 
+ [바로가기](https://medium.com/angular-blog/angular-v17-2-is-now-available-596cbe96242d?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------typescript----------1971c0b4_413b_482d_874a_6969e56c3354-------) 
 
-### Angular v17.2 is now available 
+### React Team’s 600-Day Break: React 19 is Coming! 
 
- We rarely write blog posts about minor releases, but today we have a few surprises for you — experim... 
+ It’s been over 600 days since the last React update (v18.2), leaving the React community curious abo... 
 
- [바로가기](https://medium.com/angular-blog/angular-v17-2-is-now-available-596cbe96242d?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------typescript----------1c20275e_91aa_4dc7_9ae7_cc7aae24eefc-------) 
+ [바로가기](https://medium.com/@techvirtuoso/react-teams-600-day-break-react-19-is-coming-ab6cc5976b3f?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------frontend----------8c4464d1_174b_42cb_80b2_f1054a13d4f1-------) 
 
-### ES7 or ECMAScript2016 
+### Integrating React with Django Multipage Application 
 
- A Deep Dive into the Latest JavaScript Features — ES7... 
+ React and Django are powerful tools for building web applications, each with its own strengths. Reac... 
 
- [바로가기](https://medium.com/@opensrc0/es7-or-ecmascript2016-5327f8eab30e?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------frontend----------40d7502f_872a_4839_a73f_8d18de02fa1d-------) 
+ [바로가기](https://medium.com/wetheitguys/integrating-react-with-django-multipage-application-355462baaf5d?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------reactjs----------a2416f82_d4f7_47a6_ae0f_a98a17a28007-------) 
 
-### Let’s Deep Dive & Understand the Folder Structure of React.js 
+### Next.js Vs React — Basic Differences 
 
- React... 
+ Next.js was introduced in 2016 as an open-source project. It’s actually a React framework that’s use... 
 
- [바로가기](https://medium.com/@rajanraj8979/lets-deep-dive-understand-the-folder-structure-of-react-js-44b7ed228596?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------reactjs----------a307108c_5055_4bea_8284_0b3a446ec64d-------) 
+ [바로가기](https://medium.com/@shariq.ahmed525/next-js-vs-react-basic-differences-0e9e490c0b4e?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------nextjs----------7a9b6881_fc43_41f6_bbdb_7378241cd24d-------) 
 
 ### CJ온스타일의 안드로이드 앱 '클린 아키텍처' 도입기 
 
