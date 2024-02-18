@@ -1,29 +1,29 @@
 # 오늘의 포스팅 
-2024년 2월 17일 9시 기준 
+2024년 2월 18일 9시 기준 
 
-### Angular v17.2 is now available 
+### Figma to Frontend: Synchronizing Design and Code Automatically 
 
- We rarely write blog posts about minor releases, but today we have a few surprises for you — experim... 
+ My name is Anastasia Kabalkina, I am the Head of Design at VK Tech. In this post, I will tell how we... 
 
- [바로가기](https://medium.com/angular-blog/angular-v17-2-is-now-available-596cbe96242d?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------typescript----------1971c0b4_413b_482d_874a_6969e56c3354-------) 
-
-### React Team’s 600-Day Break: React 19 is Coming! 
-
- It’s been over 600 days since the last React update (v18.2), leaving the React community curious abo... 
-
- [바로가기](https://medium.com/@techvirtuoso/react-teams-600-day-break-react-19-is-coming-ab6cc5976b3f?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------frontend----------8c4464d1_174b_42cb_80b2_f1054a13d4f1-------) 
+ [바로가기](https://medium.com/@vkteam/figma-to-frontend-synchronizing-design-and-code-automatically-62e493054631?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------frontend----------d8f6abb4_0ae5_41e4_bb96_d5b795a55405-------) 
 
 ### Integrating React with Django Multipage Application 
 
  React and Django are powerful tools for building web applications, each with its own strengths. Reac... 
 
- [바로가기](https://medium.com/wetheitguys/integrating-react-with-django-multipage-application-355462baaf5d?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------reactjs----------a2416f82_d4f7_47a6_ae0f_a98a17a28007-------) 
+ [바로가기](https://medium.com/wetheitguys/integrating-react-with-django-multipage-application-355462baaf5d?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------reactjs----------298f53d1_476d_492b_929d_6a1880ac8e17-------) 
 
-### Next.js Vs React — Basic Differences 
+### NextJS and Cloudinary — App Router Integration 
 
- Next.js was introduced in 2016 as an open-source project. It’s actually a React framework that’s use... 
+ I have struggled enough therefore, I am writing this post most concisely to end your struggle! You a... 
 
- [바로가기](https://medium.com/@shariq.ahmed525/next-js-vs-react-basic-differences-0e9e490c0b4e?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------nextjs----------7a9b6881_fc43_41f6_bbdb_7378241cd24d-------) 
+ [바로가기](https://medium.com/@varchasvipandey/nextjs-and-cloudinary-app-router-integration-ad7fd2e0fdb2?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------nextjs----------9fc50f42_5db6_4399_8fb0_48143183e49d-------) 
+
+### Interview: Can You Stop “forEach” in JavaScript? 
+
+ There are 3 ways to stop forEach in JavaScript... 
+
+ [바로가기](https://medium.com/javascript-in-plain-english/interview-can-you-stop-foreach-in-javascript-bd3d0dd6bcf1?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------front_end_development----------33679dfd_5688_43b6_b3f4_f993286739b5-------) 
 
 ### CJ온스타일의 안드로이드 앱 '클린 아키텍처' 도입기 
 
