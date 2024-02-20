@@ -1,11 +1,5 @@
 # 오늘의 포스팅 
-2024년 2월 19일 22시 기준 
-
-### Let’s Build a Weather App with React and Style it with Tailwind CSS! 
-
- Hey there, Have you ever wanted to know what the weather is like in your area without having to step... 
-
- [바로가기](https://medium.com/@margishpatel288/lets-build-a-weather-app-with-react-and-style-it-with-tailwind-css-38d3efe3d19d?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------reactjs----------88bf6bb3_0b5a_46ca_bd94_8096ab4f785a-------) 
+2024년 2월 20일 9시 기준 
 
 ### NextJS vs ReactJS — like Juice vs Water. 
 
@@ -13,17 +7,23 @@
 
  [바로가기](https://medium.com/@dorianszafranski17/nextjs-vs-reactjs-like-juice-vs-water-f033b52b9e1c?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------nextjs----------f7d3e7f8_17be_46f5_850e_9f1aec94e2ba-------) 
 
-### PWAs Are Now Officially Dead On iOS In The EU 
+### Frontend Weekly Digest #350 (12–18 February 2023) 
 
- Apple gives developers, customers and regulators the finger.... 
+ Web-development... 
 
- [바로가기](https://medium.com/itnext/pwas-are-now-officially-dead-on-ios-in-the-eu-fbb4d26e5325?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------front_end_development----------32d6203a_4e91_4d36_8538_491e850e5127-------) 
+ [바로가기](https://medium.com/@frontender-ua/frontend-weekly-digest-350-12-18-february-2023-682c8b21246d?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------front_end_development----------90146c48_f3ae_46b1_b59d_66776c1ec009-------) 
 
 ### Access My Paid React Course for FREE for LIFETIME😍 
 
  I’m thrilled to offer my paid React course for FREE!... 
 
  [바로가기](https://medium.com/@yogeshchavan/access-my-paid-react-course-for-free-for-lifetime-a52f7c47f7e4?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------react----------b1c4a4aa_ce64_4084_9bdc_0bfe884bddbe-------) 
+
+### Frontend Weekly Digest #350 (12–18 February 2023) 
+
+ Web-development... 
+
+ [바로가기](https://medium.com/@frontender-ua/frontend-weekly-digest-350-12-18-february-2023-682c8b21246d?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------javascript----------18c66d01_e8c6_47b2_abdf_40c0117f4ee6-------) 
 
 ### 구글 4년 차 엔지니어로 살아가기: 김현이 구글코리아 소프트웨어 엔지니어 
 
