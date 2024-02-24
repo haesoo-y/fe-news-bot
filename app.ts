@@ -7,8 +7,7 @@ import { showPreview } from "@/utils/preview";
 
 const main = async () => {
   const mediumList: ObjType[] = (await getFilteredMediumList()).slice(0, 4);
-  // const kfaList: ObjType[] = (await getKFAList()).slice(0, 2);
-  const kfaList: ObjType[] = [];
+  const kfaList: ObjType[] = (await getKFAList()).slice(0, 2);
   const yozmList: ObjType[] = (await getYozmList()).slice(0, 2);
 
   if (process.env.PREVIEW_KFA) {

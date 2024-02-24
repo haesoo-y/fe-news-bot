@@ -7,7 +7,7 @@ export const getHtml = async (url: string) => {
   try {
     return await axios.get(url);
   } catch (err) {
-    console.error(err);
+    console.error("getHtml Error");
   }
 };
 

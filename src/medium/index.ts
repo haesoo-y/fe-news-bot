@@ -19,10 +19,14 @@ export const getFilteredMediumList = async () => {
   const dayOfWeek = currentDate.getDay();
   // 요일에 따라 tags의 순서를 미루어 재정렬
   const modifiedTags = [...tags.slice(dayOfWeek), ...tags.slice(0, dayOfWeek)];
-
-  for (const tag of modifiedTags) {
-    const obj = await getMediumObj(tag);
-    result.push(obj);
+  
+  try {
+    for (const tag of modifiedTags) {
+      const obj = await getMediumObj(tag);
+      result.push(obj);
+    }
+  } catch (error) {
+    console.log('ERROR : getFilteredMediumList')
   }
 
   return result;
