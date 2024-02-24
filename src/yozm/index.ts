@@ -7,14 +7,16 @@ import * as cheerio from "cheerio";
 export const getYozmList = async () => {
   const yozm = "https://yozm.wishket.com";
   const result: ObjType[] = [];
-  let html:AxiosResponse<any> | undefined
+  let html:AxiosResponse<any> | undefined;
+  let $:cheerio.CheerioAPI;
   try {
     html = await getHtml(yozm + "/magazine/list/develop");
+    $ = cheerio.load(html?.data);
   } catch (error) {
-    console.log('ERROR : getYozmList')
-    return result
+    console.log('ERROR : getYozmList');
+    return result;
   }
-  const $ = cheerio.load(html?.data);
+  
   const $bodyList = $("div.list-cover ").children("div.list-item-link");
 
   $bodyList.each((i, elem) => {

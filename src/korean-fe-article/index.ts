@@ -1,14 +1,23 @@
 import { ObjType } from "@/type";
 import { getHtml } from "@/utils/lib";
 import { MAX_DESC_LENGTH } from "@/utils/static";
+import { AxiosResponse } from "axios";
 import * as cheerio from "cheerio";
 
 export const getKFAList = async () => {
   const kfa = "https://kofearticle.substack.com/archive";
   const kfaTitle = "[Korean FE Article]";
   const result: ObjType[] = [];
-  const html = await getHtml(kfa);
-  const $ = cheerio.load(html?.data);
+  let html:AxiosResponse<any> | undefined;
+  let $:cheerio.CheerioAPI;
+  try {
+    html = await getHtml(kfa);
+    $ = cheerio.load(html?.data);
+  } catch (error) {
+    console.log('ERROR : getKFAList');
+    return result;
+  }
+  
   const $bodyList = $(
     "div.portable-archive-list > div > div > div.pencraft > div > div.pencraft"
   );
