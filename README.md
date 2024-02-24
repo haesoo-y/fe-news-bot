@@ -1,5 +1,5 @@
 # 오늘의 포스팅 
-2024년 2월 24일 9시 기준 
+2024년 2월 24일 14시 기준 
 
 ### Amazon Bedrock Knowledge Bases with Private Data 
 
@@ -13,11 +13,11 @@
 
  [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F6d499e7b6a22&operation=register&redirect=https%3A%2F%2Fengineering.razorpay.com%2Finnovate-faster-with-razorpays-open-source-suite-of-products-tools-6d499e7b6a22&source=---------0-84----------frontend------bookmark_preview----e7717d5a_61c0_44ac_9c0c_13035c93413e-------) 
 
-### Why You Should Use Drupal with Next.js and How to Get Started 
+### The Heart of React: Exploring the Core Hooks for Seamless Development 
 
- This is my series of articles about Drupal, Next.js, and generally how to use headless CMS as a fron... 
+ Why did the React component go fishing? It wanted to hook some state!... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F6a91cecd772a&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40EleneSh%2Fwhy-you-should-use-drupal-with-next-js-and-how-to-get-started-6a91cecd772a&source=---------0-84----------reactjs------bookmark_preview----8a79b59e_153e_4922_a292_8c0c8e906c1e-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F1b243e7ca43c&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40manishsinghmail03%2Fthe-heart-of-react-exploring-the-core-hooks-for-seamless-development-1b243e7ca43c&source=---------0-84----------reactjs------bookmark_preview----9a6d9957_01ed_494a_9bb8_88b9457c99c1-------) 
 
 ### Shopify Mastery Unlocked: The Ultimate Guide to Launching Your Next.js 
 
