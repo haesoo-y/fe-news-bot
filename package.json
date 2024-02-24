@@ -5,10 +5,10 @@
   "main": "index.js",
   "scripts": {
     "build": "tsc && tsc-alias",
-    "start": "npm run build && node dist/app",
-    "preview-kfa": "cross-env PREVIEW_KFA=true npm run start",
-    "preview-medium": "cross-env PREVIEW_MEDIUM=true npm run start",
-    "preview-yozm": "cross-env PREVIEW_YOZM=true npm run start"
+    "start": "yarn run build && node dist/app",
+    "preview-kfa": "cross-env PREVIEW_KFA=true yarn run start",
+    "preview-medium": "cross-env PREVIEW_MEDIUM=true yarn run start",
+    "preview-yozm": "cross-env PREVIEW_YOZM=true yarn run start"
   },
   "repository": {
     "type": "git",
