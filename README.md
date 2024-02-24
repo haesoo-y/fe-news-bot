@@ -1,41 +1,41 @@
 # 오늘의 포스팅 
-2024년 2월 20일 9시 기준 
+2024년 2월 24일 9시 기준 
 
-### NextJS vs ReactJS — like Juice vs Water. 
+### Amazon Bedrock Knowledge Bases with Private Data 
 
- “Next uses React. Its like a project framework similar but different in many ways to create react ap... 
+ Using TypeScript and the AWS CDK, you can integrate Knowledge Bases into Amazon Bedrock to provide f... 
 
- [바로가기](https://medium.com/@dorianszafranski17/nextjs-vs-reactjs-like-juice-vs-water-f033b52b9e1c?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------nextjs----------f7d3e7f8_17be_46f5_850e_9f1aec94e2ba-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F7685d04ef396&operation=register&redirect=https%3A%2F%2Fblog.serverlessadvocate.com%2Famazon-bedrock-knowledge-bases-with-private-data-7685d04ef396&source=---------0-107----------typescript------bookmark_preview----861df966_e987_4a98_9a69_3a39ed590d14-------) 
 
-### Frontend Weekly Digest #350 (12–18 February 2023) 
+### Innovate faster with Razorpay’s open-source suite of products & tools 
 
- Web-development... 
+ Razorpay has always been a big proponent of open-sourcing. Over the years, Razorpay has open-sourced... 
 
- [바로가기](https://medium.com/@frontender-ua/frontend-weekly-digest-350-12-18-february-2023-682c8b21246d?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------front_end_development----------90146c48_f3ae_46b1_b59d_66776c1ec009-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F6d499e7b6a22&operation=register&redirect=https%3A%2F%2Fengineering.razorpay.com%2Finnovate-faster-with-razorpays-open-source-suite-of-products-tools-6d499e7b6a22&source=---------0-84----------frontend------bookmark_preview----e7717d5a_61c0_44ac_9c0c_13035c93413e-------) 
 
-### Access My Paid React Course for FREE for LIFETIME😍 
+### Why You Should Use Drupal with Next.js and How to Get Started 
 
- I’m thrilled to offer my paid React course for FREE!... 
+ This is my series of articles about Drupal, Next.js, and generally how to use headless CMS as a fron... 
 
- [바로가기](https://medium.com/@yogeshchavan/access-my-paid-react-course-for-free-for-lifetime-a52f7c47f7e4?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------react----------b1c4a4aa_ce64_4084_9bdc_0bfe884bddbe-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F6a91cecd772a&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40EleneSh%2Fwhy-you-should-use-drupal-with-next-js-and-how-to-get-started-6a91cecd772a&source=---------0-84----------reactjs------bookmark_preview----8a79b59e_153e_4922_a292_8c0c8e906c1e-------) 
 
-### Frontend Weekly Digest #350 (12–18 February 2023) 
+### Shopify Mastery Unlocked: The Ultimate Guide to Launching Your Next.js 
 
- Web-development... 
+ Unlocking the full potential of Shopify and harnessing its capabilities can be a game-changer for bu... 
 
- [바로가기](https://medium.com/@frontender-ua/frontend-weekly-digest-350-12-18-february-2023-682c8b21246d?responsesOpen=true&sortBy=REVERSE_CHRON&source=topic_portal_recommended_stories---------0-84----------javascript----------18c66d01_e8c6_47b2_abdf_40c0117f4ee6-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F8a84fa165233&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40fernandorosenblit%2Fshopify-mastery-unlocked-the-ultimate-guide-to-launching-your-next-js-8a84fa165233&source=---------0-84----------nextjs------bookmark_preview----c908a93f_43a4_40b2_aa51_79d7a0d3f73a-------) 
 
-### 구글 4년 차 엔지니어로 살아가기: 김현이 구글코리아 소프트웨어 엔지니어 
+### 웹 기반 그래픽 편집기의 구조와 7가지 디자인 패턴 (2) 
 
- 이번에 소개할 개발자는 4년 차 소프트웨어 엔지니어로, 일명 ‘공룡 기업’ 구글에서 첫 커리어를 시작한 김현이 엔지니어입니다. 2020년 ‘구글러’로 합류하게 된 그는 현재 서치팀... 
+ FEConf2023에서 발표한 <웹 기반 그래픽 편집기의 구조와 7가지 디자인 패턴>를 정리한 글입니다. 발표 내용을 2회로 나누어 발행합니다. 1회에서는 웹 기반 그래픽 편집기의... 
 
- [바로가기](https://yozm.wishket.com/magazine/detail/2460/) 
+ [바로가기](https://yozm.wishket.com/magazine/detail/2467/) 
 
-### CJ온스타일의 안드로이드 앱 '클린 아키텍처' 도입기 
+### 웹 기반 그래픽 편집기의 구조와 7가지 디자인 패턴 (1) 
 
- 소프트웨어 개발은 복잡한 문제를 해결하기 위해 코드를 작성하는 것 이상을 필요로 합니다. 단순히 결과론으로 화면을 보여주는 것만 생각하고 개발한다면, 코드는 점차 커지며 나중에는 ... 
+ FEConf2023에서 발표한 <웹 기반 그래픽 편집기의 구조와 7가지 디자인 패턴>를 정리한 글입니다. 발표 내용을 2회로 나누어 발행합니다. 1회에서는 웹 기반 그래픽 편집기의... 
 
- [바로가기](https://yozm.wishket.com/magazine/detail/2457/) 
+ [바로가기](https://yozm.wishket.com/magazine/detail/2466/) 
 
 ---
 
