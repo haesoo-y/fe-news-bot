@@ -20,8 +20,8 @@ jobs:
 
       - name: Run Cron
         run: |
-          npm install
-          npm start
+          yarn
+          yarn start
       - name: Push Github
         run: |
           git config --global user.name "haesoo-y"
