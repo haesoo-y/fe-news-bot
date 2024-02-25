@@ -1,29 +1,29 @@
 # 오늘의 포스팅 
-2024년 2월 24일 14시 기준 
-
-### Amazon Bedrock Knowledge Bases with Private Data 
-
- Using TypeScript and the AWS CDK, you can integrate Knowledge Bases into Amazon Bedrock to provide f... 
-
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F7685d04ef396&operation=register&redirect=https%3A%2F%2Fblog.serverlessadvocate.com%2Famazon-bedrock-knowledge-bases-with-private-data-7685d04ef396&source=---------0-107----------typescript------bookmark_preview----861df966_e987_4a98_9a69_3a39ed590d14-------) 
+2024년 2월 25일 9시 기준 
 
 ### Innovate faster with Razorpay’s open-source suite of products & tools 
 
  Razorpay has always been a big proponent of open-sourcing. Over the years, Razorpay has open-sourced... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F6d499e7b6a22&operation=register&redirect=https%3A%2F%2Fengineering.razorpay.com%2Finnovate-faster-with-razorpays-open-source-suite-of-products-tools-6d499e7b6a22&source=---------0-84----------frontend------bookmark_preview----e7717d5a_61c0_44ac_9c0c_13035c93413e-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F6d499e7b6a22&operation=register&redirect=https%3A%2F%2Fengineering.razorpay.com%2Finnovate-faster-with-razorpays-open-source-suite-of-products-tools-6d499e7b6a22&source=---------0-84----------frontend------bookmark_preview----9b4b82aa_b7c0_441c_af53_65523f5b8263-------) 
 
-### The Heart of React: Exploring the Core Hooks for Seamless Development 
+### Clean Code Hack: A Short Guide to useEffect Usage in React 
 
- Why did the React component go fishing? It wanted to hook some state!... 
+ A few weeks ago, while assisting a friend, a junior developer at a small company, I encountered a no... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F1b243e7ca43c&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40manishsinghmail03%2Fthe-heart-of-react-exploring-the-core-hooks-for-seamless-development-1b243e7ca43c&source=---------0-84----------reactjs------bookmark_preview----9a6d9957_01ed_494a_9bb8_88b9457c99c1-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fa0a75d189fdc&operation=register&redirect=https%3A%2F%2Fitnext.io%2Fclean-code-hack-a-short-guide-to-useeffect-usage-in-react-a0a75d189fdc&source=---------0-84----------reactjs------bookmark_preview----dc67dc42_48c2_401b_a290_338ce282311b-------) 
 
-### Shopify Mastery Unlocked: The Ultimate Guide to Launching Your Next.js 
+### Why You Should Use Drupal with Next.js and How to Get Started 
 
- Unlocking the full potential of Shopify and harnessing its capabilities can be a game-changer for bu... 
+ ... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F8a84fa165233&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40fernandorosenblit%2Fshopify-mastery-unlocked-the-ultimate-guide-to-launching-your-next-js-8a84fa165233&source=---------0-84----------nextjs------bookmark_preview----c908a93f_43a4_40b2_aa51_79d7a0d3f73a-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F6a91cecd772a&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40EleneSh%2Fwhy-you-should-use-drupal-with-next-js-and-how-to-get-started-6a91cecd772a&source=---------0-84----------nextjs------bookmark_preview----457187a9_d754_47d2_bd95_668791be1bbf-------) 
+
+### A Deep Dive into ‘Effective TypeScript 
+
+ Welcome to a journey through ‘Effective TypeScript’! Right off the bat, Dan Vanderkam(The author of ... 
+
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fae8adf69e347&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40bahaarghafari%2Fa-deep-dive-into-effective-typescript-ae8adf69e347&source=---------0-84----------front_end_development------bookmark_preview----1b5a0fb5_5fd9_4eb9_a8f4_15b50b9a623b-------) 
 
 ### 웹 기반 그래픽 편집기의 구조와 7가지 디자인 패턴 (2) 
 
