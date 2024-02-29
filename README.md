@@ -1,29 +1,29 @@
 # 오늘의 포스팅 
-2024년 2월 28일 9시 기준 
+2024년 2월 29일 9시 기준 
 
-### PWAs On iOS: Where We Are Now 
+### Relaunching Reactime: updates and a new accessibility feature! 
 
- The confusing details of Apple’s quest to kill the only viable alternative to their App Store... 
+ Bringing Reactime into the accessible world. An already successful tool takes the leap into accessib... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Ffe9f7cdbd111&operation=register&redirect=https%3A%2F%2Fitnext.io%2Fpwas-on-ios-where-we-are-now-fe9f7cdbd111&source=---------0-84----------front_end_development------bookmark_preview----df9e12e3_5e51_45eb_8fcb_3fcf358bf980-------) 
-
-### Inward Resilience: A Reminder in Tough Times 
-
- ... 
-
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F18fedcd7f003&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40maaanct%2Finward-resilience-a-reminder-in-tough-times-18fedcd7f003&source=---------0-84----------react------bookmark_preview----5f3cdeea_dee4_4c53_a1b8_e33f859417df-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F1f0fd3a5bd8c&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40evaury%2Frelaunching-reactime-updates-and-a-new-accessibility-feature-1f0fd3a5bd8c&source=---------0-84----------react------bookmark_preview----73a0e4bd_ea30_4f72_a9ed_c9738d3f1ce0-------) 
 
 ### ES15 / ECMA Script 2024 
 
  A Deep Dive into the Latest JavaScript Features — ES15... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F5b316636b8ca&operation=register&redirect=https%3A%2F%2Fblog.stackademic.com%2Fes15-ecma-script-2024-5b316636b8ca&source=---------0-84----------javascript------bookmark_preview----9282b934_507b_46ce_bbc9_0db155444422-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F5b316636b8ca&operation=register&redirect=https%3A%2F%2Fblog.stackademic.com%2Fes15-ecma-script-2024-5b316636b8ca&source=---------0-84----------javascript------bookmark_preview----9b4bc436_5e03_4239_a0c5_c03bd7f964cc-------) 
 
-### Automating tasks using Amazon Bedrock Agents and AI 
+### Mastering Type-Safe JSON Serialization in TypeScript 
 
- Increasing productivity through Amazon Bedrock Agent automation, with examples written in TypeScript... 
+ How to utilize TypeScript for type-safe serialization and deserialization of data in JSON format... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F4b6fb8856589&operation=register&redirect=https%3A%2F%2Fblog.serverlessadvocate.com%2Fautomating-tasks-using-amazon-bedrock-agents-and-ai-4b6fb8856589&source=---------0-84----------typescript------bookmark_preview----3dc59fd3_2ddc_4d54_9c48_eb2e2ad099bd-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fb898a0316741&operation=register&redirect=https%3A%2F%2Fitnext.io%2Fmastering-type-safe-json-serialization-in-typescript-b898a0316741&source=---------0-84----------typescript------bookmark_preview----7bd30039_e4e3_4deb_9470_ac94987ed7b0-------) 
+
+### Simulating HTTP responses when the backend is not ready (No Code Required): Part I 
+
+ In frontend development, we often encounter situations where the data we require from HTTP requests ... 
+
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Ff7088e8024b7&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40cael19%2Fsimulating-http-responses-when-the-backend-is-not-ready-no-code-required-part-i-f7088e8024b7&source=---------0-84----------frontend------bookmark_preview----2b357352_5e1c_4a27_96cd_cdfa95b1b309-------) 
 
 ### 성장에 회사를 활용하기: 당근 공통서비스개발 팀 박미정 리더 
 
