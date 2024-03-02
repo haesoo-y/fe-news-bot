@@ -1,29 +1,29 @@
 # 오늘의 포스팅 
-2024년 3월 1일 9시 기준 
+2024년 3월 2일 9시 기준 
 
-### ES15 / ECMA Script 2024 
+### React 19: How React Compiler Will Take Your Code to the Next Level 
 
- A Deep Dive into the Latest JavaScript Features — ES15... 
+ Introduction... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F5b316636b8ca&operation=register&redirect=https%3A%2F%2Fblog.stackademic.com%2Fes15-ecma-script-2024-5b316636b8ca&source=---------0-84----------javascript------bookmark_preview----05244f5b_e06b_444c_9a6a_146df2c800b4-------) 
-
-### Should Arrow Functions be Used as Methods in JS/TS? 
-
- ES6 - A new hope.... 
-
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F1544a36b998a&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40tiagopog%2Fshould-arrow-functions-be-used-as-methods-in-js-ts-1544a36b998a&source=---------0-84----------typescript------bookmark_preview----76020327_3a7e_4ac7_b859_a09897aca9a2-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F8a89702d8860&operation=register&redirect=https%3A%2F%2Fblog.stackademic.com%2Freact-19-how-react-compiler-will-take-your-code-to-the-next-level-8a89702d8860&source=---------0-84----------typescript------bookmark_preview----0144d143_ccb1_4cd1_ba8a_bf92503b789a-------) 
 
 ### Simulating HTTP responses when the backend is not ready (No Code Required): Part I 
 
  In frontend development, we often encounter situations where the data we require from HTTP requests ... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Ff7088e8024b7&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40cael19%2Fsimulating-http-responses-when-the-backend-is-not-ready-no-code-required-part-i-f7088e8024b7&source=---------0-84----------frontend------bookmark_preview----b41bdd0d_0650_470f_84a5_38e07a47a6c2-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Ff7088e8024b7&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40cael19%2Fsimulating-http-responses-when-the-backend-is-not-ready-no-code-required-part-i-f7088e8024b7&source=---------0-84----------frontend------bookmark_preview----60d41c59_08d8_416d_bcc1_7d5c0823ed2b-------) 
+
+### Unveiling React’s useDebugValue Hook: Simplifying Debugging with Examples 
+
+ Introduction:... 
+
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F015a1af72678&operation=register&redirect=https%3A%2F%2Fmedium.com%2Fzestgeek%2Funveiling-reacts-usedebugvalue-hook-simplifying-debugging-with-examples-015a1af72678&source=---------0-84----------reactjs------bookmark_preview----ab775761_87f3_40f1_9ce7_dd313b97edcc-------) 
 
 ### Major React 19 Update: React Compiler and All You Need to Know 
 
  React Forget (Optimizing Compiler)... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fe9527773be08&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40gorkemkaramolla%2Fmajor-react-19-update-react-compiler-and-all-you-need-to-know-e9527773be08&source=---------0-84----------reactjs------bookmark_preview----253748e2_2c21_404f_a3cd_0a3336b5003d-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fe9527773be08&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40gorkemkaramolla%2Fmajor-react-19-update-react-compiler-and-all-you-need-to-know-e9527773be08&source=---------0-84----------nextjs------bookmark_preview----dbf12db9_8f89_40b9_8b35_3f0e1ecc9e6a-------) 
 
 ### 초거대 AI 시대, 대체불가 개발자로 살아남기 
 
