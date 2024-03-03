@@ -1,29 +1,29 @@
 # 오늘의 포스팅 
-2024년 3월 2일 9시 기준 
+2024년 3월 3일 9시 기준 
 
-### React 19: How React Compiler Will Take Your Code to the Next Level 
+### Hoisting in JavaScript: The Ups and ‘Undefineds’ of Variable Declarations 
 
- Introduction... 
+ If you’re a JavaScript developer, you might have heard of the term ‘hoisting.’ It’s a notorious term... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F8a89702d8860&operation=register&redirect=https%3A%2F%2Fblog.stackademic.com%2Freact-19-how-react-compiler-will-take-your-code-to-the-next-level-8a89702d8860&source=---------0-84----------typescript------bookmark_preview----0144d143_ccb1_4cd1_ba8a_bf92503b789a-------) 
-
-### Simulating HTTP responses when the backend is not ready (No Code Required): Part I 
-
- In frontend development, we often encounter situations where the data we require from HTTP requests ... 
-
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Ff7088e8024b7&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40cael19%2Fsimulating-http-responses-when-the-backend-is-not-ready-no-code-required-part-i-f7088e8024b7&source=---------0-84----------frontend------bookmark_preview----60d41c59_08d8_416d_bcc1_7d5c0823ed2b-------) 
-
-### Unveiling React’s useDebugValue Hook: Simplifying Debugging with Examples 
-
- Introduction:... 
-
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F015a1af72678&operation=register&redirect=https%3A%2F%2Fmedium.com%2Fzestgeek%2Funveiling-reacts-usedebugvalue-hook-simplifying-debugging-with-examples-015a1af72678&source=---------0-84----------reactjs------bookmark_preview----ab775761_87f3_40f1_9ce7_dd313b97edcc-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fa46187f69599&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40negidharmendra98%2Fhoisting-in-javascript-the-ups-and-undefineds-of-variable-declarations-a46187f69599&source=---------0-84----------frontend------bookmark_preview----a7e5d72d_93b0_49f8_ba08_33edf7f35370-------) 
 
 ### Major React 19 Update: React Compiler and All You Need to Know 
 
- React Forget (Optimizing Compiler)... 
+ ... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fe9527773be08&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40gorkemkaramolla%2Fmajor-react-19-update-react-compiler-and-all-you-need-to-know-e9527773be08&source=---------0-84----------nextjs------bookmark_preview----dbf12db9_8f89_40b9_8b35_3f0e1ecc9e6a-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F44c3ef3f67b2&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40spitertech_solutions%2Fmajor-react-19-update-react-compiler-and-all-you-need-to-know-44c3ef3f67b2&source=---------0-84----------reactjs------bookmark_preview----0f0e724d_4b65_4489_8e23_a5f3d8e21fab-------) 
+
+### Technology trends to watch as Front-End Developer in 2024 🚀 
+
+ Yes, AI is one of them.... 
+
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fb34290953a5f&operation=register&redirect=https%3A%2F%2Fmedium.com%2Ffrontend-at-accenture%2Ftechnology-trends-to-watch-as-front-end-developer-in-2024-b34290953a5f&source=---------0-84----------nextjs------bookmark_preview----72b320ee_f79e_48fb_bd78_eb1635150508-------) 
+
+### JSR, a new JS Registry that supports TS and compatible with npm. 
+
+ Deno has developed a new JSR, a new JS Registry that supports TS and is compatible with npm.... 
+
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F6592301ad6b6&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40liruifeng%2Fjsr-a-new-js-registry-that-supports-ts-and-compatible-with-npm-6592301ad6b6&source=---------0-84----------front_end_development------bookmark_preview----5ce70103_7c0c_450d_9102_f6e7ef8faba0-------) 
 
 ### 초거대 AI 시대, 대체불가 개발자로 살아남기 
 
