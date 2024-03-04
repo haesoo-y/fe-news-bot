@@ -1,41 +1,42 @@
 # 오늘의 포스팅 
-2024년 3월 3일 9시 기준 
+2024년 3월 4일 9시 기준 
 
-### Hoisting in JavaScript: The Ups and ‘Undefineds’ of Variable Declarations 
+### How to make a signature generator web app with React JS ? 
 
- If you’re a JavaScript developer, you might have heard of the term ‘hoisting.’ It’s a notorious term... 
+ Introduction:
+In today’s digital world, the need for digital signatures is becoming increasingly imp... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fa46187f69599&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40negidharmendra98%2Fhoisting-in-javascript-the-ups-and-undefineds-of-variable-declarations-a46187f69599&source=---------0-84----------frontend------bookmark_preview----a7e5d72d_93b0_49f8_ba08_33edf7f35370-------) 
-
-### Major React 19 Update: React Compiler and All You Need to Know 
-
- ... 
-
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F44c3ef3f67b2&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40spitertech_solutions%2Fmajor-react-19-update-react-compiler-and-all-you-need-to-know-44c3ef3f67b2&source=---------0-84----------reactjs------bookmark_preview----0f0e724d_4b65_4489_8e23_a5f3d8e21fab-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fdb8e77f18782&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40surajchaudhary0707%2Fhow-to-make-a-signature-generator-web-app-with-react-js-db8e77f18782&source=---------0-84----------reactjs------bookmark_preview----cc42c1a5_fc96_4b8e_b7b7_6818f5a708a9-------) 
 
 ### Technology trends to watch as Front-End Developer in 2024 🚀 
 
  Yes, AI is one of them.... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fb34290953a5f&operation=register&redirect=https%3A%2F%2Fmedium.com%2Ffrontend-at-accenture%2Ftechnology-trends-to-watch-as-front-end-developer-in-2024-b34290953a5f&source=---------0-84----------nextjs------bookmark_preview----72b320ee_f79e_48fb_bd78_eb1635150508-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fb34290953a5f&operation=register&redirect=https%3A%2F%2Fmedium.com%2Ffrontend-at-accenture%2Ftechnology-trends-to-watch-as-front-end-developer-in-2024-b34290953a5f&source=---------0-84----------nextjs------bookmark_preview----b6ed7f57_00e8_4700_abf2_557da6e6f414-------) 
 
-### JSR, a new JS Registry that supports TS and compatible with npm. 
+### INP Optimization: Your Roadmap to Improving Website Performance and Google Rankings 
 
- Deno has developed a new JSR, a new JS Registry that supports TS and is compatible with npm.... 
+ Learn how to fix INP issues for improved website performance & Google rankings. Follow our roadmap t... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F6592301ad6b6&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40liruifeng%2Fjsr-a-new-js-registry-that-supports-ts-and-compatible-with-npm-6592301ad6b6&source=---------0-84----------front_end_development------bookmark_preview----5ce70103_7c0c_450d_9102_f6e7ef8faba0-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F0240ec801ee5&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40vasilyuepavel%2Fwhat-is-inp-interaction-to-next-paint-and-why-it-is-important-0240ec801ee5&source=---------0-84----------front_end_development------bookmark_preview----31c9c672_5f4c_4ea0_9307_c748bd206b62-------) 
+
+### Introducing a-multilayout-splitter: Streamlining Dynamic Layout Creation in React 
+
+ Are you tired of wrestling with CSS to create dynamic, resizable layouts in your React applications?... 
+
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F96ee6d451683&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40amankrr%2Fintroducing-a-multilayout-splitter-streamlining-dynamic-layout-creation-in-react-96ee6d451683&source=---------0-84----------react------bookmark_preview----400d7557_1a66_495e_a6e6_778013ea4e5d-------) 
+
+### 탐욕 알고리즘과 허프만 코딩 구현 방법 
+
+ 탐욕 알고리즘(Greedy Algorithm)은 각 단계에서 최적의 해결책을 선택하여 복잡한 문제를 간단하고 빠르게 해결하는 알고리즘을 말합니다. 이번 글에서는 탐욕 알고리즘의 기... 
+
+ [바로가기](https://yozm.wishket.com/magazine/detail/2478/) 
 
 ### 초거대 AI 시대, 대체불가 개발자로 살아남기 
 
  IT 업계에서 개발직 초봉 인상 릴레이를 경쟁적으로 하면서 최고의 직업으로 떠오르던 개발자 직군에도 변화가 생기고 있습니다. 바로, 초거대 AI 모델과 생성 AI의 출현으로 챗GP... 
 
  [바로가기](https://yozm.wishket.com/magazine/detail/2477/) 
-
-### 성장에 회사를 활용하기: 당근 공통서비스개발 팀 박미정 리더 
-
- 이번에 소개할 개발자는 SI 대기업, 스타트업, 스타트업의 해외 법인, MAU 1천 만 기업을 거치며 다양한 경험을 쌓았고, 8년째 리더 개발자로 활동하며 팀 빌딩과 조직의 성장을... 
-
- [바로가기](https://yozm.wishket.com/magazine/detail/2473/) 
 
 ---
 
