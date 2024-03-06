@@ -1,29 +1,29 @@
 # 오늘의 포스팅 
-2024년 3월 5일 9시 기준 
-
-### Technology trends to watch as Front-End Developer in 2024 🚀 
-
- Yes, AI is one of them.... 
-
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fb34290953a5f&operation=register&redirect=https%3A%2F%2Fmedium.com%2Ffrontend-at-accenture%2Ftechnology-trends-to-watch-as-front-end-developer-in-2024-b34290953a5f&source=---------0-84----------nextjs------bookmark_preview----b6ed7f57_00e8_4700_abf2_557da6e6f414-------) 
+2024년 3월 6일 9시 기준 
 
 ### Frontend Weekly Digest #352 (26 February — 3 March 2023) 
 
  Web-development... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F43439579c815&operation=register&redirect=https%3A%2F%2Ffrontender-ua.medium.com%2Ffrontend-weekly-digest-352-26-february-3-march-2023-43439579c815&source=---------0-84----------front_end_development------bookmark_preview----6d7cc48d_a58b_4466_82fb_c54e34947a11-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F43439579c815&operation=register&redirect=https%3A%2F%2Ffrontender-ua.medium.com%2Ffrontend-weekly-digest-352-26-february-3-march-2023-43439579c815&source=---------0-84----------front_end_development------bookmark_preview----f54b3060_1c41_475f_b719_d1ea0d2f5041-------) 
 
-### Feature Flags in the React app 
+### What does (123[‘toString’].length + 123) Print Out in JavaScript? 
 
- In a recent project, I had to implement Feature Flags. They allow conditionally enable features whil... 
+ A question that 95% of front-end developers answer incorrectly.... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F1e3767a8a60b&operation=register&redirect=https%3A%2F%2Fitnext.io%2Ffeature-flags-in-the-react-app-1e3767a8a60b&source=---------0-84----------react------bookmark_preview----97d5bb4d_c72b_4db1_8a50_23c8210cc8a4-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Ff2e7dbac360e&operation=register&redirect=https%3A%2F%2Fjavascript.plainenglish.io%2Fwhat-does-123-tostring-length-123-print-out-in-javascript-f2e7dbac360e&source=---------0-84----------react------bookmark_preview----fde0939b_868d_467c_9ddb_071ce1d0f902-------) 
 
-### Ultimate Full-Stack App Toolkit: Must-Have Libraries and Tools 🚀 
+### Mastering React’s useImperativeHandle Hook: A Comprehensive Guide with Examples 
 
- Are you ready to embark on your journey of building a full-stack application? Whether you’re a seaso... 
+ In the realm of React development, hooks have revolutionized the way we handle stateful logic and si... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F7aab3fe78f00&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40sarahisdevs%2Fultimate-full-stack-app-toolkit-must-have-libraries-and-tools-7aab3fe78f00&source=---------0-84----------javascript------bookmark_preview----6e5da05c_fa09_4fbb_a2e3_c609c12c80df-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Facb16872d99a&operation=register&redirect=https%3A%2F%2Fmedium.com%2Fzestgeek%2Fmastering-reacts-useimperativehandle-hook-a-comprehensive-guide-with-examples-acb16872d99a&source=---------0-84----------javascript------bookmark_preview----fd280bb9_7d00_4195_a89f_7fe26a0304e8-------) 
+
+### Angular 17: HTTP Interceptors guide 
+
+ In your Angular application If you need to perform actions on every HTTP request or response (like a... 
+
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F417e7c8ffada&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40mohsinogen%2Fangular-17-http-interceptors-guide-417e7c8ffada&source=---------0-84----------typescript------bookmark_preview----c779d527_9648_4212_a23a_8423b05f5b89-------) 
 
 ### 프론트엔드와 SOLID 원칙 살펴보기 
 
