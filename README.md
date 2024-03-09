@@ -1,41 +1,41 @@
 # 오늘의 포스팅 
-2024년 3월 8일 9시 기준 
+2024년 3월 9일 9시 기준 
 
-### Goodbye “document.cookie”! 
+### Custom Conditional Rendering Component In Reactjs/Nextjs. 
 
- It’s already 2024, it’s time to use cookieStore instead of document.cookie.... 
+ If you have used Vue.js you would know that there are conditional rendering statements like v-if, v-... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F4aecf579304c&operation=register&redirect=https%3A%2F%2Ffatfish.medium.com%2Fgoodbye-document-cookie-4aecf579304c&source=---------0-84----------javascript------bookmark_preview----46130718_3498_4e1b_af31_9c251a43b6d0-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fcd8e92a7110a&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40zeesek%2Fcustom-conditional-rendering-component-in-reactjs-nextjs-cd8e92a7110a&source=---------0-84----------typescript------bookmark_preview----ccc7be69_a023_4b65_b1e0_ea8f57713d64-------) 
 
-### Angular Challenges: Duplication Layout Code 
+### 5 awesome HTML tricks you didn’t know existed 
 
- Welcome to the first challenge in a series exploring common pitfalls and solutions in Angular develo... 
+ ... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F49b4745f96a8&operation=register&redirect=https%3A%2F%2Fitnext.io%2Fangular-challenges-duplication-layout-code-49b4745f96a8&source=---------0-84----------typescript------bookmark_preview----1c73f175_098b_4a2d_9c63_05ba54d46e85-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F9ab7cb6d8875&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40creativebyte%2F5-awesome-html-tricks-you-didnt-know-existed-9ab7cb6d8875&source=---------0-84----------frontend------bookmark_preview----d90ba393_a689_4992_8bf2_9971c2976333-------) 
 
-### Responsive images in OutSystems 
+### React Micro Frontends with ES Modules 
 
- How to load different images depending on the screen width or pixel density, using the picture html ... 
+ Creating React Micro Frontends with ES Modules and Bit... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F785cc577ccac&operation=register&redirect=https%3A%2F%2Fitnext.io%2Fresponsive-images-in-outsystems-785cc577ccac&source=---------0-84----------frontend------bookmark_preview----9a7f2dc7_a528_4eef_a18a_b844ff4bbc04-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fbfed32014d3c&operation=register&redirect=https%3A%2F%2Fblog.bitsrc.io%2Freact-micro-frontends-with-es-modules-bfed32014d3c&source=---------0-84----------reactjs------bookmark_preview----bdb29ed7_1d20_4389_a7f2_fab7413a59d3-------) 
 
-### React Recoil Super Statement Library 
+### Custom Conditional Rendering Component In Reactjs/Nextjs. 
 
- Introduction to React Recoil: A New State Management Solution... 
+ If you have used Vue.js you would know that there are conditional rendering statements like v-if, v-... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F06d3a0082e4c&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40GoutamSingha%2Freact-recoil-super-statement-library-06d3a0082e4c&source=---------0-84----------reactjs------bookmark_preview----f25300c4_f23f_4a13_a0d2_32835b70a904-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fcd8e92a7110a&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40zeesek%2Fcustom-conditional-rendering-component-in-reactjs-nextjs-cd8e92a7110a&source=---------0-84----------nextjs------bookmark_preview----9822a373_4519_477c_958d_85ee4c567dc9-------) 
+
+### 개발과 보안 통합 ‘데브섹옵스’ 중요해지는 이유 
+
+ 최근 웹이나 모바일 서비스 해킹으로 개인정보가 유출되는 등 심각한 보안 문제가 발생하고 있는데요. 이를 예방하기 위해 개발 초기 단계에서부터 보안을 통합해야 한다는 필요성이 대두되... 
+
+ [바로가기](https://yozm.wishket.com/magazine/detail/2487/) 
 
 ### AI시대에 필요한 개발자, Product Engineer 
 
  생성형 AI의 등장은 기존 개발 업무를 빠른 속도로 변화시키고 있습니다. 어느새 코파일럿(copilot)과 함께 코드를 짜고, 문제가 발생하면 스택오버플로(stack overflo... 
 
  [바로가기](https://yozm.wishket.com/magazine/detail/2485/) 
-
-### 프론트엔드 개발자가 알아야 할 ‘유닛 테스트’ 작성법 
-
- 개발자에게 있어 테스트 코드는 제품 안정성을 올려주고, 버그를 사전에 잡아줄 수 있는 중요한 역할을 합니다. 그러나 막상 개발을 하다 보면 테스트 코드를 작성할 여유가 많지 않습니... 
-
- [바로가기](https://yozm.wishket.com/magazine/detail/2483/) 
 
 ---
 
