@@ -1,29 +1,29 @@
 # 오늘의 포스팅 
-2024년 3월 9일 9시 기준 
-
-### Custom Conditional Rendering Component In Reactjs/Nextjs. 
-
- If you have used Vue.js you would know that there are conditional rendering statements like v-if, v-... 
-
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fcd8e92a7110a&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40zeesek%2Fcustom-conditional-rendering-component-in-reactjs-nextjs-cd8e92a7110a&source=---------0-84----------typescript------bookmark_preview----ccc7be69_a023_4b65_b1e0_ea8f57713d64-------) 
+2024년 3월 10일 9시 기준 
 
 ### 5 awesome HTML tricks you didn’t know existed 
 
  ... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F9ab7cb6d8875&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40creativebyte%2F5-awesome-html-tricks-you-didnt-know-existed-9ab7cb6d8875&source=---------0-84----------frontend------bookmark_preview----d90ba393_a689_4992_8bf2_9971c2976333-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F9ab7cb6d8875&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40creativebyte%2F5-awesome-html-tricks-you-didnt-know-existed-9ab7cb6d8875&source=---------0-84----------frontend------bookmark_preview----c5d1c114_7709_4f07_a45c_cb9513593989-------) 
 
 ### React Micro Frontends with ES Modules 
 
  Creating React Micro Frontends with ES Modules and Bit... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fbfed32014d3c&operation=register&redirect=https%3A%2F%2Fblog.bitsrc.io%2Freact-micro-frontends-with-es-modules-bfed32014d3c&source=---------0-84----------reactjs------bookmark_preview----bdb29ed7_1d20_4389_a7f2_fab7413a59d3-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fbfed32014d3c&operation=register&redirect=https%3A%2F%2Fblog.bitsrc.io%2Freact-micro-frontends-with-es-modules-bfed32014d3c&source=---------0-84----------reactjs------bookmark_preview----d5029e77_ff5f_486b_8d2e_f8e35f2a0d53-------) 
 
 ### Custom Conditional Rendering Component In Reactjs/Nextjs. 
 
  If you have used Vue.js you would know that there are conditional rendering statements like v-if, v-... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fcd8e92a7110a&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40zeesek%2Fcustom-conditional-rendering-component-in-reactjs-nextjs-cd8e92a7110a&source=---------0-84----------nextjs------bookmark_preview----9822a373_4519_477c_958d_85ee4c567dc9-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fcd8e92a7110a&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40zeesek%2Fcustom-conditional-rendering-component-in-reactjs-nextjs-cd8e92a7110a&source=---------0-84----------nextjs------bookmark_preview----420f8998_8258_4a5c_8d5d_30efc922aebe-------) 
+
+### When should we use the Dark Release Strategy ? 
+
+ A “Dark Release” is when a company updates its app or website with new features, but only lets a few... 
+
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F546356ad949d&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40suresh9058%2Fwhen-should-we-use-the-dark-release-strategy-546356ad949d&source=---------0-84----------front_end_development------bookmark_preview----960ec3b5_d935_4348_b958_af111f40a952-------) 
 
 ### 개발과 보안 통합 ‘데브섹옵스’ 중요해지는 이유 
 
