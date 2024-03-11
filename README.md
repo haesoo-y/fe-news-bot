@@ -1,29 +1,29 @@
 # 오늘의 포스팅 
-2024년 3월 10일 9시 기준 
+2024년 3월 11일 9시 기준 
 
-### 5 awesome HTML tricks you didn’t know existed 
+### HOC Pattern in React for components with GraphQL Query 
 
- ... 
+ When using the Apollo client in React for querying data each component might use similar logic to ma... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F9ab7cb6d8875&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40creativebyte%2F5-awesome-html-tricks-you-didnt-know-existed-9ab7cb6d8875&source=---------0-84----------frontend------bookmark_preview----c5d1c114_7709_4f07_a45c_cb9513593989-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fcf639263d6a7&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40adighate10%2Fhoc-pattern-in-react-for-components-with-graphql-query-cf639263d6a7&source=---------0-84----------reactjs------bookmark_preview----3b8f923f_727b_407c_9496_cee75031fa75-------) 
 
-### React Micro Frontends with ES Modules 
+### How to use Docusaurus in Next.js projects? 
 
- Creating React Micro Frontends with ES Modules and Bit... 
+ I recently received a project worth $200.... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fbfed32014d3c&operation=register&redirect=https%3A%2F%2Fblog.bitsrc.io%2Freact-micro-frontends-with-es-modules-bfed32014d3c&source=---------0-84----------reactjs------bookmark_preview----d5029e77_ff5f_486b_8d2e_f8e35f2a0d53-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F0292003fd3c8&operation=register&redirect=https%3A%2F%2Fmartinadamsdev.medium.com%2Fhow-to-use-docusaurus-in-next-js-projects-0292003fd3c8&source=---------0-84----------nextjs------bookmark_preview----ef6b57cf_236f_46a8_886a_257c005f3aea-------) 
 
-### Custom Conditional Rendering Component In Reactjs/Nextjs. 
+### NgRx Signal Store vs. Signal State vs. Simple Signal 
 
- If you have used Vue.js you would know that there are conditional rendering statements like v-if, v-... 
+ In this article we will go through some of the best practices when using NgRx. We will go through th... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fcd8e92a7110a&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40zeesek%2Fcustom-conditional-rendering-component-in-reactjs-nextjs-cd8e92a7110a&source=---------0-84----------nextjs------bookmark_preview----420f8998_8258_4a5c_8d5d_30efc922aebe-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F33ceb2f5ee1d&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40marekpanti%2Fngrx-signal-store-vs-signal-state-vs-simple-signal-33ceb2f5ee1d&source=---------0-84----------front_end_development------bookmark_preview----5bdbada3_95a8_49be_b5d0_3db162c18971-------) 
 
-### When should we use the Dark Release Strategy ? 
+### Mastering Fine-Grained Reactivity in React with Legend State 
 
- A “Dark Release” is when a company updates its app or website with new features, but only lets a few... 
+ React, a popular JavaScript library for building user interfaces, provides a powerful and efficient ... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F546356ad949d&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40suresh9058%2Fwhen-should-we-use-the-dark-release-strategy-546356ad949d&source=---------0-84----------front_end_development------bookmark_preview----960ec3b5_d935_4348_b958_af111f40a952-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F85d532c3d940&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40anoojmathewvarghese%2Fmastering-fine-grained-reactivity-in-react-with-legend-state-85d532c3d940&source=---------0-84----------react------bookmark_preview----825a116e_ea1f_457d_969d_e5faa4b828e6-------) 
 
 ### 개발과 보안 통합 ‘데브섹옵스’ 중요해지는 이유 
 
