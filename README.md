@@ -1,17 +1,11 @@
 # 오늘의 포스팅 
-2024년 3월 11일 9시 기준 
+2024년 3월 12일 9시 기준 
 
-### HOC Pattern in React for components with GraphQL Query 
+### setup Next js and React project in Nx monorepo 
 
- When using the Apollo client in React for querying data each component might use similar logic to ma... 
+ create app as user and admin with next-js and react with typescript, eslint , prettier, husky, story... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fcf639263d6a7&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40adighate10%2Fhoc-pattern-in-react-for-components-with-graphql-query-cf639263d6a7&source=---------0-84----------reactjs------bookmark_preview----3b8f923f_727b_407c_9496_cee75031fa75-------) 
-
-### How to use Docusaurus in Next.js projects? 
-
- I recently received a project worth $200.... 
-
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F0292003fd3c8&operation=register&redirect=https%3A%2F%2Fmartinadamsdev.medium.com%2Fhow-to-use-docusaurus-in-next-js-projects-0292003fd3c8&source=---------0-84----------nextjs------bookmark_preview----ef6b57cf_236f_46a8_886a_257c005f3aea-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F21391b42a8f6&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40sargashte118%2Fsetup-next-js-and-react-project-in-nx-monorepo-21391b42a8f6&source=---------0-84----------nextjs------bookmark_preview----bc194b82_1557_4113_b2d3_b6dc1d948cf0-------) 
 
 ### NgRx Signal Store vs. Signal State vs. Simple Signal 
 
@@ -24,6 +18,12 @@
  React, a popular JavaScript library for building user interfaces, provides a powerful and efficient ... 
 
  [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F85d532c3d940&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40anoojmathewvarghese%2Fmastering-fine-grained-reactivity-in-react-with-legend-state-85d532c3d940&source=---------0-84----------react------bookmark_preview----825a116e_ea1f_457d_969d_e5faa4b828e6-------) 
+
+### JavaScript Clean Code for Beginners: Best Practices for Writing Maintainable Code 
+
+ Introduction: JavaScript is a powerful programming language that is widely used for building dynamic... 
+
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fc047e322bd98&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40mtangguh97%2Fjavascript-clean-code-for-beginners-best-practices-for-writing-maintainable-code-c047e322bd98&source=---------0-84----------javascript------bookmark_preview----5e9eb52d_416c_4afe_ab5f_6243bca643e1-------) 
 
 ### 개발과 보안 통합 ‘데브섹옵스’ 중요해지는 이유 
 
