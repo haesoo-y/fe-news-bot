@@ -1,29 +1,29 @@
 # 오늘의 포스팅 
-2024년 3월 12일 9시 기준 
+2024년 3월 13일 9시 기준 
 
-### setup Next js and React project in Nx monorepo 
+### Frontend Weekly Digest #353 (4–10 March 2023) 
 
- create app as user and admin with next-js and react with typescript, eslint , prettier, husky, story... 
+ Web-development... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F21391b42a8f6&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40sargashte118%2Fsetup-next-js-and-react-project-in-nx-monorepo-21391b42a8f6&source=---------0-84----------nextjs------bookmark_preview----bc194b82_1557_4113_b2d3_b6dc1d948cf0-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F2d128db44fb6&operation=register&redirect=https%3A%2F%2Ffrontender-ua.medium.com%2Ffrontend-weekly-digest-353-4-10-march-2023-2d128db44fb6&source=---------0-84----------front_end_development------bookmark_preview----63d0c338_04aa_4cb0_87fd_ca809fbc96f3-------) 
 
-### NgRx Signal Store vs. Signal State vs. Simple Signal 
+### Image Pieces 
 
- In this article we will go through some of the best practices when using NgRx. We will go through th... 
+ Today, we’re delving into the world of CSS and focusing on two essential CSS properties: background-... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F33ceb2f5ee1d&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40marekpanti%2Fngrx-signal-store-vs-signal-state-vs-simple-signal-33ceb2f5ee1d&source=---------0-84----------front_end_development------bookmark_preview----5bdbada3_95a8_49be_b5d0_3db162c18971-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Ff7fabad2e2be&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40saurabh.kayasth10%2Fimage-pieces-f7fabad2e2be&source=---------0-84----------react------bookmark_preview----4c98d0d8_dc82_4b4c_a105_d51ab07ee2e7-------) 
 
-### Mastering Fine-Grained Reactivity in React with Legend State 
+### Frontend Weekly Digest #353 (4–10 March 2023) 
 
- React, a popular JavaScript library for building user interfaces, provides a powerful and efficient ... 
+ Web-development... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F85d532c3d940&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40anoojmathewvarghese%2Fmastering-fine-grained-reactivity-in-react-with-legend-state-85d532c3d940&source=---------0-84----------react------bookmark_preview----825a116e_ea1f_457d_969d_e5faa4b828e6-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F2d128db44fb6&operation=register&redirect=https%3A%2F%2Ffrontender-ua.medium.com%2Ffrontend-weekly-digest-353-4-10-march-2023-2d128db44fb6&source=---------0-84----------javascript------bookmark_preview----ba5d9d3f_1ef6_4ab2_8ee6_2c1e9ed0dfb0-------) 
 
-### JavaScript Clean Code for Beginners: Best Practices for Writing Maintainable Code 
+### Creating a User Model with Auto-Incremented Code in TypeScript and MongoDB 
 
- Introduction: JavaScript is a powerful programming language that is widely used for building dynamic... 
+ When building applications, it’s common to generate unique codes for users. In this tutorial, we’ll ... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fc047e322bd98&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40mtangguh97%2Fjavascript-clean-code-for-beginners-best-practices-for-writing-maintainable-code-c047e322bd98&source=---------0-84----------javascript------bookmark_preview----5e9eb52d_416c_4afe_ab5f_6243bca643e1-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fbeda19424852&operation=register&redirect=https%3A%2F%2Farivuselvan.medium.com%2Fcreating-a-user-model-with-auto-incremented-code-in-typescript-and-mongodb-beda19424852&source=---------0-84----------typescript------bookmark_preview----c1836b7e_45cb_4d62_8ea2_5e536fecbe9d-------) 
 
 ### 개발과 보안 통합 ‘데브섹옵스’ 중요해지는 이유 
 
