@@ -1,29 +1,29 @@
 # 오늘의 포스팅 
-2024년 3월 14일 9시 기준 
+2024년 3월 15일 9시 기준 
 
-### Image Pieces 
+### Building a Dynamic Navbar with React Router 
 
- Today, we’re delving into the world of CSS and focusing on two essential CSS properties: background-... 
+ In this tutorial, we’ll create a dynamic navbar using React Router. This navbar will have links to d... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Ff7fabad2e2be&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40saurabh.kayasth10%2Fimage-pieces-f7fabad2e2be&source=---------0-84----------react------bookmark_preview----4c98d0d8_dc82_4b4c_a105_d51ab07ee2e7-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F2bffbdfb8c03&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40fanbubu0%2Fbuilding-a-dynamic-navbar-with-react-router-2bffbdfb8c03&source=---------0-84----------javascript------bookmark_preview----cc70e61e_a538_49f3_a416_92d583e603f6-------) 
 
-### Integrating Rust into Next.js: How-To Developer Guide 
+### Refresh Access Token with Axios Interceptors in React.js (with Typescript) 
 
- Learn how to use Rust in your existing JavaScript/Next.js projects and discover how to deploy Rust t... 
+ We will look at how to use axios interceptors in our applications that help us to refresh our access... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F10e533470d71&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40capJavert%2Fintegrating-rust-into-next-js-how-to-developer-guide-10e533470d71&source=---------0-84----------javascript------bookmark_preview----6a368154_52da_4656_a95f_2ad3a04e94c4-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fbd7a2d035562&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40pushpend3r%2Frefresh-access-token-with-axios-interceptors-in-react-js-with-typescript-bd7a2d035562&source=---------0-84----------typescript------bookmark_preview----f1ded764_bd50_4637_8bbf_d4f377fc5e23-------) 
 
-### Creating a User Model with Auto-Incremented Code in TypeScript and MongoDB 
+### Mastering Front-End Development: A Comprehensive Guide for Beginners 
 
- When building applications, it’s common to generate unique codes for users. In this tutorial, we’ll ... 
+ Introduction:Mastering Front-End Development: A Comprehensive Guide for Beginners... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fbeda19424852&operation=register&redirect=https%3A%2F%2Farivuselvan.medium.com%2Fcreating-a-user-model-with-auto-incremented-code-in-typescript-and-mongodb-beda19424852&source=---------0-84----------typescript------bookmark_preview----c1836b7e_45cb_4d62_8ea2_5e536fecbe9d-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F25b658714565&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40subratomaji786%2Fmastering-front-end-development-a-comprehensive-guide-for-beginners-25b658714565&source=---------0-84----------frontend------bookmark_preview----cac10020_4fb6_4f59_9835_363ef775ab56-------) 
 
-### Best Frontend Frameworks for Web Development 
+### React Lifecycle Methods: Transitioning from Class components to Functional Components 
 
- What is a Frontend Framework?... 
+ React Lifecycle Methods have been a foundation in class component development, providing developers ... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F3b5834c7d0cd&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40byrisettihemu%2Fbest-frontend-frameworks-for-web-development-3b5834c7d0cd&source=---------0-84----------frontend------bookmark_preview----e291a42c_c50f_4c11_b581_f2c72b0d425f-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F778b07461fb0&operation=register&redirect=https%3A%2F%2Fwanuja18.medium.com%2Freact-lifecycle-methods-transitioning-from-class-components-to-functional-components-778b07461fb0&source=---------0-84----------reactjs------bookmark_preview----911b84c0_c2fb_47e0_a801_97ee7eb7a913-------) 
 
 ### 리액트 배칭(Batching)의 모든 것 
 
