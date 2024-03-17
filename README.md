@@ -1,17 +1,11 @@
 # 오늘의 포스팅 
-2024년 3월 16일 9시 기준 
-
-### Angular Team Started Preparations For 18 Release 
-
- The work on Angular 18 just started and the team does some essential groundwork.... 
-
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fa404bdc2609f&operation=register&redirect=https%3A%2F%2Ftomaszs2.medium.com%2Fangular-team-started-preparations-for-18-release-a404bdc2609f&source=---------0-84----------typescript------bookmark_preview----59a279ec_3d59_4aaa_a518_26235e167f7c-------) 
+2024년 3월 17일 9시 기준 
 
 ### AI Taking Jobs: A Boon or Bane? A Detailed Take for Tech Enthusiasts 
 
  Artificial Intelligence (AI) has been rapidly transforming various industries, and its impact on the... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Faecb73264d75&operation=register&redirect=https%3A%2F%2Fcoderandcreator.medium.com%2Fai-taking-jobs-a-boon-or-bane-a-detailed-take-for-tech-enthusiasts-aecb73264d75&source=---------0-84----------frontend------bookmark_preview----43a12921_6092_4aaa_94cd_273aa5454323-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Faecb73264d75&operation=register&redirect=https%3A%2F%2Fcoderandcreator.medium.com%2Fai-taking-jobs-a-boon-or-bane-a-detailed-take-for-tech-enthusiasts-aecb73264d75&source=---------0-84----------frontend------bookmark_preview----8ea06677_dbe9_459f_94d8_98136e4cbfd7-------) 
 
 ### React 19: What’s New in React World? 
 
@@ -19,11 +13,17 @@
 
  [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F864f70487d20&operation=register&redirect=https%3A%2F%2Fspec-india.medium.com%2Freact-19-whats-new-in-react-world-864f70487d20&source=---------0-84----------reactjs------bookmark_preview----a40352f9_db01_4a9b_a108_9eadecdf5ac4-------) 
 
-### Next.js 14: Firebase Config 
+### We had a leak! Identifying and fixing Memory Leaks in Next.js 
 
- This guide provides a clear and straightforward explanation of how to access and configure your Fire... 
+ We recently discovered a server-side memory leak in our production environment and wanted to advice ... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fa87510216f1c&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40jwill617bos%2Fnext-js-14-firebase-config-a87510216f1c&source=---------0-84----------nextjs------bookmark_preview----a5871401_6116_4a5b_a27b_6efb332e4a23-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F622977876697&operation=register&redirect=https%3A%2F%2Fmedium.com%2Fjohn-lewis-software-engineering%2Fwe-had-a-leak-identifying-and-fixing-memory-leaks-in-next-js-622977876697&source=---------0-84----------nextjs------bookmark_preview----967c92e4_67ce_4943_8437_d2e0bd8afa97-------) 
+
+### Meet Devin: The World’s First AI Software Engineer. 
+
+ Tech company Cognition introduces Devin, the world’s first AI software engineer capable of coding, c... 
+
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Ff0c35f221bdd&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40kristiyan.velkov%2Fmeet-devin-the-worlds-first-ai-software-engineer-f0c35f221bdd&source=---------0-84----------front_end_development------bookmark_preview----9ada4d60_c676_4aaa_acd8_9c34017dd118-------) 
 
 ### 인프라, 모델, 서비스 관점에서 생성 AI 시대 돌아보기 
 
