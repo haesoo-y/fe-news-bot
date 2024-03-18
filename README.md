@@ -1,29 +1,29 @@
 # 오늘의 포스팅 
-2024년 3월 17일 9시 기준 
+2024년 3월 18일 9시 기준 
 
-### AI Taking Jobs: A Boon or Bane? A Detailed Take for Tech Enthusiasts 
+### React Project Set Up in Vite— Nothing to Something 
 
- Artificial Intelligence (AI) has been rapidly transforming various industries, and its impact on the... 
+ When we create a new React project, we sometimes struggle to think about how to set up a one-box pro... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Faecb73264d75&operation=register&redirect=https%3A%2F%2Fcoderandcreator.medium.com%2Fai-taking-jobs-a-boon-or-bane-a-detailed-take-for-tech-enthusiasts-aecb73264d75&source=---------0-84----------frontend------bookmark_preview----8ea06677_dbe9_459f_94d8_98136e4cbfd7-------) 
-
-### React 19: What’s New in React World? 
-
- React 19 is on the horizon, bringing a slew of new features and enhancements to the table. From the ... 
-
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F864f70487d20&operation=register&redirect=https%3A%2F%2Fspec-india.medium.com%2Freact-19-whats-new-in-react-world-864f70487d20&source=---------0-84----------reactjs------bookmark_preview----a40352f9_db01_4a9b_a108_9eadecdf5ac4-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F79add6b6677e&operation=register&redirect=https%3A%2F%2Famberfung.medium.com%2Freact-project-set-up-in-vite-nothing-to-something-79add6b6677e&source=---------0-84----------reactjs------bookmark_preview----acd254ee_3faf_4ae6_b80e_b50549be91de-------) 
 
 ### We had a leak! Identifying and fixing Memory Leaks in Next.js 
 
  We recently discovered a server-side memory leak in our production environment and wanted to advice ... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F622977876697&operation=register&redirect=https%3A%2F%2Fmedium.com%2Fjohn-lewis-software-engineering%2Fwe-had-a-leak-identifying-and-fixing-memory-leaks-in-next-js-622977876697&source=---------0-84----------nextjs------bookmark_preview----967c92e4_67ce_4943_8437_d2e0bd8afa97-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F622977876697&operation=register&redirect=https%3A%2F%2Fmedium.com%2Fjohn-lewis-software-engineering%2Fwe-had-a-leak-identifying-and-fixing-memory-leaks-in-next-js-622977876697&source=---------0-84----------nextjs------bookmark_preview----ba813a80_5a2f_47ef_bca8_610cd9888f76-------) 
 
-### Meet Devin: The World’s First AI Software Engineer. 
+### Elevate Your Vue App with Instagram Basic Display API: Fetching Media Posts 
 
- Tech company Cognition introduces Devin, the world’s first AI software engineer capable of coding, c... 
+ In today’s interconnected digital landscape, integrating social media functionalities into web appli... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Ff0c35f221bdd&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40kristiyan.velkov%2Fmeet-devin-the-worlds-first-ai-software-engineer-f0c35f221bdd&source=---------0-84----------front_end_development------bookmark_preview----9ada4d60_c676_4aaa_acd8_9c34017dd118-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fa780cce31846&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40fabian.soosaithasan%2Felevate-your-nuxt-3-app-with-instagram-basic-display-api-fetching-media-posts-a780cce31846&source=---------0-84----------front_end_development------bookmark_preview----c98f7de3_6d9d_413e_b961_039c9e6a9416-------) 
+
+### 5 Irresistible Reasons to use React 
+
+ React is a JavaScript library which allows you to create single page applications very easily & effi... 
+
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F5c7b6cc9aaa8&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40mram41614%2F5-irresistible-reasons-to-use-react-5c7b6cc9aaa8&source=---------0-84----------react------bookmark_preview----7802a8e6_b62f_4bfd_88f1_a34653f55e51-------) 
 
 ### 인프라, 모델, 서비스 관점에서 생성 AI 시대 돌아보기 
 
