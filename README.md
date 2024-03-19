@@ -1,41 +1,41 @@
 # 오늘의 포스팅 
-2024년 3월 18일 9시 기준 
+2024년 3월 19일 9시 기준 
 
-### React Project Set Up in Vite— Nothing to Something 
+### Moving from Next.Js to Jekyll 
 
- When we create a new React project, we sometimes struggle to think about how to set up a one-box pro... 
+ Since other blog posts focus on migrating Jekyll to Next.js, I figured I’d chime in with my experien... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F79add6b6677e&operation=register&redirect=https%3A%2F%2Famberfung.medium.com%2Freact-project-set-up-in-vite-nothing-to-something-79add6b6677e&source=---------0-84----------reactjs------bookmark_preview----acd254ee_3faf_4ae6_b80e_b50549be91de-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fa1427b9c7938&operation=register&redirect=https%3A%2F%2Fedeckers.medium.com%2Fmoving-from-next-js-to-jekyll-a1427b9c7938&source=---------0-84----------nextjs------bookmark_preview----0d7ca1e3_b304_47f9_9044_12e4ec222211-------) 
 
-### We had a leak! Identifying and fixing Memory Leaks in Next.js 
+### Frontend Weekly Digest #354 (11–17 March 2023) 
 
- We recently discovered a server-side memory leak in our production environment and wanted to advice ... 
+ Web-development... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F622977876697&operation=register&redirect=https%3A%2F%2Fmedium.com%2Fjohn-lewis-software-engineering%2Fwe-had-a-leak-identifying-and-fixing-memory-leaks-in-next-js-622977876697&source=---------0-84----------nextjs------bookmark_preview----ba813a80_5a2f_47ef_bca8_610cd9888f76-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F151acacf659f&operation=register&redirect=https%3A%2F%2Ffrontender-ua.medium.com%2Ffrontend-weekly-digest-354-11-17-march-2023-151acacf659f&source=---------0-84----------front_end_development------bookmark_preview----6618a53e_6742_4480_8b1c_7abf026d0028-------) 
 
-### Elevate Your Vue App with Instagram Basic Display API: Fetching Media Posts 
+### Testing Insights for Ant Design Components in React 
 
- In today’s interconnected digital landscape, integrating social media functionalities into web appli... 
+ Let’s dive into the first issue you might face trying to test Ant Design components in React. Even t... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fa780cce31846&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40fabian.soosaithasan%2Felevate-your-nuxt-3-app-with-instagram-basic-display-api-fetching-media-posts-a780cce31846&source=---------0-84----------front_end_development------bookmark_preview----c98f7de3_6d9d_413e_b961_039c9e6a9416-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fa090f217b784&operation=register&redirect=https%3A%2F%2Fmedium.com%2Focta-labs%2Ftesting-insights-for-ant-design-components-in-react-a090f217b784&source=---------0-84----------react------bookmark_preview----5e8dd296_af19_4e8a_a087_684ec8607f25-------) 
 
-### 5 Irresistible Reasons to use React 
+### How I found my first ever bug. 
 
- React is a JavaScript library which allows you to create single page applications very easily & effi... 
+ Vulnerable Google maps API key found in JS files... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F5c7b6cc9aaa8&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40mram41614%2F5-irresistible-reasons-to-use-react-5c7b6cc9aaa8&source=---------0-84----------react------bookmark_preview----7802a8e6_b62f_4bfd_88f1_a34653f55e51-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F89fedb5a9b3c&operation=register&redirect=https%3A%2F%2Fosintteam.blog%2Fhow-i-found-my-first-ever-bug-89fedb5a9b3c&source=---------0-84----------javascript------bookmark_preview----d6788f69_2e83_424a_9cb2_298c6f008cc4-------) 
+
+### 개발자에게 ‘코드 스타일’ 왜 중요할까? 
+
+ 좋은 코드를 작성하기 위해서는 코드 스타일도 신경 써야 합니다. 통일된 스타일로 작성된 코드는 그렇지 않은 코드보다 가독성이 높습니다. 이름, 인덴트 등 대략적인 부분만 보더라도,... 
+
+ [바로가기](https://yozm.wishket.com/magazine/detail/2499/) 
 
 ### 인프라, 모델, 서비스 관점에서 생성 AI 시대 돌아보기 
 
  생성 AI와 관련해 새로운 소식이 매일 쏟아지고 있습니다. 모든 내용을 다 따라잡기 힘들 만큼 빠른 속도인데요. 생성 AI가 우리에게 미치는 영향력으로 본다면, 특정 기준에 따라 ... 
 
  [바로가기](https://yozm.wishket.com/magazine/detail/2497/) 
-
-### 리액트 배칭(Batching)의 모든 것 
-
- 아직까지 많은 리액트 개발자가 오해하고 있는 부분이 있는데요. 바로 자동 배칭의 정확한 개념을 모른다는 점입니다. 이번 글에서는 리액트 ‘배칭(Batching)’에 관한 전반적인 ... 
-
- [바로가기](https://yozm.wishket.com/magazine/detail/2493/) 
 
 ---
 
