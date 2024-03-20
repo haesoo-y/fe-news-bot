@@ -1,29 +1,29 @@
 # 오늘의 포스팅 
-2024년 3월 19일 9시 기준 
+2024년 3월 20일 9시 기준 
 
-### Moving from Next.Js to Jekyll 
+### How to implement “Select all with type” functionality in React 
 
- Since other blog posts focus on migrating Jekyll to Next.js, I figured I’d chime in with my experien... 
+ Or how to detect if the whole subgroup has the same property... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fa1427b9c7938&operation=register&redirect=https%3A%2F%2Fedeckers.medium.com%2Fmoving-from-next-js-to-jekyll-a1427b9c7938&source=---------0-84----------nextjs------bookmark_preview----0d7ca1e3_b304_47f9_9044_12e4ec222211-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fa1ce82a595c5&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40galstan94%2Fhow-to-implement-select-all-with-type-functionality-in-react-a1ce82a595c5&source=---------0-84----------front_end_development------bookmark_preview----2d8a4cfe_38a9_4a09_86e2_fa67ac04652d-------) 
 
-### Frontend Weekly Digest #354 (11–17 March 2023) 
+### How to implement “Select all with type” functionality in React 
 
- Web-development... 
+ Or how to detect if the whole subgroup has the same property... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F151acacf659f&operation=register&redirect=https%3A%2F%2Ffrontender-ua.medium.com%2Ffrontend-weekly-digest-354-11-17-march-2023-151acacf659f&source=---------0-84----------front_end_development------bookmark_preview----6618a53e_6742_4480_8b1c_7abf026d0028-------) 
-
-### Testing Insights for Ant Design Components in React 
-
- Let’s dive into the first issue you might face trying to test Ant Design components in React. Even t... 
-
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fa090f217b784&operation=register&redirect=https%3A%2F%2Fmedium.com%2Focta-labs%2Ftesting-insights-for-ant-design-components-in-react-a090f217b784&source=---------0-84----------react------bookmark_preview----5e8dd296_af19_4e8a_a087_684ec8607f25-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fa1ce82a595c5&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40galstan94%2Fhow-to-implement-select-all-with-type-functionality-in-react-a1ce82a595c5&source=---------0-84----------react------bookmark_preview----5a30fb58_32d3_454b_b0fb_71ebee432142-------) 
 
 ### How I found my first ever bug. 
 
  Vulnerable Google maps API key found in JS files... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F89fedb5a9b3c&operation=register&redirect=https%3A%2F%2Fosintteam.blog%2Fhow-i-found-my-first-ever-bug-89fedb5a9b3c&source=---------0-84----------javascript------bookmark_preview----d6788f69_2e83_424a_9cb2_298c6f008cc4-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F89fedb5a9b3c&operation=register&redirect=https%3A%2F%2Fosintteam.blog%2Fhow-i-found-my-first-ever-bug-89fedb5a9b3c&source=---------0-84----------javascript------bookmark_preview----07f0984e_0c53_4e3d_a57b_b08dc4998ed5-------) 
+
+### Lambda with Node.js + Typescript + SAM Serverless 
+
+ In the ever-evolving digital landscape, the significance of Serverless Architecture and AWS Lambda s... 
+
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Ffddffe3e5f6f&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40rhemanjana%2Flambda-with-node-js-typescript-sam-serverless-fddffe3e5f6f&source=---------0-84----------typescript------bookmark_preview----4103a3c2_ed64_4d21_ba65_06d7828fbc63-------) 
 
 ### 개발자에게 ‘코드 스타일’ 왜 중요할까? 
 
