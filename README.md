@@ -1,41 +1,41 @@
 # 오늘의 포스팅 
-2024년 3월 20일 9시 기준 
+2024년 3월 21일 9시 기준 
 
-### How to implement “Select all with type” functionality in React 
+### Top 10 Tools Every React Developer Needs in 2024 
 
- Or how to detect if the whole subgroup has the same property... 
+ Enhancing efficiency and creativity in the React ecosystem using these highly effective tools... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fa1ce82a595c5&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40galstan94%2Fhow-to-implement-select-all-with-type-functionality-in-react-a1ce82a595c5&source=---------0-84----------front_end_development------bookmark_preview----2d8a4cfe_38a9_4a09_86e2_fa67ac04652d-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fb87631680e10&operation=register&redirect=https%3A%2F%2Fblog.bitsrc.io%2Ftop-10-tools-every-react-developer-needs-in-2024-b87631680e10&source=---------0-84----------react------bookmark_preview----59d8f95f_1978_438c_adba_6ec6de8a3e35-------) 
 
-### How to implement “Select all with type” functionality in React 
+### 22 JavaScript Functions You’ll Use 99% of The Time 💯🔥 
 
- Or how to detect if the whole subgroup has the same property... 
+ The functions that follow are fundamental to web development and javascript programming in general, ... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fa1ce82a595c5&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40galstan94%2Fhow-to-implement-select-all-with-type-functionality-in-react-a1ce82a595c5&source=---------0-84----------react------bookmark_preview----5a30fb58_32d3_454b_b0fb_71ebee432142-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fd18139870f9f&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40safdaralii%2F22-javascript-functions-youll-use-99-of-the-time-d18139870f9f&source=---------0-84----------javascript------bookmark_preview----ccee48a4_170f_4a52_83fd_a3da98c6b60a-------) 
 
-### How I found my first ever bug. 
+### Top 10 Tools Every React Developer Needs in 2024 
 
- Vulnerable Google maps API key found in JS files... 
+ Enhancing efficiency and creativity in the React ecosystem using these highly effective tools... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F89fedb5a9b3c&operation=register&redirect=https%3A%2F%2Fosintteam.blog%2Fhow-i-found-my-first-ever-bug-89fedb5a9b3c&source=---------0-84----------javascript------bookmark_preview----07f0984e_0c53_4e3d_a57b_b08dc4998ed5-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fb87631680e10&operation=register&redirect=https%3A%2F%2Fblog.bitsrc.io%2Ftop-10-tools-every-react-developer-needs-in-2024-b87631680e10&source=---------0-84----------typescript------bookmark_preview----64c62b46_b55c_4ca2_b812_08f0498e1ada-------) 
 
-### Lambda with Node.js + Typescript + SAM Serverless 
+### How can I develop the frontend of our application to match the wireframe provided by the clients… 
 
- In the ever-evolving digital landscape, the significance of Serverless Architecture and AWS Lambda s... 
+ Hello everyone,... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Ffddffe3e5f6f&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40rhemanjana%2Flambda-with-node-js-typescript-sam-serverless-fddffe3e5f6f&source=---------0-84----------typescript------bookmark_preview----4103a3c2_ed64_4d21_ba65_06d7828fbc63-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F078fb41d5724&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40nitinsgavane%2Fhow-can-i-develop-the-frontend-of-our-application-to-match-the-wireframe-provided-by-the-clients-078fb41d5724&source=---------0-84----------frontend------bookmark_preview----e0a03e2c_8dc9_48fc_9840_6e175fb2c052-------) 
 
-### 개발자에게 ‘코드 스타일’ 왜 중요할까? 
+### SSR 환경(Node.js) 메모리 누수 디버깅 가이드 (1) 
 
- 좋은 코드를 작성하기 위해서는 코드 스타일도 신경 써야 합니다. 통일된 스타일로 작성된 코드는 그렇지 않은 코드보다 가독성이 높습니다. 이름, 인덴트 등 대략적인 부분만 보더라도,... 
+ 안녕하세요. 저는 토스 플레이스의 박지혜라고 합니다. 이번 글에서는 Node.js로 실행한 SSR 환경에서 메모리 누수가 있을 때 디버깅하는 방법에 대해서 소개하겠습니다. 여러분은... 
 
- [바로가기](https://yozm.wishket.com/magazine/detail/2499/) 
+ [바로가기](https://yozm.wishket.com/magazine/detail/2504/) 
 
-### 인프라, 모델, 서비스 관점에서 생성 AI 시대 돌아보기 
+### 앱 개발자를 위협하는 10가지 보안 위험과 대응 방법 
 
- 생성 AI와 관련해 새로운 소식이 매일 쏟아지고 있습니다. 모든 내용을 다 따라잡기 힘들 만큼 빠른 속도인데요. 생성 AI가 우리에게 미치는 영향력으로 본다면, 특정 기준에 따라 ... 
+ 모바일 앱 서비스 대부분은 ‘초개인화’에 집중하고 있습니다. 개인화된 제품이나 서비스를 제공해 고객 만족도를 높일 수 있기 때문인데요. 이를 위해서 앱에서는 유저의 은행 정보, 개... 
 
- [바로가기](https://yozm.wishket.com/magazine/detail/2497/) 
+ [바로가기](https://yozm.wishket.com/magazine/detail/2503/) 
 
 ---
 
