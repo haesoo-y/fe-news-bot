@@ -1,29 +1,29 @@
 # 오늘의 포스팅 
-2024년 3월 23일 9시 기준 
+2024년 3월 24일 9시 기준 
 
-### Test-Driven React 2: Find Problems Early, Fix Them Quickly, Code with Confidence 
+### Comparative Analysis of React.js and Vue.js 
 
- by Trevor Burnham... 
+ ReactJs and VueJs are two of the most three popular JavaScript frameworks/libraries including Angula... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fbda0955f3541&operation=register&redirect=https%3A%2F%2Fmedium.com%2Fpragmatic-programmers%2Ftest-driven-react-2-find-problems-early-fix-them-quickly-code-with-confidence-bda0955f3541&source=---------0-84----------typescript------bookmark_preview----a4623019_2a55_4c60_90e9_7aef03fbcbd1-------) 
-
-### Needle StarterKit 2.0: Templates, Chatbot, and More! 
-
- Need help building your application? Whether a modern frontend, cybersecurity application or a RAG C... 
-
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fe0ed9b84ccba&operation=register&redirect=https%3A%2F%2Fmedium.com%2Fneo4j%2Fneedle-starterkit-2-0-templates-chatbot-and-more-e0ed9b84ccba&source=---------0-84----------frontend------bookmark_preview----fcec76ac_7b6a_46ee_8c31_51be6405bdaf-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fbd5f3b45ae04&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40favalcodes%2Fcomparative-analysis-of-react-js-and-vue-js-bd5f3b45ae04&source=---------0-84----------frontend------bookmark_preview----24d2aac8_e62e_4afc_9a99_4ce366ace8ea-------) 
 
 ### 10 Insider Secrets to Ace Your Frontend Interview 
 
  Frontend interviews can get tricky most of the time, especially if you are interviewing for a big te... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F0c12c0e43880&operation=register&redirect=https%3A%2F%2Faniketchanana.medium.com%2F10-insider-secrets-to-ace-your-frontend-interview-0c12c0e43880&source=---------0-84----------reactjs------bookmark_preview----e7e67b51_cc4a_4e0e_8ef3_d3af5039bfd7-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F0c12c0e43880&operation=register&redirect=https%3A%2F%2Faniketchanana.medium.com%2F10-insider-secrets-to-ace-your-frontend-interview-0c12c0e43880&source=---------0-84----------reactjs------bookmark_preview----1094bd26_e76f_4804_9c24_f9fa7501f9d1-------) 
 
 ### Setting up Prettier, ESLint, Husky, and lint-staged with a Next.js and TypeScript project 
 
  Collaborating in a team can present challenges, especially when maintaining a cohesive codebase. To ... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F75d1a804e1fd&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40vaibhavsinha619%2Fsetting-up-prettier-eslint-husky-and-lint-staged-with-a-next-js-and-typescript-project-75d1a804e1fd&source=---------0-84----------nextjs------bookmark_preview----ffcf22d7_9143_4a28_961a_763a70ac0ff7-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F75d1a804e1fd&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40vaibhavsinha619%2Fsetting-up-prettier-eslint-husky-and-lint-staged-with-a-next-js-and-typescript-project-75d1a804e1fd&source=---------0-84----------nextjs------bookmark_preview----ab05c7cf_d0d2_44c2_a003_e7deec1fe92f-------) 
+
+### 10 Insider Secrets to Ace Your Frontend Interview 
+
+ Frontend interviews can get tricky most of the time, especially if you are interviewing for a big te... 
+
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F0c12c0e43880&operation=register&redirect=https%3A%2F%2Faniketchanana.medium.com%2F10-insider-secrets-to-ace-your-frontend-interview-0c12c0e43880&source=---------0-84----------front_end_development------bookmark_preview----1308f750_0153_4478_95d3_beb6c6e27209-------) 
 
 ### 미국에서 1인 개발자로 홀로서기: 최희철 프리랜서 개발자 
 
