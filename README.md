@@ -1,41 +1,41 @@
 # 오늘의 포스팅 
-2024년 3월 27일 9시 기준 
-
-### Angular HostAttributeToken: the new way to inject attributes 
-
- Angular new HostAttributeToken API allows you to inject host attributes using the inject function, s... 
-
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F1643cfad8b57&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40davidepassafaro%2Fangular-hostattributetoken-the-new-way-to-inject-attributes-1643cfad8b57&source=---------0-84----------front_end_development------bookmark_preview----3f3ef868_3b34_4910_a75e_5e8451703561-------) 
+2024년 3월 28일 9시 기준 
 
 ### var vs. let: The Unknown Difference 
 
  Most simple question people ask at the start of an interview from a junior dev and in some cases of ... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F228c63f57c57&operation=register&redirect=https%3A%2F%2Fjavascript.plainenglish.io%2Fvar-vs-let-the-unknown-difference-228c63f57c57&source=---------0-84----------react------bookmark_preview----881389c3_b2c6_4539_9e0a_889d7f5e6734-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F228c63f57c57&operation=register&redirect=https%3A%2F%2Fjavascript.plainenglish.io%2Fvar-vs-let-the-unknown-difference-228c63f57c57&source=---------0-84----------react------bookmark_preview----b7da1823_3190_49ae_b1e2_dc6c5dd231e7-------) 
 
-### var vs. let: The Unknown Difference 
+### Migrating Remix to Vite 
 
- Most simple question people ask at the start of an interview from a junior dev and in some cases of ... 
+ Challenges, learnings, and scripts — still not done yet 😰... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F228c63f57c57&operation=register&redirect=https%3A%2F%2Fjavascript.plainenglish.io%2Fvar-vs-let-the-unknown-difference-228c63f57c57&source=---------0-84----------javascript------bookmark_preview----264e7d27_d195_4ea9_84b5_1b92f92ea26c-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F0fc96c183f2d&operation=register&redirect=https%3A%2F%2Ffernandoabolafio.medium.com%2Fmigrating-remix-to-vite-0fc96c183f2d&source=---------0-84----------javascript------bookmark_preview----8ed0d997_5cc1_4827_b24f_379555325e81-------) 
 
-### Why I left object-oriented programming in full-stack TypeScript 
+### TypeScript PickPaths: enhance type safety in data mappings 
 
- And what I use as an alternative…... 
+ Enhanced typescript Pick type to pick multiple paths (and nested paths) from an interface using dot ... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F4eedc8922ba4&operation=register&redirect=https%3A%2F%2Flevelup.gitconnected.com%2Fwhy-i-left-object-oriented-programming-in-full-stack-typescript-4eedc8922ba4&source=---------0-84----------typescript------bookmark_preview----6a5cc208_4c2a_4ec4_b3e1_e63192e33fdb-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fd1be7efe1445&operation=register&redirect=https%3A%2F%2Fmedium.com%2Fsoftonic-eng%2Ftypescript-pickpaths-enhance-type-safety-in-data-mappings-d1be7efe1445&source=---------0-84----------typescript------bookmark_preview----14889fdb_2b4e_4363_a40b_d223d6611664-------) 
 
-### Vue+express에서 Next.js로, '숨고'의 마이그레이션 (2) 
+### ⭐️ Angular Space Writer Mentorship Program 
 
- 숨고에서 기술 부채 해결, 팀의 생산성을 개선하는 업무를 맡고 있는 프론트엔드 엔지니어 정지만입니다. 이 글에서는 서비스의 프레임워크를 Vue에서 Next로 전환한 경험을 공유하고... 
+ I’m thrilled to announce the Angular Space Writer Mentorship Program!... 
 
- [바로가기](https://yozm.wishket.com/magazine/detail/2512/) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fdc41d565e937&operation=register&redirect=https%3A%2F%2Fitnext.io%2F%25EF%25B8%258F-angular-space-writer-mentorship-program-dc41d565e937&source=---------0-84----------frontend------bookmark_preview----0f4fa790_a7bc_46c2_9f04_e4145f8708e4-------) 
 
-### Vue+express에서 Next.js로, '숨고'의 마이그레이션 (1) 
+### 로컬 LLM에서 K8sGPT로 쿠버네티스 AIOps 실행하기 (2) 
 
- 숨고에서 기술 부채 해결, 팀의 생산성을 개선하는 업무를 맡고 있는 프론트엔드 엔지니어 정지만입니다. 이 글에서는 서비스의 프레임워크를 Vue에서 Next로 전환한 경험을 공유하고... 
+ 앞서 K8sGPT를 통한 쿠버네티스 AIOps의 가능성 1부에서는 K8sGPT에서 지난 1년간 보여준 변화를 소개했습니다. 이번 글에서는 공개된 AI 제공자를 사용하는 게 아닌 ‘... 
 
- [바로가기](https://yozm.wishket.com/magazine/detail/2511/) 
+ [바로가기](https://yozm.wishket.com/magazine/detail/2516/) 
+
+### 로컬 LLM에서 K8sGPT로 쿠버네티스 AIOps 실행하기 (1) 
+
+ 쿠버네티스는 계속 고도화되고 있어서 이를 분석하고 조치하는 것은 다양한 기반 지식을 필요로 합니다. 작년에 이어 올해도 인기 있는 인공지능(AI, Artificial Intelli... 
+
+ [바로가기](https://yozm.wishket.com/magazine/detail/2515/) 
 
 ---
 
