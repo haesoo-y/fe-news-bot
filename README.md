@@ -1,11 +1,17 @@
 # 오늘의 포스팅 
-2024년 3월 31일 9시 기준 
+2024년 4월 1일 9시 기준 
 
-### How to find a job as a Junior Developer on LinkedIn? 
+### Virtualize your list in React, Part 1 
 
- Greetings everyone. If you’re reading my article for the first time, I’m Selim Enes. As a Frontend D... 
+ Introduction... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fe618e6443da8&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40sellimenes%2Fhow-to-find-a-job-as-a-junior-developer-on-linkedin-e618e6443da8&source=---------0-84----------frontend------bookmark_preview----bbc459cc_00ac_4105_b1d6_329e1d9e75b6-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fd31e88ae6941&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40awekening_bro%2Fvirtualize-your-list-in-react-part-1-d31e88ae6941&source=---------0-84----------reactjs------bookmark_preview----383c0125_190e_47dc_9213_a59f06cd0aaa-------) 
+
+### Implement Ant design in Next.js 
+
+ Next.js is a popular React framework for building full-stack web applications. You use React Compone... 
+
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F2764e4b81293&operation=register&redirect=https%3A%2F%2Fsudipstha08.medium.com%2Fimplement-ant-design-with-next-js-2764e4b81293&source=---------0-84----------nextjs------bookmark_preview----ae237ef8_6ed7_47ac_a457_09a79a84a4e0-------) 
 
 ### 영향력 있는 개발자 되기: ‘테오의 프론트엔드’ 유용태 개발자 
 
