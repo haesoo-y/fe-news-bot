@@ -1,17 +1,29 @@
 # 오늘의 포스팅 
-2024년 4월 1일 9시 기준 
+2024년 4월 2일 9시 기준 
 
-### Virtualize your list in React, Part 1 
+### Przelewy24 (P24) integration with Next.js (App Router) — no library in use. 
 
- Introduction... 
+ Creating a Przelewy24 payment request without relying on external payment libraries is an intriguing... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fd31e88ae6941&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40awekening_bro%2Fvirtualize-your-list-in-react-part-1-d31e88ae6941&source=---------0-84----------reactjs------bookmark_preview----383c0125_190e_47dc_9213_a59f06cd0aaa-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F89557c3aa4fc&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40pether.maciejewski%2Fprzelewy24-p24-integration-with-next-js-app-router-no-library-in-use-89557c3aa4fc&source=---------0-84----------nextjs------bookmark_preview----3be209b3_b236_4f15_a2fc_5ff3657586f1-------) 
 
-### Implement Ant design in Next.js 
+### Frontend Weekly Digest #356 (25–31 March 2023) 
 
- Next.js is a popular React framework for building full-stack web applications. You use React Compone... 
+ Web-development... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F2764e4b81293&operation=register&redirect=https%3A%2F%2Fsudipstha08.medium.com%2Fimplement-ant-design-with-next-js-2764e4b81293&source=---------0-84----------nextjs------bookmark_preview----ae237ef8_6ed7_47ac_a457_09a79a84a4e0-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F63a4a82656a5&operation=register&redirect=https%3A%2F%2Ffrontender-ua.medium.com%2Ffrontend-weekly-digest-356-25-31-march-2023-63a4a82656a5&source=---------0-84----------front_end_development------bookmark_preview----ed2902b2_d90e_4471_939c_f4fcdfb56b53-------) 
+
+### Why React? Understanding the Advantages Over Traditional HTML, CSS, and JavaScript 
+
+ ... 
+
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F096a830dd230&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40nagamanikanta2015%2Fwhy-react-understanding-the-advantages-over-traditional-html-css-and-javascript-096a830dd230&source=---------0-84----------react------bookmark_preview----c964ae26_7a95_4d30_8e57_0a2ef0d0c4d4-------) 
+
+### Angular and Wiz Are Better Together 
+
+ Authors: Jatin Ramanathan, Minko Gechev... 
+
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F91e633d8cd5a&operation=register&redirect=https%3A%2F%2Fblog.angular.io%2Fangular-and-wiz-are-better-together-91e633d8cd5a&source=---------0-84----------javascript------bookmark_preview----7153557b_3a4f_4374_b790_172f289ab31b-------) 
 
 ### 영향력 있는 개발자 되기: ‘테오의 프론트엔드’ 유용태 개발자 
 
