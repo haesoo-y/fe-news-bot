@@ -1,29 +1,29 @@
 # 오늘의 포스팅 
-2024년 4월 6일 9시 기준 
+2024년 4월 7일 9시 기준 
 
-### New control flow in Angular 17 🎉 
+### React — Tailwind CSS Is Not Working In Vite + React Solution (2024 updated) 
 
- Angular 17 introduced a new built-in control flow syntax for managing the flow of your application’s... 
+ Sometimes Tailwind is not working and cannot be applied to your project when your pre-installation i... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F5fe4407e96ff&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40sniadek97%2Fnew-control-flow-in-angular-17-5fe4407e96ff&source=---------0-84----------typescript------bookmark_preview----1e6d82ef_9607_46ca_a297_05689f4cffa6-------) 
-
-### Streamline Your Development Workflow: Setting Up Pre-Commit Hooks for Linting and Formatting in… 
-
- Are you tired of dealing with messy code, inconsistent formatting, and tedious manual checks in your... 
-
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fab871ab7c326&operation=register&redirect=https%3A%2F%2Fblogs.chandanchoudhury.in%2Fstreamlining-reactjs-with-pre-commit-hooks-ab871ab7c326&source=---------0-84----------frontend------bookmark_preview----24e264c9_02de_456a_a619_34c0a7255f0b-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fbba56dcae003&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40rubybellekim%2Freact-tailwind-css-is-not-working-in-vite-react-solution-2024-updated-bba56dcae003&source=---------0-84----------frontend------bookmark_preview----ba313ebc_9950_4656_84db_d526bb9743c1-------) 
 
 ### New Flow Language Features for React 
 
  Write Safer and more Succinct React with Flow... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fb6c5285660d0&operation=register&redirect=https%3A%2F%2Fmedium.com%2Fflow-type%2Fannouncing-component-syntax-b6c5285660d0&source=---------0-84----------reactjs------bookmark_preview----03491ad4_a5db_405e_b60b_5375a261b628-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fb6c5285660d0&operation=register&redirect=https%3A%2F%2Fmedium.com%2Fflow-type%2Fannouncing-component-syntax-b6c5285660d0&source=---------0-84----------reactjs------bookmark_preview----2f321736_118c_42af_ae3a_9a1c241773bf-------) 
 
-### What is a user agent, and how to use the user agent API in Nextjs? 
+### Vercel Just Changed its Pricing —How Does it Compare? 
 
- Understand user agents with an example.... 
+ The popular NextJS frontend infrastructure service has historically been criticized for its high cos... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F7eae0797b493&operation=register&redirect=https%3A%2F%2Fmedium.com%2Ffrontendweb%2Fwhat-is-a-user-agent-and-how-to-use-the-user-agent-api-in-nextjs-7eae0797b493&source=---------0-84----------nextjs------bookmark_preview----78228db4_fb3d_44c9_a4fc_3cc91d701b66-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F195adab23b3c&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40mitchellkossoris%2Fvercel-just-changed-its-pricing-how-does-it-compare-195adab23b3c&source=---------0-84----------nextjs------bookmark_preview----008b3df0_615b_403f_85ec_bef12f32cf6f-------) 
+
+### 20 Must-Have VSCode Extensions for Web Development In 2024 
+
+ Installing these powerful vscode extensions will greatly improve your productivity... 
+
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F8f4abb26d27e&operation=register&redirect=https%3A%2F%2Fjavascript.plainenglish.io%2F20-must-have-vscode-extensions-for-web-development-in-2024-8f4abb26d27e&source=---------0-84----------front_end_development------bookmark_preview----48fd7619_f3e1_4620_bd67_9614db2d6a73-------) 
 
 ### 마케터도 쉽게 이해하는 ‘클린 아키텍처’ 
 
