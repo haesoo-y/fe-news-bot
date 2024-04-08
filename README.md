@@ -1,29 +1,29 @@
 # 오늘의 포스팅 
-2024년 4월 7일 9시 기준 
-
-### React — Tailwind CSS Is Not Working In Vite + React Solution (2024 updated) 
-
- Sometimes Tailwind is not working and cannot be applied to your project when your pre-installation i... 
-
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fbba56dcae003&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40rubybellekim%2Freact-tailwind-css-is-not-working-in-vite-react-solution-2024-updated-bba56dcae003&source=---------0-84----------frontend------bookmark_preview----ba313ebc_9950_4656_84db_d526bb9743c1-------) 
+2024년 4월 8일 9시 기준 
 
 ### New Flow Language Features for React 
 
  Write Safer and more Succinct React with Flow... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fb6c5285660d0&operation=register&redirect=https%3A%2F%2Fmedium.com%2Fflow-type%2Fannouncing-component-syntax-b6c5285660d0&source=---------0-84----------reactjs------bookmark_preview----2f321736_118c_42af_ae3a_9a1c241773bf-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fb6c5285660d0&operation=register&redirect=https%3A%2F%2Fmedium.com%2Fflow-type%2Fannouncing-component-syntax-b6c5285660d0&source=---------0-84----------reactjs------bookmark_preview----7e074d34_be4c_473d_9c06_a8baae106e9d-------) 
 
-### Vercel Just Changed its Pricing —How Does it Compare? 
+### Host a Next.js Website on Vercel with a Custom Domain 
 
- The popular NextJS frontend infrastructure service has historically been criticized for its high cos... 
+ Introduction... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F195adab23b3c&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40mitchellkossoris%2Fvercel-just-changed-its-pricing-how-does-it-compare-195adab23b3c&source=---------0-84----------nextjs------bookmark_preview----008b3df0_615b_403f_85ec_bef12f32cf6f-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F0398ed23b73f&operation=register&redirect=https%3A%2F%2Fps-dev.medium.com%2Fhost-a-next-js-website-on-vercel-with-a-custom-domain-0398ed23b73f&source=---------0-84----------nextjs------bookmark_preview----f2ac3f26_6aed_4f2f_8346_661ec5d902d7-------) 
 
-### 20 Must-Have VSCode Extensions for Web Development In 2024 
+### React Fundamentals part 9: useState 
 
- Installing these powerful vscode extensions will greatly improve your productivity... 
+ The all-mighty state... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F8f4abb26d27e&operation=register&redirect=https%3A%2F%2Fjavascript.plainenglish.io%2F20-must-have-vscode-extensions-for-web-development-in-2024-8f4abb26d27e&source=---------0-84----------front_end_development------bookmark_preview----48fd7619_f3e1_4620_bd67_9614db2d6a73-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fc1f82c3509f7&operation=register&redirect=https%3A%2F%2Fbits-of-code.medium.com%2Freact-fundamentals-part-8-usestate-c1f82c3509f7&source=---------0-84----------front_end_development------bookmark_preview----61cd275a_432f_4131_8e02_3c25362ee682-------) 
+
+### React Fundamentals part 9: useState 
+
+ The all-mighty state... 
+
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fc1f82c3509f7&operation=register&redirect=https%3A%2F%2Fbits-of-code.medium.com%2Freact-fundamentals-part-8-usestate-c1f82c3509f7&source=---------0-84----------react------bookmark_preview----fbf91ed1_0816_4316_909a_ca5dc49e7a71-------) 
 
 ### 마케터도 쉽게 이해하는 ‘클린 아키텍처’ 
 
