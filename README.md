@@ -1,29 +1,29 @@
 # 오늘의 포스팅 
-2024년 4월 8일 9시 기준 
+2024년 4월 9일 9시 기준 
 
-### New Flow Language Features for React 
+### Introducing Declarative Routing for NextJS and React-Router 
 
- Write Safer and more Succinct React with Flow... 
+ In January 2024 the folks over at Flightcontrol wrote up a post on how they do routing for their Nex... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fb6c5285660d0&operation=register&redirect=https%3A%2F%2Fmedium.com%2Fflow-type%2Fannouncing-component-syntax-b6c5285660d0&source=---------0-84----------reactjs------bookmark_preview----7e074d34_be4c_473d_9c06_a8baae106e9d-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fdbf34edc7542&operation=register&redirect=https%3A%2F%2Fjherr2020.medium.com%2Fintroducing-declarative-routing-for-nextjs-and-react-router-dbf34edc7542&source=---------0-84----------nextjs------bookmark_preview----a6bf2095_d917_4f52_956b_aee1a67725eb-------) 
 
-### Host a Next.js Website on Vercel with a Custom Domain 
+### Frontend Weekly Digest #357 (1–7 April 2023) 
 
- Introduction... 
+ Web-development... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F0398ed23b73f&operation=register&redirect=https%3A%2F%2Fps-dev.medium.com%2Fhost-a-next-js-website-on-vercel-with-a-custom-domain-0398ed23b73f&source=---------0-84----------nextjs------bookmark_preview----f2ac3f26_6aed_4f2f_8346_661ec5d902d7-------) 
-
-### React Fundamentals part 9: useState 
-
- The all-mighty state... 
-
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fc1f82c3509f7&operation=register&redirect=https%3A%2F%2Fbits-of-code.medium.com%2Freact-fundamentals-part-8-usestate-c1f82c3509f7&source=---------0-84----------front_end_development------bookmark_preview----61cd275a_432f_4131_8e02_3c25362ee682-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F14ac54277cf2&operation=register&redirect=https%3A%2F%2Ffrontender-ua.medium.com%2Ffrontend-weekly-digest-357-1-7-april-2023-14ac54277cf2&source=---------0-84----------front_end_development------bookmark_preview----06500779_d01a_4a6f_928f_57def03f3fb0-------) 
 
 ### React Fundamentals part 9: useState 
 
  The all-mighty state... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fc1f82c3509f7&operation=register&redirect=https%3A%2F%2Fbits-of-code.medium.com%2Freact-fundamentals-part-8-usestate-c1f82c3509f7&source=---------0-84----------react------bookmark_preview----fbf91ed1_0816_4316_909a_ca5dc49e7a71-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fc1f82c3509f7&operation=register&redirect=https%3A%2F%2Fbits-of-code.medium.com%2Freact-fundamentals-part-8-usestate-c1f82c3509f7&source=---------0-84----------react------bookmark_preview----f3da3482_4b02_4721_96c6_d03e1abfa085-------) 
+
+### Frontend Weekly Digest #357 (1–7 April 2023) 
+
+ Web-development... 
+
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F14ac54277cf2&operation=register&redirect=https%3A%2F%2Ffrontender-ua.medium.com%2Ffrontend-weekly-digest-357-1-7-april-2023-14ac54277cf2&source=---------0-84----------javascript------bookmark_preview----d1aa140b_83cc_4fc8_ae83_51e9fb5f75c5-------) 
 
 ### 마케터도 쉽게 이해하는 ‘클린 아키텍처’ 
 
