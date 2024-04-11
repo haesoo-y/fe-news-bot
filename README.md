@@ -1,41 +1,41 @@
 # 오늘의 포스팅 
-2024년 4월 10일 9시 기준 
-
-### Practical Vue.js Interview Questions 
-
- Practical questions for the technical interview for a middle Vue.js developer, responsible for devel... 
-
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F2252b7050b9d&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40leonidshvab1996%2Fpractical-vue-js-interview-questions-2252b7050b9d&source=---------0-84----------front_end_development------bookmark_preview----e5f4d8f4_ba34_4bab_afd0_82b6a19f868e-------) 
+2024년 4월 11일 9시 기준 
 
 ### Introducing Declarative Routing for NextJS and React-Router 
 
  In January 2024 the folks over at Flightcontrol wrote up a post on how they do routing for their Nex... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fdbf34edc7542&operation=register&redirect=https%3A%2F%2Fjherr2020.medium.com%2Fintroducing-declarative-routing-for-nextjs-and-react-router-dbf34edc7542&source=---------0-84----------react------bookmark_preview----b27df205_6350_4074_9eab_27ff81d77512-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fdbf34edc7542&operation=register&redirect=https%3A%2F%2Fjherr2020.medium.com%2Fintroducing-declarative-routing-for-nextjs-and-react-router-dbf34edc7542&source=---------0-84----------react------bookmark_preview----6b22c725_3c1b_4a8c_9fee_1a22aed1d787-------) 
 
-### Frontend Weekly Digest #357 (1–7 April 2023) 
+### js13kGames Challenge in Gamedev.js Jam 2024! 
 
- Web-development... 
+ We will be having a dedicated js13kGames Challenge in the upcoming edition of Gamedev.js Jam 2024 th... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F14ac54277cf2&operation=register&redirect=https%3A%2F%2Ffrontender-ua.medium.com%2Ffrontend-weekly-digest-357-1-7-april-2023-14ac54277cf2&source=---------0-84----------javascript------bookmark_preview----1c493e15_6ab7_427f_a5a1_bf62274afb63-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F8e7493e79e13&operation=register&redirect=https%3A%2F%2Fmedium.com%2Fjs13kgames%2Fjs13kgames-challenge-in-gamedev-js-jam-2024-8e7493e79e13&source=---------0-84----------javascript------bookmark_preview----a0bde9a2_cd05_4f17_b9b3_5464b85bfbd4-------) 
 
-### Building FullStack E-Commerce App Using SpringBoot & React 
+### Handling In-App Updates Using SP-React-Native-In-App-Updates Library 
 
- GitHub:- https://github.com/rahulsahay19/Java-React-FullStack... 
+ In our Mobile App Development journey, we sometimes come across a need to implement Play Store relea... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fb52d42ecdaa7&operation=register&redirect=https%3A%2F%2Fblog.stackademic.com%2Fbuilding-fullstack-e-commerce-app-using-springboot-react-b52d42ecdaa7&source=---------0-84----------typescript------bookmark_preview----9e8e86bb_8979_481c_8a93_a37a673b25e2-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F06c50a042757&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40abroldevansh1503%2Fhandling-in-app-updates-using-sp-react-native-in-app-updates-library-06c50a042757&source=---------0-84----------typescript------bookmark_preview----b20c2d70_59b7_41b7_a993_1c6da6de76de-------) 
+
+### Breaking Down Monoliths: The Rise of MicroFrontends in Modern Development 
+
+ What is microservices... 
+
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F53473de86626&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40kamkashi448%2Fbreaking-down-monoliths-the-rise-of-microfrontends-in-modern-development-53473de86626&source=---------0-84----------frontend------bookmark_preview----f52ac95a_4d04_4436_b14a_e839a3539a98-------) 
+
+### 크로스 플랫폼 디자인 시스템, 1.5년의 기록 (1) 
+
+ 안녕하세요. 저는 당근에서 디자인 시스템을 만들고 운영하고 있는 하태영입니다. 이번 글에서는 제가 1년 반 동안 디자인 시스템을 만들며 시도했던 다양한 접근 방법과 그 과정에서 함... 
+
+ [바로가기](https://yozm.wishket.com/magazine/detail/2537/) 
 
 ### 파이썬 애플리케이션 배포하기: pipx 편 
 
  파이썬으로 만들어진 프로그램을 배포할 때는 항상 파이썬 가상 환경을 사용했습니다. pipx가 사용되는 것은 여러 웹 사이트나 문서에서 많이 봐왔지만, 처음엔 ‘늘 사용하던 파이썬 ... 
 
  [바로가기](https://yozm.wishket.com/magazine/detail/2536/) 
-
-### 마케터도 쉽게 이해하는 ‘클린 아키텍처’ 
-
- 알라미는 유저들의 다양한 니즈를 충족할 수 있도록 알람 소리를 여러 방법으로 커스텀할 수 있는 기능들을 제공하고 있습니다. 저는 최근 안드로이드 알라미 앱에 인플루언서 벨소리 기능... 
-
- [바로가기](https://yozm.wishket.com/magazine/detail/2532/) 
 
 ---
 
