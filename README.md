@@ -1,41 +1,41 @@
 # 오늘의 포스팅 
-2024년 4월 11일 9시 기준 
+2024년 4월 12일 9시 기준 
 
-### Introducing Declarative Routing for NextJS and React-Router 
+### Javascript Event Loop 
 
- In January 2024 the folks over at Flightcontrol wrote up a post on how they do routing for their Nex... 
+ Event loop has always been one of the interesting topics to learn in Javascript. With other language... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fdbf34edc7542&operation=register&redirect=https%3A%2F%2Fjherr2020.medium.com%2Fintroducing-declarative-routing-for-nextjs-and-react-router-dbf34edc7542&source=---------0-84----------react------bookmark_preview----6b22c725_3c1b_4a8c_9fee_1a22aed1d787-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F3cfd9a9dd06f&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40arp55%2Fjavascript-event-loop-3cfd9a9dd06f&source=---------0-84----------javascript------bookmark_preview----451c54de_8461_45e7_9fd9_fb94fd54b8bf-------) 
 
-### js13kGames Challenge in Gamedev.js Jam 2024! 
+### Handling API Feedback like a PRO — The React Higher-Order Component 
 
- We will be having a dedicated js13kGames Challenge in the upcoming edition of Gamedev.js Jam 2024 th... 
+ In the development of modern applications, consuming data from external services via APIs is a commo... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F8e7493e79e13&operation=register&redirect=https%3A%2F%2Fmedium.com%2Fjs13kgames%2Fjs13kgames-challenge-in-gamedev-js-jam-2024-8e7493e79e13&source=---------0-84----------javascript------bookmark_preview----a0bde9a2_cd05_4f17_b9b3_5464b85bfbd4-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F6de4c7b690a5&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40ymmhydfct%2Fhandling-api-feedback-like-a-pro-the-react-higher-order-component-6de4c7b690a5&source=---------0-84----------typescript------bookmark_preview----3dd04f7a_1a07_4fd3_b73f_af49a84f5d12-------) 
 
-### Handling In-App Updates Using SP-React-Native-In-App-Updates Library 
+### Frontend Development Beyond React: Svelte (1/3) 
 
- In our Mobile App Development journey, we sometimes come across a need to implement Play Store relea... 
+ Delving into Svelte, Solid, and Qwik... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F06c50a042757&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40abroldevansh1503%2Fhandling-in-app-updates-using-sp-react-native-in-app-updates-library-06c50a042757&source=---------0-84----------typescript------bookmark_preview----b20c2d70_59b7_41b7_a993_1c6da6de76de-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Ff47eda22cba5&operation=register&redirect=https%3A%2F%2Fitnext.io%2Ffrontend-development-beyond-react-svelte-1-3-f47eda22cba5&source=---------0-84----------frontend------bookmark_preview----c8e794fd_3a2b_4757_ae8a_0c130a08fe34-------) 
 
-### Breaking Down Monoliths: The Rise of MicroFrontends in Modern Development 
+### A Deep Dive into Micro Frontend Architecture with React.js 
 
- What is microservices... 
+ Discover the power of Micro Frontend Architecture in React.js! Learn how to build modular and scalab... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F53473de86626&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40kamkashi448%2Fbreaking-down-monoliths-the-rise-of-microfrontends-in-modern-development-53473de86626&source=---------0-84----------frontend------bookmark_preview----f52ac95a_4d04_4436_b14a_e839a3539a98-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F264ca6edca6b&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40isuruariyarathna2k00%2Fa-deep-dive-into-micro-frontend-architecture-with-react-js-264ca6edca6b&source=---------0-84----------reactjs------bookmark_preview----69423408_9502_4412_aecd_6662b146b79d-------) 
 
-### 크로스 플랫폼 디자인 시스템, 1.5년의 기록 (1) 
+### 어제보다 1cm 더 성장하기: 네이버 권태관 개발자 
 
- 안녕하세요. 저는 당근에서 디자인 시스템을 만들고 운영하고 있는 하태영입니다. 이번 글에서는 제가 1년 반 동안 디자인 시스템을 만들며 시도했던 다양한 접근 방법과 그 과정에서 함... 
+ 이번에 소개할 개발자는 백엔드 분야에서 활동하며, 한 회사에서 올해 만 10년 차를 맞이한 인물입니다. 현재 네이버쇼핑에서 ‘패션타운’ 서비스를 개발하고 있는 권태관 개발자가 그 ... 
 
- [바로가기](https://yozm.wishket.com/magazine/detail/2537/) 
+ [바로가기](https://yozm.wishket.com/magazine/detail/2539/) 
 
-### 파이썬 애플리케이션 배포하기: pipx 편 
+### 크로스 플랫폼 디자인 시스템, 1.5년의 기록 (2) 
 
- 파이썬으로 만들어진 프로그램을 배포할 때는 항상 파이썬 가상 환경을 사용했습니다. pipx가 사용되는 것은 여러 웹 사이트나 문서에서 많이 봐왔지만, 처음엔 ‘늘 사용하던 파이썬 ... 
+ 이번 글에서는 앞서 발행된 ‘크로스 플랫폼 디자인 시스템, 1.5년의 기록(1)’에서 살펴본 정의를 실제 컴포넌트 구현에 어떻게 적용할 수 있는지 알아보겠습니다. 우선 차크라와 스... 
 
- [바로가기](https://yozm.wishket.com/magazine/detail/2536/) 
+ [바로가기](https://yozm.wishket.com/magazine/detail/2538/) 
 
 ---
 
