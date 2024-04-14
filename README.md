@@ -1,29 +1,29 @@
 # 오늘의 포스팅 
-2024년 4월 13일 9시 기준 
-
-### Token to Tooling: Generating VS Code Snippets from Design Tokens 
-
- How to transform design tokens into useful VS Code snippets for faster, error-free coding... 
-
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fc66fb80ae1ae&operation=register&redirect=https%3A%2F%2Fblog.bitsrc.io%2Ftoken-to-tooling-generating-vs-code-snippets-from-design-tokens-c66fb80ae1ae&source=---------0-84----------typescript------bookmark_preview----8449bdc0_3ee3_4c40_b4d1_d09c3559d1f8-------) 
+2024년 4월 14일 9시 기준 
 
 ### Frontend Development Beyond React: Svelte (1/3) 
 
  Delving into Svelte, Solid, and Qwik... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Ff47eda22cba5&operation=register&redirect=https%3A%2F%2Fitnext.io%2Ffrontend-development-beyond-react-svelte-1-3-f47eda22cba5&source=---------0-84----------frontend------bookmark_preview----835410b1_d266_4718_81ad_d2d9a0079403-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Ff47eda22cba5&operation=register&redirect=https%3A%2F%2Fitnext.io%2Ffrontend-development-beyond-react-svelte-1-3-f47eda22cba5&source=---------0-84----------frontend------bookmark_preview----28bd6c42_494c_455e_9c69_69b475a7111a-------) 
 
-### Introducing Declarative Routing for NextJS and React-Router 
+### Traffic Lights — Machine Coding Problem asked in Frontend interviews 
 
- In January 2024 the folks over at Flightcontrol wrote up a post on how they do routing for their Nex... 
+ Expectations: Need to code it in React within 30–40 mins.... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fdbf34edc7542&operation=register&redirect=https%3A%2F%2Fjavascript.plainenglish.io%2Fintroducing-declarative-routing-for-nextjs-and-react-router-dbf34edc7542&source=---------0-84----------reactjs------bookmark_preview----ea90c428_8809_47c2_ad4d_f3a12bc818db-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F0789cf42c08e&operation=register&redirect=https%3A%2F%2Fmedium.com%2Fwomenintechnology%2Ftraffic-lights-machine-coding-problem-asked-in-frontend-interviews-0789cf42c08e&source=---------0-84----------reactjs------bookmark_preview----80cb9492_fe72_4cbd_b8a8_83f8b5abd776-------) 
 
 ### XSS bug in next.js router.push function! 
 
  In the final hours of my workday, our security team leader, Nader, brought to my attention an XSS (C... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F53e450d5a910&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40mobinyardim%2Fxss-bug-in-next-js-router-push-function-53e450d5a910&source=---------0-84----------nextjs------bookmark_preview----534fad04_2d85_4ef1_8483_422afb29879a-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F53e450d5a910&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40mobinyardim%2Fxss-bug-in-next-js-router-push-function-53e450d5a910&source=---------0-84----------nextjs------bookmark_preview----4067f423_e64b_4a81_a628_1110c4be98e6-------) 
+
+### Review for Akshay Saini’s “Namaste React” Video Series 
+
+ taken from https://namastedev.com/... 
+
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F340d1f97a73c&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40arunk.pattanayak%2Freview-forakshay-sainis-namaste-react-video-series-340d1f97a73c&source=---------0-84----------front_end_development------bookmark_preview----04774282_7799_4592_95f3_4b1d740c2583-------) 
 
 ### ‘오브젝트 스토리지’는 어떻게 활용할까? 
 
