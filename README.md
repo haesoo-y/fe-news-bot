@@ -1,29 +1,29 @@
 # 오늘의 포스팅 
-2024년 4월 14일 9시 기준 
+2024년 4월 15일 12시 기준 
 
-### Frontend Development Beyond React: Svelte (1/3) 
+### XSS attacks in React apps and how to prevent them. 
 
- Delving into Svelte, Solid, and Qwik... 
+ Hey there, fellow tech enthusiasts! Today, we’re diving into a topic that might send a chill down yo... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Ff47eda22cba5&operation=register&redirect=https%3A%2F%2Fitnext.io%2Ffrontend-development-beyond-react-svelte-1-3-f47eda22cba5&source=---------0-84----------frontend------bookmark_preview----28bd6c42_494c_455e_9c69_69b475a7111a-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fcfafd2369dc5&operation=register&redirect=https%3A%2F%2Fabhishek-gangwar.medium.com%2Fxss-attacks-in-react-apps-and-how-to-prevent-them-cfafd2369dc5&source=---------0-84----------reactjs------bookmark_preview----3767acad_2e2e_4e40_910f_14715fe431f2-------) 
 
-### Traffic Lights — Machine Coding Problem asked in Frontend interviews 
+### Why Choose NextJs over React? 
 
- Expectations: Need to code it in React within 30–40 mins.... 
+ ... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F0789cf42c08e&operation=register&redirect=https%3A%2F%2Fmedium.com%2Fwomenintechnology%2Ftraffic-lights-machine-coding-problem-asked-in-frontend-interviews-0789cf42c08e&source=---------0-84----------reactjs------bookmark_preview----80cb9492_fe72_4cbd_b8a8_83f8b5abd776-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F74ac9eeca76d&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40cb7chaitanya%2Fwhy-choose-nextjs-over-react-74ac9eeca76d&source=---------0-84----------nextjs------bookmark_preview----183be5f8_868b_42ad_9366_d3e4523ace7a-------) 
 
-### XSS bug in next.js router.push function! 
+### Frontend Weekly Digest #358 (8–14 April 2023) 
 
- In the final hours of my workday, our security team leader, Nader, brought to my attention an XSS (C... 
+ Web-development... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F53e450d5a910&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40mobinyardim%2Fxss-bug-in-next-js-router-push-function-53e450d5a910&source=---------0-84----------nextjs------bookmark_preview----4067f423_e64b_4a81_a628_1110c4be98e6-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F8e4cf81d0010&operation=register&redirect=https%3A%2F%2Ffrontender-ua.medium.com%2Ffrontend-weekly-digest-358-8-14-april-2023-8e4cf81d0010&source=---------0-84----------front_end_development------bookmark_preview----e30e00bb_9c0c_4671_801c_35e4079f1809-------) 
 
-### Review for Akshay Saini’s “Namaste React” Video Series 
+### Configure React Vite app with React Testing Library 
 
- taken from https://namastedev.com/... 
+ Configuring RTL(React Testing Library) with Vite is difficult compared to CRA(Create React App). Tod... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F340d1f97a73c&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40arunk.pattanayak%2Freview-forakshay-sainis-namaste-react-video-series-340d1f97a73c&source=---------0-84----------front_end_development------bookmark_preview----04774282_7799_4592_95f3_4b1d740c2583-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Faa73e5df058b&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40ajinkyap331%2Fconfigure-react-vite-app-with-react-testing-library-aa73e5df058b&source=---------0-84----------react------bookmark_preview----1d032240_a2fa_42ba_9ad8_ac49f1cc210f-------) 
 
 ### ‘오브젝트 스토리지’는 어떻게 활용할까? 
 
