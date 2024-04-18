@@ -1,41 +1,41 @@
 # 오늘의 포스팅 
-2024년 4월 17일 9시 기준 
+2024년 4월 18일 9시 기준 
 
-### How using the Angular’s inject() function has saved me 1000 lines of code 
+### React Navigation with TypeScript 
 
- Discover how easily can the inject() function improve your project... 
+ In TypeScript navigation, developers define types for navigation parameters, screen props, and navig... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F82b699183da8&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40borzifrancesco%2Fhow-using-the-angulars-inject-function-has-saved-me-1000-lines-of-code-82b699183da8&source=---------0-84----------front_end_development------bookmark_preview----fa477fcb_4380_49cf_9884_bee3a0750c06-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F7659e728b06a&operation=register&redirect=https%3A%2F%2Fmedium.com%2Fyudiz-solutions%2Freact-navigation-with-typescript-7659e728b06a&source=---------0-84----------react------bookmark_preview----aab0fc1c_757f_411e_9626_bb140eccf9e8-------) 
 
-### React Optimization Techniques 
+### Decoding SOLID Principles: Practical Insights with Real-World Scenarios 
 
- Speed-up your application... 
+ The SOLID principles help us build better software by giving us clear guidelines to follow. They mak... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F6e2903a247ef&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40puneetgoel016%2Freact-optimization-techniques-6e2903a247ef&source=---------0-84----------react------bookmark_preview----57bc1ebf_9e01_4304_88a5_b74f6f86eebc-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fed8af65421b5&operation=register&redirect=https%3A%2F%2Fmedium.com%2Fsimform-engineering%2Fdecoding-solid-principles-practical-insights-with-real-world-scenarios-ed8af65421b5&source=---------0-84----------javascript------bookmark_preview----e33341fa_5689_4c10_b16b_8fd48fd40281-------) 
 
-### Frontend Weekly Digest #358 (8–14 April 2023) 
+### Decoding SOLID Principles: Practical Insights with Real-World Scenarios 
 
- Web-development... 
+ The SOLID principles help us build better software by giving us clear guidelines to follow. They mak... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F8e4cf81d0010&operation=register&redirect=https%3A%2F%2Ffrontender-ua.medium.com%2Ffrontend-weekly-digest-358-8-14-april-2023-8e4cf81d0010&source=---------0-84----------javascript------bookmark_preview----937cc07f_6f14_4118_80aa_70b0c10f8226-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fed8af65421b5&operation=register&redirect=https%3A%2F%2Fmedium.com%2Fsimform-engineering%2Fdecoding-solid-principles-practical-insights-with-real-world-scenarios-ed8af65421b5&source=---------0-84----------typescript------bookmark_preview----2c1c6799_2dbe_4d88_95d9_a3816b037840-------) 
 
-### How using the Angular’s inject() function has saved me 1000 lines of code 
+### Episode 24/14: Angular Query, New Template Syntax 
 
- Discover how easily can the inject() function improve your project... 
+ Thomasz Ducin and Billiet Brecht did a livestream about Angular Query. Deborah Kurata released two v... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F82b699183da8&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40borzifrancesco%2Fhow-using-the-angulars-inject-function-has-saved-me-1000-lines-of-code-82b699183da8&source=---------0-84----------typescript------bookmark_preview----44821784_d943_42db_85cf_5757e70294c6-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F83c915acc3bc&operation=register&redirect=https%3A%2F%2Fmedium.com%2Fng-news%2Fepisode-24-14-angular-query-new-template-syntax-83c915acc3bc&source=---------0-84----------frontend------bookmark_preview----4965c6e5_c22c_4758_8fec_57874962bb85-------) 
 
-### 팀장님에게 칭찬받기 좋은 Git 꿀팁 2가지 
+### 개발자를 위한 영어 12시제 활용 가이드 
 
- 여러 사람과 함께 작업하다 보면 프로젝트에는 다양한 커밋이 등록됩니다. 곧 PR(Pull Request)을 통해 이러한 커밋들이 하나의 브랜치로 합쳐지죠. 다만 많은 사람이 저장소... 
+ 개발자에게 영어는 선택이 아닌 필수 역량 중 하나인데요. 대부분 프로그래밍 언어가 영어로 되어 있고, 최신 기술과 각종 개발 관련 자료가 먼저 영어로 작성되기 때문입니다. 더불어 ... 
 
- [바로가기](https://yozm.wishket.com/magazine/detail/2545/) 
+ [바로가기](https://yozm.wishket.com/magazine/detail/2548/) 
 
-### 데브섹옵스 실현을 위한 '정적 보안 테스팅(SAST)' 
+### 개발과 강의 둘 다 잡기: ‘제로초’ 조현영 스모어톡 CTO 
 
- 정적 보안 테스팅은 소스 코드를 분석하여 SQL 인젝션, 크로스 사이트 스크립팅(XSS), 원격 코드 실행 취약점, 권한 오용 문제 등 잠재적인 보안 취약점을 식별하는 테스트 방법... 
+ 이번에 소개할 개발자는 스타트업의 CTO로 엑시트를 경험한 인물입니다. 그와 동시에 수강생 5.4만 명이 선택한 강의자, 구독자 3.6만 명을 모은 유튜버기도 하죠. 본업인 개발과... 
 
- [바로가기](https://yozm.wishket.com/magazine/detail/2543/) 
+ [바로가기](https://yozm.wishket.com/magazine/detail/2547/) 
 
 ---
 
