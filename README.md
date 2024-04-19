@@ -1,29 +1,11 @@
 # 오늘의 포스팅 
-2024년 4월 18일 9시 기준 
-
-### React Navigation with TypeScript 
-
- In TypeScript navigation, developers define types for navigation parameters, screen props, and navig... 
-
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F7659e728b06a&operation=register&redirect=https%3A%2F%2Fmedium.com%2Fyudiz-solutions%2Freact-navigation-with-typescript-7659e728b06a&source=---------0-84----------react------bookmark_preview----aab0fc1c_757f_411e_9626_bb140eccf9e8-------) 
+2024년 4월 19일 9시 기준 
 
 ### Decoding SOLID Principles: Practical Insights with Real-World Scenarios 
 
  The SOLID principles help us build better software by giving us clear guidelines to follow. They mak... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fed8af65421b5&operation=register&redirect=https%3A%2F%2Fmedium.com%2Fsimform-engineering%2Fdecoding-solid-principles-practical-insights-with-real-world-scenarios-ed8af65421b5&source=---------0-84----------javascript------bookmark_preview----e33341fa_5689_4c10_b16b_8fd48fd40281-------) 
-
-### Decoding SOLID Principles: Practical Insights with Real-World Scenarios 
-
- The SOLID principles help us build better software by giving us clear guidelines to follow. They mak... 
-
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fed8af65421b5&operation=register&redirect=https%3A%2F%2Fmedium.com%2Fsimform-engineering%2Fdecoding-solid-principles-practical-insights-with-real-world-scenarios-ed8af65421b5&source=---------0-84----------typescript------bookmark_preview----2c1c6799_2dbe_4d88_95d9_a3816b037840-------) 
-
-### Episode 24/14: Angular Query, New Template Syntax 
-
- Thomasz Ducin and Billiet Brecht did a livestream about Angular Query. Deborah Kurata released two v... 
-
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F83c915acc3bc&operation=register&redirect=https%3A%2F%2Fmedium.com%2Fng-news%2Fepisode-24-14-angular-query-new-template-syntax-83c915acc3bc&source=---------0-84----------frontend------bookmark_preview----4965c6e5_c22c_4758_8fec_57874962bb85-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fed8af65421b5&operation=register&redirect=https%3A%2F%2Fmedium.com%2Fsimform-engineering%2Fdecoding-solid-principles-practical-insights-with-real-world-scenarios-ed8af65421b5&source=---------0-84----------javascript------bookmark_preview----852bbce9_21bd_488a_9fe7_69a03e19f011-------) 
 
 ### 개발자를 위한 영어 12시제 활용 가이드 
 
