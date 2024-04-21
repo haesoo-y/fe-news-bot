@@ -1,29 +1,29 @@
 # 오늘의 포스팅 
-2024년 4월 20일 9시 기준 
+2024년 4월 21일 9시 기준 
 
-### Configure VsCode for Effective Unit Tests Writing 
+### The power of CSS 
 
- Small Life Hack that level-up the readability of the unit tests... 
+ Background... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Ff5b7778d9782&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40olku%2Fconfigure-vscode-for-effective-unit-tests-writing-f5b7778d9782&source=---------0-84----------typescript------bookmark_preview----2d47440e_c445_4ddb_a9a0_d4fd8b8ecaba-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F323334bd3629&operation=register&redirect=https%3A%2F%2Fchriisduran.medium.com%2Fthe-power-of-css-323334bd3629&source=---------0-84----------frontend------bookmark_preview----dfad64e6_75dc_4199_8a8f_f3718e0d13e6-------) 
+
+### React Like a Pro: Mastering Best Practices in 2024 
+
+ React, the undisputed champion of web UI development, empowers you to build dynamic and user-centric... 
+
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F8f9eaad4fa25&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40apicraft%2Freact-like-a-pro-mastering-best-practices-in-2024-8f9eaad4fa25&source=---------0-84----------reactjs------bookmark_preview----6dd44881_8a86_4f71_9288_58e158b7e2dc-------) 
+
+### How to Implement reCAPTCHA in Next.js 14 
+
+ Google created the popular reCAPTCHA solution to help protect websites and online services against a... 
+
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fa9dbb7f6b378&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40yagmurdilaraisik%2Fhow-to-implement-recaptcha-in-next-js-14-a9dbb7f6b378&source=---------0-84----------nextjs------bookmark_preview----80952275_cc81_4c10_a122_ae8ff9e7670a-------) 
 
 ### Iframes unleashed in OutSystems 
 
  The only way to have real decoupling between different teams or to implement “some kind” of micro-fr... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F0a9c0b84bf4b&operation=register&redirect=https%3A%2F%2Fitnext.io%2Fiframes-unleashed-in-outsystems-0a9c0b84bf4b&source=---------0-84----------frontend------bookmark_preview----71dfe4da_5feb_4aa6_9805_2337a9b58ebd-------) 
-
-### Introduction to ReactJS: Learn Components, Usage, and Features 
-
- Introduction to ReactJS... 
-
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F400ad5ae5aeb&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40Brilworks%2Fintroduction-to-reactjs-learn-components-usage-and-features-400ad5ae5aeb&source=---------0-84----------reactjs------bookmark_preview----4085db52_01f0_4370_944b_dabb334f8145-------) 
-
-### Retrieval Augmented Generation (RAG) — Worqhat AiCon + Langchain 
-
- Who should read? — Anyone looking to build a chatbot/assistant on their custom data.... 
-
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F46059c529f2d&operation=register&redirect=https%3A%2F%2Fblog.worqhat.com%2Fretrieval-augmented-generation-rag-worqhat-aicon-langchain-46059c529f2d&source=---------0-84----------nextjs------bookmark_preview----b98cf4a1_8728_403f_86ce_9fba01ed296a-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F0a9c0b84bf4b&operation=register&redirect=https%3A%2F%2Fitnext.io%2Fiframes-unleashed-in-outsystems-0a9c0b84bf4b&source=---------0-84----------front_end_development------bookmark_preview----becfe59e_203f_44a7_b549_205155dab42a-------) 
 
 ### 개발자를 위한 영어 12시제 활용 가이드 
 
