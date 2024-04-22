@@ -1,29 +1,30 @@
 # 오늘의 포스팅 
-2024년 4월 21일 9시 기준 
+2024년 4월 22일 9시 기준 
 
-### The power of CSS 
+### Efficient React Hooks: Minimizing Re-Renders with Dependency Tracking 
 
- Background... 
+ You might unknowingly causing re-renders in your app if you are using useState in your custom hooks.... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F323334bd3629&operation=register&redirect=https%3A%2F%2Fchriisduran.medium.com%2Fthe-power-of-css-323334bd3629&source=---------0-84----------frontend------bookmark_preview----dfad64e6_75dc_4199_8a8f_f3718e0d13e6-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F267578bf6818&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40web.hardikhere%2Fefficient-react-hooks-minimizing-re-renders-with-dependency-tracking-267578bf6818&source=---------0-84----------reactjs------bookmark_preview----76fa969f_1d0c_4152_834b_c4b4d6d2d82b-------) 
 
-### React Like a Pro: Mastering Best Practices in 2024 
+### Building Chaac A Mayachain Wallet with KeepKey SDK. 
 
- React, the undisputed champion of web UI development, empowers you to build dynamic and user-centric... 
+ Using Vercel to build, deploy publish a Mayachain wallet... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F8f9eaad4fa25&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40apicraft%2Freact-like-a-pro-mastering-best-practices-in-2024-8f9eaad4fa25&source=---------0-84----------reactjs------bookmark_preview----6dd44881_8a86_4f71_9288_58e158b7e2dc-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F2f593e4136cf&operation=register&redirect=https%3A%2F%2Fmedium.com%2Fkeepkeydevs%2Fbuilding-chaac-a-mayachain-wallet-with-keepkey-sdk-2f593e4136cf&source=---------0-84----------nextjs------bookmark_preview----b6f809f8_7f48_4d00_8cbd_9388a7057780-------) 
 
-### How to Implement reCAPTCHA in Next.js 14 
+### Frontend: 5 Game-Changing Tools to Revolutionize Your Development Workflow! 
 
- Google created the popular reCAPTCHA solution to help protect websites and online services against a... 
+ Bundlephobia :-
+BundlePhobia is an indispensable resource for frontend developers seeking to gauge t... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fa9dbb7f6b378&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40yagmurdilaraisik%2Fhow-to-implement-recaptcha-in-next-js-14-a9dbb7f6b378&source=---------0-84----------nextjs------bookmark_preview----80952275_cc81_4c10_a122_ae8ff9e7670a-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fdd45b3dcbf9b&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40sumit07sinha%2Ffrontend-5-game-changing-tools-to-revolutionize-your-development-workflow-dd45b3dcbf9b&source=---------0-84----------front_end_development------bookmark_preview----e62a4ad4_c0d7_4b5c_a47a_981ff1533b42-------) 
 
-### Iframes unleashed in OutSystems 
+### React batching 
 
- The only way to have real decoupling between different teams or to implement “some kind” of micro-fr... 
+ Hi readers, welcome to the concept of batching in React. I wanted to write a blog on react batching ... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F0a9c0b84bf4b&operation=register&redirect=https%3A%2F%2Fitnext.io%2Fiframes-unleashed-in-outsystems-0a9c0b84bf4b&source=---------0-84----------front_end_development------bookmark_preview----becfe59e_203f_44a7_b549_205155dab42a-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F9ec2594fba32&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40edwinbbu%2Freact-batching-9ec2594fba32&source=---------0-84----------react------bookmark_preview----7d863238_08a6_42bf_ae5a_35dce042445e-------) 
 
 ### 개발자를 위한 영어 12시제 활용 가이드 
 
