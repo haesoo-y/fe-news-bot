@@ -1,41 +1,41 @@
 # 오늘의 포스팅 
-2024년 4월 23일 9시 기준 
-
-### Integrating Wagmi V2 and Rainbowkit in NextJs : A Comprehensive Guide (Part 1) 
-
- Unleash the power of Wagmi V2 and RainbowKit in your Next.js dApp! Dive into the essentials of estab... 
-
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F3fc271879075&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40danmugh%2Fintegrating-wagmi-v2-and-rainbowkit-in-nextjs-a-comprehensive-guide-part-1-3fc271879075&source=---------0-84----------nextjs------bookmark_preview----fd7724d5_9fc4_4c5e_a053_d5d802299f19-------) 
+2024년 4월 24일 9시 기준 
 
 ### Frontend Weekly Digest #359 (15–21 April 2023) 
 
  Web-development... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F9a1d973d9089&operation=register&redirect=https%3A%2F%2Ffrontender-ua.medium.com%2Ffrontend-weekly-digest-359-15-21-april-2023-9a1d973d9089&source=---------0-84----------front_end_development------bookmark_preview----82708f46_604a_4d6d_8e11_78f872eefd2f-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F9a1d973d9089&operation=register&redirect=https%3A%2F%2Ffrontender-ua.medium.com%2Ffrontend-weekly-digest-359-15-21-april-2023-9a1d973d9089&source=---------0-84----------front_end_development------bookmark_preview----433eede7_7f06_4b01_aebc_c011b0d66a04-------) 
 
-### React batching 
+### Realtime Chat With Supabase Realtime is Supa-easy 
 
- Hi readers, welcome to the concept of batching in React. I wanted to write a blog on react batching ... 
+ When you think of Supabase you probably think of their easy to use database, but they have realtime ... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F9ec2594fba32&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40edwinbbu%2Freact-batching-9ec2594fba32&source=---------0-84----------react------bookmark_preview----4f6ad070_be05_4005_9dab_e154aed14fd7-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F091c96411afd&operation=register&redirect=https%3A%2F%2Fjherr2020.medium.com%2Frealtime-chat-with-supabase-realtime-is-supa-easy-091c96411afd&source=---------0-84----------react------bookmark_preview----c5a1147e_cc4a_4cb4_809e_e0d15add9483-------) 
 
-### Efficient React Hooks: Minimizing Re-Renders with Dependency Tracking 
+### JavaScript Features That Most Developers Don’t Know 
 
- You might unknowingly causing re-renders in your app if you are using useState in your custom hooks.... 
+ Learn these hidden language features to become an expert in JavaScript programming... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F267578bf6818&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40web.hardikhere%2Fefficient-react-hooks-minimizing-re-renders-with-dependency-tracking-267578bf6818&source=---------0-84----------javascript------bookmark_preview----efb88e49_d370_4671_ab13_091a90ac5427-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F36a00c35aa98&operation=register&redirect=https%3A%2F%2Flevelup.gitconnected.com%2Fjavascript-features-that-most-developers-dont-know-36a00c35aa98&source=---------0-84----------javascript------bookmark_preview----fb05a067_9596_487d_ab5b_efb218282451-------) 
+
+### Introducing Zeko Protocol MVP: Empowering Ambitious Developers to Scale Your Apps with Typescript… 
+
+ Zeko is a zero-knowledge, cross-chain scaling protocol built on Mina and designed for developers sha... 
+
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F3ea1fc514ae2&operation=register&redirect=https%3A%2F%2Fmedium.com%2Fzekoprotocol%2Fintroducing-zeko-protocol-mvp-empowering-ambitious-developers-to-scale-your-apps-with-typescript-3ea1fc514ae2&source=---------0-84----------typescript------bookmark_preview----b62b3826_6dc2_4c36_b9e3_b029c315edc3-------) 
+
+### 쿠버네티스 관리자를 위한 ‘CKA’ 자격증 준비하기 
+
+ CKA(Certified Kubernetes Administrator) 자격증은 쿠버네티스 클러스터를 설치, 구성, 관리하는 데 필요한 지식과 경험을 입증하는 자격증입니다. 이 자... 
+
+ [바로가기](https://yozm.wishket.com/magazine/detail/2556/) 
 
 ### ‘API Versioning’은 반드시 필요할까? 
 
  백엔드 개발자라면 동료 개발자나 외부 고객을 위해 API를 만들고 배포한 경험이 있을 것입니다. 이러한 API는 한번 만들고 배포하면, 삭제하거나 변경하는 게 어려워 집니다. 그래... 
 
  [바로가기](https://yozm.wishket.com/magazine/detail/2554/) 
-
-### 개발자를 위한 영어 12시제 활용 가이드 
-
- 개발자에게 영어는 선택이 아닌 필수 역량 중 하나인데요. 대부분 프로그래밍 언어가 영어로 되어 있고, 최신 기술과 각종 개발 관련 자료가 먼저 영어로 작성되기 때문입니다. 더불어 ... 
-
- [바로가기](https://yozm.wishket.com/magazine/detail/2548/) 
 
 ---
 
