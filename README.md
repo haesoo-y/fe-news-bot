@@ -1,29 +1,29 @@
 # 오늘의 포스팅 
-2024년 4월 24일 9시 기준 
+2024년 4월 25일 9시 기준 
 
-### Frontend Weekly Digest #359 (15–21 April 2023) 
+### Release React Native 0.74.0 
 
- Web-development... 
+ React Native 0.74 has been released, bringing with it a slew of updates designed to enhance both per... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F9a1d973d9089&operation=register&redirect=https%3A%2F%2Ffrontender-ua.medium.com%2Ffrontend-weekly-digest-359-15-21-april-2023-9a1d973d9089&source=---------0-84----------front_end_development------bookmark_preview----433eede7_7f06_4b01_aebc_c011b0d66a04-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Ff343b96e8cbf&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40onix_react%2Frelease-react-native-0-74-0-f343b96e8cbf&source=---------0-84----------react------bookmark_preview----c3668680_0e7e_4981_afab_7f44def7d22d-------) 
 
-### Realtime Chat With Supabase Realtime is Supa-easy 
+### Subscribe to my channel to get all my updates….. 
 
- When you think of Supabase you probably think of their easy to use database, but they have realtime ... 
+ Let’s say you have a special button in your app. You would like to understand how many times the spe... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F091c96411afd&operation=register&redirect=https%3A%2F%2Fjherr2020.medium.com%2Frealtime-chat-with-supabase-realtime-is-supa-easy-091c96411afd&source=---------0-84----------react------bookmark_preview----c5a1147e_cc4a_4cb4_809e_e0d15add9483-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F041b44b137e5&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40jayaraman.aswini%2Fsubscribe-to-my-channel-to-get-all-my-updates-041b44b137e5&source=---------0-84----------javascript------bookmark_preview----338bbfa7_c378_4295_b141_b684cf3dd3bc-------) 
 
-### JavaScript Features That Most Developers Don’t Know 
+### Serverless Event Sourcing & CQRS (Part 1) 
 
- Learn these hidden language features to become an expert in JavaScript programming... 
+ An example of event sourcing and CQRS in serverless, with code examples in TypeScript and the AWS CD... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F36a00c35aa98&operation=register&redirect=https%3A%2F%2Flevelup.gitconnected.com%2Fjavascript-features-that-most-developers-dont-know-36a00c35aa98&source=---------0-84----------javascript------bookmark_preview----fb05a067_9596_487d_ab5b_efb218282451-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F4e5968e77ece&operation=register&redirect=https%3A%2F%2Fblog.serverlessadvocate.com%2Fserverless-event-sourcing-cqrs-part-1-4e5968e77ece&source=---------0-84----------typescript------bookmark_preview----a76bb0ad_755d_45a2_8296_fec93f455d75-------) 
 
-### Introducing Zeko Protocol MVP: Empowering Ambitious Developers to Scale Your Apps with Typescript… 
+### Redirecting Guards and Resolvers in Angular v18 with RedirectCommand 
 
- Zeko is a zero-knowledge, cross-chain scaling protocol built on Mina and designed for developers sha... 
+ In this article, I will discuss about safeguarding Routes redirecting the user elsewhere, using also... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F3ea1fc514ae2&operation=register&redirect=https%3A%2F%2Fmedium.com%2Fzekoprotocol%2Fintroducing-zeko-protocol-mvp-empowering-ambitious-developers-to-scale-your-apps-with-typescript-3ea1fc514ae2&source=---------0-84----------typescript------bookmark_preview----b62b3826_6dc2_4c36_b9e3_b029c315edc3-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F7313100f85b0&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40davidepassafaro%2Fredirecting-guards-and-resolvers-in-angular-v18-with-redirectcommand-7313100f85b0&source=---------0-84----------frontend------bookmark_preview----fb62d2c3_6276_4b91_874e_a93ca27935ae-------) 
 
 ### 쿠버네티스 관리자를 위한 ‘CKA’ 자격증 준비하기 
 
