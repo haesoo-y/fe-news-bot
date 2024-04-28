@@ -1,29 +1,29 @@
 # 오늘의 포스팅 
-2024년 4월 27일 9시 기준 
+2024년 4월 28일 9시 기준 
+
+### JavaScript adds 7 new methods, very practical! 
+
+ The Chrome browser will support 7 new JavaScript methods in the next version (Chrome 122) to enhance... 
+
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F1710f57b1871&operation=register&redirect=https%3A%2F%2Fnanvon.medium.com%2Fjavascript-adds-7-new-methods-very-practical-1710f57b1871&source=---------0-84----------frontend------bookmark_preview----2222a5c1_ecb5_4b8c_b4be_7bab9cf1d0e7-------) 
+
+### What’s new in React 19 Beta 
+
+ ... 
+
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fb7392481550e&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40gsprasanna%2Fwhats-new-in-react-19-beta-b7392481550e&source=---------0-84----------reactjs------bookmark_preview----0cf562ec_d93f_4d8b_9c67_27ac673b862a-------) 
+
+### How I Created Custom Displacement Maps for My Space-Themed Three.js Portfolio Site 
+
+ I was surprised at the lack of free-to-use, premade displacement maps online. I was even more surpri... 
+
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F642b52700941&operation=register&redirect=https%3A%2F%2Fjavascript.plainenglish.io%2Fhow-i-created-custom-displacement-maps-for-my-space-themed-three-js-portfolio-site-642b52700941&source=---------0-107----------nextjs------bookmark_preview----a2f9798a_3cc3_4b1d_97b4_f7b1c44db70b-------) 
 
 ### Ditch dotenv: Node.js Now Natively Supports .env File Loading 
 
  Explore the new built-in features in Node.js that make managing environment variables simpler and mo... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F8b9b2d49b2d2&operation=register&redirect=https%3A%2F%2Fjavascript.plainenglish.io%2Fditch-dotenv-node-js-now-natively-supports-env-file-loading-8b9b2d49b2d2&source=---------0-84----------typescript------bookmark_preview----4e2fc81b_64da_4e46_bc81_0115b3754632-------) 
-
-### These new JavaScript frameworks are worth knowing about 
-
- In recent years, the front-end field has developed rapidly, and new frameworks have continued to eme... 
-
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F0fc11121343a&operation=register&redirect=https%3A%2F%2Fnanvon.medium.com%2Fthese-new-javascript-frameworks-are-worth-knowing-about-0fc11121343a&source=---------0-84----------frontend------bookmark_preview----ea84569f_21c0_4a11_a743_d78589c4c9ad-------) 
-
-### Getting Started with Lit SDK and React 
-
- If you’re troubled or lost in learning how to implement the Lit SDK in React, just know that you are... 
-
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F88e004daba96&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40andrew.wisniew%2Fgetting-started-with-lit-sdk-and-react-88e004daba96&source=---------0-84----------reactjs------bookmark_preview----1f2840c7_cb18_4255_97e4_04245539b3ab-------) 
-
-### 6 Step for using GraphQL in your NextJS/Sanity project 
-
- Working with Sanity.io in your projects can streamline content management, especially when paired wi... 
-
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F794d57b85ff5&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40joshua.k.barua%2F6-step-for-using-graphql-in-your-nextjs-sanity-project-794d57b85ff5&source=---------0-84----------nextjs------bookmark_preview----53d296ad_54d4_41d8_bc8a_97bb63821d0e-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F8b9b2d49b2d2&operation=register&redirect=https%3A%2F%2Fjavascript.plainenglish.io%2Fditch-dotenv-node-js-now-natively-supports-env-file-loading-8b9b2d49b2d2&source=---------0-84----------front_end_development------bookmark_preview----a69d905c_4ec2_4077_a44b_392b54caa07e-------) 
 
 ### 새로운 데이터 직군, 데이터 애널리틱스 엔지니어란? 
 
