@@ -1,29 +1,29 @@
 # 오늘의 포스팅 
-2024년 4월 29일 9시 기준 
+2024년 4월 30일 9시 기준 
 
-### Virtual DOM & Reconciliation in React 
+### How I Built a Software for a Canadian Company in 3 Weeks 
 
- Document Object Model (DOM) :... 
+ Formulating and delivering a real-time inventory and order management system for a Canadian company ... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F1ad8779fe922&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40priyabratapanda.13%2Fworking-of-virtual-dom-in-react-1ad8779fe922&source=---------0-84----------reactjs------bookmark_preview----65f3b7e4_b894_490c_b014_1261408f2714-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F46d017981e1b&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40identang928%2Fhow-i-built-a-software-for-a-canadian-company-in-3-weeks-46d017981e1b&source=---------0-84----------nextjs------bookmark_preview----5a0be5b6_23af_4b9b_b4e8_e85cae41d77b-------) 
 
-### Why I choose Supabase as a backend service for my Next Js full stack project 
+### Frontend Weekly Digest #360 (22–28 April 2024) 
 
- I’ve been exploring options for my upcoming side project and initially settled on using DrizzleORM w... 
+ Web-development... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F44cea0b4578b&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40sainianmol16%2Fbuilding-a-full-stack-project-with-supabase-and-next-js-44cea0b4578b&source=---------0-84----------nextjs------bookmark_preview----202a3956_e80f_40e9_8b16_d19ef325f8ba-------) 
-
-### Ditch dotenv: Node.js Now Natively Supports .env File Loading 
-
- Explore the new built-in features in Node.js that make managing environment variables simpler and mo... 
-
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F8b9b2d49b2d2&operation=register&redirect=https%3A%2F%2Fjavascript.plainenglish.io%2Fditch-dotenv-node-js-now-natively-supports-env-file-loading-8b9b2d49b2d2&source=---------0-84----------front_end_development------bookmark_preview----8052aa4f_8ecf_48b1_8c9d_98955d92f83f-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Faf95794f4c24&operation=register&redirect=https%3A%2F%2Ffrontender-ua.medium.com%2Ffrontend-weekly-digest-360-22-28-april-2023-af95794f4c24&source=---------0-84----------front_end_development------bookmark_preview----e099dbf6_b257_4b55_8d05_6d598763bda2-------) 
 
 ### Infinite Scrolling in React 
 
  In this blog post, we’ll dive into implementing infinite scrolling, enhancing the user experience al... 
 
  [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F674dde144382&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40manpreetkamboj6191%2Finfinite-scrolling-in-react-674dde144382&source=---------0-84----------react------bookmark_preview----3a95cfb3_54b7_403f_baee_9b3135b96b4e-------) 
+
+### Frontend Weekly Digest #360 (22–28 April 2024) 
+
+ Web-development... 
+
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Faf95794f4c24&operation=register&redirect=https%3A%2F%2Ffrontender-ua.medium.com%2Ffrontend-weekly-digest-360-22-28-april-2023-af95794f4c24&source=---------0-84----------javascript------bookmark_preview----7a81083e_169a_4d99_934e_2d0750238fd7-------) 
 
 ### HTTP에서 HTTPS로 API 요청하기(feat. Vite Proxy) 
 
