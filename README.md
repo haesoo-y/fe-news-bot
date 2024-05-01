@@ -1,29 +1,29 @@
 # 오늘의 포스팅 
-2024년 4월 30일 9시 기준 
+2024년 5월 1일 9시 기준 
 
-### How I Built a Software for a Canadian Company in 3 Weeks 
+### How to design accessible forms in 10 steps 
 
- Formulating and delivering a real-time inventory and order management system for a Canadian company ... 
+ While completing a form isn’t usually a particularly fun task for a user, it is often a necessary st... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F46d017981e1b&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40identang928%2Fhow-i-built-a-software-for-a-canadian-company-in-3-weeks-46d017981e1b&source=---------0-84----------nextjs------bookmark_preview----5a0be5b6_23af_4b9b_b4e8_e85cae41d77b-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F22232d65de18&operation=register&redirect=https%3A%2F%2Fuxdesign.cc%2Fhow-to-design-accessible-forms-in-10-steps-22232d65de18&source=---------0-84----------front_end_development------bookmark_preview----b47d4f9a_e6df_41f5_85c3_6e824896938e-------) 
 
-### Frontend Weekly Digest #360 (22–28 April 2024) 
+### React 19: A Closer Look at the Latest Changes 
 
- Web-development... 
+ A comprehensive tutorial on the new features of React 19, including detailed explanations of its cap... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Faf95794f4c24&operation=register&redirect=https%3A%2F%2Ffrontender-ua.medium.com%2Ffrontend-weekly-digest-360-22-28-april-2023-af95794f4c24&source=---------0-84----------front_end_development------bookmark_preview----e099dbf6_b257_4b55_8d05_6d598763bda2-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F9698b9d3c958&operation=register&redirect=https%3A%2F%2Fmedium.com%2Fsimform-engineering%2Freact-19-a-closer-look-at-the-latest-changes-9698b9d3c958&source=---------0-84----------react------bookmark_preview----e3e84397_439c_4929_8481_7fd22f7df5ca-------) 
 
-### Infinite Scrolling in React 
+### React 19: A Closer Look at the Latest Changes 
 
- In this blog post, we’ll dive into implementing infinite scrolling, enhancing the user experience al... 
+ A comprehensive tutorial on the new features of React 19, including detailed explanations of its cap... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F674dde144382&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40manpreetkamboj6191%2Finfinite-scrolling-in-react-674dde144382&source=---------0-84----------react------bookmark_preview----3a95cfb3_54b7_403f_baee_9b3135b96b4e-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F9698b9d3c958&operation=register&redirect=https%3A%2F%2Fmedium.com%2Fsimform-engineering%2Freact-19-a-closer-look-at-the-latest-changes-9698b9d3c958&source=---------0-84----------javascript------bookmark_preview----d5313a86_cb61_4ea2_983a_34c38e9eea49-------) 
 
-### Frontend Weekly Digest #360 (22–28 April 2024) 
+### React 19 Beta Release: A Quick Guide 
 
- Web-development... 
+ Exploring the New Features and Enhancements of React 19 Beta... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Faf95794f4c24&operation=register&redirect=https%3A%2F%2Ffrontender-ua.medium.com%2Ffrontend-weekly-digest-360-22-28-april-2023-af95794f4c24&source=---------0-84----------javascript------bookmark_preview----7a81083e_169a_4d99_934e_2d0750238fd7-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F05678e2ed571&operation=register&redirect=https%3A%2F%2Fjavascript.plainenglish.io%2Freact-19-beta-release-a-quick-guide-05678e2ed571&source=---------0-84----------typescript------bookmark_preview----19b6fd7e_aac6_493f_aabf_946870218af4-------) 
 
 ### HTTP에서 HTTPS로 API 요청하기(feat. Vite Proxy) 
 
