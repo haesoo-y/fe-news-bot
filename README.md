@@ -1,29 +1,29 @@
 # 오늘의 포스팅 
-2024년 5월 1일 9시 기준 
+2024년 5월 2일 9시 기준 
 
-### How to design accessible forms in 10 steps 
+### Interviewer: You Have Been Working for 3 Years, and You Can’t Answer This Algorithm Question? 
 
- While completing a form isn’t usually a particularly fun task for a user, it is often a necessary st... 
+ A girl’s interview experience... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F22232d65de18&operation=register&redirect=https%3A%2F%2Fuxdesign.cc%2Fhow-to-design-accessible-forms-in-10-steps-22232d65de18&source=---------0-84----------front_end_development------bookmark_preview----b47d4f9a_e6df_41f5_85c3_6e824896938e-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fa408035eec99&operation=register&redirect=https%3A%2F%2Ffatfish.medium.com%2Finterviewer-you-have-been-working-for-3-years-and-you-cant-answer-this-algorithm-question-a408035eec99&source=---------0-84----------react------bookmark_preview----6d6b77bb_7869_4a85_8c3b_49b5a7de0388-------) 
 
-### React 19: A Closer Look at the Latest Changes 
+### Interviewer: You Have Been Working for 3 Years, and You Can’t Answer This Algorithm Question? 
 
- A comprehensive tutorial on the new features of React 19, including detailed explanations of its cap... 
+ A girl’s interview experience... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F9698b9d3c958&operation=register&redirect=https%3A%2F%2Fmedium.com%2Fsimform-engineering%2Freact-19-a-closer-look-at-the-latest-changes-9698b9d3c958&source=---------0-84----------react------bookmark_preview----e3e84397_439c_4929_8481_7fd22f7df5ca-------) 
-
-### React 19: A Closer Look at the Latest Changes 
-
- A comprehensive tutorial on the new features of React 19, including detailed explanations of its cap... 
-
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F9698b9d3c958&operation=register&redirect=https%3A%2F%2Fmedium.com%2Fsimform-engineering%2Freact-19-a-closer-look-at-the-latest-changes-9698b9d3c958&source=---------0-84----------javascript------bookmark_preview----d5313a86_cb61_4ea2_983a_34c38e9eea49-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fa408035eec99&operation=register&redirect=https%3A%2F%2Ffatfish.medium.com%2Finterviewer-you-have-been-working-for-3-years-and-you-cant-answer-this-algorithm-question-a408035eec99&source=---------0-84----------javascript------bookmark_preview----d9b29370_b853_4687_97e3_b0c47ba31003-------) 
 
 ### React 19 Beta Release: A Quick Guide 
 
  Exploring the New Features and Enhancements of React 19 Beta... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F05678e2ed571&operation=register&redirect=https%3A%2F%2Fjavascript.plainenglish.io%2Freact-19-beta-release-a-quick-guide-05678e2ed571&source=---------0-84----------typescript------bookmark_preview----19b6fd7e_aac6_493f_aabf_946870218af4-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F05678e2ed571&operation=register&redirect=https%3A%2F%2Fjavascript.plainenglish.io%2Freact-19-beta-release-a-quick-guide-05678e2ed571&source=---------0-84----------typescript------bookmark_preview----0ef0438b_a221_45a4_ade2_f84dc4da0a6c-------) 
+
+### Exploring the Architecture of Angular 
+
+ Exploring Angular: The TypeScript-Powered JavaScript Framework... 
+
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fdd61a05b752f&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40goncakoprulu%2Fexploring-the-architecture-of-angular-dd61a05b752f&source=---------0-84----------frontend------bookmark_preview----bc1b1633_6049_4f22_b1bd_6260102bc66e-------) 
 
 ### HTTP에서 HTTPS로 API 요청하기(feat. Vite Proxy) 
 
