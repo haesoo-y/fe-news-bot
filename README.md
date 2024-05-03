@@ -1,29 +1,29 @@
 # 오늘의 포스팅 
-2024년 5월 2일 9시 기준 
+2024년 5월 3일 9시 기준 
 
-### Interviewer: You Have Been Working for 3 Years, and You Can’t Answer This Algorithm Question? 
+### Immutability and Mutability in JavaScript Primitives 
 
- A girl’s interview experience... 
+ The five primitive data types in JavaScript are String, Number, Boolean, Undefined, BigInt, Symbol a... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fa408035eec99&operation=register&redirect=https%3A%2F%2Ffatfish.medium.com%2Finterviewer-you-have-been-working-for-3-years-and-you-cant-answer-this-algorithm-question-a408035eec99&source=---------0-84----------react------bookmark_preview----6d6b77bb_7869_4a85_8c3b_49b5a7de0388-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fec64dc21bb80&operation=register&redirect=https%3A%2F%2Fsamithahewawasam-27681.medium.com%2Fimmutability-and-mutability-in-javascript-primitives-ec64dc21bb80&source=---------0-84----------javascript------bookmark_preview----4f66ac73_2322_4001_84c0_0e6150096b97-------) 
 
-### Interviewer: You Have Been Working for 3 Years, and You Can’t Answer This Algorithm Question? 
+### What TotalTypescript Pro Workshop taught me (part 1 — Type Transformation) 
 
- A girl’s interview experience... 
+ the summary of what the most interesting things I have learned doing the course... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fa408035eec99&operation=register&redirect=https%3A%2F%2Ffatfish.medium.com%2Finterviewer-you-have-been-working-for-3-years-and-you-cant-answer-this-algorithm-question-a408035eec99&source=---------0-84----------javascript------bookmark_preview----d9b29370_b853_4687_97e3_b0c47ba31003-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fd99049a6f586&operation=register&redirect=https%3A%2F%2Fblog.wleklinski.eu%2Fwhat-totaltypescript-pro-workshop-taught-me-part-1-type-transformation-d99049a6f586&source=---------0-84----------typescript------bookmark_preview----0a11620a_8559_4f1b_b6ab_8a381549d1be-------) 
 
-### React 19 Beta Release: A Quick Guide 
+### useReducer + useContext: Can I get away with Redux? 
 
- Exploring the New Features and Enhancements of React 19 Beta... 
+ To perform state management in React projects, other than Redux, useReducer + useContext is able to ... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F05678e2ed571&operation=register&redirect=https%3A%2F%2Fjavascript.plainenglish.io%2Freact-19-beta-release-a-quick-guide-05678e2ed571&source=---------0-84----------typescript------bookmark_preview----0ef0438b_a221_45a4_ade2_f84dc4da0a6c-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F7632eb67b46e&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40rainryy%2Fusereducer-usecontext-can-i-get-away-with-redux-7632eb67b46e&source=---------0-84----------frontend------bookmark_preview----6b8a62a0_b11e_437c_ae7c_e9d29bce26d3-------) 
 
-### Exploring the Architecture of Angular 
+### Token Studio for Figma: From Setup to Styling 
 
- Exploring Angular: The TypeScript-Powered JavaScript Framework... 
+ In a previous article, we delved into the advantages of utilizing Token Studio for the Figma plugin.... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fdd61a05b752f&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40goncakoprulu%2Fexploring-the-architecture-of-angular-dd61a05b752f&source=---------0-84----------frontend------bookmark_preview----bc1b1633_6049_4f22_b1bd_6260102bc66e-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F55d9d8b914ff&operation=register&redirect=https%3A%2F%2Fblog.octalabs.com%2Ftoken-studio-for-figma-from-setup-to-styling-55d9d8b914ff&source=---------0-84----------reactjs------bookmark_preview----94b66ebd_64d2_44aa_9a5f_5873a79365ed-------) 
 
 ### HTTP에서 HTTPS로 API 요청하기(feat. Vite Proxy) 
 
