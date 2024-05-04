@@ -1,17 +1,11 @@
 # 오늘의 포스팅 
-2024년 5월 3일 9시 기준 
+2024년 5월 4일 9시 기준 
 
-### Immutability and Mutability in JavaScript Primitives 
+### Node-oracledb 6.5 now supports the new Vector search capabilities of Oracle Database 23ai 
 
- The five primitive data types in JavaScript are String, Number, Boolean, Undefined, BigInt, Symbol a... 
+ Release announcement: A new release of node-oracledb, the Node.js and TypeScript module for accessin... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fec64dc21bb80&operation=register&redirect=https%3A%2F%2Fsamithahewawasam-27681.medium.com%2Fimmutability-and-mutability-in-javascript-primitives-ec64dc21bb80&source=---------0-84----------javascript------bookmark_preview----4f66ac73_2322_4001_84c0_0e6150096b97-------) 
-
-### What TotalTypescript Pro Workshop taught me (part 1 — Type Transformation) 
-
- the summary of what the most interesting things I have learned doing the course... 
-
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fd99049a6f586&operation=register&redirect=https%3A%2F%2Fblog.wleklinski.eu%2Fwhat-totaltypescript-pro-workshop-taught-me-part-1-type-transformation-d99049a6f586&source=---------0-84----------typescript------bookmark_preview----0a11620a_8559_4f1b_b6ab_8a381549d1be-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F2a504d2fb279&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40sharad-chandran%2Fnode-oracledb-6-5-now-supports-the-new-vector-search-capabilities-of-oracle-database-23ai-2a504d2fb279&source=---------0-84----------typescript------bookmark_preview----a840dffd_bbbb_47b3_89fe_02bcc003dadd-------) 
 
 ### useReducer + useContext: Can I get away with Redux? 
 
@@ -24,6 +18,12 @@
  In a previous article, we delved into the advantages of utilizing Token Studio for the Figma plugin.... 
 
  [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F55d9d8b914ff&operation=register&redirect=https%3A%2F%2Fblog.octalabs.com%2Ftoken-studio-for-figma-from-setup-to-styling-55d9d8b914ff&source=---------0-84----------reactjs------bookmark_preview----94b66ebd_64d2_44aa_9a5f_5873a79365ed-------) 
+
+### How to Export Firestore Data to Excel in React Apps Using Firebase Cloud Functions 
+
+ One day, my senior developer presented me with a challenge: we needed a feature that would allow us ... 
+
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F46998a329b6a&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40tilajidixit%2Fhow-to-export-firestore-data-to-excel-in-react-apps-using-firebase-cloud-functions-46998a329b6a&source=---------0-84----------nextjs------bookmark_preview----fe047014_8f18_47cd_afb1_b24579879d6d-------) 
 
 ### HTTP에서 HTTPS로 API 요청하기(feat. Vite Proxy) 
 
