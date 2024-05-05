@@ -1,29 +1,29 @@
 # 오늘의 포스팅 
-2024년 5월 4일 9시 기준 
+2024년 5월 5일 9시 기준 
 
-### Node-oracledb 6.5 now supports the new Vector search capabilities of Oracle Database 23ai 
+### Those things, you need to know about JSX in React. 
 
- Release announcement: A new release of node-oracledb, the Node.js and TypeScript module for accessin... 
+ In this article, We will discuss JSX in React. JSX is a syntax extension for React that simplifies b... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F2a504d2fb279&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40sharad-chandran%2Fnode-oracledb-6-5-now-supports-the-new-vector-search-capabilities-of-oracle-database-23ai-2a504d2fb279&source=---------0-84----------typescript------bookmark_preview----a840dffd_bbbb_47b3_89fe_02bcc003dadd-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F700e96450a5f&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40miahossain8888%2Fmost-of-the-things-you-need-to-know-about-jsx-in-react-700e96450a5f&source=---------0-84----------frontend------bookmark_preview----81a0af96_9de3_4889_97d2_91684f09bc16-------) 
 
-### useReducer + useContext: Can I get away with Redux? 
+### FormData Demystified: Elevating Form Submissions in Modern Web Applications 
 
- To perform state management in React projects, other than Redux, useReducer + useContext is able to ... 
+ Optimize Data Transmission from Client to Server with This Essential JavaScript Tool... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F7632eb67b46e&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40rainryy%2Fusereducer-usecontext-can-i-get-away-with-redux-7632eb67b46e&source=---------0-84----------frontend------bookmark_preview----6b8a62a0_b11e_437c_ae7c_e9d29bce26d3-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fccb325670e90&operation=register&redirect=https%3A%2F%2Frahuulmiishra.medium.com%2Fformdata-demystified-elevating-form-submissions-in-modern-web-applications-ccb325670e90&source=---------0-84----------reactjs------bookmark_preview----5ea1c2d6_a7fb_4c2e_9ad4_72646bc336b4-------) 
 
-### Token Studio for Figma: From Setup to Styling 
+### How I Created Custom Displacement Maps for My Space-Themed Three.js Portfolio Site 
 
- In a previous article, we delved into the advantages of utilizing Token Studio for the Figma plugin.... 
+ I was surprised at the lack of free-to-use, premade displacement maps online. I was even more surpri... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F55d9d8b914ff&operation=register&redirect=https%3A%2F%2Fblog.octalabs.com%2Ftoken-studio-for-figma-from-setup-to-styling-55d9d8b914ff&source=---------0-84----------reactjs------bookmark_preview----94b66ebd_64d2_44aa_9a5f_5873a79365ed-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F642b52700941&operation=register&redirect=https%3A%2F%2Fjavascript.plainenglish.io%2Fhow-i-created-custom-displacement-maps-for-my-space-themed-three-js-portfolio-site-642b52700941&source=---------0-107----------nextjs------bookmark_preview----b42c7ad5_742e_42aa_bb57_7341085b489c-------) 
 
-### How to Export Firestore Data to Excel in React Apps Using Firebase Cloud Functions 
+### OAuth — Finally Learning About Your Everyday Companion 
 
- One day, my senior developer presented me with a challenge: we needed a feature that would allow us ... 
+ Imagine you’ve purchased a flight with Nowhere Airlines. After entering all the required information... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F46998a329b6a&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40tilajidixit%2Fhow-to-export-firestore-data-to-excel-in-react-apps-using-firebase-cloud-functions-46998a329b6a&source=---------0-84----------nextjs------bookmark_preview----fe047014_8f18_47cd_afb1_b24579879d6d-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Ff55abf5141bb&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40y.m.mezi%2Foauth-finally-learning-about-your-everyday-companion-f55abf5141bb&source=---------0-84----------front_end_development------bookmark_preview----8d6aeff1_874a_4768_9892_ef49ec6f9a36-------) 
 
 ### HTTP에서 HTTPS로 API 요청하기(feat. Vite Proxy) 
 
