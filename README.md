@@ -1,29 +1,29 @@
 # 오늘의 포스팅 
-2024년 5월 6일 9시 기준 
+2024년 5월 7일 9시 기준 
 
-### Streamlining Your React Development Environment: A Comprehensive Guide 
+### Unleashing the Power of A/B Testing with Statsig: Boost Your Decision-Making Process 
 
- React is a popular Single Page Applications (SPA) framework today. It’s been ranked among the popula... 
+ What is A/B Testing?... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fe8c0062e745c&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40manishpamnani169%2Fstreamlining-your-react-development-environment-a-comprehensive-guide-e8c0062e745c&source=---------0-84----------reactjs------bookmark_preview----bd3d3adf_d09f_40d1_bfc4_20f0b1b6e3a7-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fd4b13031d6d7&operation=register&redirect=https%3A%2F%2Fne0gi02.medium.com%2Funleashing-the-power-of-a-b-testing-with-statsig-boost-your-decision-making-process-d4b13031d6d7&source=---------0-84----------nextjs------bookmark_preview----29c8a5fc_bdd9_4a2b_85a4_8ea5116fc918-------) 
 
-### Mastering Next.js Data Fetching Methods for High-Performance Web Applications 
+### Frontend Weekly Digest #361 (29 April — 5 May 2024) 
 
- As web developers, optimizing the performance and user experience of our applications is always a to... 
+ Web-development... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Ff78276b61bbd&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40nirantharika5%2Fmastering-next-js-data-fetching-methods-for-high-performance-web-applications-f78276b61bbd&source=---------0-84----------nextjs------bookmark_preview----64df2ee4_efa9_49fc_871c_bf0a9b07c29f-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fe1810d0cfabe&operation=register&redirect=https%3A%2F%2Ffrontender-ua.medium.com%2Ffrontend-weekly-digest-361-29-april-5-may-2024-e1810d0cfabe&source=---------0-84----------front_end_development------bookmark_preview----e0ed06b6_8905_4798_ac92_bad7ba644e83-------) 
 
-### Internet connection monitoring in Angular 
+### Prop Drilling in React 
 
- Online status monitoring using Forms Modules, navigator in Angular... 
+ What is Prop Drilling :... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fba1318038582&operation=register&redirect=https%3A%2F%2Fabhishek-ankush.medium.com%2Finternet-connection-monitoring-in-angular-ba1318038582&source=---------0-84----------front_end_development------bookmark_preview----e7d4bf0f_e822_4df9_ba64_11e0b0971622-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F55217c4471ff&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40priyabratapanda.13%2Fprop-drilling-in-react-55217c4471ff&source=---------0-84----------react------bookmark_preview----62bbfc72_5635_4e89_9a6d_0fad34b584f4-------) 
 
-### Those things, you need to know about JSX in React. 
+### Frontend Weekly Digest #361 (29 April — 5 May 2024) 
 
- In this article, We will discuss JSX in React. JSX is a syntax extension for React that simplifies b... 
+ Web-development... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F700e96450a5f&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40miahossain8888%2Fmost-of-the-things-you-need-to-know-about-jsx-in-react-700e96450a5f&source=---------0-84----------react------bookmark_preview----3865a07d_d563_4bd1_9e8d_bd30aff02d94-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fe1810d0cfabe&operation=register&redirect=https%3A%2F%2Ffrontender-ua.medium.com%2Ffrontend-weekly-digest-361-29-april-5-may-2024-e1810d0cfabe&source=---------0-84----------javascript------bookmark_preview----449f02be_83f0_4877_9619_b69bf2e4857b-------) 
 
 ### HTTP에서 HTTPS로 API 요청하기(feat. Vite Proxy) 
 
