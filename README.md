@@ -1,29 +1,29 @@
 # 오늘의 포스팅 
-2024년 5월 11일 9시 기준 
+2024년 5월 12일 9시 기준 
 
-### How to validate date in JavaScrip 
+### Episode 24/18: Signals and Observables, Angular Q&A Session 
 
- JavaScript, like many other programming languages, provides ways to handle dates using the Date obje... 
+ An insightful discussion about the Signals, Observables, and the standardization of Signals happened... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F5cf1ebeae615&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40piotr.zarycki%2Fhow-to-validate-date-in-javascrip-5cf1ebeae615&source=---------0-84----------typescript------bookmark_preview----ee5d60b2_5832_4808_a269_ac6ee5074a4e-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F276ace5db916&operation=register&redirect=https%3A%2F%2Fmedium.com%2Fng-news%2Fepisode-24-18-signals-and-observables-angular-q-a-session-276ace5db916&source=---------0-84----------frontend------bookmark_preview----18fe3f88_16cb_4306_b842_aed266359a4b-------) 
 
-### Building Your First React Native App: A Step-by-Step Guide 
+### Beginner Mistake in React: Not Using the Functional Version of useState 
 
- I’m going to guide you through creating a simple ‘Hello, World!’ app using Expo.... 
+ Today, let’s delve into one of the most common mistakes beginners make in React development: not uti... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Faaae1bc8ad36&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40hiafraan%2Fbuilding-your-first-react-native-app-a-step-by-step-guide-aaae1bc8ad36&source=---------0-84----------frontend------bookmark_preview----04bfaab5_e7ee_446b_adbd_5ee322e1de49-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F0f8b429ea532&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40matheshyogeswaran%2Fbeginner-mistake-in-react-not-using-the-functional-version-of-usestate-0f8b429ea532&source=---------0-84----------reactjs------bookmark_preview----394cae48_b883_409f_b278_000cebfb3d14-------) 
 
-### Most common errors with React JS 
+### NextJS Server actions with Shadcn/ui 
 
- When we start using a new language or library, it’s common to try to apply syntax that we’re already... 
+ Shadcn Dialog to create a new row in my database using server actions... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fc256db7bbd44&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40duduHonorato%2Fmost-common-errors-with-react-js-c256db7bbd44&source=---------0-84----------reactjs------bookmark_preview----0c4406be_c47c_4278_9b68_e1225eb7a5d5-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F60fb08c94b57&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40hawaiidev%2Fnextjs-server-actions-with-shadcn-ui-60fb08c94b57&source=---------0-84----------nextjs------bookmark_preview----c07abbbe_2100_4e55_97f1_136f02bc56b7-------) 
 
-### SSRF Vulnerability in NextJS: A Hidden Risk in Modern Web Frameworks 
+### How to design a Hotel Booking System? 
 
- Modern web development has seen a significant shift from heavy, monolithic content management system... 
+ (e.g Airbnb, Booking, Expedia from a front-end/full-stack view)... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Ff75775cf0c80&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40wahab.kazmi2000%2Fssrf-vulnerability-in-nextjs-a-hidden-risk-in-modern-web-frameworks-f75775cf0c80&source=---------0-84----------nextjs------bookmark_preview----4ea831fc_2714_4e4f_9bed_154d407db4b7-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F56ef18b6adfc&operation=register&redirect=https%3A%2F%2Fleannezhang.medium.com%2Fhow-to-design-a-hotel-booking-system-56ef18b6adfc&source=---------0-84----------front_end_development------bookmark_preview----3b0a2bc7_76b3_4433_9a7d_dee57ce823cf-------) 
 
 ### AI 활용한 개발 방법과 프롬프트 팁 정리 
 
