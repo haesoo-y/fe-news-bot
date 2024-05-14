@@ -1,41 +1,41 @@
 # 오늘의 포스팅 
-2024년 5월 13일 9시 기준 
+2024년 5월 14일 9시 기준 
 
-### Beginner Mistake in React: Not Using the Functional Version of useState 
+### ✨Explore what is new in Next.js 14.2! ✨ 
 
- Today, let’s delve into one of the most common mistakes beginners make in React development: not uti... 
+ Turbopack, the Release Candidate for local development in Next.js 14.2, is here to upgrade your expe... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F0f8b429ea532&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40matheshyogeswaran%2Fbeginner-mistake-in-react-not-using-the-functional-version-of-usestate-0f8b429ea532&source=---------0-84----------reactjs------bookmark_preview----394cae48_b883_409f_b278_000cebfb3d14-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F810dcb10973c&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40nikhilgupta946%2Fexplore-what-is-new-in-next-js-14-2-810dcb10973c&source=---------0-84----------nextjs------bookmark_preview----7ab98341_7590_47dc_81e6_daed0ad1a0e0-------) 
 
-### Build an app to uncover fun facts from your Netflix viewing history, with OpenAI, Vercel & Gandalf… 
+### Frontend Weekly Digest #362 (6–12 May 2024) 
 
- whoami.tv is an open source app that shows you fun facts about yourself based on your Netflix viewin... 
+ Web-development... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F466bf812c876&operation=register&redirect=https%3A%2F%2Fmedium.com%2Fchunks-of-code%2Fbuild-an-app-to-uncover-fun-facts-from-your-netflix-viewing-history-using-openai-vercel-gandalf-466bf812c876&source=---------0-84----------nextjs------bookmark_preview----bfbf1af6_06e6_4c3e_ad8d_f791aaf2cfba-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fdbebe672a393&operation=register&redirect=https%3A%2F%2Ffrontender-ua.medium.com%2Ffrontend-weekly-digest-362-6-12-may-2024-dbebe672a393&source=---------0-84----------front_end_development------bookmark_preview----0d6d7e90_4768_42a9_95e3_2303edc6c4cc-------) 
 
-### How to design a Hotel Booking System? 
+### How to Test a React Router Link in React: A Beginner’s Guide 
 
- (e.g Airbnb, Booking, Expedia from a front-end/full-stack view)... 
+ Hey there! Are you starting to dip your toes into the ocean of unit testing? Well, you’re in the rig... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F56ef18b6adfc&operation=register&redirect=https%3A%2F%2Fleannezhang.medium.com%2Fhow-to-design-a-hotel-booking-system-56ef18b6adfc&source=---------0-84----------front_end_development------bookmark_preview----3b0a2bc7_76b3_4433_9a7d_dee57ce823cf-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F3b0ea3a8c67e&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40hiraijaz956%2Fhow-to-test-a-react-router-link-in-react-a-beginners-guide-3b0ea3a8c67e&source=---------0-84----------react------bookmark_preview----bcc11f42_cc91_474c_af5b_6eb69e53dee3-------) 
 
-### 5 Next.js Boilerplates to Skyrocket Your SaaS Development 
+### Frontend Weekly Digest #362 (6–12 May 2024) 
 
- If you’re looking for a perfect boilerplate that will help you build your MVP or SaaS as soon as pos... 
+ Web-development... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F5b9c53db00ff&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40hii_mohit%2F5-next-js-boilerplates-to-skyrocket-your-saas-development-5b9c53db00ff&source=---------0-84----------react------bookmark_preview----186b829a_801c_4232_addb_2e64ab85b49e-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fdbebe672a393&operation=register&redirect=https%3A%2F%2Ffrontender-ua.medium.com%2Ffrontend-weekly-digest-362-6-12-may-2024-dbebe672a393&source=---------0-84----------javascript------bookmark_preview----19855295_faa7_4bb1_848e_9377af3b93b7-------) 
 
-### AI 활용한 개발 방법과 프롬프트 팁 정리 
+### 정적 파일만 있는 사이트를 어떻게 구동시킬까? 
 
- 인공지능(AI) 기술의 발전은 소프트웨어 개발에 많은 영향을 미치고 있습니다. 이에 따라 개발자는 다양한 AI 도구를 활용하여 개발 생산성을 대폭 향상시킬 수 있게 되었죠. 하지만... 
+ 개발을 하다 보면 정적(static)인 파일로만 구성된 웹 사이트를 서비스해야 할 때가 있습니다. 정적인 웹 사이트를 생성하고 서비스하는 방법은 여럿 있지만, 저는 주로 파이썬을 ... 
 
- [바로가기](https://yozm.wishket.com/magazine/detail/2575/) 
+ [바로가기](https://yozm.wishket.com/magazine/detail/2584/) 
 
-### HTTP에서 HTTPS로 API 요청하기(feat. Vite Proxy) 
+### AI와 협업하기: AI 페어 프로그래밍이란? 
 
- 프론트엔드 개발자 입장에서는 개발할 때 로컬 환경에 백엔드 서버를 일일이 빌드하는 일은 다소 번거롭게 느껴진다. 그래서 최근 내가 속한 팀에서는 백엔드 서버를 브랜치 단위로 배포하... 
+ AI 시대에 개발자에게 중요한 것은 속도와 문제 해결 능력입니다. 더 빠르고 효과적으로 AI 도구를 활용하여 문제를 해결할 수 있는지가 관건이 될 것입니다. 우리는 앞으로 어떤 기... 
 
- [바로가기](https://yozm.wishket.com/magazine/detail/2565/) 
+ [바로가기](https://yozm.wishket.com/magazine/detail/2583/) 
 
 ---
 
