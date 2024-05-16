@@ -1,29 +1,29 @@
 # 오늘의 포스팅 
-2024년 5월 15일 9시 기준 
+2024년 5월 16일 9시 기준 
 
-### Architecting Angular: Part 2 — Querying and Managing State with NgRx SignalStore 
+### Introducing ReacType v21: Lowering the barrier to entry and raising the bar in React development 
 
- In Part 1 of this series, we established a solid foundation for interacting with GraphQL APIs in our... 
+ ... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F1c931ad309c4&operation=register&redirect=https%3A%2F%2Fitnext.io%2Farchitecting-angular-part-2-querying-and-managing-state-with-ngrx-signalstore-1c931ad309c4&source=---------0-84----------front_end_development------bookmark_preview----520a3e74_9953_400f_9fd5_c83ba6af31b5-------) 
-
-### Angular Addicts #25: Angular and Wiz will be merged, the differences between React and Angular &… 
-
- My favorite Angular resources of April, 2024... 
-
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F4cc60ac62e11&operation=register&redirect=https%3A%2F%2Fmedium.angularaddicts.com%2Fangular-addicts-25-angular-and-wiz-will-be-merged-the-differences-between-react-and-angular-4cc60ac62e11&source=---------0-84----------react------bookmark_preview----d5dcb857_ac22_443e_a8cb_429889f14733-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F945173a9f3b8&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40sfryan95%2Fintroducing-reactype-v21-lowering-the-barrier-to-entry-and-raising-the-bar-in-react-development-945173a9f3b8&source=---------0-84----------react------bookmark_preview----793b68f9_2400_4e62_a5f7_ddabeaf7bece-------) 
 
 ### Simplifying Client-Side Logic: The Strategic Use of View Models 
 
  Applications often require different data representations from what’s directly available from the se... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fdb0ae0363be4&operation=register&redirect=https%3A%2F%2Fnetbasal.com%2Fsimplifying-client-side-logic-the-strategic-use-of-view-models-db0ae0363be4&source=---------0-84----------javascript------bookmark_preview----91068d59_b3e7_47da_a41a_39b3449f4a03-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fdb0ae0363be4&operation=register&redirect=https%3A%2F%2Fnetbasal.com%2Fsimplifying-client-side-logic-the-strategic-use-of-view-models-db0ae0363be4&source=---------0-84----------javascript------bookmark_preview----0d7850e3_e8ae_4a89_b273_be89e0ea9272-------) 
 
-### Angular Addicts #25: Angular and Wiz will be merged, the differences between React and Angular &… 
+### TypeScript: Best Practices for Clean and Maintainable Code 
 
- My favorite Angular resources of April, 2024... 
+ In this blog, we’ll explore some essential TypeScript best practices that can help you write cleaner... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F4cc60ac62e11&operation=register&redirect=https%3A%2F%2Fmedium.angularaddicts.com%2Fangular-addicts-25-angular-and-wiz-will-be-merged-the-differences-between-react-and-angular-4cc60ac62e11&source=---------0-84----------typescript------bookmark_preview----d39b347d_948a_4c97_b184_474a063b2c8a-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F01e5df26a367&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40ritikasaxena3007%2Ftypescript-best-practices-for-clean-and-maintainable-code-01e5df26a367&source=---------0-84----------typescript------bookmark_preview----eaea3e00_62d6_4288_b587_6235a1b34bbe-------) 
+
+### 5 Angular Libraries To Use In Your Projects 
+
+ Hi guys, today I will share 5 useful Angular libraries with you. I have used these libraries in my p... 
+
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F173561b6a729&operation=register&redirect=https%3A%2F%2Fblog.stackademic.com%2F5-angular-libraries-to-use-in-your-projects-173561b6a729&source=---------0-84----------frontend------bookmark_preview----63d2081f_d66f_49cb_b66a_7b2a375c9815-------) 
 
 ### 챗GPT-4o, 완전 럭키비키잖아 
 
