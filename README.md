@@ -1,41 +1,41 @@
 # 오늘의 포스팅 
-2024년 5월 16일 9시 기준 
+2024년 5월 17일 9시 기준 
 
 ### Introducing ReacType v21: Lowering the barrier to entry and raising the bar in React development 
 
  ... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F945173a9f3b8&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40sfryan95%2Fintroducing-reactype-v21-lowering-the-barrier-to-entry-and-raising-the-bar-in-react-development-945173a9f3b8&source=---------0-84----------react------bookmark_preview----793b68f9_2400_4e62_a5f7_ddabeaf7bece-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F945173a9f3b8&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40sfryan95%2Fintroducing-reactype-v21-lowering-the-barrier-to-entry-and-raising-the-bar-in-react-development-945173a9f3b8&source=---------0-84----------javascript------bookmark_preview----1a90926d_5d4c_4cce_b6dd_70cb39f9e610-------) 
 
-### Simplifying Client-Side Logic: The Strategic Use of View Models 
+### Universal React Server Components in Expo Router & React Native 
 
- Applications often require different data representations from what’s directly available from the se... 
+ Integrating React Server Components (RSC) with Expo Router marks a transformative advancement in Rea... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fdb0ae0363be4&operation=register&redirect=https%3A%2F%2Fnetbasal.com%2Fsimplifying-client-side-logic-the-strategic-use-of-view-models-db0ae0363be4&source=---------0-84----------javascript------bookmark_preview----0d7850e3_e8ae_4a89_b273_be89e0ea9272-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F4460e2d6b0aa&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40elves.silva.vieira%2Funiversal-react-server-components-in-expo-router-react-native-4460e2d6b0aa&source=---------0-84----------typescript------bookmark_preview----be3fb82a_2aca_4439_867d_b82f4b9dffbd-------) 
 
-### TypeScript: Best Practices for Clean and Maintainable Code 
+### React Conf 2024 
 
- In this blog, we’ll explore some essential TypeScript best practices that can help you write cleaner... 
+ The React.js Conference just concluded. The React updates were just as eagerly awaited. React v19 RC... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F01e5df26a367&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40ritikasaxena3007%2Ftypescript-best-practices-for-clean-and-maintainable-code-01e5df26a367&source=---------0-84----------typescript------bookmark_preview----eaea3e00_62d6_4288_b587_6235a1b34bbe-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F76aabd9da1e1&operation=register&redirect=https%3A%2F%2Fvordgi.medium.com%2Freact-conf-2024-76aabd9da1e1&source=---------0-84----------frontend------bookmark_preview----f64021da_d259_4a88_ae7d_888dd4c6af30-------) 
 
-### 5 Angular Libraries To Use In Your Projects 
+### React Conf 2024 
 
- Hi guys, today I will share 5 useful Angular libraries with you. I have used these libraries in my p... 
+ The React.js Conference just concluded. The React updates were just as eagerly awaited. React v19 RC... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F173561b6a729&operation=register&redirect=https%3A%2F%2Fblog.stackademic.com%2F5-angular-libraries-to-use-in-your-projects-173561b6a729&source=---------0-84----------frontend------bookmark_preview----63d2081f_d66f_49cb_b66a_7b2a375c9815-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F76aabd9da1e1&operation=register&redirect=https%3A%2F%2Fvordgi.medium.com%2Freact-conf-2024-76aabd9da1e1&source=---------0-84----------reactjs------bookmark_preview----47d3d2da_a302_4a05_82e7_2fd93d1bf8d4-------) 
+
+### 개발조직은 왜 ‘돈 먹는 하마’로 보일까? 
+
+ “IT회사 CEO들 사이에는 ‘개발조직은 돈 먹는 하마’라는 이야기가 돌고 있어요. 도대체 개발팀들은 맨날 바쁘다, 밤샌다고 하는데 시스템 완성은 매번 늦어져요. 이유가 뭔지 모른... 
+
+ [바로가기](https://yozm.wishket.com/magazine/detail/2587/) 
 
 ### 챗GPT-4o, 완전 럭키비키잖아 
 
  OpenAI가 5월 13일에 발표한 챗GPT의 신규 버전이 업데이트 되었는데, 이에 대한 반응이 전 세계적으로 상당히 뜨겁습니다. 새 버전은 실시간으로 일반 사람과의 대화를 모방하... 
 
  [바로가기](https://yozm.wishket.com/magazine/detail/2588/) 
-
-### 정적 파일만 있는 사이트를 어떻게 구동시킬까? 
-
- 개발을 하다 보면 정적(static)인 파일로만 구성된 웹 사이트를 서비스해야 할 때가 있습니다. 정적인 웹 사이트를 생성하고 서비스하는 방법은 여럿 있지만, 저는 주로 파이썬을 ... 
-
- [바로가기](https://yozm.wishket.com/magazine/detail/2584/) 
 
 ---
 
