@@ -1,29 +1,29 @@
 # 오늘의 포스팅 
-2024년 5월 17일 9시 기준 
+2024년 5월 18일 9시 기준 
 
-### Introducing ReacType v21: Lowering the barrier to entry and raising the bar in React development 
+### Building a Web Application Powered by Large Language Models (LLM): part 2 
 
- ... 
+ In the previous article Building a Web Application Powered by Large Language Models (LLM): part 1, a... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F945173a9f3b8&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40sfryan95%2Fintroducing-reactype-v21-lowering-the-barrier-to-entry-and-raising-the-bar-in-react-development-945173a9f3b8&source=---------0-84----------javascript------bookmark_preview----1a90926d_5d4c_4cce_b6dd_70cb39f9e610-------) 
-
-### Universal React Server Components in Expo Router & React Native 
-
- Integrating React Server Components (RSC) with Expo Router marks a transformative advancement in Rea... 
-
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F4460e2d6b0aa&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40elves.silva.vieira%2Funiversal-react-server-components-in-expo-router-react-native-4460e2d6b0aa&source=---------0-84----------typescript------bookmark_preview----be3fb82a_2aca_4439_867d_b82f4b9dffbd-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F2429755c182f&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40pyrosv%2Fbuilding-a-web-application-powered-by-large-language-models-llm-part-2-2429755c182f&source=---------0-84----------typescript------bookmark_preview----4c6a8fe8_0d52_4a23_a80b_771ceb78773d-------) 
 
 ### React Conf 2024 
 
  The React.js Conference just concluded. The React updates were just as eagerly awaited. React v19 RC... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F76aabd9da1e1&operation=register&redirect=https%3A%2F%2Fvordgi.medium.com%2Freact-conf-2024-76aabd9da1e1&source=---------0-84----------frontend------bookmark_preview----f64021da_d259_4a88_ae7d_888dd4c6af30-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F76aabd9da1e1&operation=register&redirect=https%3A%2F%2Fvordgi.medium.com%2Freact-conf-2024-76aabd9da1e1&source=---------0-84----------frontend------bookmark_preview----7a09b71c_34ff_4f24_b255_8a02a73e0d66-------) 
 
 ### React Conf 2024 
 
  The React.js Conference just concluded. The React updates were just as eagerly awaited. React v19 RC... 
 
  [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F76aabd9da1e1&operation=register&redirect=https%3A%2F%2Fvordgi.medium.com%2Freact-conf-2024-76aabd9da1e1&source=---------0-84----------reactjs------bookmark_preview----47d3d2da_a302_4a05_82e7_2fd93d1bf8d4-------) 
+
+### Nextjs + FastAPI template for SaaS Part3 
+
+ This is the last article in the series on the Nextjs + FastAPI template for SaaS. It took a while to... 
+
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F38fdc3f72b31&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40euclideanai%2Fnextjs-fastapi-template-for-saas-part3-38fdc3f72b31&source=---------0-84----------nextjs------bookmark_preview----aaa5ffdb_ec73_4138_b548_de239e18cde3-------) 
 
 ### 개발조직은 왜 ‘돈 먹는 하마’로 보일까? 
 
