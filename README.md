@@ -1,29 +1,31 @@
 # 오늘의 포스팅 
-2024년 5월 19일 9시 기준 
-
-### NinjaCart SDE 2 frontend Interview Exp 
-
- I got NinjaCart recuiter’s number from a friend... 
-
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fd84801a02e5c&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40prikshit8%2Fninjacart-sde-2-frontend-interview-exp-d84801a02e5c&source=---------0-84----------frontend------bookmark_preview----68352280_e0d2_4c7c_9c98_203eb42219e1-------) 
+2024년 5월 20일 9시 기준 
 
 ### Webpack Bundle Analyzer in React 
 
  Optimizing Your React App’s Performance with Webpack Bundle Analyzer... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F47b3021ab96e&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40farshad.development%2Fwebpack-bundle-analyzer-in-react-47b3021ab96e&source=---------0-84----------reactjs------bookmark_preview----9d14b154_bd1f_44cd_b31b_a71cdfacfad9-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F47b3021ab96e&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40farshad.development%2Fwebpack-bundle-analyzer-in-react-47b3021ab96e&source=---------0-84----------reactjs------bookmark_preview----1bb090c3_8c5d_4a2f_afdb_f183e8bbf8cc-------) 
 
-### Nextjs + FastAPI template for SaaS Part3 
+### How to Build Containers for Running Web Applications: Backend (Golang) & Frontend (Next.js) 
 
- This is the last article in the series on the Nextjs + FastAPI template for SaaS. It took a while to... 
+ This Article Describes:
+1.Advantage point of using containers
+2.Overview(What is Docker, Golang, and... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F38fdc3f72b31&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40euclideanai%2Fnextjs-fastapi-template-for-saas-part3-38fdc3f72b31&source=---------0-84----------nextjs------bookmark_preview----aaa5ffdb_ec73_4138_b548_de239e18cde3-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fa6becc255c73&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40woraponasvn36%2Fhow-to-build-containers-for-running-web-applications-backend-golang-frontend-next-js-a6becc255c73&source=---------0-84----------nextjs------bookmark_preview----276aa793_4f88_4bab_b541_c3bc8378cc1f-------) 
 
 ### Rethinking Text Resizing on Web 
 
  Airbnb has made significant strides in improving web accessibility for Hosts and guests who require ... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F1047b12d2881&operation=register&redirect=https%3A%2F%2Fmedium.com%2Fairbnb-engineering%2Frethinking-text-resizing-on-web-1047b12d2881&source=---------0-107----------front_end_development------bookmark_preview----2428beff_9111_43b7_878f_138a2f8fc8c7-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F1047b12d2881&operation=register&redirect=https%3A%2F%2Fmedium.com%2Fairbnb-engineering%2Frethinking-text-resizing-on-web-1047b12d2881&source=---------0-107----------front_end_development------bookmark_preview----353185ff_8da4_45e8_b088_27899aeb17f2-------) 
+
+### Embark on Your React Setup Journey: A Beginner’s Guide to Getting Started 
+
+ Getting started with React is straightforward. Just follow the official React documentation:... 
+
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Ff7de740a1aaa&operation=register&redirect=https%3A%2F%2Fankit-singh44.medium.com%2Fembark-on-your-react-setup-journey-a-beginners-guide-to-getting-started-f7de740a1aaa&source=---------0-84----------react------bookmark_preview----3b8abe8a_94ca_4a24_920d_d09100f3fcbe-------) 
 
 ### 개발조직은 왜 ‘돈 먹는 하마’로 보일까? 
 
