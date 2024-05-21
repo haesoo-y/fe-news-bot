@@ -1,11 +1,5 @@
 # 오늘의 포스팅 
-2024년 5월 20일 9시 기준 
-
-### Webpack Bundle Analyzer in React 
-
- Optimizing Your React App’s Performance with Webpack Bundle Analyzer... 
-
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F47b3021ab96e&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40farshad.development%2Fwebpack-bundle-analyzer-in-react-47b3021ab96e&source=---------0-84----------reactjs------bookmark_preview----1bb090c3_8c5d_4a2f_afdb_f183e8bbf8cc-------) 
+2024년 5월 21일 9시 기준 
 
 ### How to Build Containers for Running Web Applications: Backend (Golang) & Frontend (Next.js) 
 
@@ -13,19 +7,25 @@
 1.Advantage point of using containers
 2.Overview(What is Docker, Golang, and... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fa6becc255c73&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40woraponasvn36%2Fhow-to-build-containers-for-running-web-applications-backend-golang-frontend-next-js-a6becc255c73&source=---------0-84----------nextjs------bookmark_preview----276aa793_4f88_4bab_b541_c3bc8378cc1f-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fa6becc255c73&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40woraponasvn36%2Fhow-to-build-containers-for-running-web-applications-backend-golang-frontend-next-js-a6becc255c73&source=---------0-84----------nextjs------bookmark_preview----6624038b_0657_465e_be05_9ac43f3e387f-------) 
 
-### Rethinking Text Resizing on Web 
+### React & Framer — sequences. 
 
- Airbnb has made significant strides in improving web accessibility for Hosts and guests who require ... 
+ Sharing my experience of learning to code animations for web applications. Here are some simple and ... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F1047b12d2881&operation=register&redirect=https%3A%2F%2Fmedium.com%2Fairbnb-engineering%2Frethinking-text-resizing-on-web-1047b12d2881&source=---------0-107----------front_end_development------bookmark_preview----353185ff_8da4_45e8_b088_27899aeb17f2-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F397db9375fb4&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40anya.%2Freact-framer-sequences-397db9375fb4&source=---------0-84----------front_end_development------bookmark_preview----947f9ff4_d51b_4b33_9b7c_29a9a7a23d99-------) 
+
+### Unlocking the Potential of React Hook Form: Unveiling, Benefits, and Setting Up Forms [Part 1] 
+
+ ... 
+
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Ff031f6667aa9&operation=register&redirect=https%3A%2F%2Fmedium.com%2Fsimform-engineering%2Funlocking-the-potential-of-react-hook-form-unveiling-benefits-and-setting-up-forms-part-1-f031f6667aa9&source=---------0-84----------react------bookmark_preview----b61977f4_8058_4774_be7a_c5e5121e6371-------) 
 
 ### Embark on Your React Setup Journey: A Beginner’s Guide to Getting Started 
 
  Getting started with React is straightforward. Just follow the official React documentation:... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Ff7de740a1aaa&operation=register&redirect=https%3A%2F%2Fankit-singh44.medium.com%2Fembark-on-your-react-setup-journey-a-beginners-guide-to-getting-started-f7de740a1aaa&source=---------0-84----------react------bookmark_preview----3b8abe8a_94ca_4a24_920d_d09100f3fcbe-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Ff7de740a1aaa&operation=register&redirect=https%3A%2F%2Fankit-singh44.medium.com%2Fembark-on-your-react-setup-journey-a-beginners-guide-to-getting-started-f7de740a1aaa&source=---------0-84----------javascript------bookmark_preview----60dab66e_09f2_4b0a_b78c_e32d06878a29-------) 
 
 ### 개발조직은 왜 ‘돈 먹는 하마’로 보일까? 
 
