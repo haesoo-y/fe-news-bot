@@ -1,19 +1,11 @@
 # 오늘의 포스팅 
-2024년 5월 21일 9시 기준 
+2024년 5월 22일 9시 기준 
 
-### How to Build Containers for Running Web Applications: Backend (Golang) & Frontend (Next.js) 
+### Frontend Weekly Digest #363 (13–19 May 2024) 
 
- This Article Describes:
-1.Advantage point of using containers
-2.Overview(What is Docker, Golang, and... 
+ Web-development... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fa6becc255c73&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40woraponasvn36%2Fhow-to-build-containers-for-running-web-applications-backend-golang-frontend-next-js-a6becc255c73&source=---------0-84----------nextjs------bookmark_preview----6624038b_0657_465e_be05_9ac43f3e387f-------) 
-
-### React & Framer — sequences. 
-
- Sharing my experience of learning to code animations for web applications. Here are some simple and ... 
-
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F397db9375fb4&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40anya.%2Freact-framer-sequences-397db9375fb4&source=---------0-84----------front_end_development------bookmark_preview----947f9ff4_d51b_4b33_9b7c_29a9a7a23d99-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F9f9c46819336&operation=register&redirect=https%3A%2F%2Ffrontender-ua.medium.com%2Ffrontend-weekly-digest-363-13-19-may-2024-9f9c46819336&source=---------0-84----------front_end_development------bookmark_preview----95688316_74f9_4e52_8df5_56fd6bb31387-------) 
 
 ### Unlocking the Potential of React Hook Form: Unveiling, Benefits, and Setting Up Forms [Part 1] 
 
@@ -21,11 +13,17 @@
 
  [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Ff031f6667aa9&operation=register&redirect=https%3A%2F%2Fmedium.com%2Fsimform-engineering%2Funlocking-the-potential-of-react-hook-form-unveiling-benefits-and-setting-up-forms-part-1-f031f6667aa9&source=---------0-84----------react------bookmark_preview----b61977f4_8058_4774_be7a_c5e5121e6371-------) 
 
-### Embark on Your React Setup Journey: A Beginner’s Guide to Getting Started 
+### Yet Another ES6 Promise Implementation 
 
- Getting started with React is straightforward. Just follow the official React documentation:... 
+ Over the weekend, I embarked on an intriguing thought to implement ES6 promises, including all concu... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Ff7de740a1aaa&operation=register&redirect=https%3A%2F%2Fankit-singh44.medium.com%2Fembark-on-your-react-setup-journey-a-beginners-guide-to-getting-started-f7de740a1aaa&source=---------0-84----------javascript------bookmark_preview----60dab66e_09f2_4b0a_b78c_e32d06878a29-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F0f9495d7c0e9&operation=register&redirect=https%3A%2F%2Fblog.stackademic.com%2Fyet-another-es6-promise-implementation-0f9495d7c0e9&source=---------0-84----------javascript------bookmark_preview----38be2db2_c573_4e7b_adca_466645d0b311-------) 
+
+### PRISMA 101 : A beginner’s guide to understand prisma. 
+
+ Introduction... 
+
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F7158bc45af2d&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40fidelotieno11%2Fprisma-101-a-beginners-guide-to-understand-prisma-7158bc45af2d&source=---------0-84----------typescript------bookmark_preview----ab3e8b60_0970_49c1_97d5_26e3203d48f5-------) 
 
 ### 개발조직은 왜 ‘돈 먹는 하마’로 보일까? 
 
