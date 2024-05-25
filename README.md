@@ -1,29 +1,29 @@
 # 오늘의 포스팅 
-2024년 5월 24일 9시 기준 
-
-### Angular v18 Official Release: Your Ultimate Guide with Comprehensive Articles 
-
- The much-anticipated Angular v18 has officially been released, and it brings a host of exciting new ... 
-
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fe1c0ff7debd6&operation=register&redirect=https%3A%2F%2Fnetbasal.com%2Fangular-v18-official-release-your-ultimate-guide-with-comprehensive-articles-e1c0ff7debd6&source=---------0-84----------javascript------bookmark_preview----f704cb2e_8be0_4c14_b928_de4cbc18ac1b-------) 
+2024년 5월 25일 9시 기준 
 
 ### Exploring Angular 18: What’s New and Exciting 
 
  ... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fb3ddb7cf9ef9&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40rs4528090%2Fexploring-angular-18-whats-new-and-exciting-b3ddb7cf9ef9&source=---------0-84----------typescript------bookmark_preview----2bf24500_885c_40e8_b71a_f8ba54c72044-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fb3ddb7cf9ef9&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40rs4528090%2Fexploring-angular-18-whats-new-and-exciting-b3ddb7cf9ef9&source=---------0-84----------typescript------bookmark_preview----780605dc_731e_45ec_92ff_71b71de6a5c1-------) 
 
-### From React 18 to React 19: Major Changes and Benefits 
+### Welcome to Angular 18: The Next Evolution in Web Development 
 
- Currently, React is at version 18.3.1, but the features of the upcoming 19.0.0 version have been rev... 
+ Hello dear Angular Dev-Community! Angular 18 is here, and it’s packed with fantastic new features an... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fee2fd31bc208&operation=register&redirect=https%3A%2F%2Framazanbakir.medium.com%2Ffrom-react-18-to-react-19-major-changes-and-benefits-ee2fd31bc208&source=---------0-84----------frontend------bookmark_preview----4942a9c2_e6aa_4882_a03a_c7c45eaf11e4-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F91ee7dc3b551&operation=register&redirect=https%3A%2F%2Fumairzaffar.medium.com%2Fwelcome-to-angular-18-the-next-evolution-in-web-development-91ee7dc3b551&source=---------0-84----------frontend------bookmark_preview----f3149fba_e50c_4f9b_b0c6_48231de92398-------) 
 
-### Pub/Sub pattern in React 
+### A tool that creates next js pages for app router 
 
- In the realm of React development, efficient communication between components is paramount for build... 
+ CNAP — Create Next App Pages... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F96de463b7cf5&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40anahit_vardevanyan%2Fpub-sub-pattern-in-react-96de463b7cf5&source=---------0-84----------reactjs------bookmark_preview----31465dab_440d_4c07_9f1e_a3924dd72658-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F23f413027fc6&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40tareqaziz0065%2Fa-tool-that-creates-next-js-pages-for-app-router-23f413027fc6&source=---------0-84----------reactjs------bookmark_preview----9ebaa428_849f_4ce2_a300_5e217cc7e19c-------) 
+
+### Vercel’s Latest Innovations Unveiled at Ship 2024 Keynote 
+
+ Key takeaways from the Vercel Ship conference keynote.... 
+
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F945a34466748&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40kenzic%2Fvercels-latest-innovations-unveiled-at-ship-keynote-945a34466748&source=---------0-84----------nextjs------bookmark_preview----42fa8a68_1370_46b8_87a3_41302bb7498d-------) 
 
 ### Node.js 환경에서 손쉽게 메시지 큐 도입하기(feat. BullMQ) 
 
