@@ -1,29 +1,30 @@
 # 오늘의 포스팅 
-2024년 5월 25일 9시 기준 
+2024년 5월 26일 9시 기준 
 
-### Exploring Angular 18: What’s New and Exciting 
+### Transitioning from Create React App: Embracing Modern React Development Tools 
 
- ... 
+ The React ecosystem is evolving rapidly, and one significant shift is the move away from Create Reac... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fb3ddb7cf9ef9&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40rs4528090%2Fexploring-angular-18-whats-new-and-exciting-b3ddb7cf9ef9&source=---------0-84----------typescript------bookmark_preview----780605dc_731e_45ec_92ff_71b71de6a5c1-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F84fb9194e142&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40suyesh.tiwari23%2Ftransitioning-from-create-react-app-embracing-modern-react-development-tools-84fb9194e142&source=---------0-84----------frontend------bookmark_preview----cfb59f70_57ff_45f6_9e1d_6fd056223b07-------) 
 
-### Welcome to Angular 18: The Next Evolution in Web Development 
+### Most Important React Array Functions 
 
- Hello dear Angular Dev-Community! Angular 18 is here, and it’s packed with fantastic new features an... 
+ Firstly, what are React Array Functions?
+React Array Functions are special functions in JavaScript t... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F91ee7dc3b551&operation=register&redirect=https%3A%2F%2Fumairzaffar.medium.com%2Fwelcome-to-angular-18-the-next-evolution-in-web-development-91ee7dc3b551&source=---------0-84----------frontend------bookmark_preview----f3149fba_e50c_4f9b_b0c6_48231de92398-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fd306da6bb87e&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40emirhan_gungor2009%2Fmost-important-react-array-functions-d306da6bb87e&source=---------0-84----------reactjs------bookmark_preview----8c408b27_1d22_47fc_8149_6fd403e35ffc-------) 
 
-### A tool that creates next js pages for app router 
+### Next.js 15: What’s New?🤔🚀 
 
- CNAP — Create Next App Pages... 
+ Next.js 15 brings significant enhancements, including support for React 19 RC, improved caching, and... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F23f413027fc6&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40tareqaziz0065%2Fa-tool-that-creates-next-js-pages-for-app-router-23f413027fc6&source=---------0-84----------reactjs------bookmark_preview----9ebaa428_849f_4ce2_a300_5e217cc7e19c-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fbd7cc941fc68&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40hashiimkalam%2Fnext-js-15-whats-new-bd7cc941fc68&source=---------0-84----------nextjs------bookmark_preview----e482996e_09b5_4005_a1a0_1995d80167bb-------) 
 
-### Vercel’s Latest Innovations Unveiled at Ship 2024 Keynote 
+### New Features of React 19 You 🫵should know 🚀 
 
- Key takeaways from the Vercel Ship conference keynote.... 
+ React, a popular JavaScript library for building user interfaces, continues to evolve, providing dev... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F945a34466748&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40kenzic%2Fvercels-latest-innovations-unveiled-at-ship-keynote-945a34466748&source=---------0-84----------nextjs------bookmark_preview----42fa8a68_1370_46b8_87a3_41302bb7498d-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F2939f1866a65&operation=register&redirect=https%3A%2F%2Fnazhimkalam.medium.com%2Fnew-features-of-react-19-you-should-know-2939f1866a65&source=---------0-84----------front_end_development------bookmark_preview----dba0ecff_323f_4769_a45c_4c966d9c527c-------) 
 
 ### Node.js 환경에서 손쉽게 메시지 큐 도입하기(feat. BullMQ) 
 
