@@ -1,29 +1,29 @@
 # 오늘의 포스팅 
-2024년 5월 27일 9시 기준 
-
-### 10 Techniques to Improve Your React Webpack PWA 
-
- Progressive Web Apps (PWAs) have revolutionized the web development landscape, offering users fast a... 
-
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F922be80e66b4&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40PradipBhusnar%2F10-techniques-to-improve-your-react-webpack-pwa-922be80e66b4&source=---------0-84----------reactjs------bookmark_preview----92a559db_c08f_422a_b3e3_0edd3aac8e30-------) 
+2024년 5월 28일 9시 기준 
 
 ### Stop Using Next.js 14 
 
  Use Next.js 15 Instead.... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F538f35404ea4&operation=register&redirect=https%3A%2F%2Flevelup.gitconnected.com%2Fstop-using-next-js-14-538f35404ea4&source=---------0-84----------nextjs------bookmark_preview----8d13eed7_55e7_40c2_8c66_9101fa68703e-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F538f35404ea4&operation=register&redirect=https%3A%2F%2Flevelup.gitconnected.com%2Fstop-using-next-js-14-538f35404ea4&source=---------0-84----------nextjs------bookmark_preview----55babf63_180a_4395_bef0_0f4c59c1d3ca-------) 
 
 ### Stop using @ViewChild 
 
  Explore how to use attribute directives in Angular to handle direct DOM access efficiently, avoiding... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F36479592bef7&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40rk22mar%2Fstop-using-viewchild-36479592bef7&source=---------0-84----------front_end_development------bookmark_preview----103ba0bb_6be1_4962_9470_f3ec4bf57958-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F36479592bef7&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40rk22mar%2Fstop-using-viewchild-36479592bef7&source=---------0-84----------front_end_development------bookmark_preview----c286f110_9238_4dd4_b64d_7265a2b027b1-------) 
 
-### 🍒 Cherry-Picked Nx v19.1 Updates 
+### structuredClone(): The Easiest Way to Deep Clone Objects in JavaScript 
 
- Exploring My Selected Features from Nx Releases... 
+ 1.# Preface... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F6054809de428&operation=register&redirect=https%3A%2F%2Fjgelin.medium.com%2Fcherry-picked-nx-v19-1-updates-6054809de428&source=---------0-84----------react------bookmark_preview----4097e5ce_7adf_4cdc_90c5_49c902e32c00-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fc503b536266b&operation=register&redirect=https%3A%2F%2Fjavascript.plainenglish.io%2Fstructuredclone-the-easiest-way-to-deep-clone-objects-in-javascript-c503b536266b&source=---------0-84----------react------bookmark_preview----57246bdb_d32d_4faa_b95f_808e40c72d7a-------) 
+
+### Scheduling Tasks with CRON Jobs in Node.js 
+
+ CRON jobs are a powerful way to schedule tasks that run at specific intervals. This can be extremely... 
+
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F85680383a659&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40surajAherrao%2Fscheduling-tasks-with-cron-jobs-in-node-js-85680383a659&source=---------0-84----------javascript------bookmark_preview----b992626a_87f4_4e31_8bf0_7ef9979be0fc-------) 
 
 ### Node.js 환경에서 손쉽게 메시지 큐 도입하기(feat. BullMQ) 
 
