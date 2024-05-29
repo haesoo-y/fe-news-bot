@@ -1,29 +1,29 @@
 # 오늘의 포스팅 
-2024년 5월 28일 9시 기준 
+2024년 5월 29일 9시 기준 
 
-### Stop Using Next.js 14 
+### Pure vs. Impure Pipes in Angular 
 
- Use Next.js 15 Instead.... 
+ Angular’s pipes are like the secret sauce for transforming data within your templates. They take you... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F538f35404ea4&operation=register&redirect=https%3A%2F%2Flevelup.gitconnected.com%2Fstop-using-next-js-14-538f35404ea4&source=---------0-84----------nextjs------bookmark_preview----55babf63_180a_4395_bef0_0f4c59c1d3ca-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fd263cd787ad1&operation=register&redirect=https%3A%2F%2Fjavascript.plainenglish.io%2Fpure-vs-impure-pipes-in-angular-d263cd787ad1&source=---------0-84----------front_end_development------bookmark_preview----7233b2a9_56ab_403b_904f_045f918be1d2-------) 
 
-### Stop using @ViewChild 
+### React Hooks — Common pitfalls and Best Practices 
 
- Explore how to use attribute directives in Angular to handle direct DOM access efficiently, avoiding... 
+ React might appear to be one of the least opinionated frameworks in the web development landscape. D... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F36479592bef7&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40rk22mar%2Fstop-using-viewchild-36479592bef7&source=---------0-84----------front_end_development------bookmark_preview----c286f110_9238_4dd4_b64d_7265a2b027b1-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F96079a40870c&operation=register&redirect=https%3A%2F%2Fhrshdg8.medium.com%2Freact-hooks-common-pitfalls-and-best-practices-96079a40870c&source=---------0-84----------react------bookmark_preview----2f505307_12cc_4055_8ebe_9ba8d2d2b974-------) 
 
-### structuredClone(): The Easiest Way to Deep Clone Objects in JavaScript 
+### Frontend Weekly Digest #364 (20–26 May 2024) 
 
- 1.# Preface... 
+ Web-development... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fc503b536266b&operation=register&redirect=https%3A%2F%2Fjavascript.plainenglish.io%2Fstructuredclone-the-easiest-way-to-deep-clone-objects-in-javascript-c503b536266b&source=---------0-84----------react------bookmark_preview----57246bdb_d32d_4faa_b95f_808e40c72d7a-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F15290a11d70e&operation=register&redirect=https%3A%2F%2Ffrontender-ua.medium.com%2Ffrontend-weekly-digest-364-20-26-may-2024-15290a11d70e&source=---------0-84----------javascript------bookmark_preview----4cde84f6_d2ee_4f01_952d_e43773b9d3a3-------) 
 
-### Scheduling Tasks with CRON Jobs in Node.js 
+### How to schedule Jobs in Typescript using Agenda 
 
- CRON jobs are a powerful way to schedule tasks that run at specific intervals. This can be extremely... 
+ In this world where everything seems to be moving quickly and asynchronously, the effect of automati... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F85680383a659&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40surajAherrao%2Fscheduling-tasks-with-cron-jobs-in-node-js-85680383a659&source=---------0-84----------javascript------bookmark_preview----b992626a_87f4_4e31_8bf0_7ef9979be0fc-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F708267c02557&operation=register&redirect=https%3A%2F%2Fdipo0x.medium.com%2Fhow-to-schedule-jobs-in-typescript-using-agenda-708267c02557&source=---------0-84----------typescript------bookmark_preview----cf81de1b_cf22_43d3_85b6_66f8db2b17a0-------) 
 
 ### Node.js 환경에서 손쉽게 메시지 큐 도입하기(feat. BullMQ) 
 
