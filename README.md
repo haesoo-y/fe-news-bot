@@ -1,29 +1,29 @@
 # 오늘의 포스팅 
-2024년 5월 29일 9시 기준 
+2024년 5월 30일 9시 기준 
+
+### Build Powerful and Compelling Charts in React with Ease 
+
+ We are excited to introduce React Spectrum Charts, a declarative charting library that empowers you ... 
+
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F52554f253710&operation=register&redirect=https%3A%2F%2Fblog.developer.adobe.com%2Fbuild-powerful-and-compelling-charts-in-react-with-ease-52554f253710&source=---------0-84----------react------bookmark_preview----a7904aec_e53c_401c_9b7f_59bcafedd13e-------) 
+
+### Observer Pattern: Improving Code Quality with Practical Example 
+
+ The Observer Pattern is like having a central broadcaster (the subject) and multiple listeners (obse... 
+
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F18fe22d04304&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40branimir.ilic93%2Fobserver-pattern-improving-code-quality-with-practical-example-18fe22d04304&source=---------0-84----------javascript------bookmark_preview----b1455782_e2f3_4d42_ba2f_578a1db6ae63-------) 
 
 ### Pure vs. Impure Pipes in Angular 
 
  Angular’s pipes are like the secret sauce for transforming data within your templates. They take you... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fd263cd787ad1&operation=register&redirect=https%3A%2F%2Fjavascript.plainenglish.io%2Fpure-vs-impure-pipes-in-angular-d263cd787ad1&source=---------0-84----------front_end_development------bookmark_preview----7233b2a9_56ab_403b_904f_045f918be1d2-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fd263cd787ad1&operation=register&redirect=https%3A%2F%2Fjavascript.plainenglish.io%2Fpure-vs-impure-pipes-in-angular-d263cd787ad1&source=---------0-84----------typescript------bookmark_preview----26984c99_14bd_4516_aa0c_44e0660dbad7-------) 
 
-### React Hooks — Common pitfalls and Best Practices 
+### Streamlit for the layman 
 
- React might appear to be one of the least opinionated frameworks in the web development landscape. D... 
+ I’ll admit, streamlit is never the first-choice framework for building frontends, and that is true f... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F96079a40870c&operation=register&redirect=https%3A%2F%2Fhrshdg8.medium.com%2Freact-hooks-common-pitfalls-and-best-practices-96079a40870c&source=---------0-84----------react------bookmark_preview----2f505307_12cc_4055_8ebe_9ba8d2d2b974-------) 
-
-### Frontend Weekly Digest #364 (20–26 May 2024) 
-
- Web-development... 
-
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F15290a11d70e&operation=register&redirect=https%3A%2F%2Ffrontender-ua.medium.com%2Ffrontend-weekly-digest-364-20-26-may-2024-15290a11d70e&source=---------0-84----------javascript------bookmark_preview----4cde84f6_d2ee_4f01_952d_e43773b9d3a3-------) 
-
-### How to schedule Jobs in Typescript using Agenda 
-
- In this world where everything seems to be moving quickly and asynchronously, the effect of automati... 
-
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F708267c02557&operation=register&redirect=https%3A%2F%2Fdipo0x.medium.com%2Fhow-to-schedule-jobs-in-typescript-using-agenda-708267c02557&source=---------0-84----------typescript------bookmark_preview----cf81de1b_cf22_43d3_85b6_66f8db2b17a0-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fde3269bb19d6&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40uvineet53%2Fstreamlit-for-the-layman-de3269bb19d6&source=---------0-84----------frontend------bookmark_preview----43238086_2e8c_465a_a08e_e5f92baa9165-------) 
 
 ### Node.js 환경에서 손쉽게 메시지 큐 도입하기(feat. BullMQ) 
 
