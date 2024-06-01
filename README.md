@@ -1,41 +1,41 @@
 # 오늘의 포스팅 
-2024년 5월 31일 9시 기준 
-
-### Avoid New CSS, JS & HTML Properties 
-
- Be cautious when using new CSS properties, as not all browsers support them.... 
-
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F8c06c2640f96&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40sawacrow%2Favoid-new-css-js-html-properties-8c06c2640f96&source=---------0-84----------javascript------bookmark_preview----6d4dd38f_8aba_413b_97e5_272c5955166e-------) 
-
-### 10 Advanced TypeScript Features Every Developer Should Know 
-
- TypeScript is more than just a typed superset of JavaScript. It offers advanced features that can si... 
-
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fcef2df5121a5&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40danduh%2F10-advanced-typescript-features-every-developer-should-know-cef2df5121a5&source=---------0-84----------typescript------bookmark_preview----c8e129d5_7a9e_44b7_8a22_e75b58ea3969-------) 
-
-### Inspecting The Shadows: The Secrets of Shadow Doms 
-
- Dive into the world of Shadow DOM, a powerful browser feature! In this article, we’ll uncover its se... 
-
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F00d0fd2366d2&operation=register&redirect=https%3A%2F%2Fmedium.com%2Fisraeli-tech-radar%2Finspecting-the-shadows-the-secrets-of-shadow-doms-00d0fd2366d2&source=---------0-84----------frontend------bookmark_preview----d110f922_a4c6_40bb_b75a_34f34dbb9e7b-------) 
+2024년 6월 1일 9시 기준 
 
 ### How does a Routing System works in Next.js using TypeScript? 
 
  Next.js is a popular React framework for building server-side rendered (SSR) and applications, one o... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fecddf7b1d2e8&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40joelcena.47%2Fhow-does-a-routing-system-works-in-next-js-using-typescript-ecddf7b1d2e8&source=---------0-84----------reactjs------bookmark_preview----0737bdc9_a072_4ade_af3e_1683d14ba401-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fecddf7b1d2e8&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40joelcena.47%2Fhow-does-a-routing-system-works-in-next-js-using-typescript-ecddf7b1d2e8&source=---------0-84----------typescript------bookmark_preview----c2af050f_1f81_4ef4_99ed_c5f1de84ad6e-------) 
 
-### 사용자 친화적인 쿠버네티스 API 활용 툴 개발기 
+### Understanding Front-End Development: A Comprehensive Guide 
 
- 최근 우리 팀에서 누구나 간단히 쿠버네티스 리소스를 생성, 조회, 삭제할 수 있는 운영 툴을 개발하자는 의견이 나왔다. 복잡한 클라우드 인프라를 쉽고 직관적으로 관리할 수 있게 만... 
+ What is Front-End Development?... 
 
- [바로가기](https://yozm.wishket.com/magazine/detail/2610/) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F113e0273d7f5&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40kduddugunta%2Funderstanding-front-end-development-a-comprehensive-guide-113e0273d7f5&source=---------0-84----------frontend------bookmark_preview----74fec415_85b7_47ae_b90c_37adc0e77654-------) 
 
-### Node.js 환경에서 손쉽게 메시지 큐 도입하기(feat. BullMQ) 
+### Fibonacci in react js 
 
- 메시지 큐는 컴퓨터 시스템에서 쓰이는 비동기 통신 프로토콜의 한 종류입니다. 이를 활용하면 응용 프로그램이 다른 응용 프로그램으로 메시지를 보낼 수 있습니다. 메시지 큐는 서버리스... 
+ Certainly! Here’s a simple example of how you could implement a Fibonacci sequence generator in Reac... 
 
- [바로가기](https://yozm.wishket.com/magazine/detail/2599/) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fee76bc4c6ce7&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40vjwarboy13%2Ffibonacci-in-react-js-ee76bc4c6ce7&source=---------0-84----------reactjs------bookmark_preview----0c408877_3f7b_49ea_b012_500d6c5efeb1-------) 
+
+### A simple End-to-End Encryption integration with Lagertha API 
+
+ Introduction... 
+
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F669e3bebd905&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40martin_42533%2Fa-simple-end-to-end-encryption-integration-with-lagertha-api-669e3bebd905&source=---------0-84----------nextjs------bookmark_preview----420cca6c_2655_4643_96f3_c8a6f4c6ac5d-------) 
+
+### 코딩 테스트를 준비하는 모두를 위한 조언 
+
+ 이번 글에서는 코딩 테스트에 어떤 마음가짐으로 임하면 좋을지, 책 ‘코딩 테스트 합격자 되기’ 저자들의 조언을 모아봤습니다. 코딩 테스트를 조금 더 효율적으로 준비하기 위해서는 타... 
+
+ [바로가기](https://yozm.wishket.com/magazine/detail/2612/) 
+
+### ‘머신러닝’ 기초 지식 톺아보기 
+
+ 인공지능(AI)과 머신러닝(ML) 기술의 급속한 발전은 소프트웨어 개발 프로젝트에 큰 변화를 불러오고 있습니다. 이러한 변화는 개발자들에게 새로운 숙제를 안겨주는 동시에 많은 기회... 
+
+ [바로가기](https://yozm.wishket.com/magazine/detail/2611/) 
 
 ---
 
