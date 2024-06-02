@@ -1,29 +1,29 @@
 # 오늘의 포스팅 
-2024년 6월 1일 9시 기준 
+2024년 6월 2일 9시 기준 
 
-### How does a Routing System works in Next.js using TypeScript? 
+### Micro Frontend Setup with Nx, Rspack, Module Federation 2.0  and React 
 
- Next.js is a popular React framework for building server-side rendered (SSR) and applications, one o... 
+ The primary goal of this blog is to provide a comprehensive, step-by-step guide on setting up a micr... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fecddf7b1d2e8&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40joelcena.47%2Fhow-does-a-routing-system-works-in-next-js-using-typescript-ecddf7b1d2e8&source=---------0-84----------typescript------bookmark_preview----c2af050f_1f81_4ef4_99ed_c5f1de84ad6e-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F698674edb09f&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40soumyanildas%2Fmicro-frontend-setup-with-nx-rspack-module-federation-2-0-and-react-698674edb09f&source=---------0-84----------frontend------bookmark_preview----ed18abe9_b801_47af_bdf5_dc98d20cd76c-------) 
 
-### Understanding Front-End Development: A Comprehensive Guide 
+### State Management in ReactJS 
 
- What is Front-End Development?... 
+ ReactJS, a popular JavaScript library for building user interfaces, primarily manages component stat... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F113e0273d7f5&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40kduddugunta%2Funderstanding-front-end-development-a-comprehensive-guide-113e0273d7f5&source=---------0-84----------frontend------bookmark_preview----74fec415_85b7_47ae_b90c_37adc0e77654-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fed1279688335&operation=register&redirect=https%3A%2F%2Faribaabdulqadir.medium.com%2Fstate-management-in-reactjs-ed1279688335&source=---------0-84----------reactjs------bookmark_preview----ceabbe81_752d_4b04_a749_3ebfe96c606a-------) 
 
-### Fibonacci in react js 
+### Building Scalable and Efficient Data Fetching with TanStack Query 
 
- Certainly! Here’s a simple example of how you could implement a Fibonacci sequence generator in Reac... 
+ React data fetching guide! Fetch data using Fetch API, Axios, or React Query. Includes examples & be... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fee76bc4c6ce7&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40vjwarboy13%2Ffibonacci-in-react-js-ee76bc4c6ce7&source=---------0-84----------reactjs------bookmark_preview----0c408877_3f7b_49ea_b012_500d6c5efeb1-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F79ce37b367a4&operation=register&redirect=https%3A%2F%2Fbaydis.medium.com%2Fbuilding-scalable-and-efficient-data-fetching-with-tanstack-query-79ce37b367a4&source=---------0-84----------nextjs------bookmark_preview----50b3af77_01d4_463d_bef2_32e4c3de3eec-------) 
 
-### A simple End-to-End Encryption integration with Lagertha API 
+### Angular 17: Signals (Part 1) 
 
- Introduction... 
+ Angular 17: Signals (Part 1) — Signals Basics... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F669e3bebd905&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40martin_42533%2Fa-simple-end-to-end-encryption-integration-with-lagertha-api-669e3bebd905&source=---------0-84----------nextjs------bookmark_preview----420cca6c_2655_4643_96f3_c8a6f4c6ac5d-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F2e185e5c9b6e&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40ovadya.shachar%2Fangular-17-signals-part-1-2e185e5c9b6e&source=---------0-84----------front_end_development------bookmark_preview----522c164f_6e46_45c1_b5e8_eb00d66bc487-------) 
 
 ### 코딩 테스트를 준비하는 모두를 위한 조언 
 
