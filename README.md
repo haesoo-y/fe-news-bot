@@ -1,41 +1,41 @@
 # 오늘의 포스팅 
-2024년 6월 2일 9시 기준 
+2024년 6월 3일 9시 기준 
 
-### Micro Frontend Setup with Nx, Rspack, Module Federation 2.0  and React 
+### Reactive Polymorphism in React (and why it makes abstractions painful) 
 
- The primary goal of this blog is to provide a comprehensive, step-by-step guide on setting up a micr... 
+ Reactivity in React creates a kind of polymorphism for consumers of reactive data sources. Consider ... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F698674edb09f&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40soumyanildas%2Fmicro-frontend-setup-with-nx-rspack-module-federation-2-0-and-react-698674edb09f&source=---------0-84----------frontend------bookmark_preview----ed18abe9_b801_47af_bdf5_dc98d20cd76c-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F9936e2af91fb&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40zweidenbach%2Freactive-polymorphism-in-react-and-why-it-makes-abstractions-painful-9936e2af91fb&source=---------0-84----------reactjs------bookmark_preview----e9aaa437_ff3b_471a_9b85_64819837c287-------) 
 
-### State Management in ReactJS 
+### Implementing Google Authentication in a NextJS 14 Application with AuthJS 5, MongoDB, and Prisma… 
 
- ReactJS, a popular JavaScript library for building user interfaces, primarily manages component stat... 
+ Unlock the power of seamless Google authentication in your Next.js 14 applications using the latest ... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fed1279688335&operation=register&redirect=https%3A%2F%2Faribaabdulqadir.medium.com%2Fstate-management-in-reactjs-ed1279688335&source=---------0-84----------reactjs------bookmark_preview----ceabbe81_752d_4b04_a749_3ebfe96c606a-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fbbfcb38b3eea&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40sazzadur%2Fimplementing-google-authentication-in-a-nextjs-14-application-with-authjs-5-mongodb-and-prisma-bbfcb38b3eea&source=---------0-84----------nextjs------bookmark_preview----a654cad2_5f21_40eb_ad63_3a6a7909d71f-------) 
 
-### Building Scalable and Efficient Data Fetching with TanStack Query 
+### Frontend Weekly Digest #365 (27 May–2 Jun 2024) 
 
- React data fetching guide! Fetch data using Fetch API, Axios, or React Query. Includes examples & be... 
+ Web-development... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F79ce37b367a4&operation=register&redirect=https%3A%2F%2Fbaydis.medium.com%2Fbuilding-scalable-and-efficient-data-fetching-with-tanstack-query-79ce37b367a4&source=---------0-84----------nextjs------bookmark_preview----50b3af77_01d4_463d_bef2_32e4c3de3eec-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fd1a41a39da52&operation=register&redirect=https%3A%2F%2Ffrontender-ua.medium.com%2Ffrontend-weekly-digest-365-27-2-jun-2024-d1a41a39da52&source=---------0-84----------front_end_development------bookmark_preview----2cd27f72_691c_4ab8_b0e9_011db1cb9701-------) 
 
-### Angular 17: Signals (Part 1) 
+### The Future of JavaScript: Fixing JS Date with JS Temporal 
 
- Angular 17: Signals (Part 1) — Signals Basics... 
+ Correction and improvement of working with time in JS Date using JS Temporal (Stage 3 Candidate) in ... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F2e185e5c9b6e&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40ovadya.shachar%2Fangular-17-signals-part-1-2e185e5c9b6e&source=---------0-84----------front_end_development------bookmark_preview----522c164f_6e46_45c1_b5e8_eb00d66bc487-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fde162bc0f8c8&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40gaspm%2Fthe-future-of-javascript-fixing-js-date-with-js-temporal-de162bc0f8c8&source=---------0-84----------react------bookmark_preview----52af7ec1_2fc1_43e6_8232_c82393eab18f-------) 
+
+### 3달 만든 코드를 모두 엎고 배운 것 
+
+ 창업한 다음, 제품을 처음부터 다시 만들기로 결정한 시점은 이미 프로젝트를 시작한 지 두 달이 지난 후였습니다. 처음부터 다시 코딩을 시작한 지 5주가 지나 알파 버전으로 서비스를... 
+
+ [바로가기](https://yozm.wishket.com/magazine/detail/2613/) 
 
 ### 코딩 테스트를 준비하는 모두를 위한 조언 
 
  이번 글에서는 코딩 테스트에 어떤 마음가짐으로 임하면 좋을지, 책 ‘코딩 테스트 합격자 되기’ 저자들의 조언을 모아봤습니다. 코딩 테스트를 조금 더 효율적으로 준비하기 위해서는 타... 
 
  [바로가기](https://yozm.wishket.com/magazine/detail/2612/) 
-
-### ‘머신러닝’ 기초 지식 톺아보기 
-
- 인공지능(AI)과 머신러닝(ML) 기술의 급속한 발전은 소프트웨어 개발 프로젝트에 큰 변화를 불러오고 있습니다. 이러한 변화는 개발자들에게 새로운 숙제를 안겨주는 동시에 많은 기회... 
-
- [바로가기](https://yozm.wishket.com/magazine/detail/2611/) 
 
 ---
 
