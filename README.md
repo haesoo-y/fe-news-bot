@@ -1,29 +1,29 @@
 # 오늘의 포스팅 
-2024년 6월 3일 9시 기준 
+2024년 6월 4일 9시 기준 
 
-### Reactive Polymorphism in React (and why it makes abstractions painful) 
+### Building Modular Frontends: a POC with React and Next.js 
 
- Reactivity in React creates a kind of polymorphism for consumers of reactive data sources. Consider ... 
+ The article presents a POC that aims to implement some key concepts for developing modular and scala... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F9936e2af91fb&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40zweidenbach%2Freactive-polymorphism-in-react-and-why-it-makes-abstractions-painful-9936e2af91fb&source=---------0-84----------reactjs------bookmark_preview----e9aaa437_ff3b_471a_9b85_64819837c287-------) 
-
-### Implementing Google Authentication in a NextJS 14 Application with AuthJS 5, MongoDB, and Prisma… 
-
- Unlock the power of seamless Google authentication in your Next.js 14 applications using the latest ... 
-
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fbbfcb38b3eea&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40sazzadur%2Fimplementing-google-authentication-in-a-nextjs-14-application-with-authjs-5-mongodb-and-prisma-bbfcb38b3eea&source=---------0-84----------nextjs------bookmark_preview----a654cad2_5f21_40eb_ad63_3a6a7909d71f-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F332f94a19a78&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40bauhausk%2Fbuilding-modular-frontends-a-poc-with-react-and-next-js-332f94a19a78&source=---------0-84----------nextjs------bookmark_preview----768c02fe_c780_48d6_a840_8b9973c3096e-------) 
 
 ### Frontend Weekly Digest #365 (27 May–2 Jun 2024) 
 
  Web-development... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fd1a41a39da52&operation=register&redirect=https%3A%2F%2Ffrontender-ua.medium.com%2Ffrontend-weekly-digest-365-27-2-jun-2024-d1a41a39da52&source=---------0-84----------front_end_development------bookmark_preview----2cd27f72_691c_4ab8_b0e9_011db1cb9701-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fd1a41a39da52&operation=register&redirect=https%3A%2F%2Ffrontender-ua.medium.com%2Ffrontend-weekly-digest-365-27-2-jun-2024-d1a41a39da52&source=---------0-84----------front_end_development------bookmark_preview----7885820c_8c30_4ead_8e09_877041af3979-------) 
 
-### The Future of JavaScript: Fixing JS Date with JS Temporal 
+### Protected (Private) Routes With React Router V6 (best approach) 
 
- Correction and improvement of working with time in JS Date using JS Temporal (Stage 3 Candidate) in ... 
+ For this tutorial, we will use React Router v6. Here’s how you can manage routing efficiently in you... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fde162bc0f8c8&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40gaspm%2Fthe-future-of-javascript-fixing-js-date-with-js-temporal-de162bc0f8c8&source=---------0-84----------react------bookmark_preview----52af7ec1_2fc1_43e6_8232_c82393eab18f-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fc9a84f01c135&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40romanradchenko.personal%2Fprotected-private-routes-with-react-router-v6-best-approach-c9a84f01c135&source=---------0-84----------react------bookmark_preview----84383e86_77e1_4a16_a5c6_df4462b787d4-------) 
+
+### Deno: First Approach 
+
+ Taking first steps with Deno, another runtime for javascript and typescript... 
+
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F803d7b42d660&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40gabrieletronchin%2Fdeno-first-approach-803d7b42d660&source=---------0-84----------javascript------bookmark_preview----5a852ad3_dea9_4140_9ad7_55c4719f0816-------) 
 
 ### 3달 만든 코드를 모두 엎고 배운 것 
 
