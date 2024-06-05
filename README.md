@@ -1,41 +1,41 @@
 # 오늘의 포스팅 
-2024년 6월 4일 9시 기준 
+2024년 6월 5일 9시 기준 
 
-### Building Modular Frontends: a POC with React and Next.js 
+### React 18 useTransition hook 
 
- The article presents a POC that aims to implement some key concepts for developing modular and scala... 
+ React 18 introduced several new hooks, including useTransition. In this article, we will explore how... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F332f94a19a78&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40bauhausk%2Fbuilding-modular-frontends-a-poc-with-react-and-next-js-332f94a19a78&source=---------0-84----------nextjs------bookmark_preview----768c02fe_c780_48d6_a840_8b9973c3096e-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F6fb092d8ee78&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40rupehra%2Freact-18-usetransition-hook-6fb092d8ee78&source=---------0-84----------front_end_development------bookmark_preview----cee4e31f_0960_4768_9e5c_43cdf4887aa5-------) 
 
-### Frontend Weekly Digest #365 (27 May–2 Jun 2024) 
+### React 18 useTransition hook 
 
- Web-development... 
+ React 18 introduced several new hooks, including useTransition. In this article, we will explore how... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fd1a41a39da52&operation=register&redirect=https%3A%2F%2Ffrontender-ua.medium.com%2Ffrontend-weekly-digest-365-27-2-jun-2024-d1a41a39da52&source=---------0-84----------front_end_development------bookmark_preview----7885820c_8c30_4ead_8e09_877041af3979-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F6fb092d8ee78&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40rupehra%2Freact-18-usetransition-hook-6fb092d8ee78&source=---------0-84----------react------bookmark_preview----44f2a361_41be_455e_8936_b2e8b1ae7671-------) 
 
-### Protected (Private) Routes With React Router V6 (best approach) 
+### How To Write API Response Types with TypeScript 
 
- For this tutorial, we will use React Router v6. Here’s how you can manage routing efficiently in you... 
+ Organize TypeScript types for API responses to ensure a great development experience, code maintenan... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fc9a84f01c135&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40romanradchenko.personal%2Fprotected-private-routes-with-react-router-v6-best-approach-c9a84f01c135&source=---------0-84----------react------bookmark_preview----84383e86_77e1_4a16_a5c6_df4462b787d4-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Ff8152ddd43dd&operation=register&redirect=https%3A%2F%2Fitnext.io%2Fhow-to-write-api-response-types-with-typescript-f8152ddd43dd&source=---------0-84----------javascript------bookmark_preview----e3d7bf61_19ab_4e3d_8a3a_e2e2ba99b9ed-------) 
 
-### Deno: First Approach 
+### How To Write API Response Types with TypeScript 
 
- Taking first steps with Deno, another runtime for javascript and typescript... 
+ Organize TypeScript types for API responses to ensure a great development experience, code maintenan... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F803d7b42d660&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40gabrieletronchin%2Fdeno-first-approach-803d7b42d660&source=---------0-84----------javascript------bookmark_preview----5a852ad3_dea9_4140_9ad7_55c4719f0816-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Ff8152ddd43dd&operation=register&redirect=https%3A%2F%2Fitnext.io%2Fhow-to-write-api-response-types-with-typescript-f8152ddd43dd&source=---------0-84----------typescript------bookmark_preview----d63fe3ce_cfab_4a40_bf11_dd70f2c2b0c8-------) 
+
+### LLM을 위협으로부터 지키는 6가지 방법 
+
+ ChatGPT 공개 이후 바야흐로 LLM의 시대가 도래했습니다. 특히 대화형 AI 기술이 발전하며 LLM을 활용한 여러 애플리케이션이 쏟아지고 있습니다. LLM은 텍스트 생성, 질... 
+
+ [바로가기](https://yozm.wishket.com/magazine/detail/2617/) 
 
 ### 3달 만든 코드를 모두 엎고 배운 것 
 
  창업한 다음, 제품을 처음부터 다시 만들기로 결정한 시점은 이미 프로젝트를 시작한 지 두 달이 지난 후였습니다. 처음부터 다시 코딩을 시작한 지 5주가 지나 알파 버전으로 서비스를... 
 
  [바로가기](https://yozm.wishket.com/magazine/detail/2613/) 
-
-### 코딩 테스트를 준비하는 모두를 위한 조언 
-
- 이번 글에서는 코딩 테스트에 어떤 마음가짐으로 임하면 좋을지, 책 ‘코딩 테스트 합격자 되기’ 저자들의 조언을 모아봤습니다. 코딩 테스트를 조금 더 효율적으로 준비하기 위해서는 타... 
-
- [바로가기](https://yozm.wishket.com/magazine/detail/2612/) 
 
 ---
 
