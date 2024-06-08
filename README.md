@@ -1,41 +1,41 @@
 # 오늘의 포스팅 
-2024년 6월 7일 9시 기준 
+2024년 6월 8일 9시 기준 
 
-### Key Principle to writing better Javascript functions 
+### Temporary Tables in SQL and How I Used it to Improve Performance 
 
- Since the day I started writing code, I believe I was always writing bad code. I didn’t notice it wa... 
+ This article was originally featured in…... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F55895ac04c3e&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40mtendekuyokwa19%2Fkey-principle-to-writing-better-javascript-functions-55895ac04c3e&source=---------0-84----------javascript------bookmark_preview----a9cd7e81_294a_4b8a_a5cc_54523b8325ba-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fdd01362a4114&operation=register&redirect=https%3A%2F%2Fjavascript.plainenglish.io%2Ftemporary-tables-in-sql-and-how-i-used-it-to-improve-performance-dd01362a4114&source=---------0-84----------typescript------bookmark_preview----195171bc_9ad1_4b2f_ba52_401f07b83b0a-------) 
 
-### How To Write API Response Types with TypeScript 
+### Angular Forms new unified control state change events 
 
- Organize TypeScript types for API responses to ensure a great development experience, code maintenan... 
+ Angular v18 introduces a new capabilit within @angular/forms, by enhancing the AbstractControl class... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Ff8152ddd43dd&operation=register&redirect=https%3A%2F%2Fitnext.io%2Fhow-to-write-api-response-types-with-typescript-f8152ddd43dd&source=---------0-84----------typescript------bookmark_preview----3e4be0d1_f3d2_4f20_9f00_de1287af5599-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F9e8e361c4777&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40davidepassafaro%2Fangular-forms-new-unified-control-state-change-events-9e8e361c4777&source=---------0-84----------frontend------bookmark_preview----6b7bebb8_0189_4122_a2c1_87a11a8af852-------) 
 
-### Enhance user experience with Box AI in Content Preview UI Element 
+### Don’t use just React 
 
- With the beta release of Box AI in the Content Preview UI Element, users can ask questions of docume... 
+ What are you saying man😠. Are you crazy😡. That’s what you thought right ?😅 Please excuse me. And ... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F0a5ffc5dc14a&operation=register&redirect=https%3A%2F%2Fmedium.com%2Fbox-developer-blog%2Fenhance-user-experience-with-box-ai-in-preview-ui-element-0a5ffc5dc14a&source=---------0-84----------frontend------bookmark_preview----00ae39a1_5fdd_419c_b107_d637af9965bc-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F680c093986bb&operation=register&redirect=https%3A%2F%2Fenlear.academy%2Fdont-use-just-react-680c093986bb&source=---------0-84----------reactjs------bookmark_preview----14612894_dc68_4c2b_868d_0b6feb6d3412-------) 
 
-### Don’t abuse the useEffect hook 
+### Don’t use just React 
 
- 🔍 Understand the purpose of useEffect: The useEffect hook allows you to perform side effects in you... 
+ What are you saying man😠. Are you crazy😡. That’s what you thought right ?😅 Please excuse me. And ... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fd525012327ab&operation=register&redirect=https%3A%2F%2Fmushfiqur06.medium.com%2Fdont-abuse-the-useeffect-hook-d525012327ab&source=---------0-84----------reactjs------bookmark_preview----e41c6229_1083_4fa0_8b6b_f5f851cd307a-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F680c093986bb&operation=register&redirect=https%3A%2F%2Fenlear.academy%2Fdont-use-just-react-680c093986bb&source=---------0-84----------nextjs------bookmark_preview----10d1cce4_61cb_4782_ad0b_77de6ca1cef3-------) 
+
+### ‘리스펙트’ 받는 개발 리더란? 라인게임즈 이도행 테크니컬 디렉터 
+
+ ‘좋은 리더’란 어떤 사람일까요? 경청, 직관, 논리력, 분석력, 커뮤니케이션, 피드백 등 좋은 리더가 갖춰야 할 다양한 역량이 있지만, 무엇보다 함께 일하는 팀원들의 ‘신뢰’를 ... 
+
+ [바로가기](https://yozm.wishket.com/magazine/detail/2620/) 
 
 ### ‘GPT-5’를 기다리며: GPT 발전 역사 돌아보기 
 
  인공지능 기술은 우리 삶과 사회에 혁명적인 변화를 불러왔으며, 그중 하나가 GPT(Generative Pre-trained Transformer)입니다. GPT는 인공지능 연구의 ... 
 
  [바로가기](https://yozm.wishket.com/magazine/detail/2619/) 
-
-### LLM 서비스를 위협으로부터 지키는 6가지 방법 
-
- ChatGPT 공개 이후 바야흐로 LLM의 시대가 도래했습니다. 특히 대화형 AI 기술이 발전하며 LLM을 활용한 여러 애플리케이션이 쏟아지고 있습니다. LLM은 텍스트 생성, 질... 
-
- [바로가기](https://yozm.wishket.com/magazine/detail/2617/) 
 
 ---
 
