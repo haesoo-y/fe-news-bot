@@ -1,29 +1,29 @@
 # 오늘의 포스팅 
-2024년 6월 8일 9시 기준 
+2024년 6월 9일 9시 기준 
 
-### Temporary Tables in SQL and How I Used it to Improve Performance 
+### Building a Speech Recognition App: A Step-by-Step Guide 
 
- This article was originally featured in…... 
+ In today’s digital age, voice technology has revolutionized the way we interact with devices. One fa... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fdd01362a4114&operation=register&redirect=https%3A%2F%2Fjavascript.plainenglish.io%2Ftemporary-tables-in-sql-and-how-i-used-it-to-improve-performance-dd01362a4114&source=---------0-84----------typescript------bookmark_preview----195171bc_9ad1_4b2f_ba52_401f07b83b0a-------) 
-
-### Angular Forms new unified control state change events 
-
- Angular v18 introduces a new capabilit within @angular/forms, by enhancing the AbstractControl class... 
-
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F9e8e361c4777&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40davidepassafaro%2Fangular-forms-new-unified-control-state-change-events-9e8e361c4777&source=---------0-84----------frontend------bookmark_preview----6b7bebb8_0189_4122_a2c1_87a11a8af852-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F1da4239950a3&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40himanshuue195061ece%2Fbuilding-a-speech-recognition-app-a-step-by-step-guide-1da4239950a3&source=---------0-84----------frontend------bookmark_preview----6a3d0df2_23f4_491d_8748_168033674c2e-------) 
 
 ### Don’t use just React 
 
  What are you saying man😠. Are you crazy😡. That’s what you thought right ?😅 Please excuse me. And ... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F680c093986bb&operation=register&redirect=https%3A%2F%2Fenlear.academy%2Fdont-use-just-react-680c093986bb&source=---------0-84----------reactjs------bookmark_preview----14612894_dc68_4c2b_868d_0b6feb6d3412-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F680c093986bb&operation=register&redirect=https%3A%2F%2Fenlear.academy%2Fdont-use-just-react-680c093986bb&source=---------0-84----------reactjs------bookmark_preview----799c46bb_ac30_4939_a50f_421de4e7db91-------) 
+
+### Deploying a Next.js 14 Static Export with Nginx 
+
+ Next.js supports static export (server-side generation), which allows for a fully static app rendere... 
+
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F81380ea41140&operation=register&redirect=https%3A%2F%2Fdbtek.medium.com%2Fdeploy-next-js-14-static-export-with-nginx-81380ea41140&source=---------0-84----------nextjs------bookmark_preview----a4e35066_efa0_40ee_9730_095762bf5870-------) 
 
 ### Don’t use just React 
 
  What are you saying man😠. Are you crazy😡. That’s what you thought right ?😅 Please excuse me. And ... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F680c093986bb&operation=register&redirect=https%3A%2F%2Fenlear.academy%2Fdont-use-just-react-680c093986bb&source=---------0-84----------nextjs------bookmark_preview----10d1cce4_61cb_4782_ad0b_77de6ca1cef3-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F680c093986bb&operation=register&redirect=https%3A%2F%2Fenlear.academy%2Fdont-use-just-react-680c093986bb&source=---------0-84----------front_end_development------bookmark_preview----890267ec_2bdf_408f_80d6_648e9f90236e-------) 
 
 ### ‘리스펙트’ 받는 개발 리더란? 라인게임즈 이도행 테크니컬 디렉터 
 
