@@ -1,29 +1,29 @@
 # 오늘의 포스팅 
-2024년 6월 10일 9시 기준 
-
-### Deploying Your React Projects on GitHub Pages 
-
- A Step-by-Step Guide... 
-
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F0320aed2c99f&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40khajjayamteja%2Fdeploying-your-react-projects-on-github-pages-0320aed2c99f&source=---------0-84----------reactjs------bookmark_preview----a24a00b7_efbb_47c9_a816_c8538a6bf266-------) 
+2024년 6월 11일 9시 기준 
 
 ### How to Configure Secure Routes Using Next.js Middleware— the best way! 
 
  By leveraging middleware in Next.js, you can intercept requests and apply access control measures to... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F320fe1f7236d&operation=register&redirect=https%3A%2F%2Ftrillionclues.medium.com%2Fhow-to-configure-secure-routes-using-next-js-middleware-the-best-way-320fe1f7236d&source=---------0-84----------nextjs------bookmark_preview----b5486c11_d70a_4df9_82aa_d55156f1cb20-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F320fe1f7236d&operation=register&redirect=https%3A%2F%2Ftrillionclues.medium.com%2Fhow-to-configure-secure-routes-using-next-js-middleware-the-best-way-320fe1f7236d&source=---------0-84----------nextjs------bookmark_preview----e722f7f9_9c65_490d_bf92_e253c1516477-------) 
 
-### 10 Advanced JavaScript Tricks You Don’t Know 
+### Frontend Weekly Digest #366 (3–9 Jun 2024) 
 
- Enhance your coding skills with these lesser-known JavaScript techniques.... 
+ Web-development... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Ff1929e40703d&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40bjprajapati381%2F10-advanced-javascript-tricks-you-dont-know-f1929e40703d&source=---------0-84----------front_end_development------bookmark_preview----4b721307_ed8e_4171_bc23_d595c91e7f96-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fc507affc6136&operation=register&redirect=https%3A%2F%2Ffrontender-ua.medium.com%2Ffrontend-weekly-digest-366-3-9-jun-2024-c507affc6136&source=---------0-84----------front_end_development------bookmark_preview----31e3c81b_486d_4860_a52c_10f13613f67a-------) 
 
-### Create a Frontend CLI: A Dynamic Boilerplate for React, Redux and Tailwind with Hygen 
+### The ultimate react native deeplinks guide on Android 
 
- Introduction... 
+ First thing first, this guide doesn’t use google dynamic links, setting up deep links on android was... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fb8a77890a433&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40mahmonir.bakhtiyari%2Fcreate-a-frontend-cli-a-dynamic-boilerplate-for-react-redux-and-tailwind-with-hygen-b8a77890a433&source=---------0-84----------react------bookmark_preview----485160bd_4c47_4ba7_877f_ff0e25045887-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fcba945e16808&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40raduc4%2Fthe-ultimate-react-native-deeplinks-guide-on-android-cba945e16808&source=---------0-84----------react------bookmark_preview----25dd5d45_974a_4cbd_8521_338cf787c057-------) 
+
+### 10 JavaScript One-Liners for Beginner Developers to Look Pro 
+
+ Have you ever been elbow-deep in coding when someone else steps in and solves a problem with a singl... 
+
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fb9548353330a&operation=register&redirect=https%3A%2F%2Fpinjarirehan.medium.com%2F10-javascript-one-liners-for-beginner-developers-to-look-pro-b9548353330a&source=---------0-84----------javascript------bookmark_preview----6ac4b27a_6843_46cf_af63_be97ced92c68-------) 
 
 ### 개발자 온라인 컨퍼런스 준비하며 느낀 점 
 
