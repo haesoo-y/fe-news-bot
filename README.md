@@ -1,23 +1,29 @@
 # 오늘의 포스팅 
-2024년 6월 15일 9시 기준 
-
-### Can you use Custom Hooks in React?! 
-
- React hooks were introduced in the 16.8 version of React.... 
-
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fa60611df0325&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40emmanuelodii80%2Fcan-you-use-custom-hooks-in-react-a60611df0325&source=---------0-84----------typescript------bookmark_preview----492ea394_7f31_459d_b42e_1344296930a9-------) 
+2024년 6월 16일 9시 기준 
 
 ### Front-End Testing: A Pragmatic Approach for Developers 
 
  Hi all ! Today we’re going to dive into the world of front-end testing. As a Software Engineer, I am... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F47d67f0e90d0&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40victorydeo%2Ffront-end-testing-a-pragmatic-approach-for-developers-47d67f0e90d0&source=---------0-84----------frontend------bookmark_preview----d9a60ac8_7eea_4726_977b_75d9a60fc45e-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F47d67f0e90d0&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40victorydeo%2Ffront-end-testing-a-pragmatic-approach-for-developers-47d67f0e90d0&source=---------0-84----------frontend------bookmark_preview----6ffacba6_1c6a_465b_9962_d9ff2e8aa461-------) 
 
 ### React Projects and State management 
 
  The core function of every application is its ability to manage, store, and manipulate data created ... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F65d68e852d55&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40nwokichaamarachi%2Freact-projects-and-state-management-65d68e852d55&source=---------0-84----------reactjs------bookmark_preview----9e6c3155_f2e4_4e4d_b677_a0b58849d872-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F65d68e852d55&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40nwokichaamarachi%2Freact-projects-and-state-management-65d68e852d55&source=---------0-84----------reactjs------bookmark_preview----534be102_1951_4141_ac4c_40076b6b8191-------) 
+
+### Two Factor Authentication with NextJS 
+
+ In this blog, you’ll find how to implement Two-Factor Authentication (2FA) using an authenticator ap... 
+
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F6a51299e5deb&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40farmaan30327%2Ftwo-factor-authentication-with-nextjs-6a51299e5deb&source=---------0-84----------nextjs------bookmark_preview----8bb9de85_5b5e_41b2_9032_5667c225996f-------) 
+
+### Build a Microfrontend with Module Federation— A vertical application with Angular 
+
+ How create a vertical microfrontend application with Angular... 
+
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fe8080989454f&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40mattia.darge%2Fbuild-a-microfrontend-with-module-federation-a-vertical-application-with-angular-e8080989454f&source=---------0-84----------front_end_development------bookmark_preview----bb69ab36_ee18_4342_a7da_a9b03a18b1b6-------) 
 
 ### 의사소통이 즐거운 개발자의 3가지 능력 
 
