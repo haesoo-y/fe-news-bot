@@ -1,29 +1,29 @@
 # 오늘의 포스팅 
-2024년 6월 16일 9시 기준 
+2024년 6월 17일 9시 기준 
 
-### Front-End Testing: A Pragmatic Approach for Developers 
+### How does the React fiber reconciler work? 
 
- Hi all ! Today we’re going to dive into the world of front-end testing. As a Software Engineer, I am... 
+ In this article, I am going to deep dive into the React world and what is the core value proposition... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F47d67f0e90d0&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40victorydeo%2Ffront-end-testing-a-pragmatic-approach-for-developers-47d67f0e90d0&source=---------0-84----------frontend------bookmark_preview----6ffacba6_1c6a_465b_9962_d9ff2e8aa461-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F77c3650127da&operation=register&redirect=https%3A%2F%2Fmaxtsh.medium.com%2Fhow-does-the-react-fiber-reconciler-work-77c3650127da&source=---------0-84----------reactjs------bookmark_preview----55f8010f_04da_4e49_b584_e94bbbfec04d-------) 
 
-### React Projects and State management 
+### Build a modern, interactive stocks chart with Next JS and React Query 
 
- The core function of every application is its ability to manage, store, and manipulate data created ... 
+ In this guide, we are going to leverage the polygon API and the capabilities of Next JS to create a ... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F65d68e852d55&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40nwokichaamarachi%2Freact-projects-and-state-management-65d68e852d55&source=---------0-84----------reactjs------bookmark_preview----534be102_1951_4141_ac4c_40076b6b8191-------) 
-
-### Two Factor Authentication with NextJS 
-
- In this blog, you’ll find how to implement Two-Factor Authentication (2FA) using an authenticator ap... 
-
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F6a51299e5deb&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40farmaan30327%2Ftwo-factor-authentication-with-nextjs-6a51299e5deb&source=---------0-84----------nextjs------bookmark_preview----8bb9de85_5b5e_41b2_9032_5667c225996f-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fcd5f78b5db5e&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40wisdom.chukwuma33%2Fbuild-a-modern-interactive-stocks-chart-with-next-js-and-react-query-cd5f78b5db5e&source=---------0-84----------nextjs------bookmark_preview----a84d5bb8_a688_4ebc_93d9_6ede9c235203-------) 
 
 ### Build a Microfrontend with Module Federation— A vertical application with Angular 
 
  How create a vertical microfrontend application with Angular... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fe8080989454f&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40mattia.darge%2Fbuild-a-microfrontend-with-module-federation-a-vertical-application-with-angular-e8080989454f&source=---------0-84----------front_end_development------bookmark_preview----bb69ab36_ee18_4342_a7da_a9b03a18b1b6-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fe8080989454f&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40mattia.darge%2Fbuild-a-microfrontend-with-module-federation-a-vertical-application-with-angular-e8080989454f&source=---------0-84----------front_end_development------bookmark_preview----3c8f1a72_5c1c_4802_a5df_0952f48f5d4d-------) 
+
+### How does the React fiber reconciler work? 
+
+ In this article, I am going to deep dive into the React world and what is the core value proposition... 
+
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F77c3650127da&operation=register&redirect=https%3A%2F%2Fmaxtsh.medium.com%2Fhow-does-the-react-fiber-reconciler-work-77c3650127da&source=---------0-84----------react------bookmark_preview----9d338bf4_b6bd_45e0_8943_b8da131f2ef2-------) 
 
 ### 의사소통이 즐거운 개발자의 3가지 능력 
 
