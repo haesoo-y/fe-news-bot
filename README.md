@@ -1,41 +1,41 @@
 # 오늘의 포스팅 
-2024년 6월 17일 9시 기준 
+2024년 6월 18일 9시 기준 
+
+### Save time and improve consistency by generating React Query with OpenAPI 
+
+ If you always wanted to have your back-end API types, enums, models, API call signatures in your fro... 
+
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F62d955137bc5&operation=register&redirect=https%3A%2F%2Fmfi.engineering%2Fsave-time-and-improve-consistency-by-generating-react-query-with-openapi-62d955137bc5&source=---------0-84----------nextjs------bookmark_preview----93a44086_11ef_41f4_b5f8_87342c224e11-------) 
+
+### Frontend Weekly Digest #367 (10–16 Jun 2024) 
+
+ Web-development... 
+
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F885157f6f1f5&operation=register&redirect=https%3A%2F%2Ffrontender-ua.medium.com%2Ffrontend-weekly-digest-367-10-16-jun-2024-885157f6f1f5&source=---------0-84----------front_end_development------bookmark_preview----d17a1113_095e_4637_a6af_1ea5971a9b70-------) 
 
 ### How does the React fiber reconciler work? 
 
  In this article, I am going to deep dive into the React world and what is the core value proposition... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F77c3650127da&operation=register&redirect=https%3A%2F%2Fmaxtsh.medium.com%2Fhow-does-the-react-fiber-reconciler-work-77c3650127da&source=---------0-84----------reactjs------bookmark_preview----55f8010f_04da_4e49_b584_e94bbbfec04d-------) 
-
-### Build a modern, interactive stocks chart with Next JS and React Query 
-
- In this guide, we are going to leverage the polygon API and the capabilities of Next JS to create a ... 
-
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fcd5f78b5db5e&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40wisdom.chukwuma33%2Fbuild-a-modern-interactive-stocks-chart-with-next-js-and-react-query-cd5f78b5db5e&source=---------0-84----------nextjs------bookmark_preview----a84d5bb8_a688_4ebc_93d9_6ede9c235203-------) 
-
-### Build a Microfrontend with Module Federation— A vertical application with Angular 
-
- How create a vertical microfrontend application with Angular... 
-
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fe8080989454f&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40mattia.darge%2Fbuild-a-microfrontend-with-module-federation-a-vertical-application-with-angular-e8080989454f&source=---------0-84----------front_end_development------bookmark_preview----3c8f1a72_5c1c_4802_a5df_0952f48f5d4d-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F77c3650127da&operation=register&redirect=https%3A%2F%2Fmaxtsh.medium.com%2Fhow-does-the-react-fiber-reconciler-work-77c3650127da&source=---------0-84----------react------bookmark_preview----f420eb7e_8713_41aa_b922_ce2af80944bd-------) 
 
 ### How does the React fiber reconciler work? 
 
  In this article, I am going to deep dive into the React world and what is the core value proposition... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F77c3650127da&operation=register&redirect=https%3A%2F%2Fmaxtsh.medium.com%2Fhow-does-the-react-fiber-reconciler-work-77c3650127da&source=---------0-84----------react------bookmark_preview----9d338bf4_b6bd_45e0_8943_b8da131f2ef2-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F77c3650127da&operation=register&redirect=https%3A%2F%2Fmaxtsh.medium.com%2Fhow-does-the-react-fiber-reconciler-work-77c3650127da&source=---------0-84----------javascript------bookmark_preview----9768b55c_d574_4e25_97e5_3105f70e3e8b-------) 
+
+### 리액트에서 key에 index를 넣으면 안 되는 ‘진짜’ 이유 
+
+ 리액트에서 key에 index를 넣으면 성능 저하가 발생할 수 있으므로 사용하지 않는 것이 좋다고 합니다. 즉석에서 값을 생성해 부여하는 것 역시 안 된다고 하네요. index가 ... 
+
+ [바로가기](https://yozm.wishket.com/magazine/detail/2634/) 
 
 ### 의사소통이 즐거운 개발자의 3가지 능력 
 
  몇 년 전 회사 CTO님이 “코딩 실력만 있는 것이 아니라 대화가 통하는 동시에 일도 믿고 맡길 수 있는 개발자가 한국에 몇 명이나 있을 것 같냐”고 물었습니다. 대답을 망설이자 ... 
 
  [바로가기](https://yozm.wishket.com/magazine/detail/2631/) 
-
-### 2024 프론트엔드 기술 스택 트렌드 이야기 (2) 
-
- 기술 스택은 우리가 개발을 배울 때와 프로젝트를 시작할 때 항상 처음 정하는 것이라 너무 익숙하지만, 그만큼 기술 스택이라는 것 그 자체에 대해서는 깊게 생각하지 않는 것 같습니다... 
-
- [바로가기](https://yozm.wishket.com/magazine/detail/2626/) 
 
 ---
 
