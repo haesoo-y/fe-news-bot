@@ -1,41 +1,41 @@
 # 오늘의 포스팅 
-2024년 6월 18일 9시 기준 
+2024년 6월 19일 9시 기준 
 
-### Save time and improve consistency by generating React Query with OpenAPI 
+### React: Don’t Let Your Code Become a Monster — Essential Hygiene Practices in 2024 
 
- If you always wanted to have your back-end API types, enums, models, API call signatures in your fro... 
+ With my background in jQuery, Knockout, and Angular, I quickly realized that this library was revolu... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F62d955137bc5&operation=register&redirect=https%3A%2F%2Fmfi.engineering%2Fsave-time-and-improve-consistency-by-generating-react-query-with-openapi-62d955137bc5&source=---------0-84----------nextjs------bookmark_preview----93a44086_11ef_41f4_b5f8_87342c224e11-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F5a058ff5c8f5&operation=register&redirect=https%3A%2F%2Fblog.quadiontech.com%2Freact-dont-let-your-code-become-a-monster-essential-hygiene-practices-in-2024-5a058ff5c8f5&source=---------0-84----------front_end_development------bookmark_preview----5b3fd32a_6961_48c4_808b_5314265938c5-------) 
 
-### Frontend Weekly Digest #367 (10–16 Jun 2024) 
+### Deploy React App to Azure Webapp using muti stage Azure YAML Pipeline 
 
- Web-development... 
+ In this article I’ll walk you through the deployment process on how to deploy a React App to Azure W... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F885157f6f1f5&operation=register&redirect=https%3A%2F%2Ffrontender-ua.medium.com%2Ffrontend-weekly-digest-367-10-16-jun-2024-885157f6f1f5&source=---------0-84----------front_end_development------bookmark_preview----d17a1113_095e_4637_a6af_1ea5971a9b70-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F99444112437f&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40prasad.reddy0708%2Fdeploy-react-app-to-azure-webapp-using-muti-stage-azure-yaml-pipeline-99444112437f&source=---------0-84----------react------bookmark_preview----32bf3970_0076_4e61_b624_c244856f6147-------) 
 
-### How does the React fiber reconciler work? 
+### 5 JavaScript Practices You Should Know as a Web Developer 
 
- In this article, I am going to deep dive into the React world and what is the core value proposition... 
+ These 5 practices will help you upskill yourself and help save time in debugging.... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F77c3650127da&operation=register&redirect=https%3A%2F%2Fmaxtsh.medium.com%2Fhow-does-the-react-fiber-reconciler-work-77c3650127da&source=---------0-84----------react------bookmark_preview----f420eb7e_8713_41aa_b922_ce2af80944bd-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fb3fcad1d3315&operation=register&redirect=https%3A%2F%2Fjavascript.plainenglish.io%2F5-javascript-practices-you-should-know-as-a-web-developer-b3fcad1d3315&source=---------0-84----------javascript------bookmark_preview----83d3eec3_a601_4a29_9b7e_3eecf2e0d2a5-------) 
 
-### How does the React fiber reconciler work? 
+### Fragment Colocation with ApolloClient 
 
- In this article, I am going to deep dive into the React world and what is the core value proposition... 
+ What is the Fragment... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F77c3650127da&operation=register&redirect=https%3A%2F%2Fmaxtsh.medium.com%2Fhow-does-the-react-fiber-reconciler-work-77c3650127da&source=---------0-84----------javascript------bookmark_preview----9768b55c_d574_4e25_97e5_3105f70e3e8b-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F815edbcf7a69&operation=register&redirect=https%3A%2F%2Ftechblog.shippio.io%2Ffragment-colocation-with-apolloclient-815edbcf7a69&source=---------0-84----------typescript------bookmark_preview----62cb694c_5374_471e_bb64_3686a9bcbda2-------) 
+
+### Rust는 C++을 대체할 수 있을까? 
+
+ Rust. 최근 Reddit이나 HackerNews를 보면 아주 빈번하게 접할 수 있는 프로그래밍 언어입니다. 이 언어는 시스템 프로그래밍 언어로, 특히 C와 C++의 단점을 보완... 
+
+ [바로가기](https://yozm.wishket.com/magazine/detail/2635/) 
 
 ### 리액트에서 key에 index를 넣으면 안 되는 ‘진짜’ 이유 
 
  리액트에서 key에 index를 넣으면 성능 저하가 발생할 수 있으므로 사용하지 않는 것이 좋다고 합니다. 즉석에서 값을 생성해 부여하는 것 역시 안 된다고 하네요. index가 ... 
 
  [바로가기](https://yozm.wishket.com/magazine/detail/2634/) 
-
-### 의사소통이 즐거운 개발자의 3가지 능력 
-
- 몇 년 전 회사 CTO님이 “코딩 실력만 있는 것이 아니라 대화가 통하는 동시에 일도 믿고 맡길 수 있는 개발자가 한국에 몇 명이나 있을 것 같냐”고 물었습니다. 대답을 망설이자 ... 
-
- [바로가기](https://yozm.wishket.com/magazine/detail/2631/) 
 
 ---
 
