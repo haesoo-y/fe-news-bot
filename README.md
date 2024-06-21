@@ -1,29 +1,29 @@
 # 오늘의 포스팅 
-2024년 6월 20일 9시 기준 
+2024년 6월 21일 9시 기준 
 
-### React: Don’t Let Your Code Become a Monster — Essential Hygiene Practices in 2024 
+### the tale of tortoise and hare 
 
- With my background in jQuery, Knockout, and Angular, I quickly realized that this library was revolu... 
+ This article is all you need to know about the famous tortoise and hare algorithm (aka Floyd’s cycle... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F5a058ff5c8f5&operation=register&redirect=https%3A%2F%2Fblog.quadiontech.com%2Freact-dont-let-your-code-become-a-monster-essential-hygiene-practices-in-2024-5a058ff5c8f5&source=---------0-84----------react------bookmark_preview----b6aaee0a_256b_4ecc_8416_bff1fe958af7-------) 
-
-### React.js Deep Dive #1 — createElement and jsx-runtime 
-
- React, a popular JavaScript library for building user interfaces offers a rich ecosystem of tools an... 
-
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F63c75882f7b0&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40juliaazt%2Freact-js-deep-dive-1-createelement-and-jsx-runtime-63c75882f7b0&source=---------0-84----------javascript------bookmark_preview----d7333eae_46ef_401f_bd6a_7b4548415543-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F43c55e459a07&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40thakuria.mayukh%2Fthe-tale-of-tortoise-and-hare-43c55e459a07&source=---------0-84----------javascript------bookmark_preview----38c609b2_49a9_4f15_9a7b_b9ba7f72a813-------) 
 
 ### Mastering Generics in TypeScript: Write Flexible, Secure, and Duplicity-Free Code 
 
  Generics in TypeScript is a feature that not only enhances the robustness and scalability of softwar... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fb3027e20c108&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40felipefreitasa%2Fmastering-generics-in-typescript-write-flexible-secure-and-duplicity-free-code-b3027e20c108&source=---------0-84----------typescript------bookmark_preview----c0212ac8_c175_479b_83af_4c2fc7f09d79-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fb3027e20c108&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40felipefreitasa%2Fmastering-generics-in-typescript-write-flexible-secure-and-duplicity-free-code-b3027e20c108&source=---------0-84----------typescript------bookmark_preview----45ad8af0_bbcc_4545_96b7_24cec876ba4e-------) 
 
-### 🏆 From Aspirations to Achievements: My Noogler Story at Google 🎉Hello People 
+### Micro Frontend: Breaking the Traditions of Conventional Web Development 
 
- I hope you’re doing well! Today, I’m excited to share my story about my journey through the Google i... 
+ The growth of web development technology continues to progress over time, from the era of native Jav... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F303bdf899d88&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40rahulrana95%2Ffrom-aspirations-to-achievements-my-noogler-story-at-google-hello-people-303bdf899d88&source=---------0-84----------frontend------bookmark_preview----9d6fc5da_1903_4971_8e53_35f4da21566e-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F4c38ea992f5a&operation=register&redirect=https%3A%2F%2Ffhaladin-dev.medium.com%2Fmicro-frontend-breaking-the-traditions-of-conventional-web-development-4c38ea992f5a&source=---------0-84----------frontend------bookmark_preview----f6ffdf67_da32_4caa_84ee_e9a0132d794c-------) 
+
+### React.js Deep Dive #1 — createElement and jsx-runtime 
+
+ React, a popular JavaScript library for building user interfaces offers a rich ecosystem of tools an... 
+
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F63c75882f7b0&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40juliaazt%2Freact-js-deep-dive-1-createelement-and-jsx-runtime-63c75882f7b0&source=---------0-84----------reactjs------bookmark_preview----b9c4030b_9711_4be4_9608_63315127e21d-------) 
 
 ### Rust는 C++을 대체할 수 있을까? 
 
