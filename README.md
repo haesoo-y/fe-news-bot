@@ -1,29 +1,29 @@
 # 오늘의 포스팅 
-2024년 6월 22일 9시 기준 
+2024년 6월 23일 9시 기준 
 
-### Understanding TypeScript’s Handling of Object Literal Types: The Quirks and Insights 
+### Simple React Accordion Component(Props, “Children” props) 
 
- Did you know that TypeScript’s handling of object literals can sometimes lead to unexpected behavior... 
+ When coming up with simple basic react accordion, only react basic knowledge is required. Having som... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fc1c8b4e49645&operation=register&redirect=https%3A%2F%2Fblog.stackademic.com%2Funderstanding-typescripts-handling-of-object-literal-types-the-quirks-and-insights-c1c8b4e49645&source=---------0-84----------typescript------bookmark_preview----ff45cb57_3390_4c74_a3a5_0f07fe99eb74-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fe0f077c4d8fd&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40mastermusili%2Fsimple-react-accordion-component-props-children-props-e0f077c4d8fd&source=---------0-84----------frontend------bookmark_preview----fbab282f_52d6_4d02_aff6_2fd822485e9f-------) 
 
-### 🏆 From Aspirations to Achievements: My Noogler Story at Google 🎉Hello People 
+### Guide to migrating from Create React App (CRA) to Vite 
 
- I hope you’re doing well! Today, I’m excited to share my story about my journey through the Google i... 
+ Lately, I was notified by the security team within my company to resolve all the vulnerabilities fou... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F303bdf899d88&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40rahulrana95%2Ffrom-aspirations-to-achievements-my-noogler-story-at-google-hello-people-303bdf899d88&source=---------0-84----------frontend------bookmark_preview----0c466211_ae32_4779_8faa_1f328266b0d6-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F5516f55aa410&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40mun1013%2Fguide-to-migrating-from-create-react-app-cra-to-vite-5516f55aa410&source=---------0-84----------reactjs------bookmark_preview----d66f65a9_6c76_44a8_b6dd_51d5b4e765af-------) 
 
-### Discovering the React Compiler: A Fun Journey into Optimized React Magic 
+### Getting Started with NextJS 14.0 — A ReactJS Framework 
 
- Hello, fellow React enthusiasts! Today, I want to share some exciting news about the new React Compi... 
+ What is NextJS?... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fcce65d9a6c06&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40jason13201%2Fdiscovering-the-react-compiler-a-fun-journey-into-optimized-react-magic-cce65d9a6c06&source=---------0-84----------reactjs------bookmark_preview----d2226cde_f858_4f2b_91eb_9ca036c2fe73-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fec36f4704357&operation=register&redirect=https%3A%2F%2Fkartavyavg.medium.com%2Fgetting-started-with-nextjs-14-0-a-reactjs-framework-ec36f4704357&source=---------0-84----------nextjs------bookmark_preview----5eebcf7a_790a_48b4_9027_e079bd1dca62-------) 
 
-### Make your NavBar Responsive with React and TailwindCSS 
+### Angular — Use any existing interface into strongly typed reactive form 
 
- In today’s mobile-first world, creating a responsive designs and implementing them is essential for ... 
+ Angular 14+ gives us the long awaited possibility to type our reactive forms. The problem is that we... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fc1f729318a7b&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40egemenc2101%2Fmake-your-navbar-responsive-with-react-and-tailwindcss-c1f729318a7b&source=---------0-84----------nextjs------bookmark_preview----34f147fa_6edc_48e5_8709_7586ded7fc52-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F90a6ab672b37&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40nexsol-tech%2Fangular-use-any-existing-interface-into-strongly-typed-reactive-form-90a6ab672b37&source=---------0-84----------front_end_development------bookmark_preview----aba925b5_7a07_4383_a70c_06fce4a0b144-------) 
 
 ### 눈과 귀가 달린 LLM, 멀티모달 AI 
 
