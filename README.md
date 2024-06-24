@@ -1,29 +1,29 @@
 # 오늘의 포스팅 
-2024년 6월 23일 9시 기준 
-
-### Simple React Accordion Component(Props, “Children” props) 
-
- When coming up with simple basic react accordion, only react basic knowledge is required. Having som... 
-
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fe0f077c4d8fd&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40mastermusili%2Fsimple-react-accordion-component-props-children-props-e0f077c4d8fd&source=---------0-84----------frontend------bookmark_preview----fbab282f_52d6_4d02_aff6_2fd822485e9f-------) 
+2024년 6월 24일 9시 기준 
 
 ### Guide to migrating from Create React App (CRA) to Vite 
 
  Lately, I was notified by the security team within my company to resolve all the vulnerabilities fou... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F5516f55aa410&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40mun1013%2Fguide-to-migrating-from-create-react-app-cra-to-vite-5516f55aa410&source=---------0-84----------reactjs------bookmark_preview----d66f65a9_6c76_44a8_b6dd_51d5b4e765af-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F5516f55aa410&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40mun1013%2Fguide-to-migrating-from-create-react-app-cra-to-vite-5516f55aa410&source=---------0-84----------reactjs------bookmark_preview----2696a804_6655_4ae0_8574_18805c60c09c-------) 
 
-### Getting Started with NextJS 14.0 — A ReactJS Framework 
+### Handling Form Loading States in Next.js/React (2024) 
 
- What is NextJS?... 
+ 6 Ways to Handle Form Loading States in Your Next.js/React App: From Basic to Advanced... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fec36f4704357&operation=register&redirect=https%3A%2F%2Fkartavyavg.medium.com%2Fgetting-started-with-nextjs-14-0-a-reactjs-framework-ec36f4704357&source=---------0-84----------nextjs------bookmark_preview----5eebcf7a_790a_48b4_9027_e079bd1dca62-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F33da2dae11ce&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40ryangan.dev%2Fhandling-form-loading-states-in-next-js-react-2024-33da2dae11ce&source=---------0-84----------nextjs------bookmark_preview----aed6fa14_a41f_4e34_a739_3035aec2a66f-------) 
 
-### Angular — Use any existing interface into strongly typed reactive form 
+### Frontend Weekly Digest #368 (17–23 Jun 2024) 
 
- Angular 14+ gives us the long awaited possibility to type our reactive forms. The problem is that we... 
+ Web-development... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F90a6ab672b37&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40nexsol-tech%2Fangular-use-any-existing-interface-into-strongly-typed-reactive-form-90a6ab672b37&source=---------0-84----------front_end_development------bookmark_preview----aba925b5_7a07_4383_a70c_06fce4a0b144-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F131dbea47039&operation=register&redirect=https%3A%2F%2Ffrontender-ua.medium.com%2Ffrontend-weekly-digest-368-17-23-jun-2024-131dbea47039&source=---------0-84----------front_end_development------bookmark_preview----5fb62665_488b_415d_9dc1_bc113ed0b03a-------) 
+
+### Modern Testing Setup: Jest and React Testing Library for React TypeScript Projects 
+
+ A detailed breakdown of the setup and execution flow for single test cases in React applications, hi... 
+
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fa534c651746f&operation=register&redirect=https%3A%2F%2Flevelup.gitconnected.com%2Fmodern-testing-setup-jest-and-react-testing-library-for-react-typescript-projects-a534c651746f&source=---------0-84----------react------bookmark_preview----72f2b573_749d_4d2a_9511_f6d7e670f7ab-------) 
 
 ### 눈과 귀가 달린 LLM, 멀티모달 AI 
 
