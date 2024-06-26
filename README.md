@@ -1,29 +1,29 @@
 # 오늘의 포스팅 
-2024년 6월 25일 9시 기준 
+2024년 6월 26일 9시 기준 
 
-### Handling Form Loading States in Next.js/React (2024) 
+### Why Clio is Transitioning to a Rails Front-end Experience: A Deep Dive. 
 
- 6 Ways to Handle Form Loading States in Your Next.js/React App: From Basic to Advanced... 
+ The landscape of front-end technologies has constantly changed, presenting challenges and opportunit... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F33da2dae11ce&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40ryangan.dev%2Fhandling-form-loading-states-in-next-js-react-2024-33da2dae11ce&source=---------0-84----------nextjs------bookmark_preview----db9a8986_99fd_47ad_bb52_c2b7aaef66e5-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F79794b9ba07e&operation=register&redirect=https%3A%2F%2Flabs.clio.com%2Fwhy-clio-is-transitioning-to-a-rails-front-end-experience-a-deep-dive-79794b9ba07e&source=---------0-84----------front_end_development------bookmark_preview----7e978670_bcd0_4415_9533_725ce98637aa-------) 
 
-### Frontend Weekly Digest #368 (17–23 Jun 2024) 
+### useMemo vs memo in React 🥷 
 
- Web-development... 
+ Optimizing Performance in React: A Simple Guide to useMemo and memo... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F131dbea47039&operation=register&redirect=https%3A%2F%2Ffrontender-ua.medium.com%2Ffrontend-weekly-digest-368-17-23-jun-2024-131dbea47039&source=---------0-84----------front_end_development------bookmark_preview----b8f2dc58_cb94_4afd_8743_7f839557fd8a-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F8c9da370dbdc&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40juvitasaini%2Fusememo-vs-memo-in-react-8c9da370dbdc&source=---------0-84----------react------bookmark_preview----9f5c0398_2216_4dc6_8aeb_8a161564b9d2-------) 
 
-### Creating React Native Library: Bridging Native Modules for iOS and Android Integration 
+### AI Within Your Browser: Exploring Google Chrome’s New Prompt API 
 
- In this guide, we’ll explore building a React Native library with native modules , sharing tips to b... 
+ Imagine being able to use a powerful AI directly in your browser, similar to WebGPU but without the ... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fc2f8d35c9765&operation=register&redirect=https%3A%2F%2Fakreview22.medium.com%2Fcreating-react-native-library-bridging-native-modules-for-ios-and-android-integration-c2f8d35c9765&source=---------0-84----------react------bookmark_preview----e3e4d499_4d01_41a2_b4c9_eae03255acea-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fa5c2c6bd5b4c&operation=register&redirect=https%3A%2F%2Fmuthuishere.medium.com%2Fai-within-your-browser-exploring-google-chromes-new-prompt-api-a5c2c6bd5b4c&source=---------0-84----------javascript------bookmark_preview----d8b21705_c520_43db_9286_9b8bfe2bfb95-------) 
 
-### Essential Promise Utilities for JavaScript 
+### Essential Promise Utilities for Typescript 
 
- Enhance your JavaScript with essential Promise utilities for cleaner, more efficient async code. Ful... 
+ Enhance your Typescript with essential Promise utilities for cleaner, more efficient async code. Ful... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F9234cd9d3fdb&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40assorium%2Fessential-promise-utilities-for-javascript-9234cd9d3fdb&source=---------0-84----------javascript------bookmark_preview----24359f3e_72d8_4471_9c38_bcc86cf3df3d-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F9234cd9d3fdb&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40assorium%2Fessential-promise-utilities-for-javascript-9234cd9d3fdb&source=---------0-84----------typescript------bookmark_preview----f2acf9da_ff2a_4451_89d3_5d1a12ca96c3-------) 
 
 ### [요즘IT 2024] 상반기 ‘개발’, ‘IT서비스’ 인기글 TOP 7 
 
