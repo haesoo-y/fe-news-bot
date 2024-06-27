@@ -1,41 +1,41 @@
 # 오늘의 포스팅 
-2024년 6월 26일 9시 기준 
+2024년 6월 27일 9시 기준 
 
-### Why Clio is Transitioning to a Rails Front-end Experience: A Deep Dive. 
+### Under the Hood of Lazy Loading in React 
 
- The landscape of front-end technologies has constantly changed, presenting challenges and opportunit... 
+ Curious about how to make your React applications lightning-fast?... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F79794b9ba07e&operation=register&redirect=https%3A%2F%2Flabs.clio.com%2Fwhy-clio-is-transitioning-to-a-rails-front-end-experience-a-deep-dive-79794b9ba07e&source=---------0-84----------front_end_development------bookmark_preview----7e978670_bcd0_4415_9533_725ce98637aa-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fa758fe89686f&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40princybhalu11%2Funder-the-hood-of-lazy-loading-in-react-a758fe89686f&source=---------0-84----------react------bookmark_preview----fb123718_1d55_4c60_933a_26118064424d-------) 
 
-### useMemo vs memo in React 🥷 
+### i Build a Cli Tool like Shadcn for Nextjs😅 
 
- Optimizing Performance in React: A Simple Guide to useMemo and memo... 
+ So let’s Start 👇 and don’t Forget to “💖”.... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F8c9da370dbdc&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40juvitasaini%2Fusememo-vs-memo-in-react-8c9da370dbdc&source=---------0-84----------react------bookmark_preview----9f5c0398_2216_4dc6_8aeb_8a161564b9d2-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F492b95ffe7a4&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40mdtaqui.jhar%2Fi-build-a-cli-tool-like-shadcn-for-nextjs-492b95ffe7a4&source=---------0-84----------javascript------bookmark_preview----9b5b03e9_3d2c_45a9_9355_4e38997b1aa8-------) 
 
-### AI Within Your Browser: Exploring Google Chrome’s New Prompt API 
+### You don’t know JS — Understanding Scope , Closure , Hoisting, Modules 
 
- Imagine being able to use a powerful AI directly in your browser, similar to WebGPU but without the ... 
+ Scope: Defines the accessibility of variables, where they’re accessible in your code.... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fa5c2c6bd5b4c&operation=register&redirect=https%3A%2F%2Fmuthuishere.medium.com%2Fai-within-your-browser-exploring-google-chromes-new-prompt-api-a5c2c6bd5b4c&source=---------0-84----------javascript------bookmark_preview----d8b21705_c520_43db_9286_9b8bfe2bfb95-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F69c9ced2d62a&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40venkateshb-03%2Fyou-dont-know-js-understanding-scope-closure-hoisting-modules-69c9ced2d62a&source=---------0-84----------typescript------bookmark_preview----eab5bf5e_64a0_44b6_ad64_b8b293755722-------) 
 
-### Essential Promise Utilities for Typescript 
+### Alternative text in OutSystems 
 
- Enhance your Typescript with essential Promise utilities for cleaner, more efficient async code. Ful... 
+ Let’s start by understanding why it is important to have alternative text for images.... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F9234cd9d3fdb&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40assorium%2Fessential-promise-utilities-for-javascript-9234cd9d3fdb&source=---------0-84----------typescript------bookmark_preview----f2acf9da_ff2a_4451_89d3_5d1a12ca96c3-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F8e7c058e2ef3&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40mariana.m.junges%2Falternative-text-in-outsystems-8e7c058e2ef3&source=---------0-84----------frontend------bookmark_preview----1e2d6299_268a_4555_8493_5b0ea073b5ca-------) 
+
+### 뽑히는 개발자 이력서는 어떻게 만드나요? 
+
+ 25년 차 개발자로 꾸준히 멘토링을 하다 보니 신입 개발자의 이력서를 볼 일이 많습니다. 신입 또는 경력이 짧은 주니어 엔지니어의 이력서는 대체로 비슷합니다. 조금 과장해 표현하면... 
+
+ [바로가기](https://yozm.wishket.com/magazine/detail/2648/) 
 
 ### [요즘IT 2024] 상반기 ‘개발’, ‘IT서비스’ 인기글 TOP 7 
 
  어느덧 2024년의 상반기가 훌쩍 지나갔습니다. 요즘IT는 “완전 럭키비키잖아!”를 외치며, 꽤 긍정적인 하루하루를 보낸 것 같은데요. 요즘IT 독자분들은 어떻게 보내셨나요? IT... 
 
  [바로가기](https://yozm.wishket.com/magazine/detail/2643/) 
-
-### 눈과 귀가 달린 LLM, 멀티모달 AI 
-
- 최근 openAI가 선보인 AI 모델 GPT-4o에 대한 관심이 뜨겁습니다. GPT-4o는 목소리 톤을 바꾸어 가며 감정을 담은 농담을 던지고, 주변 풍경을 정확히 인식하며 시각장... 
-
- [바로가기](https://yozm.wishket.com/magazine/detail/2641/) 
 
 ---
 
