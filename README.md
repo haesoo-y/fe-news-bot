@@ -1,41 +1,41 @@
 # 오늘의 포스팅 
-2024년 6월 27일 9시 기준 
+2024년 6월 28일 9시 기준 
 
-### Under the Hood of Lazy Loading in React 
+### Journey Through Code: Scaling an IoT Startup with NodeJS 
 
- Curious about how to make your React applications lightning-fast?... 
+ Back in the early days of 2018, as I embarked on my entrepreneurial journey, I never anticipated tha... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fa758fe89686f&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40princybhalu11%2Funder-the-hood-of-lazy-loading-in-react-a758fe89686f&source=---------0-84----------react------bookmark_preview----fb123718_1d55_4c60_933a_26118064424d-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F4308e2505c2e&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40rajan.b%2Fjourney-through-code-scaling-an-iot-startup-with-nodejs-4308e2505c2e&source=---------0-84----------javascript------bookmark_preview----748dc6d5_a5af_4f73_814a_d02a506ba2e8-------) 
 
-### i Build a Cli Tool like Shadcn for Nextjs😅 
+### Creating a Chrome extension using React, TypeScript, and ChatGPT to summarise paragraphs 
 
- So let’s Start 👇 and don’t Forget to “💖”.... 
+ Creating a Chrome extension using React, TypeScript, and ChatGPT to summarise paragraphs involves se... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F492b95ffe7a4&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40mdtaqui.jhar%2Fi-build-a-cli-tool-like-shadcn-for-nextjs-492b95ffe7a4&source=---------0-84----------javascript------bookmark_preview----9b5b03e9_3d2c_45a9_9355_4e38997b1aa8-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F9a88368a173f&operation=register&redirect=https%3A%2F%2Famir-saeed.medium.com%2Fcreating-a-chrome-extension-using-react-typescript-and-chatgpt-to-summarise-paragraphs-9a88368a173f&source=---------0-84----------typescript------bookmark_preview----55a4f870_0f5c_4d2b_86b9_619d76cd8fef-------) 
 
-### You don’t know JS — Understanding Scope , Closure , Hoisting, Modules 
+### The Frontend Landscape 
 
- Scope: Defines the accessibility of variables, where they’re accessible in your code.... 
+ ReactJS vs. Svelte:... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F69c9ced2d62a&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40venkateshb-03%2Fyou-dont-know-js-understanding-scope-closure-hoisting-modules-69c9ced2d62a&source=---------0-84----------typescript------bookmark_preview----eab5bf5e_64a0_44b6_ad64_b8b293755722-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F2f5aa29f177c&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40hashsenju94%2Fthe-frontend-landscape-2f5aa29f177c&source=---------0-84----------frontend------bookmark_preview----9596e640_ce55_4914_99ce_3d1e6cc3ddfd-------) 
 
-### Alternative text in OutSystems 
+### Comparing Two Popular Frontend Technologies: ReactJS vs VueJS 
 
- Let’s start by understanding why it is important to have alternative text for images.... 
+ In the front-end development industry, there are many frameworks and libraries that are used with ea... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F8e7c058e2ef3&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40mariana.m.junges%2Falternative-text-in-outsystems-8e7c058e2ef3&source=---------0-84----------frontend------bookmark_preview----1e2d6299_268a_4555_8493_5b0ea073b5ca-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fa27e319306ed&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40queendesi06%2Fcomparing-two-popular-frontend-technologies-reactjs-vs-vuejs-a27e319306ed&source=---------0-84----------reactjs------bookmark_preview----7eb5de25_29ff_4814_989b_13650168a3d7-------) 
+
+### 적성따라 직군 바꾸기: MS 서지영 AI&데이터 스페셜리스트 
+
+ 이번에 소개할 인물, 서지영 님은 개발자로 시작해 DBA를 거쳐 AI&데이터 스페셜리스트로 커리어를 쌓아 나가고 있습니다. 무려 두 번의 직군 전환을 성공적으로 이뤄낸 건데요. 물... 
+
+ [바로가기](https://yozm.wishket.com/magazine/detail/2649/) 
 
 ### 뽑히는 개발자 이력서는 어떻게 만드나요? 
 
  25년 차 개발자로 꾸준히 멘토링을 하다 보니 신입 개발자의 이력서를 볼 일이 많습니다. 신입 또는 경력이 짧은 주니어 엔지니어의 이력서는 대체로 비슷합니다. 조금 과장해 표현하면... 
 
  [바로가기](https://yozm.wishket.com/magazine/detail/2648/) 
-
-### [요즘IT 2024] 상반기 ‘개발’, ‘IT서비스’ 인기글 TOP 7 
-
- 어느덧 2024년의 상반기가 훌쩍 지나갔습니다. 요즘IT는 “완전 럭키비키잖아!”를 외치며, 꽤 긍정적인 하루하루를 보낸 것 같은데요. 요즘IT 독자분들은 어떻게 보내셨나요? IT... 
-
- [바로가기](https://yozm.wishket.com/magazine/detail/2643/) 
 
 ---
 
