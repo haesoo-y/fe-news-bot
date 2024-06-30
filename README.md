@@ -1,29 +1,29 @@
 # 오늘의 포스팅 
-2024년 6월 29일 9시 기준 
+2024년 6월 30일 9시 기준 
 
-### Understanding the Nullish Coalescing Operator (??) in JavaScript 
+### React vs Angular: Picking The Giant For The Best Use 
 
- Have you ever wondered how the nullish coalescing operator (??) works in JavaScript? This operator p... 
+ Outlin... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fe7d627fe268c&operation=register&redirect=https%3A%2F%2Fpvkrijesh.medium.com%2Funderstanding-the-nullish-coalescing-operator-in-javascript-e7d627fe268c&source=---------0-84----------typescript------bookmark_preview----edeee796_9f1d_4ef1_b705_f7643ebb19d3-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F59846890d2b6&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40chigbovcm2020%2Freact-vs-angular-picking-the-giant-for-the-best-use-59846890d2b6&source=---------0-84----------frontend------bookmark_preview----a90df812_37ac_4c45_b2b4_ce912b3edc49-------) 
+
+### Step-by-Step Guide to Docker: Local Setup on Windows with a Dockerized React.js Project 
+
+ Introduction :Step-by-Step Guide to Docker: Local Setup on Windows with a Dockerized React.js Projec... 
+
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F3d0f49fbfa24&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40techkaala7%2Fstep-by-step-guide-to-docker-local-setup-on-windows-with-a-dockerized-react-js-project-3d0f49fbfa24&source=---------0-84----------reactjs------bookmark_preview----a5cf7af0_f83c_4fd8_8453_483ca0d76247-------) 
+
+### NextJS vs VueJS: What you need to know 
+
+ A detailed yet concise comparison between NextJS and VueJS. All you need to know.... 
+
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F53e339fdabb4&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40ukanah15thdean%2Fnextjs-vs-vuejs-what-you-need-to-know-53e339fdabb4&source=---------0-84----------nextjs------bookmark_preview----ce0a2f24_4604_4bf3_9a96_0f4db2ef5c96-------) 
 
 ### Svelte: Different and Engaging Experience Unlike Others 
 
  Insights after experiencing svelte in Trendyol-Ads.... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F9fe641566104&operation=register&redirect=https%3A%2F%2Fmedium.com%2Ftrendyol-tech%2Fsvelte-different-and-engaging-experience-unlike-others-9fe641566104&source=---------0-84----------frontend------bookmark_preview----eef66dce_c3fa_4b01_9c06_9dee52a72ae7-------) 
-
-### Comparing Two Popular Frontend Technologies: ReactJS vs VueJS 
-
- In the front-end development industry, there are many frameworks and libraries that are used with ea... 
-
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fa27e319306ed&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40queendesi06%2Fcomparing-two-popular-frontend-technologies-reactjs-vs-vuejs-a27e319306ed&source=---------0-84----------reactjs------bookmark_preview----7eb5de25_29ff_4814_989b_13650168a3d7-------) 
-
-### i Build a Cli Tool like Shadcn for Nextjs😅 
-
- So let’s Start 👇 and don’t Forget to “💖”.... 
-
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F492b95ffe7a4&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40mdtaqui.jhar%2Fi-build-a-cli-tool-like-shadcn-for-nextjs-492b95ffe7a4&source=---------0-84----------nextjs------bookmark_preview----ae2d0ebe_8da6_49bc_9be3_9bff2aae0d34-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F9fe641566104&operation=register&redirect=https%3A%2F%2Fmedium.com%2Ftrendyol-tech%2Fsvelte-different-and-engaging-experience-unlike-others-9fe641566104&source=---------0-84----------front_end_development------bookmark_preview----a8bf1e65_ebd4_46e8_8446_187dcb0586f4-------) 
 
 ### 놓친 글 다시 보기! 요즘IT ‘역주행 콘텐츠’ TOP 12 
 
