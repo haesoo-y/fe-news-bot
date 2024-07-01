@@ -1,29 +1,29 @@
 # 오늘의 포스팅 
-2024년 6월 30일 9시 기준 
+2024년 7월 1일 9시 기준 
 
-### React vs Angular: Picking The Giant For The Best Use 
+### React vs Vue.js: A Technical Comparison 
 
- Outlin... 
+ ... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F59846890d2b6&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40chigbovcm2020%2Freact-vs-angular-picking-the-giant-for-the-best-use-59846890d2b6&source=---------0-84----------frontend------bookmark_preview----a90df812_37ac_4c45_b2b4_ce912b3edc49-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fa0a8f803811c&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40mark.ndubuisi.244236%2Freact-vs-vue-js-a-technical-comparison-a0a8f803811c&source=---------0-84----------reactjs------bookmark_preview----83ce455f_0e42_4695_ba28_29f670fc52c6-------) 
 
-### Step-by-Step Guide to Docker: Local Setup on Windows with a Dockerized React.js Project 
+### Understanding SSR, CSR, ISR and SSG 
 
- Introduction :Step-by-Step Guide to Docker: Local Setup on Windows with a Dockerized React.js Projec... 
+ In the world of web development, acronyms like SSR, SSG, ISR, and CSR are often thrown around. These... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F3d0f49fbfa24&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40techkaala7%2Fstep-by-step-guide-to-docker-local-setup-on-windows-with-a-dockerized-react-js-project-3d0f49fbfa24&source=---------0-84----------reactjs------bookmark_preview----a5cf7af0_f83c_4fd8_8453_483ca0d76247-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fd74a2e093d64&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40aggarwal-muskaan%2Fssr-vs-csr-vs-isr-vs-ssg-d74a2e093d64&source=---------0-84----------nextjs------bookmark_preview----1c1ad16d_970f_4026_a1e4_3f8da8428cd4-------) 
 
-### NextJS vs VueJS: What you need to know 
+### Frontend Weekly Digest #369 (24–30 Jun 2024) 
 
- A detailed yet concise comparison between NextJS and VueJS. All you need to know.... 
+ Web-development... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F53e339fdabb4&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40ukanah15thdean%2Fnextjs-vs-vuejs-what-you-need-to-know-53e339fdabb4&source=---------0-84----------nextjs------bookmark_preview----ce0a2f24_4604_4bf3_9a96_0f4db2ef5c96-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F95ee30f23d5b&operation=register&redirect=https%3A%2F%2Ffrontender-ua.medium.com%2Ffrontend-weekly-digest-369-24-30-jun-2024-95ee30f23d5b&source=---------0-84----------front_end_development------bookmark_preview----77185891_e7d9_4838_b6bf_736f20596971-------) 
 
-### Svelte: Different and Engaging Experience Unlike Others 
+### useStateAction — A New Hook in React 🎉 
 
- Insights after experiencing svelte in Trendyol-Ads.... 
+ Hello Developers 👋, It’s me Md Taqui Imam, and today I’m going to explain a new and exciting hook i... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F9fe641566104&operation=register&redirect=https%3A%2F%2Fmedium.com%2Ftrendyol-tech%2Fsvelte-different-and-engaging-experience-unlike-others-9fe641566104&source=---------0-84----------front_end_development------bookmark_preview----a8bf1e65_ebd4_46e8_8446_187dcb0586f4-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F1558986bf4df&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40mdtaqui.jhar%2Fusestateaction-a-new-hook-in-react-1558986bf4df&source=---------0-84----------react------bookmark_preview----f348eead_b1f4_4e03_a31c_c33489db105b-------) 
 
 ### 놓친 글 다시 보기! 요즘IT ‘역주행 콘텐츠’ TOP 12 
 
