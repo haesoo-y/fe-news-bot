@@ -1,17 +1,11 @@
 # 오늘의 포스팅 
-2024년 7월 4일 9시 기준 
+2024년 7월 5일 9시 기준 
 
-### 100% Free Vector Search with OpenLlama, Postgres, NodeJS and NextJS 
+### NestJS and PostgreSQL: A set up tutorial 
 
- So you want to try out vector search but you don’t want to pay OpenAI, or use Huggingface, and you d... 
+ NestJS Configuration with Neon server-less PostgreSQL: Cloud-Optimized Approach... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fe496856766f7&operation=register&redirect=https%3A%2F%2Fjherr2020.medium.com%2F100-free-vector-search-with-openllama-postgres-nodejs-and-nextjs-e496856766f7&source=---------0-84----------react------bookmark_preview----0d2297ea_c898_49ed_b9c5_32aaab33b668-------) 
-
-### 6 frontend repos used by the top 1% of react devs 🎖️ 
-
- Not a member? Read for FREE here.... 
-
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fa7784de2ec80&operation=register&redirect=https%3A%2F%2Flevelup.gitconnected.com%2F6-frontend-repos-used-by-the-top-1-of-react-devs-%25EF%25B8%258F-a7784de2ec80&source=---------0-84----------javascript------bookmark_preview----83e26e2a_6317_4cff_ba7a_db854d0a8895-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F2cd4505671a1&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40ihor.ivlievv%2Fnestjs-and-postgresql-a-set-up-tutorial-2cd4505671a1&source=---------0-84----------javascript------bookmark_preview----8803f5ce_e383_40d0_b0a8_738fccf2c0b9-------) 
 
 ### 100% Free Vector Search with OpenLlama, Postgres, Node.js and Next.js 
 
@@ -23,7 +17,13 @@
 
  Not a member? Read for FREE here.... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fa7784de2ec80&operation=register&redirect=https%3A%2F%2Flevelup.gitconnected.com%2F6-frontend-repos-used-by-the-top-1-of-react-devs-%25EF%25B8%258F-a7784de2ec80&source=---------0-84----------frontend------bookmark_preview----b1ae00f7_bf6f_43fc_bf6e_9d86c156b88d-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fa7784de2ec80&operation=register&redirect=https%3A%2F%2Flevelup.gitconnected.com%2F6-frontend-repos-used-by-the-top-1-of-react-devs-%25EF%25B8%258F-a7784de2ec80&source=---------0-84----------frontend------bookmark_preview----8eff5880_21e0_48bc_8e06_f88a12f1797a-------) 
+
+### Integrating Micro Frontends via Shared Types 
+
+ Better micro frontend integrations through shared data types... 
+
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F45971f7e6ce6&operation=register&redirect=https%3A%2F%2Fblog.bitsrc.io%2Fintegrating-micro-frontends-via-shared-types-45971f7e6ce6&source=---------0-84----------reactjs------bookmark_preview----8bc92938_269e_45af_afee_85e182268a1e-------) 
 
 ### 새로 산 맥북으로 쿠버네티스 클러스터 구축하기 (feat. arm64) 
 
