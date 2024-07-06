@@ -1,29 +1,29 @@
 # 오늘의 포스팅 
-2024년 7월 5일 9시 기준 
+2024년 7월 6일 9시 기준 
 
-### NestJS and PostgreSQL: A set up tutorial 
+### Making sense of TypeScript generics 
 
- NestJS Configuration with Neon server-less PostgreSQL: Cloud-Optimized Approach... 
+ One of TypeScript’s most intimidating features is “generics”. Let’s see step by step how to use them... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F2cd4505671a1&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40ihor.ivlievv%2Fnestjs-and-postgresql-a-set-up-tutorial-2cd4505671a1&source=---------0-84----------javascript------bookmark_preview----8803f5ce_e383_40d0_b0a8_738fccf2c0b9-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F6b830e66eeff&operation=register&redirect=https%3A%2F%2Fmedium.com%2Fjobteaser-dev-team%2Fmaking-sense-of-typescript-generics-6b830e66eeff&source=---------0-84----------typescript------bookmark_preview----d1e83da5_1110_467f_8468_ddde2cf48572-------) 
 
-### 100% Free Vector Search with OpenLlama, Postgres, Node.js and Next.js 
+### 07.04.24 [Development Diary] Collaboration Diary of a Junior Developer — Next.js 
 
- So you want to try out vector search but you don’t want to pay OpenAI, or use Huggingface, and you d... 
+ Use 8 digits when entering only a date, or 14 digits when entering both a date and time.... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fe496856766f7&operation=register&redirect=https%3A%2F%2Fjavascript.plainenglish.io%2F100-free-vector-search-with-openllama-postgres-nodejs-and-nextjs-e496856766f7&source=---------0-84----------typescript------bookmark_preview----2b05f5da_4669_4103_b31b_eaeff8a9eaf4-------) 
-
-### 6 frontend repos used by the top 1% of react devs 🎖️ 
-
- Not a member? Read for FREE here.... 
-
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fa7784de2ec80&operation=register&redirect=https%3A%2F%2Flevelup.gitconnected.com%2F6-frontend-repos-used-by-the-top-1-of-react-devs-%25EF%25B8%258F-a7784de2ec80&source=---------0-84----------frontend------bookmark_preview----8eff5880_21e0_48bc_8e06_f88a12f1797a-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F50e374b1309b&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40deavyydev%2F07-04-24-development-diary-collaboration-diary-of-a-junior-developer-next-js-50e374b1309b&source=---------0-84----------frontend------bookmark_preview----a20fb41c_6965_47e9_bdbd_fd730d7bc855-------) 
 
 ### Integrating Micro Frontends via Shared Types 
 
  Better micro frontend integrations through shared data types... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F45971f7e6ce6&operation=register&redirect=https%3A%2F%2Fblog.bitsrc.io%2Fintegrating-micro-frontends-via-shared-types-45971f7e6ce6&source=---------0-84----------reactjs------bookmark_preview----8bc92938_269e_45af_afee_85e182268a1e-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F45971f7e6ce6&operation=register&redirect=https%3A%2F%2Fblog.bitsrc.io%2Fintegrating-micro-frontends-via-shared-types-45971f7e6ce6&source=---------0-84----------reactjs------bookmark_preview----b5937448_dd08_4149_9aa5_55b4579f86ec-------) 
+
+### Next.js: Server-Side Rendering vs. Static Site Generation 
+
+ Next.js is a popular React framework that provides a variety of rendering methods to help you build ... 
+
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F6973acbffd61&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40eclarkhalid%2Fnext-js-server-side-rendering-vs-static-site-generation-6973acbffd61&source=---------0-84----------nextjs------bookmark_preview----8c42f598_c1ba_4d0c_bb1a_eb095b5e4240-------) 
 
 ### 새로 산 맥북으로 쿠버네티스 클러스터 구축하기 (feat. arm64) 
 
