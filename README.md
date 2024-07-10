@@ -1,29 +1,29 @@
 # 오늘의 포스팅 
-2024년 7월 9일 9시 기준 
-
-### Building a Micro Frontend Application with Next.js 14.2 and Tailwind CSS — Part-III 
-
- In the previous blog, we shared the components from micro frontend app to main app. Similarly we can... 
-
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fa0217f2d3d61&operation=register&redirect=https%3A%2F%2Fblog.stackademic.com%2Fbuilding-a-micro-frontend-application-with-next-js-14-2-and-tailwind-css-part-iii-a0217f2d3d61&source=---------0-84----------nextjs------bookmark_preview----971038bc_94f7_4fe8_a900_0e636c37a338-------) 
+2024년 7월 10일 9시 기준 
 
 ### Frontend Weekly Digest #370 (1–7 Jule 2024) 
 
  Web-development... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F4f734617fbd6&operation=register&redirect=https%3A%2F%2Ffrontender-ua.medium.com%2Ffrontend-weekly-digest-370-1-7-jule-2024-4f734617fbd6&source=---------0-84----------front_end_development------bookmark_preview----cdd87b39_d97a_47c0_88df_2948d19333da-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F4f734617fbd6&operation=register&redirect=https%3A%2F%2Ffrontender-ua.medium.com%2Ffrontend-weekly-digest-370-1-7-jule-2024-4f734617fbd6&source=---------0-84----------front_end_development------bookmark_preview----43a62993_43ee_4048_b07a_8352fa40eafc-------) 
 
-### How does the React fiber reconciler work? 
+### Why Do Nigerian Employees Hate HR? A (Slightly) Humorous Take On Office Shenanigans 
 
- In this article, I am going to deep dive into the React world and what is the core value proposition... 
+ A typical office setting ... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F77c3650127da&operation=register&redirect=https%3A%2F%2Fmaxtsh.medium.com%2Fhow-does-the-react-fiber-reconciler-work-77c3650127da&source=---------0-107----------react------bookmark_preview----eb599638_e3df_4b5e_aa9b_0255a1f1cb91-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F7fdc77d7fb44&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40Jo_yarns%2Fwhy-do-nigerian-employees-hate-hr-a-slightly-humorous-take-on-office-shenanigans-7fdc77d7fb44&source=---------0-84----------react------bookmark_preview----ec4d2cf6_e405_44b9_ae45_02c6193e788c-------) 
 
-### New York Times Has Changed Wordle. I Can Prove It 
+### Frontend Weekly Digest #370 (1–7 Jule 2024) 
 
- I’ve dug through the code and I can prove Wordle has changed.... 
+ Web-development... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F7129ef39ce70&operation=register&redirect=https%3A%2F%2Faspiring-reader.com%2Fnew-york-times-has-changed-wordle-i-can-prove-it-7129ef39ce70&source=---------0-107----------javascript------bookmark_preview----0056273a_b3d5_46e9_8da1_d7fa48407a74-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F4f734617fbd6&operation=register&redirect=https%3A%2F%2Ffrontender-ua.medium.com%2Ffrontend-weekly-digest-370-1-7-jule-2024-4f734617fbd6&source=---------0-84----------javascript------bookmark_preview----600855e1_0f43_48fb_95ea_b8a016addc29-------) 
+
+### Automating Compliance Policy Assignments with Azure Functions and TypeScript 
+
+ Introduction... 
+
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F2ef3bcad5264&operation=register&redirect=https%3A%2F%2Fblog.stackademic.com%2Fautomating-compliance-policy-assignments-with-azure-functions-and-typescript-2ef3bcad5264&source=---------0-84----------typescript------bookmark_preview----3f0acdc9_20e5_4b69_aa0c_caede8eb3a37-------) 
 
 ### 단점을 인정하고 ‘성장하는 개발자’ 되는 법 
 
