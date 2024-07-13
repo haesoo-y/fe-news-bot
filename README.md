@@ -1,41 +1,41 @@
 # 오늘의 포스팅 
-2024년 7월 12일 9시 기준 
+2024년 7월 13일 9시 기준 
 
-### Playwright: A Fast and Practical Introduction 
+### React Optimization Techniques 
 
- Getting started with Playwright, the fast e2e testing framework... 
+ React is a powerful library for building user interfaces, but as your application grows, so can its ... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F1a497811b4bd&operation=register&redirect=https%3A%2F%2Fitnext.io%2Fplaywright-a-fast-and-practical-introduction-1a497811b4bd&source=---------0-84----------javascript------bookmark_preview----cf7502c8_06ae_4f7a_a146_0bd976ead27f-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fe384b1ceb794&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40onix_react%2Freact-optimization-techniques-e384b1ceb794&source=---------0-84----------typescript------bookmark_preview----a1ed086d_6d6d_4735_889b_ca722cb52af6-------) 
 
-### A Developer’s Guide to Next.js Internationalization (next-intl) 
+### Angular — Advanced Dependency Injection Techniques 
 
- In today’s interconnected world, reaching a global audience is essential for any successful web appl... 
+ Angular 18 has brought a plethora of new features and enhancements, making it a robust framework for... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F872d0b22b687&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40naimul.h.abeer%2Fa-developers-guide-to-next-js-internationalization-next-intl-872d0b22b687&source=---------0-84----------typescript------bookmark_preview----9267c9db_0975_4c6a_bb7b_3b6ffa7e3b82-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F0e1a3f6a1ca4&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40babatundelamidi%2Fangular-advanced-dependency-injection-techniques-0e1a3f6a1ca4&source=---------0-84----------frontend------bookmark_preview----fc3f6a33_0812_485d_8a5b_aacfa976e235-------) 
 
-### From Flutter to Gatsby: Our Journey to Enhanced Performance and Stability 🚀 
+### My Learning and Recommendations for Effective Frontend Learning in 2024 
 
- Problem Statement... 
+ The learning resources that I would recommend to anyone who is starting their journey of becoming a ... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fc383a2f0c685&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40dealbergtech%2Ffrom-flutter-to-gatsby-our-journey-to-enhanced-performance-and-stability-c383a2f0c685&source=---------0-84----------frontend------bookmark_preview----a217a29a_37fc_429c_b515_7a2553dcc7c2-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F0f55c9571a21&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40tatermohit%2Fmy-learning-and-recommendations-for-effective-frontend-learning-in-2024-0f55c9571a21&source=---------0-84----------reactjs------bookmark_preview----cf98a1c7_e2ad_4cfa_b6da_bd8c3dd4d2ca-------) 
 
-### React.js Basic Questions 
+### The Next Article 
 
- In this article, I’ll address some fundamental questions about React that I’ve encountered during my... 
+ How I learned NextJs and Tailwind to build a website for a business and deployed it using AWS... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F993a1b58aee2&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40joshi2003shreya%2Freact-js-basic-questions-993a1b58aee2&source=---------0-84----------reactjs------bookmark_preview----c8409692_77c3_4f0e_9833_a9b90b1f54a8-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fb2b6c48fecc6&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40arjunjhawar%2Fthe-next-article-b2b6c48fecc6&source=---------0-84----------nextjs------bookmark_preview----195d70c4_2e0b_4124_9a80_5a03dbb422df-------) 
+
+### 2024 하반기 국내 IT 컨퍼런스 일정 모아보기 
+
+ 오늘은 2024년 하반기 국내에서 열리는 IT 컨퍼런스 행사 소식을 정리해 가져왔어요. 2024년 상반기의 기술적 성과를 돌아보고, 앞으로의 기술 트렌드를 전망해 볼 수 있는 시간... 
+
+ [바로가기](https://yozm.wishket.com/magazine/detail/2671/) 
 
 ### 개발자가 문제 해결 과정에서 겪는 어려움 3가지 
 
  개발자로 살아가면서 어려움을 겪는 것은 피할 수 없는 일입니다. 기술적 실력이 모자라서 그럴 수도 있고, 개발하고 있는 분야에 대한 도메인 지식이 부족해서 그럴 수도 있죠. 또한 ... 
 
  [바로가기](https://yozm.wishket.com/magazine/detail/2670/) 
-
-### 문과생을 위한 IT 용어 강의 ① 나도 코딩을 알아야 할까? 
-
- 이번 강의, 문과생이라고 표현하기는 했지만, IT 업계와 멀리 떨어져 있던 모든 분을 위한 강의입니다. “아무리 들어도 이게 무슨 소리인지 모르겠어요” 하면서도 IT 세상에 적응하... 
-
- [바로가기](https://yozm.wishket.com/magazine/detail/2667/) 
 
 ---
 
