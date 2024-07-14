@@ -1,11 +1,5 @@
 # 오늘의 포스팅 
-2024년 7월 13일 9시 기준 
-
-### React Optimization Techniques 
-
- React is a powerful library for building user interfaces, but as your application grows, so can its ... 
-
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fe384b1ceb794&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40onix_react%2Freact-optimization-techniques-e384b1ceb794&source=---------0-84----------typescript------bookmark_preview----a1ed086d_6d6d_4735_889b_ca722cb52af6-------) 
+2024년 7월 14일 9시 기준 
 
 ### Angular — Advanced Dependency Injection Techniques 
 
@@ -19,11 +13,17 @@
 
  [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F0f55c9571a21&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40tatermohit%2Fmy-learning-and-recommendations-for-effective-frontend-learning-in-2024-0f55c9571a21&source=---------0-84----------reactjs------bookmark_preview----cf98a1c7_e2ad_4cfa_b6da_bd8c3dd4d2ca-------) 
 
-### The Next Article 
+### Next.js Internationalization: next-intl and Google Sheets for Dynamic Translations 
 
- How I learned NextJs and Tailwind to build a website for a business and deployed it using AWS... 
+ Internationalization is the spice of life for modern web applications. However, clients and employee... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fb2b6c48fecc6&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40arjunjhawar%2Fthe-next-article-b2b6c48fecc6&source=---------0-84----------nextjs------bookmark_preview----195d70c4_2e0b_4124_9a80_5a03dbb422df-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F11014c9fba11&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40flowing_blaze_bat_721%2Fnext-js-internationalization-next-intl-and-google-sheets-for-dynamic-translations-11014c9fba11&source=---------0-84----------nextjs------bookmark_preview----4cff9781_2a3d_4f71_b44a_95e7c22adc4a-------) 
+
+### Episode 24/27: SSR Hybrid Rendering & Full SSR Guide 
+
+ We got a new RFC focusing on “hybrid rendering” and a full SSR guide.... 
+
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F497968481872&operation=register&redirect=https%3A%2F%2Fmedium.com%2Fng-news%2Fepisode-24-27-ssr-hybrid-rendering-full-ssr-guide-497968481872&source=---------0-84----------front_end_development------bookmark_preview----42446eb7_a86e_4562_9f72_ef7b69893b67-------) 
 
 ### 2024 하반기 국내 IT 컨퍼런스 일정 모아보기 
 
