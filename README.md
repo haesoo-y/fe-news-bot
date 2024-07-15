@@ -1,29 +1,29 @@
 # 오늘의 포스팅 
-2024년 7월 14일 9시 기준 
+2024년 7월 15일 9시 기준 
 
-### Angular — Advanced Dependency Injection Techniques 
+### Effective Testing Strategies for React TypeScript: Using Jest and Mocking APIs 
 
- Angular 18 has brought a plethora of new features and enhancements, making it a robust framework for... 
+ Why we really need a testing strategy, how we can use MSW for API mocking, and what are the things r... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F0e1a3f6a1ca4&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40babatundelamidi%2Fangular-advanced-dependency-injection-techniques-0e1a3f6a1ca4&source=---------0-84----------frontend------bookmark_preview----fc3f6a33_0812_485d_8a5b_aacfa976e235-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fef768849e26e&operation=register&redirect=https%3A%2F%2Fblog.santoshshinde.com%2Feffective-testing-strategies-for-react-typescript-using-jest-and-mocking-apis-ef768849e26e&source=---------0-84----------reactjs------bookmark_preview----1a5f5fcc_cf83_4e17_ba7a_48ac09c15871-------) 
 
-### My Learning and Recommendations for Effective Frontend Learning in 2024 
+### Global State Management: Across Multiple Microfrontends 
 
- The learning resources that I would recommend to anyone who is starting their journey of becoming a ... 
+ State is the “Memory” of React component and application. It holds the data that may change over tim... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F0f55c9571a21&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40tatermohit%2Fmy-learning-and-recommendations-for-effective-frontend-learning-in-2024-0f55c9571a21&source=---------0-84----------reactjs------bookmark_preview----cf98a1c7_e2ad_4cfa_b6da_bd8c3dd4d2ca-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fd6d9a7f7fd43&operation=register&redirect=https%3A%2F%2Fmsmechatronics.medium.com%2Fglobal-state-management-across-multiple-microfrontends-d6d9a7f7fd43&source=---------0-84----------nextjs------bookmark_preview----a652e756_a051_41c0_b5a6_0dc92724da8e-------) 
 
-### Next.js Internationalization: next-intl and Google Sheets for Dynamic Translations 
+### React 101 — Build a React project from scratch, Part One 
 
- Internationalization is the spice of life for modern web applications. However, clients and employee... 
+ In the past decade, software development frameworks have become easier to get started with compared ... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F11014c9fba11&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40flowing_blaze_bat_721%2Fnext-js-internationalization-next-intl-and-google-sheets-for-dynamic-translations-11014c9fba11&source=---------0-84----------nextjs------bookmark_preview----4cff9781_2a3d_4f71_b44a_95e7c22adc4a-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fce2c8bde5bfe&operation=register&redirect=https%3A%2F%2Ftonylixu.medium.com%2Freact-101-build-a-react-project-from-scratch-part-one-ce2c8bde5bfe&source=---------0-84----------front_end_development------bookmark_preview----93916bb0_9233_4967_ae17_487ef06c10d7-------) 
 
-### Episode 24/27: SSR Hybrid Rendering & Full SSR Guide 
+### Learning React: 5 Important Principles About Hooks You Have To Know 
 
- We got a new RFC focusing on “hybrid rendering” and a full SSR guide.... 
+ For Example, Sometimes You Don’t Need Hooks!... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F497968481872&operation=register&redirect=https%3A%2F%2Fmedium.com%2Fng-news%2Fepisode-24-27-ssr-hybrid-rendering-full-ssr-guide-497968481872&source=---------0-84----------front_end_development------bookmark_preview----42446eb7_a86e_4562_9f72_ef7b69893b67-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F4967cd9d4eb4&operation=register&redirect=https%3A%2F%2Fcode.likeagirl.io%2Flearning-react-5-important-principles-about-hooks-you-have-to-know-4967cd9d4eb4&source=---------0-84----------react------bookmark_preview----ce8ae92b_8fc0_4eda_96f8_9e97a04d263f-------) 
 
 ### 2024 하반기 국내 IT 컨퍼런스 일정 모아보기 
 
