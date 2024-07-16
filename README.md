@@ -1,29 +1,29 @@
 # 오늘의 포스팅 
-2024년 7월 15일 9시 기준 
+2024년 7월 16일 9시 기준 
 
-### Effective Testing Strategies for React TypeScript: Using Jest and Mocking APIs 
+### The Fastest Way to Set Up UI Permissions on any React App 
 
- Why we really need a testing strategy, how we can use MSW for API mocking, and what are the things r... 
+ Welcome to the ultimate guide on implementing a permissions system in a React/Next TypeScript applic... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fef768849e26e&operation=register&redirect=https%3A%2F%2Fblog.santoshshinde.com%2Feffective-testing-strategies-for-react-typescript-using-jest-and-mocking-apis-ef768849e26e&source=---------0-84----------reactjs------bookmark_preview----1a5f5fcc_cf83_4e17_ba7a_48ac09c15871-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F328751a5cc9d&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40mohammedadil77%2Fthe-fastest-way-to-set-up-ui-permissions-on-any-react-app-328751a5cc9d&source=---------0-84----------nextjs------bookmark_preview----9686bc8f_255d_46ae_bed3_dd1c47684024-------) 
 
-### Global State Management: Across Multiple Microfrontends 
+### Frontend Weekly Digest #371 (8–14 Jule 2024) 
 
- State is the “Memory” of React component and application. It holds the data that may change over tim... 
+ Web-development... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fd6d9a7f7fd43&operation=register&redirect=https%3A%2F%2Fmsmechatronics.medium.com%2Fglobal-state-management-across-multiple-microfrontends-d6d9a7f7fd43&source=---------0-84----------nextjs------bookmark_preview----a652e756_a051_41c0_b5a6_0dc92724da8e-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F2bf58b6a591e&operation=register&redirect=https%3A%2F%2Ffrontender-ua.medium.com%2Ffrontend-weekly-digest-371-8-14-jule-2024-2bf58b6a591e&source=---------0-84----------front_end_development------bookmark_preview----222b0e01_f333_4c82_96ff_f2930065ffe5-------) 
 
-### React 101 — Build a React project from scratch, Part One 
+### The Ultimate Guide to Building a Lightning-Fast React App with Vite and TailwindCSS in 2024 
 
- In the past decade, software development frameworks have become easier to get started with compared ... 
+ Table of Contents... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fce2c8bde5bfe&operation=register&redirect=https%3A%2F%2Ftonylixu.medium.com%2Freact-101-build-a-react-project-from-scratch-part-one-ce2c8bde5bfe&source=---------0-84----------front_end_development------bookmark_preview----93916bb0_9233_4967_ae17_487ef06c10d7-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F1ea7b4bf03d5&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40yadavvshall%2Fthe-ultimate-guide-to-building-a-lightning-fast-react-app-with-vite-and-tailwindcss-in-2024-1ea7b4bf03d5&source=---------0-84----------react------bookmark_preview----90701e33_2e99_4842_90c2_67dc1c4d9643-------) 
 
-### Learning React: 5 Important Principles About Hooks You Have To Know 
+### New native nested CSS feature in 2024: An absolute game changer 
 
- For Example, Sometimes You Don’t Need Hooks!... 
+ SASS and LESS are practically useless now.... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F4967cd9d4eb4&operation=register&redirect=https%3A%2F%2Fcode.likeagirl.io%2Flearning-react-5-important-principles-about-hooks-you-have-to-know-4967cd9d4eb4&source=---------0-84----------react------bookmark_preview----ce8ae92b_8fc0_4eda_96f8_9e97a04d263f-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F17adb6fa9260&operation=register&redirect=https%3A%2F%2Fmedium.com%2Fcoding-beauty%2Fnested-css-17adb6fa9260&source=---------0-84----------javascript------bookmark_preview----3ac3f25f_2501_4d3e_afd0_fca0eb4422a4-------) 
 
 ### 2024 하반기 국내 IT 컨퍼런스 일정 모아보기 
 
