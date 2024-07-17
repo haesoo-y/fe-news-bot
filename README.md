@@ -1,29 +1,29 @@
 # 오늘의 포스팅 
-2024년 7월 16일 9시 기준 
+2024년 7월 17일 9시 기준 
 
-### The Fastest Way to Set Up UI Permissions on any React App 
+### Software testing fundamentals 
 
- Welcome to the ultimate guide on implementing a permissions system in a React/Next TypeScript applic... 
+ Fundamentals of software testing from a technical point of view... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F328751a5cc9d&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40mohammedadil77%2Fthe-fastest-way-to-set-up-ui-permissions-on-any-react-app-328751a5cc9d&source=---------0-84----------nextjs------bookmark_preview----9686bc8f_255d_46ae_bed3_dd1c47684024-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F2dd6318b2956&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40stanleyagwu2016%2Fsoftware-testing-fundamentals-2dd6318b2956&source=---------0-84----------front_end_development------bookmark_preview----06ff83c0_30bb_4256_90b1_19cb11e654d0-------) 
+
+### Deep Dive Into React Compiler 
+
+ We all love React and we hope everytime it comes up with an update it is better than the previous on... 
+
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F8940b331e107&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40nishith.upadhyay7%2Fdeep-dive-into-react-compiler-8940b331e107&source=---------0-84----------react------bookmark_preview----0e4db9e9_2c8d_423a_8178_07e9020ac37f-------) 
 
 ### Frontend Weekly Digest #371 (8–14 Jule 2024) 
 
  Web-development... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F2bf58b6a591e&operation=register&redirect=https%3A%2F%2Ffrontender-ua.medium.com%2Ffrontend-weekly-digest-371-8-14-jule-2024-2bf58b6a591e&source=---------0-84----------front_end_development------bookmark_preview----222b0e01_f333_4c82_96ff_f2930065ffe5-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F2bf58b6a591e&operation=register&redirect=https%3A%2F%2Ffrontender-ua.medium.com%2Ffrontend-weekly-digest-371-8-14-jule-2024-2bf58b6a591e&source=---------0-84----------javascript------bookmark_preview----cc7ee7c7_593f_46b0_bca9_fb4b1441ecae-------) 
 
-### The Ultimate Guide to Building a Lightning-Fast React App with Vite and TailwindCSS in 2024 
+### The Fastest Way to Set Up UI Permissions on any React App 
 
- Table of Contents... 
+ Welcome to the ultimate guide on implementing a permissions system in a React/Next TypeScript applic... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F1ea7b4bf03d5&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40yadavvshall%2Fthe-ultimate-guide-to-building-a-lightning-fast-react-app-with-vite-and-tailwindcss-in-2024-1ea7b4bf03d5&source=---------0-84----------react------bookmark_preview----90701e33_2e99_4842_90c2_67dc1c4d9643-------) 
-
-### New native nested CSS feature in 2024: An absolute game changer 
-
- SASS and LESS are practically useless now.... 
-
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F17adb6fa9260&operation=register&redirect=https%3A%2F%2Fmedium.com%2Fcoding-beauty%2Fnested-css-17adb6fa9260&source=---------0-84----------javascript------bookmark_preview----3ac3f25f_2501_4d3e_afd0_fca0eb4422a4-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F328751a5cc9d&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40mohammedadil77%2Fthe-fastest-way-to-set-up-ui-permissions-on-any-react-app-328751a5cc9d&source=---------0-84----------typescript------bookmark_preview----5e0e9d85_d514_4898_87ff_c0d79e79663c-------) 
 
 ### 2024 하반기 국내 IT 컨퍼런스 일정 모아보기 
 
