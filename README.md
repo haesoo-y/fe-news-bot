@@ -1,41 +1,41 @@
 # 오늘의 포스팅 
-2024년 7월 18일 9시 기준 
+2024년 7월 19일 9시 기준 
 
-### Building a Customizable Text Editor with Lexical 
+### How to Deploy your JSON-SERVER db.json 
+
+ Ever found yourself frustrated while trying to mock a server using JSON-Server as a beginner, only t... 
+
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fcbad15b1c8f0&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40george-okumu%2Fhow-to-deploy-your-json-server-db-json-cbad15b1c8f0&source=---------0-84----------javascript------bookmark_preview----5892ea65_aee6_495d_8e47_13137a815f1a-------) 
+
+### Introducing SafeProxy: A Solution for Safe Access to Deeply Nested Properties in JavaScript and… 
 
  Introduction... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F65be5a5f169b&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40kgirishkumar_23110%2Fbuilding-a-customizable-text-editor-with-lexical-65be5a5f169b&source=---------0-84----------react------bookmark_preview----57cc88da_5b07_4de5_afb6_27280bfa4075-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F95008bf9cf5c&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40younesse7elhoub%2Fintroducing-safeproxy-a-solution-for-safe-access-to-deeply-nested-properties-in-javascript-and-95008bf9cf5c&source=---------0-84----------typescript------bookmark_preview----dba6807d_5534_4882_bf45_caa18bcf66ad-------) 
 
-### Call Stack, But Make It Async! 
+### Streamlining Multi-Container Deployment with Docker Compose 
 
- Written by Neal Beeken (Blog, GitHub)... 
+ Introduction... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Ff912cb895ebd&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40MongoDB%2Fcall-stack-but-make-it-async-f912cb895ebd&source=---------0-84----------javascript------bookmark_preview----5dd33803_4e36_41cc_abd2_76c3ba4e04ab-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F531f7b7ccd08&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40adeyemijoshua%2Fstreamlining-multi-container-deployment-with-docker-compose-531f7b7ccd08&source=---------0-84----------frontend------bookmark_preview----e301c3c1_0700_4229_a34a_f49d7a47f0ff-------) 
 
-### The Fastest Way to Set Up UI Permissions on any React App 
+### Create PDFs in React Using jsPDF and html2canvas 
 
- Welcome to the ultimate guide on implementing a permissions system in a React/Next TypeScript applic... 
+ Creating PDFs in web applications can add significant value, whether for generating reports, invoice... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F328751a5cc9d&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40mohammedadil77%2Fthe-fastest-way-to-set-up-ui-permissions-on-any-react-app-328751a5cc9d&source=---------0-84----------typescript------bookmark_preview----5e0e9d85_d514_4898_87ff_c0d79e79663c-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Faa59667438fc&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40wathsaradesilva2000%2Fcreate-pdfs-in-react-using-jspdf-and-html2canvas-aa59667438fc&source=---------0-84----------reactjs------bookmark_preview----5a8cb949_145f_46ee_b453_78ac7876aaf9-------) 
 
-### Webcomponents + React + HTMX — the series [Part 1] 
+### 모두가 말하지만 일부만 아는 ‘클라우드 네이티브’ 
 
- Have you ever wondered what would be to have the control and isolation of WebComponents, the flexibi... 
+ 요즘 클라우드를 넘어 ‘클라우드 네이티브’하게 라는 말이 자주 쓰이고 있습니다. 일반 기업뿐만 아니라 공공 부문에서도 정부 서비스를 개발할 때 클라우드 네이티브를 중심으로 진행해야... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fa801fb66f342&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40cubode%2Fwebcomponents-react-htmx-the-series-part-1-a801fb66f342&source=---------0-84----------frontend------bookmark_preview----1429d36a_46e6_4569_b0d5_4258d8da9954-------) 
+ [바로가기](https://yozm.wishket.com/magazine/detail/2680/) 
 
 ### 문과생을 위한 IT 용어 강의 ② 코딩? 서버? 
 
  이번에는 IT 지식 기초 중의 기초, “코딩과 프로그래밍이란 무엇인가?”, “서버란 또 무엇인가?” 이를 다루겠습니다. 코딩은 프로그래밍 언어를 활용해 프로그램을 만드는 일입니다.... 
 
  [바로가기](https://yozm.wishket.com/magazine/detail/2677/) 
-
-### 2024 하반기 국내 IT 컨퍼런스 일정 모아보기 
-
- 오늘은 2024년 하반기 국내에서 열리는 IT 컨퍼런스 행사 소식을 정리해 가져왔어요. 2024년 상반기의 기술적 성과를 돌아보고, 앞으로의 기술 트렌드를 전망해 볼 수 있는 시간... 
-
- [바로가기](https://yozm.wishket.com/magazine/detail/2671/) 
 
 ---
 
