@@ -1,29 +1,29 @@
 # 오늘의 포스팅 
-2024년 7월 22일 9시 기준 
-
-### UseEffect: Most Abused React Hook 
-
- Introduction... 
-
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F640ff616e362&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40nimitwadhwa722%2Fuseeffect-most-abused-react-hook-640ff616e362&source=---------0-84----------reactjs------bookmark_preview----3b534ba3_ad9c_4820_9d08_18e115cbd0ff-------) 
+2024년 7월 23일 9시 기준 
 
 ### Enhancing your Web Apps by AI integration using Next.js and OpenAI. 
 
  Leveraging the power of AI to make your web apps more attractive and powerful.... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F2eb56f9e9a5e&operation=register&redirect=https%3A%2F%2Fmedium.com%2Fpaktolus-engineering%2Fenhancing-your-web-apps-by-ai-integration-using-next-js-and-openai-2eb56f9e9a5e&source=---------0-84----------nextjs------bookmark_preview----6f63286f_c0b3_4b81_a00e_cf83b66f38e1-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F2eb56f9e9a5e&operation=register&redirect=https%3A%2F%2Fmedium.com%2Fpaktolus-engineering%2Fenhancing-your-web-apps-by-ai-integration-using-next-js-and-openai-2eb56f9e9a5e&source=---------0-84----------nextjs------bookmark_preview----02e7fcaa_909a_4aef_8af3_d2dd7be64592-------) 
 
-### Which programming languages run faster in the browser? 
+### Frontend Weekly Digest #372 (15–21 July 2024) 
 
- Nowadays, we often hear about fancy languages and technologies that claim to have amazing performanc... 
+ Web-development... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F46e9c86cd90c&operation=register&redirect=https%3A%2F%2Fokcdz.medium.com%2Fwhich-programming-languages-run-faster-in-the-browser-46e9c86cd90c&source=---------0-84----------front_end_development------bookmark_preview----1342c6a1_7e06_4002_9c58_fbbcd92260e1-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F075ef4eabd83&operation=register&redirect=https%3A%2F%2Ffrontender-ua.medium.com%2Ffrontend-weekly-digest-372-15-21-jule-2024-075ef4eabd83&source=---------0-84----------front_end_development------bookmark_preview----a46716c3_ba24_4357_9542_1c1726e7d8a5-------) 
 
-### Optimizing React Performance: Efficiently Rendering 100,000 Rows with Virtualization 
+### FrontEnd Build UI using React | Most Important Interview Question 
 
- As React developers, we’ve all been there — stuck with a massive dataset that needs to be rendered o... 
+ Most Important Interview Question Before Going For UI Interview... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F1492039e0dc6&operation=register&redirect=https%3A%2F%2Fcodewithpinkz.medium.com%2Foptimizing-react-performance-efficiently-rendering-100-000-rows-with-virtualization-1492039e0dc6&source=---------0-84----------react------bookmark_preview----20c48e64_4a46_45b8_8163_7a4612b67603-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F8628ac9755e4&operation=register&redirect=https%3A%2F%2Flevelup.gitconnected.com%2Ffrontend-build-ui-using-react-most-important-interview-question-8628ac9755e4&source=---------0-84----------react------bookmark_preview----ae41fa79_c3b7_4ac4_8378_18775f17ab5b-------) 
+
+### React Hooks Cheat Sheet: Key Concepts and Quick Examples 
+
+ React Hooks are a fundamental feature of modern React development, introduced in React 16.8. They al... 
+
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F04d854a0f791&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40zeynepucuncuogluu%2Freact-hooks-cheat-sheet-key-concepts-and-quick-examples-04d854a0f791&source=---------0-84----------javascript------bookmark_preview----d802dfe3_7720_424e_86c7_f0538b8ac7f5-------) 
 
 ### 자바 가독성 높이는 5가지 팁 
 
