@@ -1,41 +1,29 @@
 # 오늘의 포스팅 
-2024년 7월 24일 9시 기준 
+2024년 7월 25일 9시 기준 
 
-### useActionState — React.js ✔👀 
+### Addressing Fragmented UI(s) with Micro Frontends 
 
- How to set up react v19 ?... 
+ Introduction... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F7b0f89637595&operation=register&redirect=https%3A%2F%2Fsourabhmk.medium.com%2Fuseactionstate-react-js-7b0f89637595&source=---------0-84----------front_end_development------bookmark_preview----0c14df9a_02cc_4af5_ba0d_bcebccc72204-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F7cb083e5b52c&operation=register&redirect=https%3A%2F%2Fblog.flipkart.tech%2Faddressing-fragmented-ui-s-with-micro-frontends-7cb083e5b52c&source=---------0-84----------react------bookmark_preview----2144e7a0_eef1_4a78_a977_82d31f94afba-------) 
 
-### Leave useEffect Alone! 
+### Addressing Fragmented UI(s) with Micro Frontends 
 
- Avoiding unnecessary re-renders in React. Every frontend framework has its inner workings and challe... 
+ Introduction... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fd522a60bbbd4&operation=register&redirect=https%3A%2F%2Fmedium.com%2Fmeliopayments%2Fleave-useeffect-alone-d522a60bbbd4&source=---------0-84----------react------bookmark_preview----9ebc5c39_498c_4cb9_8472_4d8f529e1be6-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F7cb083e5b52c&operation=register&redirect=https%3A%2F%2Fblog.flipkart.tech%2Faddressing-fragmented-ui-s-with-micro-frontends-7cb083e5b52c&source=---------0-84----------javascript------bookmark_preview----889199e5_3593_42c9_8524_e893e85ef0fa-------) 
 
-### From Chaos to Order: The Epic Tale of JavaScript Module Bundlers 
+### 알아두면 유용한 ‘리액트’ 개념과 성능 최적화 팁 
 
- Understanding Why We Needed Them and How They Evolved from Mess to Masterpiece!... 
+ 리액트는 프론트엔드 개발에서 가장 널리 사용되고 있는 자바스크립트 라이브러리입니다. 컴포넌트 기반 아키텍처와 가상 DOM 등의 개념을 도입하였으며, 여러 글로벌 기업이 리액트를 활... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F5f63c407af21&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40rakeshprabhu1%2Ffrom-chaos-to-order-the-epic-tale-of-javascript-module-bundlers-5f63c407af21&source=---------0-84----------javascript------bookmark_preview----7a5f627e_b58a_449d_a683_b5bf99a0b931-------) 
+ [바로가기](https://yozm.wishket.com/magazine/detail/2688/) 
 
-### Building Composable Software for Better AI-Human Collaboration 
+### 문과생을 위한 IT 용어 강의 ③ 개발자와 소통하려면 무엇을 알아야 할까? 
 
- Why Components Are Essential for AI-Driven Software Development... 
+ 개발자와 소통을 잘하려면 무엇이 필요할까요? 먼저 개발자들과 시각 차이를 이해해야 합니다. 그러려면 프론트엔드와 백엔드의 차이를 알아야 하고요. 단순해 보이는 것이 전부가 아닌 경... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F738f49d4a43c&operation=register&redirect=https%3A%2F%2Fblog.bitsrc.io%2Fbuilding-composable-software-for-better-ai-human-collaboration-738f49d4a43c&source=---------0-84----------typescript------bookmark_preview----14dbbae6_c16b_49ac_b6c3_7cbf8bd1cd92-------) 
-
-### 뽑히는 개발자 포트폴리오는 어떻게 만드나요? 
-
- 채용 담당자는 서류 전형에서 이력서를 본 다음 포트폴리오를 봅니다. 서류를 보는 순서는 대수롭지 않아 보이지만, 실제로는 대수로이 봐야 합니다. 다음 채용 전형 단계로 넘어가려면,... 
-
- [바로가기](https://yozm.wishket.com/magazine/detail/2686/) 
-
-### 자바 가독성 높이는 5가지 팁 
-
- 개발자를 준비하는 많은 분들이 자기 PR 목적으로 코드를 공유합니다. 그러나 가독성이 좋지 않은 코드를 공유한다면, 오히려 역효과가 날 수 있습니다. 코드를 통해 여러분이 고민한 ... 
-
- [바로가기](https://yozm.wishket.com/magazine/detail/2682/) 
+ [바로가기](https://yozm.wishket.com/magazine/detail/2687/) 
 
 ---
 
