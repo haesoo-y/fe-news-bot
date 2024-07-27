@@ -1,29 +1,29 @@
 # 오늘의 포스팅 
-2024년 7월 26일 9시 기준 
-
-### FrontEnd Interview Preparation 
-
- Content... 
-
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F00bf95116b5e&operation=register&redirect=https%3A%2F%2Flevelup.gitconnected.com%2Ffrontend-interview-preparation-00bf95116b5e&source=---------0-84----------javascript------bookmark_preview----24dc617c_c0ae_4e3a_966a_7350c9a055f7-------) 
+2024년 7월 27일 9시 기준 
 
 ### Leveraging AI Power: A Comprehensive Guide to Integrating OpenAI with NestJS 
 
  Introduction... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F1c7c772e96fd&operation=register&redirect=https%3A%2F%2Fmedium.com%2Fpaktolus-engineering%2Fleveraging-ai-power-a-comprehensive-guide-to-integrating-openai-with-nestjs-1c7c772e96fd&source=---------0-84----------typescript------bookmark_preview----df691cb8_c185_4c29_ae94_8ce1579e79c1-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F1c7c772e96fd&operation=register&redirect=https%3A%2F%2Fmedium.com%2Fpaktolus-engineering%2Fleveraging-ai-power-a-comprehensive-guide-to-integrating-openai-with-nestjs-1c7c772e96fd&source=---------0-84----------typescript------bookmark_preview----c3c1d246_2f2c_46e8_81b9_bf1cfa6a3f05-------) 
 
 ### Designing Scalable Frontend Architectures with React — Distributed Systems with React(Part 2) 
 
  The complex and scalable nature of web applications becomes important to design a strong front-end a... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F4930bedafaeb&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40deeptanshu.sankhwar%2Fdesigning-scalable-frontend-architectures-with-react-distributed-systems-with-react-part-2-4930bedafaeb&source=---------0-84----------frontend------bookmark_preview----36d2e0de_a4dc_4c1a_ae79_077c90998cf8-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F4930bedafaeb&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40deeptanshu.sankhwar%2Fdesigning-scalable-frontend-architectures-with-react-distributed-systems-with-react-part-2-4930bedafaeb&source=---------0-84----------frontend------bookmark_preview----717a04f5_7e30_42f0_ade2_eb6603f286d6-------) 
 
-### Streamlining Joi Validation in NestJS: “A Decorator Approach” 
+### Deploy React app to Netlify 
 
- Validation plays a crucial role in ensuring data integrity and security. Unlike client-side validati... 
+ How to deploy React app to Netlify in 6 steps... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F132aacb31954&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40bhanumeghraj2%2Fstreamlining-joi-validation-in-nestjs-a-decorator-approach-132aacb31954&source=---------0-84----------reactjs------bookmark_preview----c51aa1bd_88a5_4473_a982_d843f85d275f-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F3b6e712640e3&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40vdhakar80%2Fdeploy-react-app-to-netlify-3b6e712640e3&source=---------0-84----------reactjs------bookmark_preview----cf2ac1d1_5ae0_45a8_97c2_e4565e1148d7-------) 
+
+### Building a Micro Frontend Application with Next.js 14.2 and Tailwind CSS — Part-IV 
+
+ In my previous blog no:2, for sharing and using the micro frontend components, i have build the node... 
+
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fad787ceabfc5&operation=register&redirect=https%3A%2F%2Fblog.stackademic.com%2Fbuilding-a-micro-frontend-application-with-next-js-14-2-and-tailwind-css-part-iv-ad787ceabfc5&source=---------0-84----------nextjs------bookmark_preview----ccdd20aa_fdc0_4fc6_8b0e_10a63d42c6f7-------) 
 
 ### [PyCon US 원정대] ① 온 가족이 함께 가는 개발 콘퍼런스 
 
