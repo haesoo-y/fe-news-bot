@@ -1,11 +1,5 @@
 # 오늘의 포스팅 
-2024년 7월 27일 9시 기준 
-
-### Leveraging AI Power: A Comprehensive Guide to Integrating OpenAI with NestJS 
-
- Introduction... 
-
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F1c7c772e96fd&operation=register&redirect=https%3A%2F%2Fmedium.com%2Fpaktolus-engineering%2Fleveraging-ai-power-a-comprehensive-guide-to-integrating-openai-with-nestjs-1c7c772e96fd&source=---------0-84----------typescript------bookmark_preview----c3c1d246_2f2c_46e8_81b9_bf1cfa6a3f05-------) 
+2024년 7월 28일 9시 기준 
 
 ### Designing Scalable Frontend Architectures with React — Distributed Systems with React(Part 2) 
 
@@ -13,17 +7,23 @@
 
  [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F4930bedafaeb&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40deeptanshu.sankhwar%2Fdesigning-scalable-frontend-architectures-with-react-distributed-systems-with-react-part-2-4930bedafaeb&source=---------0-84----------frontend------bookmark_preview----717a04f5_7e30_42f0_ade2_eb6603f286d6-------) 
 
-### Deploy React app to Netlify 
+### The Basics You Thought You Knew: Uncovering Web Development Fundamentals 
 
- How to deploy React app to Netlify in 6 steps... 
+ Think you know the basics of web development? Think again! In this blog, we uncover the hidden gems ... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F3b6e712640e3&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40vdhakar80%2Fdeploy-react-app-to-netlify-3b6e712640e3&source=---------0-84----------reactjs------bookmark_preview----cf2ac1d1_5ae0_45a8_97c2_e4565e1148d7-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F360012cf9d53&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40khushi1399gupta%2Fthe-basics-you-thought-you-knew-uncovering-web-development-fundamentals-360012cf9d53&source=---------0-84----------reactjs------bookmark_preview----9fced69a_052a_4929_91be_fc32854421ce-------) 
 
 ### Building a Micro Frontend Application with Next.js 14.2 and Tailwind CSS — Part-IV 
 
  In my previous blog no:2, for sharing and using the micro frontend components, i have build the node... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fad787ceabfc5&operation=register&redirect=https%3A%2F%2Fblog.stackademic.com%2Fbuilding-a-micro-frontend-application-with-next-js-14-2-and-tailwind-css-part-iv-ad787ceabfc5&source=---------0-84----------nextjs------bookmark_preview----ccdd20aa_fdc0_4fc6_8b0e_10a63d42c6f7-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fad787ceabfc5&operation=register&redirect=https%3A%2F%2Fblog.stackademic.com%2Fbuilding-a-micro-frontend-application-with-next-js-14-2-and-tailwind-css-part-iv-ad787ceabfc5&source=---------0-84----------nextjs------bookmark_preview----75c59110_14c2_4c10_8632_13ab4aba2acb-------) 
+
+### Why rem/em ? Why not px ? 
+
+ When I started coding, using “px” in CSS was the only method I used for styling elements. I guess ma... 
+
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F839755f307c4&operation=register&redirect=https%3A%2F%2Fsourabhmk.medium.com%2Fwhy-rem-em-why-not-px-839755f307c4&source=---------0-84----------front_end_development------bookmark_preview----e03fa193_9a3a_4c28_a160_f98063bf2b0f-------) 
 
 ### [PyCon US 원정대] ① 온 가족이 함께 가는 개발 콘퍼런스 
 
