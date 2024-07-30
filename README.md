@@ -1,17 +1,11 @@
 # 오늘의 포스팅 
-2024년 7월 29일 9시 기준 
+2024년 7월 30일 9시 기준 
 
-### Mastering State Management in Distributed React Apps — Distributed Systems with React(Part 3) 
+### NextJS novice stories — React Hook forms. 
 
- When it comes to distributed React apps, good state management is essential to avoid a disjointed us... 
+ The Challenge:... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F077ec1df54bd&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40deeptanshu.sankhwar%2Fmastering-state-management-in-distributed-react-apps-distributed-systems-with-react-part-3-077ec1df54bd&source=---------0-84----------reactjs------bookmark_preview----d9c0af81_a10b_41d0_9a80_13d4dd2e33a2-------) 
-
-### Building a Micro Frontend Application with Next.js 14.2 and Tailwind CSS — Part-IV 
-
- In my previous blog no:2, for sharing and using the micro frontend components, i have build the node... 
-
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fad787ceabfc5&operation=register&redirect=https%3A%2F%2Fblog.stackademic.com%2Fbuilding-a-micro-frontend-application-with-next-js-14-2-and-tailwind-css-part-iv-ad787ceabfc5&source=---------0-84----------nextjs------bookmark_preview----64168e4a_8196_47d4_85da_4a2dd8dcf4a3-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F9c70bfefe9e9&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40tristanaburns%2Fnextjs-novice-stories-react-hook-forms-9c70bfefe9e9&source=---------0-84----------nextjs------bookmark_preview----af385219_7252_4a9c_b9f1_974e11e39fa6-------) 
 
 ### How I Built and Deployed My Portfolio Website in Just One Day: A Quick Guide for Developers 
 
@@ -24,6 +18,12 @@
  The Challenge:... 
 
  [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F9c70bfefe9e9&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40tristanaburns%2Fnextjs-novice-stories-react-hook-forms-9c70bfefe9e9&source=---------0-84----------react------bookmark_preview----2f2e75f3_0e8d_4da5_9107_43c575e18750-------) 
+
+### Frontend Weekly Digest #373 (22–28 July 2024) 
+
+ Web-development... 
+
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F89984e05a0ce&operation=register&redirect=https%3A%2F%2Ffrontender-ua.medium.com%2Ffrontend-weekly-digest-373-22-28-july-2024-89984e05a0ce&source=---------0-84----------javascript------bookmark_preview----4bfc375b_ff66_4155_9b38_7b3e4782afde-------) 
 
 ### 데브섹옵스 자동화를 위한 ‘동적 보안 테스팅(DAST)’ 
 
