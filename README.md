@@ -1,41 +1,43 @@
 # 오늘의 포스팅 
-2024년 7월 31일 9시 기준 
+2024년 8월 1일 9시 기준 
 
-### How I Built and Deployed My Portfolio Website in Just One Day: A Quick Guide for Developers 
+### Understanding useState in React: A Behind-the-Scenes Look — By Sarthak Sanghavi 
 
- I spent a few hours yesterday developing my portfolio and I was able to finish building and deployin... 
+ React’s useState hook is a fundamental feature for managing state in functional components. It provi... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F61d76f8e5a21&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40rukaiah%2Fhow-i-built-and-deployed-my-portfolio-website-in-just-one-day-a-quick-guide-for-developers-61d76f8e5a21&source=---------0-84----------front_end_development------bookmark_preview----74096cc5_f19c_4786_9929_bdca7a27589a-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fd4053cc6db57&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40srthksanghavi%2Funderstanding-usestate-in-react-a-behind-the-scenes-look-d4053cc6db57&source=---------0-84----------react------bookmark_preview----f09c4e22_728e_46ea_ab47_c2c7bd302327-------) 
 
-### Implementing SSR in React: A Comprehensive Tutorial 
+### Variables in Javascript 
 
- ... 
+ In this story, we will be learning about variables in JavaScript.
+What is a variable?
+Variable Decla... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Ff1aae9030f23&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40priyam_mondal%2Fimplementing-ssr-in-react-a-comprehensive-tutorial-f1aae9030f23&source=---------0-84----------react------bookmark_preview----4a98a0f4_4f07_463e_a4c3_cc487a3a57b4-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fd223a140a1e5&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40aniketchaudhary_14845%2Fvariables-in-javascript-d223a140a1e5&source=---------0-84----------javascript------bookmark_preview----3ebcc758_9039_4ea0_8a19_c30b4dea4a7f-------) 
 
-### Frontend Weekly Digest #373 (22–28 July 2024) 
+### Conditionally Hiding the Tab Bar in React Navigation (V6) 
 
- Web-development... 
+ In a React Native application using React Navigation, you might want to hide the tab bar on specific... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F89984e05a0ce&operation=register&redirect=https%3A%2F%2Ffrontender-ua.medium.com%2Ffrontend-weekly-digest-373-22-28-july-2024-89984e05a0ce&source=---------0-84----------javascript------bookmark_preview----4bfc375b_ff66_4155_9b38_7b3e4782afde-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F948e035fb576&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40hanishsharmaofficial%2Fconditionally-hiding-the-tab-bar-in-react-navigation-v6-948e035fb576&source=---------0-84----------typescript------bookmark_preview----57119074_5f8e_485c_8620_08c1f4d8edf9-------) 
 
-### JavaScript Monorepos: Exploring Decentralized Alternatives 
+### Frontend Coding Standards (Vue.js) 
 
- Enhancing Your Javascript/Typescript Codebase for Flexibility, Shareability, and Scalability to Addr... 
+ Here’s a comprehensive coding standard for handling dirty data in a Vue.js application with TypeScri... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F06e25024d4bf&operation=register&redirect=https%3A%2F%2Fblog.bitsrc.io%2Fjavascript-monorepos-understanding-their-limitations-and-exploring-decentralized-alternatives-06e25024d4bf&source=---------0-84----------typescript------bookmark_preview----1224f600_b09a_45c9_9fb5_1ff1b31e277f-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fd00fd42647c3&operation=register&redirect=https%3A%2F%2Fokellomarvinkevin.medium.com%2Ffrontend-coding-standards-vue-js-d00fd42647c3&source=---------0-84----------frontend------bookmark_preview----5aab249a_899d_4095_8b76_c89873ddd46e-------) 
 
-### 생성형 AI 만난 ‘시리’는 어떻게 똑똑해질 수 있을까? 
+### [PyCon US 원정대] ② PyCon 이벤트&재정 지원 완전 정복 
 
- 빅테크 기업 치고는 유독 인공지능에 소극적이었던 애플의 행보가 최근 들어 심상치 않습니다. 애플은 지난 5월 앤트로픽의 클로드를 탑재한 iOS용 모바일 앱을 발표한 바 있는데요. ... 
+ PyCon의 본진이라고 할 수 있는 PyCon US에서는 어떤 이벤트가 열릴까요? 최대 2,000달러의 지원과 무료 콘퍼런스 티켓을 주는 PyCon US의 재정 지원 프로그램은 어... 
 
- [바로가기](https://yozm.wishket.com/magazine/detail/2696/) 
+ [바로가기](https://yozm.wishket.com/magazine/detail/2698/) 
 
-### 데브섹옵스 자동화를 위한 ‘동적 보안 테스팅(DAST)’ 
+### 문과생을 위한 IT 용어 강의 ④ 실무에서는 무슨 일이 벌어질까? 
 
- 지난 두 편의 글을 통해 데브섹옵스(DevSecOps)와 정적 보안 테스팅(SAST)에 대해 알아봤습니다. 이번 글에서는 정적 보안 테스팅을 상호 보완할 수 있는 ‘동적 보안 테스... 
+ “IT 기업은 일반 기업과 뭐가 다르냐?” 이런 질문을 실제로 많이 받습니다. 일반 기업이라 하면 일반 기업인데, IT 기업은 무언가 색다르게 분류가 되는 느낌이잖아요. 그렇죠? ... 
 
- [바로가기](https://yozm.wishket.com/magazine/detail/2692/) 
+ [바로가기](https://yozm.wishket.com/magazine/detail/2697/) 
 
 ---
 
