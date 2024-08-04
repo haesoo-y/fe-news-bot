@@ -1,29 +1,29 @@
 # 오늘의 포스팅 
-2024년 8월 3일 9시 기준 
-
-### Creating a Decorator with Parameters in TypeScript 
-
- Decorators in TypeScript provide a powerful way to enhance classes and their methods with additional... 
-
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fdb78873242dd&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40dlyusko%2Fcreating-a-decorator-with-parameters-in-typescript-db78873242dd&source=---------0-84----------typescript------bookmark_preview----ec65e6f2_e9a3_42db_82ec_3b2f0bd3a3e6-------) 
+2024년 8월 4일 9시 기준 
 
 ### Building a Frontend for a Substrate Blockchain using Typescript and NextJs Part I 
 
  In this tutorial, you will learn to build a frontend and connect it to a substrate blockchain using ... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fef6485173213&operation=register&redirect=https%3A%2F%2Fcalvin-sze.medium.com%2Fbuilding-a-frontend-for-a-substrate-blockchain-using-typescript-and-nextjs-part-i-ef6485173213&source=---------0-84----------frontend------bookmark_preview----033ad26a_23c9_41bd_845a_dfb4b3f75842-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fef6485173213&operation=register&redirect=https%3A%2F%2Fcalvin-sze.medium.com%2Fbuilding-a-frontend-for-a-substrate-blockchain-using-typescript-and-nextjs-part-i-ef6485173213&source=---------0-84----------frontend------bookmark_preview----397efe01_abf1_42fc_afd7_f5f326f73c5f-------) 
 
-### Designing and integrating a GraphQL API with Node.js and React.js 
+### From Redux to Zustand: Discover the Simplicity of State Management in React 
 
- Introduction... 
+ Discover how to simplify React state management with Zustand. Compare with Redux and follow step-by-... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fa0f56c4e2c1d&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40Techforce_global%2Fdesigning-and-integrating-a-graphql-api-with-node-js-and-react-js-a0f56c4e2c1d&source=---------0-84----------reactjs------bookmark_preview----6042cbb8_29c6_4823_88ea_1548da7226c3-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F4e9875bc5a29&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40ahmad-tayh%2Ffrom-redux-to-zustand-discover-the-simplicity-of-state-management-in-react-4e9875bc5a29&source=---------0-84----------reactjs------bookmark_preview----e238ce95_fb35_425a_9a2f_f5aa66b117fb-------) 
 
-### Boosting performance: Faire’s transition to NextJS 
+### Building a simple To-Do app with Supabase & Next.js 
 
- How Faire navigated the migration from a mature single-page application to the server-side NextJS fr... 
+ As a beginner, you want to build something meaningful without getting bogged down by technical compl... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F3967f092caaf&operation=register&redirect=https%3A%2F%2Fcraft.faire.com%2Fboosting-performance-faires-transition-to-nextjs-3967f092caaf&source=---------0-84----------nextjs------bookmark_preview----fc9bb264_a085_463f_9e98_8c6630b3c445-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F2984ce16926a&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40nbryleibanez%2Fbuilding-a-simple-to-do-app-with-supabase-next-js-2984ce16926a&source=---------0-84----------nextjs------bookmark_preview----f990cfa1_8f6c_48d1_8bf9_d297b4237908-------) 
+
+### Lightning: How AMP Shocked the Web and Then Short-Circuited 
+
+ Remember Accelerated Mobile Pages (AMP)?... 
+
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fca55d328304b&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40singhprince.cse%2Flightning-how-amp-shocked-the-web-and-then-short-circuited-ca55d328304b&source=---------0-84----------front_end_development------bookmark_preview----3a74acae_8183_4112_86a5_2e73bfa10e6e-------) 
 
 ### 개발자를 위한 ‘프롬프트 엔지니어링’ 시작하기 
 
