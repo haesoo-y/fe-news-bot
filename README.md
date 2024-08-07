@@ -1,29 +1,30 @@
 # 오늘의 포스팅 
-2024년 8월 6일 9시 기준 
+2024년 8월 7일 9시 기준 
 
-### Building a simple To-Do app with Supabase & Next.js 
+### Understanding Redux Toolkit: Clear Analogies from Everyday Life 
 
- As a beginner, you want to build something meaningful without getting bogged down by technical compl... 
+ What is Redux Toolkit?... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F2984ce16926a&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40nbryleibanez%2Fbuilding-a-simple-to-do-app-with-supabase-next-js-2984ce16926a&source=---------0-84----------nextjs------bookmark_preview----9cd97b6a_6864_4ea2_90be_75b67070ea87-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Ff9c67978e6dd&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40shahharshita.26%2Funderstanding-redux-toolkit-clear-analogies-from-everyday-life-f9c67978e6dd&source=---------0-84----------front_end_development------bookmark_preview----27a5a5bd_9e23_43f2_8ecd_566bd94a4213-------) 
 
-### Frontend Weekly Digest #374 (29 July — 4 August2024) 
+### Finding potential culprits for slow interactions that may affect the INP value of a web page 
 
- Web-development... 
+ First of all lets quickly understand why exactly we need to care about INP.
+Interaction to Next Pain... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F19fee43fd0db&operation=register&redirect=https%3A%2F%2Ffrontender-ua.medium.com%2Ffrontend-weekly-digest-374-29-july-4-august2024-19fee43fd0db&source=---------0-84----------front_end_development------bookmark_preview----d4922851_3601_442b_a97f_390034e12258-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fb92f5f8272ca&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40prakharpandey.13%2Ffinding-potential-culprits-for-slow-interactions-that-may-affect-the-inp-value-of-a-web-page-b92f5f8272ca&source=---------0-84----------react------bookmark_preview----3e32ce9d_d77b_4849_83db_146117856758-------) 
 
-### Getting Started with Streamlit and Custom Streamlit Components 
+### Content projection in angular: ng-content 
 
- This article provides a step-by-step guide for building a Streamlit application, creating unique com... 
+ Content projection is a powerful technique in Angular that allows you to pass content from a parent ... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F491bd197cd9f&operation=register&redirect=https%3A%2F%2Fblog.santoshshinde.com%2Fgetting-started-with-streamlit-and-custom-streamlit-components-491bd197cd9f&source=---------0-84----------react------bookmark_preview----74b2ee87_0aa8_4ca5_862f_a123ef71c3ab-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F541d57b29b30&operation=register&redirect=https%3A%2F%2Fbittukumar-web.medium.com%2Fcontent-projection-in-angular-ng-content-541d57b29b30&source=---------0-84----------javascript------bookmark_preview----4b6d2a90_ff69_46a1_bdcb_2bc55b3c4b9c-------) 
 
-### Today I Interviewed for a Lead Front-End Role 
+### A Guide from Basic to Advanced Uses of Enums in TypeScript 
 
- And They Asked Me a Couple of Tough Questions... 
+ Enums, short for enumerations, are a powerful feature in TypeScript that allow developers to define ... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fd4845e5ddd2e&operation=register&redirect=https%3A%2F%2Fiorilan.medium.com%2Ftoday-i-interviewed-for-a-lead-front-end-role-d4845e5ddd2e&source=---------0-84----------javascript------bookmark_preview----67ff67ec_79b2_4598_ac71_c371c8a2e524-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F8e8e3c74d3f1&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40akshithpottigari%2Fa-guide-from-basic-to-advanced-uses-of-enums-in-typescript-8e8e3c74d3f1&source=---------0-84----------typescript------bookmark_preview----ce2d42c0_cafe_4b8b_9c6b_346ba271adba-------) 
 
 ### 개발자를 위한 ‘프롬프트 엔지니어링’ 시작하기 
 
