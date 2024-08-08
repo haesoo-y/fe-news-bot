@@ -1,30 +1,29 @@
 # 오늘의 포스팅 
-2024년 8월 7일 9시 기준 
+2024년 8월 8일 9시 기준 
 
 ### Understanding Redux Toolkit: Clear Analogies from Everyday Life 
 
  What is Redux Toolkit?... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Ff9c67978e6dd&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40shahharshita.26%2Funderstanding-redux-toolkit-clear-analogies-from-everyday-life-f9c67978e6dd&source=---------0-84----------front_end_development------bookmark_preview----27a5a5bd_9e23_43f2_8ecd_566bd94a4213-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Ff9c67978e6dd&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40shahharshita.26%2Funderstanding-redux-toolkit-clear-analogies-from-everyday-life-f9c67978e6dd&source=---------0-84----------react------bookmark_preview----b13c0753_3fb5_4dab_b033_534caf3b9ccf-------) 
 
-### Finding potential culprits for slow interactions that may affect the INP value of a web page 
+### A Beginner’s Guide to Understanding JavaScript Scopes and Scope Types. 
 
- First of all lets quickly understand why exactly we need to care about INP.
-Interaction to Next Pain... 
+ JavaScript scopes define the accessibility and lifetime of variables within your code. In this artic... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fb92f5f8272ca&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40prakharpandey.13%2Ffinding-potential-culprits-for-slow-interactions-that-may-affect-the-inp-value-of-a-web-page-b92f5f8272ca&source=---------0-84----------react------bookmark_preview----3e32ce9d_d77b_4849_83db_146117856758-------) 
-
-### Content projection in angular: ng-content 
-
- Content projection is a powerful technique in Angular that allows you to pass content from a parent ... 
-
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F541d57b29b30&operation=register&redirect=https%3A%2F%2Fbittukumar-web.medium.com%2Fcontent-projection-in-angular-ng-content-541d57b29b30&source=---------0-84----------javascript------bookmark_preview----4b6d2a90_ff69_46a1_bdcb_2bc55b3c4b9c-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F9b6dd1c120f6&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40akshithpottigari%2Fa-beginners-guide-to-understanding-scopes-and-its-types-9b6dd1c120f6&source=---------0-84----------javascript------bookmark_preview----8462460c_2772_4207_bd27_b2f3611fad2a-------) 
 
 ### A Guide from Basic to Advanced Uses of Enums in TypeScript 
 
  Enums, short for enumerations, are a powerful feature in TypeScript that allow developers to define ... 
 
  [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F8e8e3c74d3f1&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40akshithpottigari%2Fa-guide-from-basic-to-advanced-uses-of-enums-in-typescript-8e8e3c74d3f1&source=---------0-84----------typescript------bookmark_preview----ce2d42c0_cafe_4b8b_9c6b_346ba271adba-------) 
+
+### New JavaScript Set Methods — Performance and Examples 
+
+ JavaScript Sets are collections of unique values, providing methods for efficient management and man... 
+
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F8932524707c3&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40jsdevspace%2Fnew-javascript-set-methods-performance-and-examples-8932524707c3&source=---------0-84----------frontend------bookmark_preview----7c51aab8_e9d2_4ff3_a0de_20ab75d58ad9-------) 
 
 ### 개발자를 위한 ‘프롬프트 엔지니어링’ 시작하기 
 
