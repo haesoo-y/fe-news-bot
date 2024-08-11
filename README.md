@@ -1,29 +1,29 @@
 # 오늘의 포스팅 
-2024년 8월 10일 9시 기준 
-
-### 15 Quick Useful Tips for AWS CDK Engineers 
-
- 15 useful tips and code snippets for AWS CDK cloud engineers creating and setting up new projects.... 
-
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fa7675e1557aa&operation=register&redirect=https%3A%2F%2Fblog.serverlessadvocate.com%2F15-quick-useful-tips-for-aws-cdk-engineers-a7675e1557aa&source=---------0-84----------typescript------bookmark_preview----e6522683_254c_4ee2_8c05_12ba2e7525d2-------) 
+2024년 8월 11일 9시 기준 
 
 ### Exploring Container Queries: A Friendly Guide for CSS Learners 
 
  Hey there, fellow coding enthusiast!... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F6f6af86aa09a&operation=register&redirect=https%3A%2F%2Fmedium.com%2Frewrite-tech%2Fexploring-container-queries-a-friendly-guide-for-css-learners-6f6af86aa09a&source=---------0-84----------frontend------bookmark_preview----97ebd33a_f33c_4700_8085_013dfcadfc82-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F6f6af86aa09a&operation=register&redirect=https%3A%2F%2Fmedium.com%2Frewrite-tech%2Fexploring-container-queries-a-friendly-guide-for-css-learners-6f6af86aa09a&source=---------0-84----------frontend------bookmark_preview----d8d0e397_32fa_4d65_9575_21ccfb200482-------) 
 
-### React To Next.js Migration  💻 ✨ 
+### 30 React.js Questions you should know before every interview 
 
- If you’re a frontend developer, you’ve probably faced the big question: Which is better, React or Ne... 
+ Whether you are appearing for a senior role or a junior frontend developer role you must learn these... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F4ddb71f11aac&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40dhineshkumar4567%2Fcreating-a-universal-component-for-react-and-next-js-4ddb71f11aac&source=---------0-84----------reactjs------bookmark_preview----c68c2d98_1575_4d51_b392_9ebecd1cf795-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F249470fc45cd&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40shivam-bunge%2F30-react-js-questions-you-should-know-before-every-interview-249470fc45cd&source=---------0-84----------reactjs------bookmark_preview----25630571_b3da_4d75_a8a9_7ac9b8566c4a-------) 
 
-### Using Multiple Google Fonts In Next.js With CSS Modules 
+### The Web Rendering Space Race: Which Meta-Framework Will Take You to the Stars? 
 
- The Plan... 
+ Navigating Next.js, Astro, and Remix to Find The Perfect Fit... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F15d9a98c6602&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40mattyserwer%2Fusing-multiple-google-fonts-in-next-js-with-css-modules-15d9a98c6602&source=---------0-84----------nextjs------bookmark_preview----d67a8f91_be28_47ac_b768_219d46f818d1-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fc1e4be5ce36f&operation=register&redirect=https%3A%2F%2Fmedium.com%2Fekino-france%2Fthe-web-rendering-space-race-which-framework-will-take-you-to-the-stars-c1e4be5ce36f&source=---------0-84----------nextjs------bookmark_preview----447f05b1_e51e_47a7_9ddf_e406459a7801-------) 
+
+### The Web Rendering Space Race: Which Meta-Framework Will Take You to the Stars? 
+
+ Navigating Next.js, Astro, and Remix to Find The Perfect Fit... 
+
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fc1e4be5ce36f&operation=register&redirect=https%3A%2F%2Fmedium.com%2Fekino-france%2Fthe-web-rendering-space-race-which-framework-will-take-you-to-the-stars-c1e4be5ce36f&source=---------0-84----------front_end_development------bookmark_preview----362c10b3_9de1_4120_b0fd_2cdca7d974dc-------) 
 
 ### FE 1,000명이 한자리에: FEConf 2024는 뭐가 다를까? 
 
