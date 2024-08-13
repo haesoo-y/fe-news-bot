@@ -1,41 +1,41 @@
 # 오늘의 포스팅 
-2024년 8월 12일 9시 기준 
+2024년 8월 13일 9시 기준 
 
-### Can ReactJS Be Used for Mobile Apps? A Detailed Guide 
+### Tech stack I used to create an innovative CMS and AI-powered post generator with Next.js! 
 
- Guide to Different Options for Building Mobile Apps Using ReactJS... 
+ 🚀 Project Overview: I developed a CMS that not only manages posts but also allows you to create new... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F400155b40f3f&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40partharoylive%2Fbuilding-mobile-apps-using-reactjs-400155b40f3f&source=---------0-84----------reactjs------bookmark_preview----3265c227_7212_492c_a027_4c9aaf5936d5-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fa3e23028da9e&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40tamiratake%2Ftech-stack-i-used-to-create-an-innovative-cms-and-ai-powered-post-generator-with-next-js-a3e23028da9e&source=---------0-84----------nextjs------bookmark_preview----574b2b64_deae_4ecf_9f31_b954c188b3a0-------) 
 
-### The Web Rendering Space Race: Which Meta-Framework Will Take You to the Stars? 
+### Frontend Weekly Digest #375 (5–11 August 2024) 
 
- Navigating Next.js, Astro, and Remix to Find The Perfect Fit... 
+ Web-development... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fc1e4be5ce36f&operation=register&redirect=https%3A%2F%2Fmedium.com%2Fekino-france%2Fthe-web-rendering-space-race-which-framework-will-take-you-to-the-stars-c1e4be5ce36f&source=---------0-84----------nextjs------bookmark_preview----65eb065f_707f_42bd_ae99_b1545ce6b929-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fe0071e3f3095&operation=register&redirect=https%3A%2F%2Ffrontender-ua.medium.com%2Ffrontend-weekly-digest-375-5-11-august-2024-e0071e3f3095&source=---------0-84----------front_end_development------bookmark_preview----6a7d5c60_30a9_4ed9_a244_3158448de818-------) 
 
-### The Web Rendering Space Race: Which Meta-Framework Will Take You to the Stars? 
+### DynaUI Makes Building React Apps Super Easy! 
 
- Navigating Next.js, Astro, and Remix to Find The Perfect Fit... 
+ Reviewing the latest UI Library in town for React.... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fc1e4be5ce36f&operation=register&redirect=https%3A%2F%2Fmedium.com%2Fekino-france%2Fthe-web-rendering-space-race-which-framework-will-take-you-to-the-stars-c1e4be5ce36f&source=---------0-84----------front_end_development------bookmark_preview----362c10b3_9de1_4120_b0fd_2cdca7d974dc-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fe49c95d0a2a4&operation=register&redirect=https%3A%2F%2Flevelup.gitconnected.com%2Fdynaui-makes-building-react-apps-super-easy-e49c95d0a2a4&source=---------0-84----------react------bookmark_preview----1158d4d4_a14f_45d1_ad35_5edb32fe088a-------) 
 
-### How to Implement Swipe Functionality in React with the useSwipe Hook 
+### Frontend Weekly Digest #375 (5–11 August 2024) 
 
- Swipe gestures are a crucial feature for modern web applications, enhancing user experience especial... 
+ Web-development... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F5ead46025370&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40serhanelmali%2Fhow-to-implement-swipe-functionality-in-react-with-the-useswipe-hook-5ead46025370&source=---------0-84----------react------bookmark_preview----edc7bce3_f77d_49fe_862f_77aec6889414-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fe0071e3f3095&operation=register&redirect=https%3A%2F%2Ffrontender-ua.medium.com%2Ffrontend-weekly-digest-375-5-11-august-2024-e0071e3f3095&source=---------0-84----------javascript------bookmark_preview----4d511151_9386_4565_a245_523a7dbcb3c0-------) 
+
+### 경쟁력 있는 개발자를 위한 ‘클라우드 디자인 패턴’ 
+
+ 여러분은 서버를 어디에 배포하나요? 10년 사이, 수많은 IT 기업이 클라우드 전환을 마쳤습니다. 클라우드 환경이 가져다준 변화 중 하나는 바로 배포와 확장의 유연함입니다. 물론 ... 
+
+ [바로가기](https://yozm.wishket.com/magazine/detail/2713/) 
 
 ### FE 1,000명이 한자리에: FEConf 2024는 뭐가 다를까? 
 
  FE 1,000명이 한자리에 모여 하루 종일 프론트엔드 개발 이야기를 하는 자리, 생각해 본 적 있나요? 오는 8월 24일에 열리는 FEConf2024는 그런 콘퍼런스로 거듭날 예... 
 
  [바로가기](https://yozm.wishket.com/magazine/detail/2711/) 
-
-### [PyCon US 원정대 ③] 개발자 네트워킹을 시작하는 3가지 방법 
-
- PyCon US에 다녀왔다는 게 아직 꿈만 같다. 미국 유학 경험으로 영어는 자신 있었지만, 파이썬은 자신 있는 언어가 아니었다. 그런 내가 파이썬을 사용하는 전 세계 사람들의 모... 
-
- [바로가기](https://yozm.wishket.com/magazine/detail/2709/) 
 
 ---
 
