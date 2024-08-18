@@ -1,29 +1,29 @@
 # 오늘의 포스팅 
-2024년 8월 17일 9시 기준 
-
-### Angular 17 — Signals vs Observables 
-
- When to Use Which?... 
-
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F4f2da9f256f4&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40chadhamoksh%2Fangular-17-signals-vs-observables-4f2da9f256f4&source=---------0-84----------typescript------bookmark_preview----4853c232_7249_4c5e_9b45_f31936369637-------) 
+2024년 8월 18일 9시 기준 
 
 ### Peek and Learn Part 2 — Peeking behind the video tags in Hotstar 
 
  Ever wondered how your favourite Hotstar shows appear in your browser and adapt to your varying inte... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Ff296612b427b&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40vishnu.p.e%2Fpeek-and-learn-part-2-peeking-behind-the-video-tags-in-hotstar-f296612b427b&source=---------0-84----------frontend------bookmark_preview----0d76dcd3_7adf_4e36_b946_c3a9e11832f7-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Ff296612b427b&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40vishnu.p.e%2Fpeek-and-learn-part-2-peeking-behind-the-video-tags-in-hotstar-f296612b427b&source=---------0-84----------frontend------bookmark_preview----7a27b296_f3e0_4b22_8563_da6fd69ecc72-------) 
 
-### Understanding Higher-Order Functions and Components in React: A Coffee Lover’s Guide 
+### From Silver Screen to Browser Windows: How UI Development is Like Filmmaking 
 
- Introduction... 
+ As a creative soul trapped in an engineer’s body, I often find myself drawn to the world of art, but... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F1297fb93920b&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40gdivya8497%2Funderstanding-higher-order-functions-and-components-in-react-a-coffee-lovers-guide-1297fb93920b&source=---------0-84----------reactjs------bookmark_preview----8b36bf6d_c393_4a9b_b148_1cd4a352100c-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F9f81f01edda6&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40shyam_V%2Ffrom-silver-screen-to-browser-windows-how-ui-development-is-like-filmmaking-9f81f01edda6&source=---------0-84----------reactjs------bookmark_preview----2c757588_b382_470d_9de6_eb5d30c0c437-------) 
 
-### Implementing Page Loaders in NextJS 14 
+### Next.js 14 (App Router) Simplified: A Guide to page.tsx 
 
- Recently, I stumbled upon a tweet from a fellow web developer expressing frustration over a website ... 
+ Next.js uses a file-system based router where : Next.js provides a set of special files to create UI... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F171527c961b9&operation=register&redirect=https%3A%2F%2Fjavascript.plainenglish.io%2Fimplementing-page-loaders-in-nextjs-14-171527c961b9&source=---------0-84----------nextjs------bookmark_preview----c61fd17f_d115_4118_8766_90a902df58f5-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F233131ec039b&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40sagarpatil23399%2Fnext-js-14-app-router-simplified-a-guide-to-page-tsx-233131ec039b&source=---------0-84----------nextjs------bookmark_preview----4aa7cac5_823d_44ea_ae56_da90107df319-------) 
+
+### Understanding State Management in Angular with NgRx 
+
+ State management is a crucial aspect of modern web applications, especially as they grow in complexi... 
+
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F779ae1b921b8&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40chittalavenkatakrishna%2Funderstanding-state-management-in-angular-with-ngrx-779ae1b921b8&source=---------0-84----------front_end_development------bookmark_preview----96f75790_30df_4ab4_9b62_82af98e53e54-------) 
 
 ### [FEConf 2024 미리보기] 요즘 FE들은 무슨 고민을 할까? 
 
