@@ -1,11 +1,5 @@
 # 오늘의 포스팅 
-2024년 8월 18일 9시 기준 
-
-### Peek and Learn Part 2 — Peeking behind the video tags in Hotstar 
-
- Ever wondered how your favourite Hotstar shows appear in your browser and adapt to your varying inte... 
-
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Ff296612b427b&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40vishnu.p.e%2Fpeek-and-learn-part-2-peeking-behind-the-video-tags-in-hotstar-f296612b427b&source=---------0-84----------frontend------bookmark_preview----7a27b296_f3e0_4b22_8563_da6fd69ecc72-------) 
+2024년 8월 19일 9시 기준 
 
 ### From Silver Screen to Browser Windows: How UI Development is Like Filmmaking 
 
@@ -24,6 +18,12 @@
  State management is a crucial aspect of modern web applications, especially as they grow in complexi... 
 
  [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F779ae1b921b8&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40chittalavenkatakrishna%2Funderstanding-state-management-in-angular-with-ngrx-779ae1b921b8&source=---------0-84----------front_end_development------bookmark_preview----96f75790_30df_4ab4_9b62_82af98e53e54-------) 
+
+### Reusable multistep form component with React Hook Form and Zod 
+
+ source code: https://github.com/josill/multistep-form... 
+
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fa01cd415d317&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40josill%2Freusable-multistep-form-component-with-react-hook-form-and-zod-a01cd415d317&source=---------0-84----------react------bookmark_preview----971274a7_f9bf_4c56_a106_ec508abe3960-------) 
 
 ### [FEConf 2024 미리보기] 요즘 FE들은 무슨 고민을 할까? 
 
