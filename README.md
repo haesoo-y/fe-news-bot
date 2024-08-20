@@ -1,41 +1,41 @@
 # 오늘의 포스팅 
-2024년 8월 19일 9시 기준 
+2024년 8월 20일 9시 기준 
 
-### From Silver Screen to Browser Windows: How UI Development is Like Filmmaking 
+### Implementing GraphQL with Type Safety in Next.js 14 App Router 
 
- As a creative soul trapped in an engineer’s body, I often find myself drawn to the world of art, but... 
+ Recently, I was working on a Next.js project where I tried to integrate Strapi’s GraphQL API with a ... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F9f81f01edda6&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40shyam_V%2Ffrom-silver-screen-to-browser-windows-how-ui-development-is-like-filmmaking-9f81f01edda6&source=---------0-84----------reactjs------bookmark_preview----2c757588_b382_470d_9de6_eb5d30c0c437-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F0dd0a1259327&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40sagardhami2001%2Fimplementing-graphql-with-type-safety-in-next-js-14-app-router-0dd0a1259327&source=---------0-84----------nextjs------bookmark_preview----b9f1c65b_03b5_4116_8dc2_af5558a33351-------) 
 
-### Next.js 14 (App Router) Simplified: A Guide to page.tsx 
+### Frontend Weekly Digest #376 (12–18 August 2024) 
 
- Next.js uses a file-system based router where : Next.js provides a set of special files to create UI... 
+ Web-development... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F233131ec039b&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40sagarpatil23399%2Fnext-js-14-app-router-simplified-a-guide-to-page-tsx-233131ec039b&source=---------0-84----------nextjs------bookmark_preview----4aa7cac5_823d_44ea_ae56_da90107df319-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F8e4ea5d32b7d&operation=register&redirect=https%3A%2F%2Ffrontender-ua.medium.com%2Ffrontend-weekly-digest-376-12-18-august-2024-8e4ea5d32b7d&source=---------0-84----------front_end_development------bookmark_preview----5d50ac25_0cd6_4cfa_970a_5128b61148b7-------) 
 
-### Understanding State Management in Angular with NgRx 
+### ⭕ CSS Now Supports Vertical Alignment In Normal Flow 
 
- State management is a crucial aspect of modern web applications, especially as they grow in complexi... 
+ At last, after so many years we can center stuff vertically with one CSS property!... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F779ae1b921b8&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40chittalavenkatakrishna%2Funderstanding-state-management-in-angular-with-ngrx-779ae1b921b8&source=---------0-84----------front_end_development------bookmark_preview----96f75790_30df_4ab4_9b62_82af98e53e54-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F13a85f06adb1&operation=register&redirect=https%3A%2F%2Ftomaszs2.medium.com%2Fcss-now-supports-vertical-alignment-in-normal-flow-13a85f06adb1&source=---------0-84----------react------bookmark_preview----e88ac529_28f5_4c5f_9331_9289f89c713b-------) 
 
-### Reusable multistep form component with React Hook Form and Zod 
+### The shortest, strangest engineering interview I’ve ever done. 
 
- source code: https://github.com/josill/multistep-form... 
+ Last Friday I posted a job description for a role I’m hiring for, for my early-stage YC startup, One... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fa01cd415d317&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40josill%2Freusable-multistep-form-component-with-react-hook-form-and-zod-a01cd415d317&source=---------0-84----------react------bookmark_preview----971274a7_f9bf_4c56_a106_ec508abe3960-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F950e8fa95f4e&operation=register&redirect=https%3A%2F%2Fbluepnume.medium.com%2Fthe-shortest-strangest-engineering-interview-ive-ever-done-950e8fa95f4e&source=---------0-84----------javascript------bookmark_preview----e8b00dce_7174_4199_9229_27d9b813c369-------) 
 
-### [FEConf 2024 미리보기] 요즘 FE들은 무슨 고민을 할까? 
+### 개발자의 논리적 사고와 문제 해결 ‘Set 구현 과정’ 따라가기 
 
- 올해로 여덟 번째를 맞이한 FEConf의 세션은 그 퀄리티가 높기로 유명합니다. 프론트엔드 개발자로 근무하는 실무자들이 현장에서 마주친 문제와 그 해결 과정을 생생하게 전달하기 때... 
+ 개발자에게 필요한 논리적인 사고와 문제 해결력이란 무엇일까요? 기능을 뚝딱뚝딱 만들고 코드를 빠르게 짤 수 있는 것으로, 논리적으로 문제를 해결하고 있다고 말할 수 있을까요? 또한... 
 
- [바로가기](https://yozm.wishket.com/magazine/detail/2720/) 
+ [바로가기](https://yozm.wishket.com/magazine/detail/2723/) 
 
-### [PyCon US 원정대] ④ 무작정 오픈 소스 컨트리뷰터 도전하기 
+### 뽑히는 개발자는 어떤 프로젝트를 하나요? 
 
- 미국에 간다. 그것도 개발 행사 참여를 위해. PyCon US에서 가장 경험해 보고 싶은 것이 뭔지 고민했다. 그러나 개인적으로 가장 해보고 싶은 것은 스프린트(Sprint)에 참... 
+ 개발자가 제출하는 포트폴리오의 프로젝트 대부분은 ‘제작 그 자체’를 목표로 삼고 만들어진 것입니다. 스터디하며 만들든, 토이 프로젝트로 만들든, 프로젝트를 시작해 만들고 끝맺는 데... 
 
- [바로가기](https://yozm.wishket.com/magazine/detail/2718/) 
+ [바로가기](https://yozm.wishket.com/magazine/detail/2722/) 
 
 ---
 
