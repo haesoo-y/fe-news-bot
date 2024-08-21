@@ -1,29 +1,29 @@
 # 오늘의 포스팅 
-2024년 8월 20일 9시 기준 
+2024년 8월 21일 9시 기준 
 
-### Implementing GraphQL with Type Safety in Next.js 14 App Router 
+### Frontend Performance Love Story 
 
- Recently, I was working on a Next.js project where I tried to integrate Strapi’s GraphQL API with a ... 
+ “A Website starting with an empty body can never achieve good Lighthouse scores!”... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F0dd0a1259327&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40sagardhami2001%2Fimplementing-graphql-with-type-safety-in-next-js-14-app-router-0dd0a1259327&source=---------0-84----------nextjs------bookmark_preview----b9f1c65b_03b5_4116_8dc2_af5558a33351-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fce92302fea5f&operation=register&redirect=https%3A%2F%2Fitnext.io%2Ffrontend-performance-love-story-ce92302fea5f&source=---------0-84----------front_end_development------bookmark_preview----0c9e0623_886a_411a_8f79_3d57737fdb36-------) 
 
-### Frontend Weekly Digest #376 (12–18 August 2024) 
+### Goodbye useEffect! Hello React Query: A better way to handle data fetching in React. 
 
- Web-development... 
+ Stop wrestling with useEffect and discover a more elegant and efficient approach with React Query... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F8e4ea5d32b7d&operation=register&redirect=https%3A%2F%2Ffrontender-ua.medium.com%2Ffrontend-weekly-digest-376-12-18-august-2024-8e4ea5d32b7d&source=---------0-84----------front_end_development------bookmark_preview----5d50ac25_0cd6_4cfa_970a_5128b61148b7-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F1c988596aa6f&operation=register&redirect=https%3A%2F%2Fmuhammad-lamine92.medium.com%2Fgoodbye-useeffect-hello-react-query-a-better-way-to-handle-data-fetching-in-react-1c988596aa6f&source=---------0-84----------react------bookmark_preview----ca97bf82_6bbc_42b3_9259_1409b1bbc504-------) 
 
-### ⭕ CSS Now Supports Vertical Alignment In Normal Flow 
+### Frontend Performance Love Story 
 
- At last, after so many years we can center stuff vertically with one CSS property!... 
+ “A Website starting with an empty body can never achieve good Lighthouse scores!”... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F13a85f06adb1&operation=register&redirect=https%3A%2F%2Ftomaszs2.medium.com%2Fcss-now-supports-vertical-alignment-in-normal-flow-13a85f06adb1&source=---------0-84----------react------bookmark_preview----e88ac529_28f5_4c5f_9331_9289f89c713b-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fce92302fea5f&operation=register&redirect=https%3A%2F%2Fitnext.io%2Ffrontend-performance-love-story-ce92302fea5f&source=---------0-84----------javascript------bookmark_preview----11b80ab6_a3fa_4666_85fd_cda6d9d789f9-------) 
 
-### The shortest, strangest engineering interview I’ve ever done. 
+### JavaScript Design Pattern: Builder Method 
 
- Last Friday I posted a job description for a role I’m hiring for, for my early-stage YC startup, One... 
+ Welcome to yet another story on Design Pattern and this time let’s build something together.... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F950e8fa95f4e&operation=register&redirect=https%3A%2F%2Fbluepnume.medium.com%2Fthe-shortest-strangest-engineering-interview-ive-ever-done-950e8fa95f4e&source=---------0-84----------javascript------bookmark_preview----e8b00dce_7174_4199_9229_27d9b813c369-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F537719d66494&operation=register&redirect=https%3A%2F%2Flevelup.gitconnected.com%2Fjavascript-design-pattern-builder-method-537719d66494&source=---------0-84----------typescript------bookmark_preview----69743061_5135_4162_871b_f1a542c70c42-------) 
 
 ### 개발자의 논리적 사고와 문제 해결 ‘Set 구현 과정’ 따라가기 
 
