@@ -1,41 +1,41 @@
 # 오늘의 포스팅 
-2024년 8월 21일 9시 기준 
+2024년 8월 22일 9시 기준 
+
+### Hand-Crafted vs. AI-Assisted Frontends 
+
+ People have been making big promises with AI lately, building chatbots, image generators, and coding... 
+
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fa40fbfc55883&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40NareshBhatia%2Fhand-crafted-vs-ai-assisted-frontends-a40fbfc55883&source=---------0-84----------react------bookmark_preview----4b93847e_51fb_4cd4_8ffc_976157913802-------) 
 
 ### Frontend Performance Love Story 
 
  “A Website starting with an empty body can never achieve good Lighthouse scores!”... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fce92302fea5f&operation=register&redirect=https%3A%2F%2Fitnext.io%2Ffrontend-performance-love-story-ce92302fea5f&source=---------0-84----------front_end_development------bookmark_preview----0c9e0623_886a_411a_8f79_3d57737fdb36-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fce92302fea5f&operation=register&redirect=https%3A%2F%2Fitnext.io%2Ffrontend-performance-love-story-ce92302fea5f&source=---------0-84----------javascript------bookmark_preview----d9967af9_09e5_478d_a3d7_a8c834e1427e-------) 
 
-### Goodbye useEffect! Hello React Query: A better way to handle data fetching in React. 
+### Serverless Ephemeral Environments with Serverful AWS Services 
 
- Stop wrestling with useEffect and discover a more elegant and efficient approach with React Query... 
+ How to successfully use ephemeral environments with serverful resources, with example in the AWS CDK... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F1c988596aa6f&operation=register&redirect=https%3A%2F%2Fmuhammad-lamine92.medium.com%2Fgoodbye-useeffect-hello-react-query-a-better-way-to-handle-data-fetching-in-react-1c988596aa6f&source=---------0-84----------react------bookmark_preview----ca97bf82_6bbc_42b3_9259_1409b1bbc504-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fc803d24b353f&operation=register&redirect=https%3A%2F%2Fblog.serverlessadvocate.com%2Fserverless-ephemeral-environments-with-serverful-aws-services-c803d24b353f&source=---------0-84----------typescript------bookmark_preview----36c081c5_da9c_4753_83d4_fd7f5a0f1bfa-------) 
 
-### Frontend Performance Love Story 
+### Navigating the Complexities of ‘this’ in JavaScript 
 
- “A Website starting with an empty body can never achieve good Lighthouse scores!”... 
+ Explore the complexities of this in JavaScript, its contexts, and how to master using it for clearer... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fce92302fea5f&operation=register&redirect=https%3A%2F%2Fitnext.io%2Ffrontend-performance-love-story-ce92302fea5f&source=---------0-84----------javascript------bookmark_preview----11b80ab6_a3fa_4666_85fd_cda6d9d789f9-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F4e366c72eb67&operation=register&redirect=https%3A%2F%2Fdementyevalexander.medium.com%2Fnavigating-the-complexities-of-this-in-javascript-4e366c72eb67&source=---------0-84----------frontend------bookmark_preview----f1a6ef2e_90af_40b2_a666_29f6abd5194c-------) 
 
-### JavaScript Design Pattern: Builder Method 
+### VARCHAR vs. TEXT, 뭐가 다를까? 
 
- Welcome to yet another story on Design Pattern and this time let’s build something together.... 
+ 이번 글에서는 MySQL의 문자열 속성값을 저장하는 VARCHAR(이하 VARCHAR) 타입과 TEXT(이하 TEXT) 타입에 대해 살펴보려고 합니다. 두 타입 모두 실제로 많이 ... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F537719d66494&operation=register&redirect=https%3A%2F%2Flevelup.gitconnected.com%2Fjavascript-design-pattern-builder-method-537719d66494&source=---------0-84----------typescript------bookmark_preview----69743061_5135_4162_871b_f1a542c70c42-------) 
+ [바로가기](https://yozm.wishket.com/magazine/detail/2726/) 
 
 ### 개발자의 논리적 사고와 문제 해결 ‘Set 구현 과정’ 따라가기 
 
  개발자에게 필요한 논리적인 사고와 문제 해결력이란 무엇일까요? 기능을 뚝딱뚝딱 만들고 코드를 빠르게 짤 수 있는 것으로, 논리적으로 문제를 해결하고 있다고 말할 수 있을까요? 또한... 
 
  [바로가기](https://yozm.wishket.com/magazine/detail/2723/) 
-
-### 뽑히는 개발자는 어떤 프로젝트를 하나요? 
-
- 개발자가 제출하는 포트폴리오의 프로젝트 대부분은 ‘제작 그 자체’를 목표로 삼고 만들어진 것입니다. 스터디하며 만들든, 토이 프로젝트로 만들든, 프로젝트를 시작해 만들고 끝맺는 데... 
-
- [바로가기](https://yozm.wishket.com/magazine/detail/2722/) 
 
 ---
 
