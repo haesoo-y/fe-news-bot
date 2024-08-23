@@ -1,41 +1,41 @@
 # 오늘의 포스팅 
-2024년 8월 22일 9시 기준 
+2024년 8월 23일 9시 기준 
 
-### Hand-Crafted vs. AI-Assisted Frontends 
+### How JavaScript is Executed 
 
- People have been making big promises with AI lately, building chatbots, image generators, and coding... 
+ Learn how your JavaScript code is parsed, compiled, and executed, step-by-step.... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fa40fbfc55883&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40NareshBhatia%2Fhand-crafted-vs-ai-assisted-frontends-a40fbfc55883&source=---------0-84----------react------bookmark_preview----4b93847e_51fb_4cd4_8ffc_976157913802-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Ffc73871e1d9c&operation=register&redirect=https%3A%2F%2Fjavascript.plainenglish.io%2Fhow-javascript-is-executed-fc73871e1d9c&source=---------0-84----------javascript------bookmark_preview----0df7d4cb_a0d8_44be_9b78_f3c87980badc-------) 
 
-### Frontend Performance Love Story 
+### What are Sockets? And what are Sockets for? 
 
- “A Website starting with an empty body can never achieve good Lighthouse scores!”... 
+ Sockets are pivotal in network communication, acting as endpoints for sending and receiving data bet... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fce92302fea5f&operation=register&redirect=https%3A%2F%2Fitnext.io%2Ffrontend-performance-love-story-ce92302fea5f&source=---------0-84----------javascript------bookmark_preview----d9967af9_09e5_478d_a3d7_a8c834e1427e-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F8eef56436b7b&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40onix_react%2Fwhat-are-sockets-and-what-are-sockets-for-8eef56436b7b&source=---------0-84----------typescript------bookmark_preview----4732b470_c139_4cdb_829b_3168e0b97f81-------) 
 
-### Serverless Ephemeral Environments with Serverful AWS Services 
+### Angular 18.2: Enhanced Template Syntax and Streamlined Migrations 
 
- How to successfully use ephemeral environments with serverful resources, with example in the AWS CDK... 
+ Angular 18.2 has arrived, and while it may be a minor release, it holds some valuable improvements t... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fc803d24b353f&operation=register&redirect=https%3A%2F%2Fblog.serverlessadvocate.com%2Fserverless-ephemeral-environments-with-serverful-aws-services-c803d24b353f&source=---------0-84----------typescript------bookmark_preview----36c081c5_da9c_4753_83d4_fd7f5a0f1bfa-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F12c35fec2829&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40ingila185%2Fangular-18-2-enhanced-template-syntax-and-streamlined-migrations-12c35fec2829&source=---------0-84----------frontend------bookmark_preview----ab011625_4561_4052_9629_10319fc53a69-------) 
 
-### Navigating the Complexities of ‘this’ in JavaScript 
+### Too Much Redline in Your TypeScript? It’s Time to Make Peace with the Type Checker! 
 
- Explore the complexities of this in JavaScript, its contexts, and how to master using it for clearer... 
+ Conquering Typescript... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F4e366c72eb67&operation=register&redirect=https%3A%2F%2Fdementyevalexander.medium.com%2Fnavigating-the-complexities-of-this-in-javascript-4e366c72eb67&source=---------0-84----------frontend------bookmark_preview----f1a6ef2e_90af_40b2_a666_29f6abd5194c-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F6cdbfe75f3d0&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40kjosh344%2Ftoo-much-redline-in-your-typescript-its-time-to-make-peace-with-the-type-checker-6cdbfe75f3d0&source=---------0-84----------reactjs------bookmark_preview----349da404_1084_4776_bb2c_f6ff4f11e290-------) 
+
+### [PyCon US 원정대] ⑤ 한국 파이썬 커뮤니티 운영자가 바라본 PyCon US 
+
+ PyCon US에 꼭 가고 싶었던 이유는 지난해 열린 PyCon KR 2023으로부터 생겨났다. 당시 나는 운 좋게 PyCon KR에서 발표할 기회를 얻었다. 그러다 꽤 충격적인 ... 
+
+ [바로가기](https://yozm.wishket.com/magazine/detail/2728/) 
 
 ### VARCHAR vs. TEXT, 뭐가 다를까? 
 
  이번 글에서는 MySQL의 문자열 속성값을 저장하는 VARCHAR(이하 VARCHAR) 타입과 TEXT(이하 TEXT) 타입에 대해 살펴보려고 합니다. 두 타입 모두 실제로 많이 ... 
 
  [바로가기](https://yozm.wishket.com/magazine/detail/2726/) 
-
-### 개발자의 논리적 사고와 문제 해결 ‘Set 구현 과정’ 따라가기 
-
- 개발자에게 필요한 논리적인 사고와 문제 해결력이란 무엇일까요? 기능을 뚝딱뚝딱 만들고 코드를 빠르게 짤 수 있는 것으로, 논리적으로 문제를 해결하고 있다고 말할 수 있을까요? 또한... 
-
- [바로가기](https://yozm.wishket.com/magazine/detail/2723/) 
 
 ---
 
