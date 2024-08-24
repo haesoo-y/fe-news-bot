@@ -1,29 +1,29 @@
 # 오늘의 포스팅 
-2024년 8월 23일 9시 기준 
+2024년 8월 24일 9시 기준 
 
-### How JavaScript is Executed 
+### TypeScript Utility Types 
 
- Learn how your JavaScript code is parsed, compiled, and executed, step-by-step.... 
+ Awaited, Record, Pick, Partial, Required, Readonly, String Manipulation Utility Types... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Ffc73871e1d9c&operation=register&redirect=https%3A%2F%2Fjavascript.plainenglish.io%2Fhow-javascript-is-executed-fc73871e1d9c&source=---------0-84----------javascript------bookmark_preview----0df7d4cb_a0d8_44be_9b78_f3c87980badc-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fab695b375f7a&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40alper.ergul.97%2Ftypescript-utility-types-ab695b375f7a&source=---------0-84----------typescript------bookmark_preview----9a4de93d_3bbb_463e_9f6e_7982c068af44-------) 
 
-### What are Sockets? And what are Sockets for? 
+### Why You Should Build Your Frontend App with Internationalisation in Mind (Yes, Even If You Don’t… 
 
- Sockets are pivotal in network communication, acting as endpoints for sending and receiving data bet... 
+ Hey there, fellow code wranglers! 👋 Pull up a chair, grab your favourite caffeinated beverage, and ... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F8eef56436b7b&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40onix_react%2Fwhat-are-sockets-and-what-are-sockets-for-8eef56436b7b&source=---------0-84----------typescript------bookmark_preview----4732b470_c139_4cdb_829b_3168e0b97f81-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fc234140099ba&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40obtjoshua%2Fwhy-you-should-build-your-frontend-app-with-internationalisation-in-mind-yes-even-if-you-dont-c234140099ba&source=---------0-84----------frontend------bookmark_preview----c351c900_9f9e_476f_b84c_5e38d3047f50-------) 
 
-### Angular 18.2: Enhanced Template Syntax and Streamlined Migrations 
+### My Favs Libraries for React ♥️ 
 
- Angular 18.2 has arrived, and while it may be a minor release, it holds some valuable improvements t... 
+ You can use it to enhance your productivity... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F12c35fec2829&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40ingila185%2Fangular-18-2-enhanced-template-syntax-and-streamlined-migrations-12c35fec2829&source=---------0-84----------frontend------bookmark_preview----ab011625_4561_4052_9629_10319fc53a69-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F586a2c350ab3&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40faidfadjri%2Fmy-favs-libraries-for-react-%25EF%25B8%258F-586a2c350ab3&source=---------0-84----------reactjs------bookmark_preview----334dc59b_4450_4cf5_872a_402d3e09efae-------) 
 
-### Too Much Redline in Your TypeScript? It’s Time to Make Peace with the Type Checker! 
+### Enhance Your Next.js Applications with Server Actions: A Step-by-Step Guide 
 
- Conquering Typescript... 
+ As web applications grow more complex, managing server-side logic alongside client-side interactions... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F6cdbfe75f3d0&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40kjosh344%2Ftoo-much-redline-in-your-typescript-its-time-to-make-peace-with-the-type-checker-6cdbfe75f3d0&source=---------0-84----------reactjs------bookmark_preview----349da404_1084_4776_bb2c_f6ff4f11e290-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fa0e10c913aed&operation=register&redirect=https%3A%2F%2Fadhithiravi.medium.com%2Fenhance-your-next-js-applications-with-server-actions-a-step-by-step-guide-a0e10c913aed&source=---------0-84----------nextjs------bookmark_preview----e5e76e73_20ed_41b7_99e9_b171854919fe-------) 
 
 ### [PyCon US 원정대] ⑤ 한국 파이썬 커뮤니티 운영자가 바라본 PyCon US 
 
