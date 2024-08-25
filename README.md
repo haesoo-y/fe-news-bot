@@ -1,29 +1,29 @@
 # 오늘의 포스팅 
-2024년 8월 24일 9시 기준 
+2024년 8월 25일 9시 기준 
 
-### TypeScript Utility Types 
+### Why do React components need state variables? 
 
- Awaited, Record, Pick, Partial, Required, Readonly, String Manipulation Utility Types... 
+ React components often needs to adjust their appearance to mirror updated data. Function components ... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fab695b375f7a&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40alper.ergul.97%2Ftypescript-utility-types-ab695b375f7a&source=---------0-84----------typescript------bookmark_preview----9a4de93d_3bbb_463e_9f6e_7982c068af44-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F908e98ca1e62&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40furkan-aydin%2Fwhy-do-react-components-need-state-variables-908e98ca1e62&source=---------0-84----------frontend------bookmark_preview----f8ebafd7_c434_415c_a0d2_d07f7b4dcd04-------) 
 
-### Why You Should Build Your Frontend App with Internationalisation in Mind (Yes, Even If You Don’t… 
+### How do you develop a carousel slider in React JS? 
 
- Hey there, fellow code wranglers! 👋 Pull up a chair, grab your favourite caffeinated beverage, and ... 
+ In 2024, Do you want to develop a carousel slider in React JS? I am here with a solution that will g... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fc234140099ba&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40obtjoshua%2Fwhy-you-should-build-your-frontend-app-with-internationalisation-in-mind-yes-even-if-you-dont-c234140099ba&source=---------0-84----------frontend------bookmark_preview----c351c900_9f9e_476f_b84c_5e38d3047f50-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F95b7ed8eebe5&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40tajammalmaqbool11%2Fhow-do-you-develop-a-carousel-slider-in-react-js-95b7ed8eebe5&source=---------0-84----------reactjs------bookmark_preview----dc66c037_71ce_440b_a6aa_d1d56c100a58-------) 
 
-### My Favs Libraries for React ♥️ 
+### How to Integrate Embeddings with Gemini and Hugging Face Using Pinecone 
 
- You can use it to enhance your productivity... 
+ In the era of advanced AI and machine learning, creating powerful, context-aware applications is mor... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F586a2c350ab3&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40faidfadjri%2Fmy-favs-libraries-for-react-%25EF%25B8%258F-586a2c350ab3&source=---------0-84----------reactjs------bookmark_preview----334dc59b_4450_4cf5_872a_402d3e09efae-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F352838dfcad7&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40preciousmbaekwe%2Fhow-to-integrate-embeddings-with-gemini-and-hugging-face-using-pinecone-352838dfcad7&source=---------0-84----------nextjs------bookmark_preview----d84181c2_f378_440f_abf6_28a59b8f7e34-------) 
 
-### Enhance Your Next.js Applications with Server Actions: A Step-by-Step Guide 
+### The Evolution of React: From Its Inception to the Present 
 
- As web applications grow more complex, managing server-side logic alongside client-side interactions... 
+ ... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fa0e10c913aed&operation=register&redirect=https%3A%2F%2Fadhithiravi.medium.com%2Fenhance-your-next-js-applications-with-server-actions-a-step-by-step-guide-a0e10c913aed&source=---------0-84----------nextjs------bookmark_preview----e5e76e73_20ed_41b7_99e9_b171854919fe-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F622ae32d204c&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40vicknesh10996%2Fthe-evolution-of-react-from-its-inception-to-the-present-622ae32d204c&source=---------0-84----------front_end_development------bookmark_preview----07a49cb1_63cc_4656_a95b_ce0355d8d1dd-------) 
 
 ### [PyCon US 원정대] ⑤ 한국 파이썬 커뮤니티 운영자가 바라본 PyCon US 
 
