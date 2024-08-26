@@ -1,29 +1,29 @@
 # 오늘의 포스팅 
-2024년 8월 25일 9시 기준 
+2024년 8월 26일 9시 기준 
 
-### Why do React components need state variables? 
+### JWT based user Authentication using ReactJs, Node Express, and MongoDB 
 
- React components often needs to adjust their appearance to mirror updated data. Function components ... 
+ Part 1: Understanding the Flow of JWT( JSON WEB TOKEN) Authentication... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F908e98ca1e62&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40furkan-aydin%2Fwhy-do-react-components-need-state-variables-908e98ca1e62&source=---------0-84----------frontend------bookmark_preview----f8ebafd7_c434_415c_a0d2_d07f7b4dcd04-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F93ac5077c337&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40sahilkgandash%2Fjwt-based-user-authentication-using-reactjs-node-express-and-mongodb-93ac5077c337&source=---------0-84----------reactjs------bookmark_preview----fb278b54_6f37_4e67_bad8_fc55372148c7-------) 
 
-### How do you develop a carousel slider in React JS? 
+### Introducing nextjs-server-action-tester 
 
- In 2024, Do you want to develop a carousel slider in React JS? I am here with a solution that will g... 
+ A development tool for scanning and testing server actions in Next.js projects... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F95b7ed8eebe5&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40tajammalmaqbool11%2Fhow-do-you-develop-a-carousel-slider-in-react-js-95b7ed8eebe5&source=---------0-84----------reactjs------bookmark_preview----dc66c037_71ce_440b_a6aa_d1d56c100a58-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F6ab4e4123c5f&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40bijish.ob%2Fintroducing-nextjs-server-action-tester-6ab4e4123c5f&source=---------0-84----------nextjs------bookmark_preview----be4e0b89_be16_4450_ab4c_168e8997da15-------) 
 
-### How to Integrate Embeddings with Gemini and Hugging Face Using Pinecone 
+### Frontend Weekly Digest #377 (19–25 August 2024) 
 
- In the era of advanced AI and machine learning, creating powerful, context-aware applications is mor... 
+ Web-development... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F352838dfcad7&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40preciousmbaekwe%2Fhow-to-integrate-embeddings-with-gemini-and-hugging-face-using-pinecone-352838dfcad7&source=---------0-84----------nextjs------bookmark_preview----d84181c2_f378_440f_abf6_28a59b8f7e34-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fa1b03bbce766&operation=register&redirect=https%3A%2F%2Ffrontender-ua.medium.com%2Ffrontend-weekly-digest-377-19-25-august-2024-a1b03bbce766&source=---------0-84----------front_end_development------bookmark_preview----c6987ecd_0f88_4411_b106_7515298a557c-------) 
 
-### The Evolution of React: From Its Inception to the Present 
+### Morning in the mountains, infused with descriptive language and inspiring thoughts: 
 
  ... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F622ae32d204c&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40vicknesh10996%2Fthe-evolution-of-react-from-its-inception-to-the-present-622ae32d204c&source=---------0-84----------front_end_development------bookmark_preview----07a49cb1_63cc_4656_a95b_ce0355d8d1dd-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fbf3ff8b2558f&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40anasspeaks%2Fmorning-in-the-mountains-infused-with-descriptive-language-and-inspiring-thoughts-bf3ff8b2558f&source=---------0-84----------react------bookmark_preview----722ff8cd_7d8a_4482_8789_7494c61e1cda-------) 
 
 ### [PyCon US 원정대] ⑤ 한국 파이썬 커뮤니티 운영자가 바라본 PyCon US 
 
