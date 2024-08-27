@@ -1,41 +1,41 @@
 # 오늘의 포스팅 
-2024년 8월 26일 9시 기준 
+2024년 8월 27일 9시 기준 
 
-### JWT based user Authentication using ReactJs, Node Express, and MongoDB 
+### Dockerizing NEXT JS V14 + Application using output Standalone and Self Hos 
 
- Part 1: Understanding the Flow of JWT( JSON WEB TOKEN) Authentication... 
+ Step by step article on dockerizing nextjs applications.... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F93ac5077c337&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40sahilkgandash%2Fjwt-based-user-authentication-using-reactjs-node-express-and-mongodb-93ac5077c337&source=---------0-84----------reactjs------bookmark_preview----fb278b54_6f37_4e67_bad8_fc55372148c7-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Feb636aa9b441&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40techwithtwin%2Fdockerizing-next-js-v14-application-using-output-standalone-and-self-hos-eb636aa9b441&source=---------0-84----------nextjs------bookmark_preview----739a21c4_7b1d_495f_a489_d20f6c405a2f-------) 
 
-### Introducing nextjs-server-action-tester 
+### TypeScript or JavaScript: A never ending debate? 
 
- A development tool for scanning and testing server actions in Next.js projects... 
+ Let’s be honest, anytime you want to create a brand new frontend development project, you face a deb... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F6ab4e4123c5f&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40bijish.ob%2Fintroducing-nextjs-server-action-tester-6ab4e4123c5f&source=---------0-84----------nextjs------bookmark_preview----be4e0b89_be16_4450_ab4c_168e8997da15-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Ff8f3cff4b233&operation=register&redirect=https%3A%2F%2Fzhibeck.medium.com%2Ftypescript-vs-javascript-for-frontend-development-a-never-ending-debate-f8f3cff4b233&source=---------0-84----------front_end_development------bookmark_preview----858a0cd5_ab6c_42e6_b702_425cc6e5cf41-------) 
 
-### Frontend Weekly Digest #377 (19–25 August 2024) 
+### 7 Cool Useful JavaScript Coding Techniques You Should Know About 
 
- Web-development... 
+ Do you know all of these tricks?... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fa1b03bbce766&operation=register&redirect=https%3A%2F%2Ffrontender-ua.medium.com%2Ffrontend-weekly-digest-377-19-25-august-2024-a1b03bbce766&source=---------0-84----------front_end_development------bookmark_preview----c6987ecd_0f88_4411_b106_7515298a557c-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fb3a83ee341f2&operation=register&redirect=https%3A%2F%2Fjavascript.plainenglish.io%2F7-cool-useful-javascript-coding-techniques-you-should-know-about-b3a83ee341f2&source=---------0-84----------react------bookmark_preview----89a99649_a6c5_41a5_9081_5e20f6f55edc-------) 
 
-### Morning in the mountains, infused with descriptive language and inspiring thoughts: 
+### Building a slick API that spins up a JAR file in Docker, ready to rock in production! 
 
- ... 
+ “Here’s the lowdown on my journal where I break down the slick automation tool I built to make deplo... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fbf3ff8b2558f&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40anasspeaks%2Fmorning-in-the-mountains-infused-with-descriptive-language-and-inspiring-thoughts-bf3ff8b2558f&source=---------0-84----------react------bookmark_preview----722ff8cd_7d8a_4482_8789_7494c61e1cda-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F3bb066b4fb45&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40n4nikhilkana%2Fbuilding-a-slick-api-that-spins-up-a-jar-file-in-docker-ready-to-rock-in-production-3bb066b4fb45&source=---------0-84----------javascript------bookmark_preview----ec8f2261_71fe_4441_821c_8e3df07b5dbd-------) 
 
-### [PyCon US 원정대] ⑤ 한국 파이썬 커뮤니티 운영자가 바라본 PyCon US 
+### AI는 왜 잘못된 답변을 할까? AI 할루시네이션과 해결책 
 
- PyCon US에 꼭 가고 싶었던 이유는 지난해 열린 PyCon KR 2023으로부터 생겨났다. 당시 나는 운 좋게 PyCon KR에서 발표할 기회를 얻었다. 그러다 꽤 충격적인 ... 
+ 인공지능(AI) 기술이 급속도로 발전하면서, 우리 일상 곳곳에 AI가 활용되고 있습니다. 하지만 이러한 발전과 더불어, ‘AI 할루시네이션(환각 현상)’이라는 새로운 문제가 대두되... 
 
- [바로가기](https://yozm.wishket.com/magazine/detail/2728/) 
+ [바로가기](https://yozm.wishket.com/magazine/detail/2733/) 
 
-### VARCHAR vs. TEXT, 뭐가 다를까? 
+### 시작하는 개발자를 위한 JS 매개 변수 활용법 2가지 
 
- 이번 글에서는 MySQL의 문자열 속성값을 저장하는 VARCHAR(이하 VARCHAR) 타입과 TEXT(이하 TEXT) 타입에 대해 살펴보려고 합니다. 두 타입 모두 실제로 많이 ... 
+ 이번 강의에서는 JavaScript의 몇 가지 유용한 구문을 살펴보려고 합니다. 가장 먼저 다룰 주제는 매개 변수입니다. 우선 등호를 활용해 기본 매개 변수를 쉽게 지정하는 방법을... 
 
- [바로가기](https://yozm.wishket.com/magazine/detail/2726/) 
+ [바로가기](https://yozm.wishket.com/magazine/detail/2732/) 
 
 ---
 
