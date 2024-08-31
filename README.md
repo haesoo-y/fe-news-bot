@@ -1,29 +1,29 @@
 # 오늘의 포스팅 
-2024년 8월 30일 9시 기준 
-
-### 8, 16, 32, 64 GB? The Is Best RAM Size For Frontend Development? 
-
- Ideally 64 GB for most cases. But there are cases where 128 GB will be much better. It’s cr... 
-
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F3215f1680da9&operation=register&redirect=https%3A%2F%2Ftomaszs2.medium.com%2F8-16-32-64-gb-the-is-best-ram-size-for-frontend-development-3215f1680da9&source=------javascript---0-84----------javascript------bookmark_preview----13725fd9_b0f9_4532_b700_ec9029ca9230-------) 
-
-### Level Up with TypeScript: Transforming JavaScript for the Future 
-
- TypeScript has transformed the JavaScript ecosystem by introducing static type checking, which helps... 
-
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F922a5c21924a&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40Games24x7Tech%2Flevel-up-with-typescript-transforming-javascript-for-the-future-922a5c21924a&source=------typescript---0-84----------typescript------bookmark_preview----65801e52_e9f4_4da4_93d4_b607ac3e068e-------) 
-
-### AI-powered frontend testing: How to write smarter tests faster 
-
- Leverage ChatGPT to streamline your frontend testing process and boost coverage.... 
-
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fbe7fdfbbac0e&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40rv.mndza%2Fai-powered-frontend-testing-how-to-write-smarter-tests-faster-be7fdfbbac0e&source=---------0-84----------frontend------bookmark_preview----c2477e01_f467_4881_9f26_a9d10d5bbb57-------) 
+2024년 8월 31일 9시 기준 
 
 ### Advanced React Component Design with TypeScript 
 
  Let’s explore what sparks might fly when TypeScript and React come together.... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fb679b85ad719&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%25E6%25BC%25B8%25E5%25BC%25B7%25E5%25AF%25A6%25E9%25A9%2597%25E5%25AE%25A4-crescendo-lab-engineering-blog%2Fadvanced-react-component-design-with-typescript-b679b85ad719&source=------reactjs---0-84----------reactjs------bookmark_preview----7cd5ee80_cc0c_4688_972c_778af685df4a-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fb679b85ad719&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%25E6%25BC%25B8%25E5%25BC%25B7%25E5%25AF%25A6%25E9%25A9%2597%25E5%25AE%25A4-crescendo-lab-engineering-blog%2Fadvanced-react-component-design-with-typescript-b679b85ad719&source=------typescript---0-84----------typescript------bookmark_preview----0533435c_77dd_4ee1_bfda_660cb2c7e8d2-------) 
+
+### Why the frontend should be more than just a box in the software architecture! 
+
+ We all know those software architecture documentations where the frontend is just a tiny box in the ... 
+
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F77a5553c07c1&operation=register&redirect=https%3A%2F%2Fmedium.com%2Fholisticon-consultants%2Fwhy-the-frontend-should-be-more-than-just-a-box-in-the-software-architecture-77a5553c07c1&source=------frontend---0-84----------frontend------bookmark_preview----d2d5334c_cabc_4545_865c_06c7889be07e-------) 
+
+### Advanced React Component Design with TypeScript 
+
+ Let’s explore what sparks might fly when TypeScript and React come together.... 
+
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fb679b85ad719&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%25E6%25BC%25B8%25E5%25BC%25B7%25E5%25AF%25A6%25E9%25A9%2597%25E5%25AE%25A4-crescendo-lab-engineering-blog%2Fadvanced-react-component-design-with-typescript-b679b85ad719&source=------reactjs---0-84----------reactjs------bookmark_preview----4e60c144_5272_42d7_a8dc_a2d8a6517f13-------) 
+
+### Practical Use of Ambient Type Declarations in App Development with Next.js 
+
+ Simplify TypeScript code and enhance flexibility in application development with ambient types... 
+
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F27c5e5234c52&operation=register&redirect=https%3A%2F%2Famatyas.medium.com%2Fpractical-use-of-ambient-type-declarations-in-app-development-with-next-js-27c5e5234c52&source=------nextjs---0-84----------nextjs------bookmark_preview----148d093d_50c7_47c5_bb81_4e3ff5450443-------) 
 
 ### [PyCon US 원정대] ⑥ 한국인을 위한 PyCon US 100배 즐기기 가이드 
 
