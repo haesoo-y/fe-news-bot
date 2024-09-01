@@ -1,29 +1,29 @@
 # 오늘의 포스팅 
-2024년 8월 31일 9시 기준 
+2024년 9월 1일 9시 기준 
+
+### 4 Common Mistakes with ‘this’ in JavaScript and How to Avoid Them 
+
+ Ensure your code behaves as expected by mastering the ‘this’ keyword.... 
+
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fa5641ce47b52&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40sriramraavi369%2F4-common-mistakes-with-this-in-javascript-and-how-to-avoid-them-a5641ce47b52&source=------frontend---0-84----------frontend------bookmark_preview----fe6041b3_dc64_4d6f_86c2_9d7e99e81071-------) 
 
 ### Advanced React Component Design with TypeScript 
 
  Let’s explore what sparks might fly when TypeScript and React come together.... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fb679b85ad719&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%25E6%25BC%25B8%25E5%25BC%25B7%25E5%25AF%25A6%25E9%25A9%2597%25E5%25AE%25A4-crescendo-lab-engineering-blog%2Fadvanced-react-component-design-with-typescript-b679b85ad719&source=------typescript---0-84----------typescript------bookmark_preview----0533435c_77dd_4ee1_bfda_660cb2c7e8d2-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fb679b85ad719&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%25E6%25BC%25B8%25E5%25BC%25B7%25E5%25AF%25A6%25E9%25A9%2597%25E5%25AE%25A4-crescendo-lab-engineering-blog%2Fadvanced-react-component-design-with-typescript-b679b85ad719&source=------reactjs---0-84----------reactjs------bookmark_preview----73d78fbf_9d42_440b_8b58_68bf0e635a57-------) 
 
-### Why the frontend should be more than just a box in the software architecture! 
+### Implementing a Server Component Inside a Client Component with Two Children 
 
- We all know those software architecture documentations where the frontend is just a tiny box in the ... 
+ Introduction:... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F77a5553c07c1&operation=register&redirect=https%3A%2F%2Fmedium.com%2Fholisticon-consultants%2Fwhy-the-frontend-should-be-more-than-just-a-box-in-the-software-architecture-77a5553c07c1&source=------frontend---0-84----------frontend------bookmark_preview----d2d5334c_cabc_4545_865c_06c7889be07e-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F9ab5c1a3cc74&operation=register&redirect=https%3A%2F%2Fne0gi02.medium.com%2Fimplementing-a-server-component-inside-a-client-component-with-two-children-9ab5c1a3cc74&source=------nextjs---0-84----------nextjs------bookmark_preview----83a67578_07a7_406e_bd6f_df02beaea108-------) 
 
-### Advanced React Component Design with TypeScript 
+### Choosing Your Tech Specialization: A Breakdown of Frontend, Backend, ML, and Blockchain 
 
- Let’s explore what sparks might fly when TypeScript and React come together.... 
+ When you’re jumping into the tech world, the array of options can be overwhelming. Should you focus ... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fb679b85ad719&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%25E6%25BC%25B8%25E5%25BC%25B7%25E5%25AF%25A6%25E9%25A9%2597%25E5%25AE%25A4-crescendo-lab-engineering-blog%2Fadvanced-react-component-design-with-typescript-b679b85ad719&source=------reactjs---0-84----------reactjs------bookmark_preview----4e60c144_5272_42d7_a8dc_a2d8a6517f13-------) 
-
-### Practical Use of Ambient Type Declarations in App Development with Next.js 
-
- Simplify TypeScript code and enhance flexibility in application development with ambient types... 
-
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F27c5e5234c52&operation=register&redirect=https%3A%2F%2Famatyas.medium.com%2Fpractical-use-of-ambient-type-declarations-in-app-development-with-next-js-27c5e5234c52&source=------nextjs---0-84----------nextjs------bookmark_preview----148d093d_50c7_47c5_bb81_4e3ff5450443-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F14b842fb7d1e&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40singhsatyam1710%2Fchoosing-your-tech-specialization-a-breakdown-of-frontend-backend-ml-and-blockchain-14b842fb7d1e&source=------front_end_development---0-84----------front_end_development------bookmark_preview----1353ba2d_a3bb_4812_9654_408c644224e1-------) 
 
 ### [PyCon US 원정대] ⑥ 한국인을 위한 PyCon US 100배 즐기기 가이드 
 
