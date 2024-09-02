@@ -1,11 +1,5 @@
 # 오늘의 포스팅 
-2024년 9월 1일 9시 기준 
-
-### 4 Common Mistakes with ‘this’ in JavaScript and How to Avoid Them 
-
- Ensure your code behaves as expected by mastering the ‘this’ keyword.... 
-
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fa5641ce47b52&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40sriramraavi369%2F4-common-mistakes-with-this-in-javascript-and-how-to-avoid-them-a5641ce47b52&source=------frontend---0-84----------frontend------bookmark_preview----fe6041b3_dc64_4d6f_86c2_9d7e99e81071-------) 
+2024년 9월 2일 9시 기준 
 
 ### Advanced React Component Design with TypeScript 
 
@@ -19,23 +13,29 @@
 
  [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F9ab5c1a3cc74&operation=register&redirect=https%3A%2F%2Fne0gi02.medium.com%2Fimplementing-a-server-component-inside-a-client-component-with-two-children-9ab5c1a3cc74&source=------nextjs---0-84----------nextjs------bookmark_preview----83a67578_07a7_406e_bd6f_df02beaea108-------) 
 
-### Choosing Your Tech Specialization: A Breakdown of Frontend, Backend, ML, and Blockchain 
+### Frontend Weekly Digest #378 (26–31 August 2024) 
 
- When you’re jumping into the tech world, the array of options can be overwhelming. Should you focus ... 
+ Web-development... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F14b842fb7d1e&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40singhsatyam1710%2Fchoosing-your-tech-specialization-a-breakdown-of-frontend-backend-ml-and-blockchain-14b842fb7d1e&source=------front_end_development---0-84----------front_end_development------bookmark_preview----1353ba2d_a3bb_4812_9654_408c644224e1-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fe20962632237&operation=register&redirect=https%3A%2F%2Ffrontender-ua.medium.com%2Ffrontend-weekly-digest-378-26-31-august-2024-e20962632237&source=------front_end_development---0-84----------front_end_development------bookmark_preview----cc11ae40_d9a3_4124_97c5_348b554fd490-------) 
+
+### GSoC’24: Building MD-Attractor 
+
+ ... 
+
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F18518c6ca4df&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40ayushray38%2Fgsoc24-building-md-attractor-18518c6ca4df&source=------react---0-84----------react------bookmark_preview----e284d740_f748_4531_bea2_1bb2d3fd04b0-------) 
+
+### 소프트웨어 개발의 미래를 생각하다 
+
+ 대규모 언어 모델(LLMs)은 이미지, 텍스트 및 코드를 생성할 수 있는 능력으로 창의적인 분야에서 큰 반향을 일으켰습니다. 처음에는 결과물이 꽤 우스꽝스러웠습니다. 그림이 뒤틀려... 
+
+ [바로가기](https://yozm.wishket.com/magazine/detail/2741/) 
 
 ### [PyCon US 원정대] ⑥ 한국인을 위한 PyCon US 100배 즐기기 가이드 
 
  지금 한국에서 콘퍼런스란 어떤 의미일까? 한국에서 IT 콘퍼런스의 의미는 조금 다르다. 주로 기업이 자사의 제품을 홍보하거나 새로운 기술을 소개하는 자리로 여겨진다. 그래서 특히 ... 
 
  [바로가기](https://yozm.wishket.com/magazine/detail/2738/) 
-
-### MySQL 콜레이션은 어떻게 동작할까? 
-
- 이번 글에서는 MySQL의 콜레이션에 대해 살펴보려고 합니다. 전반적인 개요와 함께 MySQL 8.0에 새롭게 추가된 콜레이션들을 위주로 어떻게 동작하는지, 동작 방식과 주의해야 ... 
-
- [바로가기](https://yozm.wishket.com/magazine/detail/2736/) 
 
 ---
 
