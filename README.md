@@ -1,29 +1,29 @@
 # 오늘의 포스팅 
-2024년 9월 7일 9시 기준 
-
-### Swagger Annotation Checker for NestJS Projects 
-
- In this article, we are looking at the nest-swagger-checker package which is an open-source project ... 
-
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F7b5ad4430ce0&operation=register&redirect=https%3A%2F%2Fmedium.com%2Ftrendyol-tech%2Fswagger-annotation-checker-for-nestjs-projects-7b5ad4430ce0&source=------typescript---0-84----------typescript------bookmark_preview----92cb0dd8_6fcf_4524_a9a4_55254a99cc05-------) 
+2024년 9월 8일 9시 기준 
 
 ### Custom chunk optimization, how code splitting works in Rspack/Webpack 
 
  Chunk splitting is one of the most powerful features of modern bundlers like Webpack and Rspack, yet... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F146a3fa3a39a&operation=register&redirect=https%3A%2F%2Fscriptedalchemy.medium.com%2Fcustom-chunk-optimization-how-code-splitting-works-in-rspack-webpack-146a3fa3a39a&source=------frontend---0-84----------frontend------bookmark_preview----e0bd2d5f_2b85_474f_9b06_1524785a403b-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F146a3fa3a39a&operation=register&redirect=https%3A%2F%2Fscriptedalchemy.medium.com%2Fcustom-chunk-optimization-how-code-splitting-works-in-rspack-webpack-146a3fa3a39a&source=------frontend---0-84----------frontend------bookmark_preview----7fac51ce_55c8_4876_8ae1_213806501e58-------) 
 
-### AI-Powered Components in React: Integrating with GPT and Other AI Models 
+### Understanding Next.js Project Structure: A Simple Guide (nextjs v15 rc) 
 
- Introduction... 
+ Next.js has become a popular choice for building modern web applications, thanks to its powerful fea... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fe1e29245f1d3&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40vijaykumarsadhu%2Fai-powered-components-in-react-integrating-with-gpt-and-other-ai-models-e1e29245f1d3&source=------reactjs---0-84----------reactjs------bookmark_preview----4b5180f6_53df_4482_84ff_2be585f1e708-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F05d8ead9e6ab&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40onejosefina%2Fnextjs-folder-structure-using-app-router-nextjs-v15-rc-05d8ead9e6ab&source=------reactjs---0-84----------reactjs------bookmark_preview----1ad1b703_3f59_499f_a413_723b4e3117b3-------) 
 
 ### Building a Number Guessing Game App with Next.js 
 
  Day 4: Number Guessing Game — 30 Days of 30 Projects Challenge... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F9e86d27921cd&operation=register&redirect=https%3A%2F%2Fasharibali.medium.com%2Fbuilding-a-number-guessing-game-app-with-next-js-9e86d27921cd&source=------nextjs---0-84----------nextjs------bookmark_preview----e27f6677_53fe_4757_bd45_849c466c6758-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F9e86d27921cd&operation=register&redirect=https%3A%2F%2Fasharibali.medium.com%2Fbuilding-a-number-guessing-game-app-with-next-js-9e86d27921cd&source=------nextjs---0-84----------nextjs------bookmark_preview----b7f6c477_49e0_4d2e_8d44_4d1d3c276fd6-------) 
+
+### Micro Frontend Architecture: A Guide 
+
+ Micro frontends are fundamentally changing how we build and scale frontend. By breaking down monolit... 
+
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F28f78ce825ad&operation=register&redirect=https%3A%2F%2Fblog.bitsrc.io%2Fmicro-frontend-architecture-a-guide-28f78ce825ad&source=------front_end_development---0-84----------front_end_development------bookmark_preview----3dfd624a_ba54_4248_8c77_eca8cfb34526-------) 
 
 ### Ollama에 없는 모델 내가 만들어 사용하기 (2) 
 
