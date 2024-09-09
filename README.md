@@ -1,11 +1,5 @@
 # 오늘의 포스팅 
-2024년 9월 8일 9시 기준 
-
-### Custom chunk optimization, how code splitting works in Rspack/Webpack 
-
- Chunk splitting is one of the most powerful features of modern bundlers like Webpack and Rspack, yet... 
-
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F146a3fa3a39a&operation=register&redirect=https%3A%2F%2Fscriptedalchemy.medium.com%2Fcustom-chunk-optimization-how-code-splitting-works-in-rspack-webpack-146a3fa3a39a&source=------frontend---0-84----------frontend------bookmark_preview----7fac51ce_55c8_4876_8ae1_213806501e58-------) 
+2024년 9월 9일 9시 기준 
 
 ### Understanding Next.js Project Structure: A Simple Guide (nextjs v15 rc) 
 
@@ -13,17 +7,23 @@
 
  [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F05d8ead9e6ab&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40onejosefina%2Fnextjs-folder-structure-using-app-router-nextjs-v15-rc-05d8ead9e6ab&source=------reactjs---0-84----------reactjs------bookmark_preview----1ad1b703_3f59_499f_a413_723b4e3117b3-------) 
 
-### Building a Number Guessing Game App with Next.js 
+### Zero-runtime localization in Next.js 
 
- Day 4: Number Guessing Game — 30 Days of 30 Projects Challenge... 
+ How we hacked Next.js for blazing-fast localization at scale... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F9e86d27921cd&operation=register&redirect=https%3A%2F%2Fasharibali.medium.com%2Fbuilding-a-number-guessing-game-app-with-next-js-9e86d27921cd&source=------nextjs---0-84----------nextjs------bookmark_preview----b7f6c477_49e0_4d2e_8d44_4d1d3c276fd6-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F864e252e387d&operation=register&redirect=https%3A%2F%2Fcraft.faire.com%2Fzero-runtime-localization-in-next-js-864e252e387d&source=------nextjs---0-84----------nextjs------bookmark_preview----2f79a36f_1747_474c_b905_9a78796c277b-------) 
 
-### Micro Frontend Architecture: A Guide 
+### 5 Freelance Websites To Find Online Jobs – Start Working From Home Today 
 
- Micro frontends are fundamentally changing how we build and scale frontend. By breaking down monolit... 
+ By author ... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F28f78ce825ad&operation=register&redirect=https%3A%2F%2Fblog.bitsrc.io%2Fmicro-frontend-architecture-a-guide-28f78ce825ad&source=------front_end_development---0-84----------front_end_development------bookmark_preview----3dfd624a_ba54_4248_8c77_eca8cfb34526-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F7954b0446f02&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40malikbhai526262%2F5-freelance-websites-to-find-online-jobs-start-working-from-home-today-7954b0446f02&source=------front_end_development---0-84----------front_end_development------bookmark_preview----e819a588_e543_4a1f_9e88_7c55c835684d-------) 
+
+### Why OpenAI switched from Next.JS to Remix? 
+
+ The most important point here is that the React ecosystem is not just ServerSide or RSC, but also an... 
+
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F850f990b5b4f&operation=register&redirect=https%3A%2F%2Fmedium.com%2Flearnreactui%2Fwhy-openai-switched-from-next-js-to-remix-850f990b5b4f&source=------react---0-84----------react------bookmark_preview----c85a1cda_9b1d_44c5_bc5e_f33efa721812-------) 
 
 ### Ollama에 없는 모델 내가 만들어 사용하기 (2) 
 
