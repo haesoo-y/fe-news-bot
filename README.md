@@ -1,11 +1,5 @@
 # 오늘의 포스팅 
-2024년 9월 10일 9시 기준 
-
-### Testing a Next.js Form Component with Playwright 
-
- Learn how to test form components in Next.js using Playwright for UI testing.... 
-
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F89fea1af78a4&operation=register&redirect=https%3A%2F%2Fmedium.com%2Flamalab%2Ftesting-a-next-js-form-component-with-playwright-89fea1af78a4&source=------nextjs---0-84----------nextjs------bookmark_preview----73177c2e_a120_434b_905c_e28d09a847b4-------) 
+2024년 9월 11일 9시 기준 
 
 ### My Success Story — From Internship to Become a Full-Time Developer at MobileAction 
 
@@ -23,7 +17,13 @@
 
  Designing asynchronous pipelines for efficient data processing... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F730174c000bd&operation=register&redirect=https%3A%2F%2Ftowardsdatascience.com%2Fintuitive-explanation-of-async-await-in-javascript-730174c000bd&source=------javascript---0-84----------javascript------bookmark_preview----2a6e2657_bfb1_4acc_a3ec_79e1bedd863b-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F730174c000bd&operation=register&redirect=https%3A%2F%2Ftowardsdatascience.com%2Fintuitive-explanation-of-async-await-in-javascript-730174c000bd&source=---------0-84----------javascript------bookmark_preview----2033080a_f46d_4f8d_bab0_f36f14318807-------) 
+
+### Integrating Virtual Reality Libraries with Angular: A Comprehensive Guide 
+
+ Virtual Reality (VR) is transforming how we interact with digital content, offering immersive experi... 
+
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F155749260be4&operation=register&redirect=https%3A%2F%2Fpvkrijesh.medium.com%2Fintegrating-virtual-reality-libraries-with-angular-a-comprehensive-guide-155749260be4&source=---------0-84----------typescript------bookmark_preview----4f52857a_0779_4e21_8786_ddf8255e7a33-------) 
 
 ### 개발자를 위한 실전 ‘코딩테스트’ 준비 팁 
 
