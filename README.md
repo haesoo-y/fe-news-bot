@@ -1,41 +1,41 @@
 # 오늘의 포스팅 
-2024년 9월 11일 9시 기준 
+2024년 9월 12일 9시 기준 
 
-### My Success Story — From Internship to Become a Full-Time Developer at MobileAction 
+### Mastering Socket Listeners in React Native and React.js 
 
- 1 year ago, I started my journey at MobileAction as an engineering intern. Fast forward to today, I’... 
+ In today’s fast-paced world of real-time applications, socket listeners have become an essential too... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F0c48c90e4cce&operation=register&redirect=https%3A%2F%2Fmedium.com%2Fmobileaction-tech%2Fmy-success-story-from-internship-to-become-a-full-time-developer-at-mobileaction-0c48c90e4cce&source=------front_end_development---0-84----------front_end_development------bookmark_preview----e3a317fc_c0e7_4a07_b545_4ab36555bf4b-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F872be6e4798c&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40hassem_mahboob%2Fmastering-socket-listeners-in-react-native-and-react-js-872be6e4798c&source=---------0-84----------react------bookmark_preview----b48ab761_d679_4b16_be24_6ba9bf46d8ac-------) 
 
-### How to Reuse Logic in React with Custom Hooks: An Easy-to-Follow Guide 
+### What is the DOM? The Complete Guide for Beginner Developers 
 
- React Hooks allow you to extract and reuse logic in your components more effectively. A Custom Hook ... 
+ The DOM, or Document Object Model, is a programming interface (API) that allows developers to intera... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F125cec943070&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40sumitlaxane06%2Fhow-to-reuse-logic-in-react-with-custom-hooks-an-easy-to-follow-guide-125cec943070&source=------react---0-84----------react------bookmark_preview----462a8bb3_b0bb_4886_a6ce_dcc3150246b0-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fc1adf699594e&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40michaelsod90%2Fwhat-is-the-dom-the-complete-guide-for-beginner-developers-c1adf699594e&source=---------0-84----------javascript------bookmark_preview----888121d9_d389_4bf0_ba0b_a7c29cdda43c-------) 
 
-### Intuitive Explanation of Async / Await in JavaScript 
+### Building a Password Generator App with Next.js 
 
- Designing asynchronous pipelines for efficient data processing... 
+ Day 10: Password Generator — 30 Days of 30 Projects Challenge... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F730174c000bd&operation=register&redirect=https%3A%2F%2Ftowardsdatascience.com%2Fintuitive-explanation-of-async-await-in-javascript-730174c000bd&source=---------0-84----------javascript------bookmark_preview----2033080a_f46d_4f8d_bab0_f36f14318807-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F09224adacdb7&operation=register&redirect=https%3A%2F%2Fasharibali.medium.com%2Fbuilding-a-password-generator-app-with-next-js-09224adacdb7&source=---------0-84----------typescript------bookmark_preview----bc75493b_7b24_4586_8080_a6dbade0883a-------) 
 
-### Integrating Virtual Reality Libraries with Angular: A Comprehensive Guide 
+### Replicating Zara’s Website Design: Tips and Tricks for Developers (Part Two) 
 
- Virtual Reality (VR) is transforming how we interact with digital content, offering immersive experi... 
+ ... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F155749260be4&operation=register&redirect=https%3A%2F%2Fpvkrijesh.medium.com%2Fintegrating-virtual-reality-libraries-with-angular-a-comprehensive-guide-155749260be4&source=---------0-84----------typescript------bookmark_preview----4f52857a_0779_4e21_8786_ddf8255e7a33-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fb5bd3b2ae777&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40xianli_74374%2Freplicating-zaras-website-design-tips-and-tricks-for-developers-part-two-b5bd3b2ae777&source=---------0-84----------frontend------bookmark_preview----8d7e36a4_5c27_4976_b773_790b8f3e0d97-------) 
+
+### MySQL에서 SQL 문장 가독성 향상시키는 법 
+
+ 이번 글에서는 SQL 문장의 가독성 향상을 위한 몇 가지 방안을 살펴보려고 합니다. 여기서 ‘가독성’은 단순히 쿼리가 눈에 보기 좋은 형태로 작성된 것을 의미하는 것이 아니라, 어... 
+
+ [바로가기](https://yozm.wishket.com/magazine/detail/2758/) 
 
 ### 개발자를 위한 실전 ‘코딩테스트’ 준비 팁 
 
  개발자라면 누구나 ‘코딩테스트’를 준비해 본 경험이 있을 겁니다. 코딩테스트는 여러분의 두뇌가 얼마나 비상한지, 복잡하게 꼬인 문제를 얼마나 천재적인 발상으로 해결할 수 있는지 시... 
 
  [바로가기](https://yozm.wishket.com/magazine/detail/2755/) 
-
-### 시작하는 개발자를 위한 JS 구조 분해 활용법 3가지 
-
- 이번에 배울 것은 구조 분해입니다. 이 구문으로는 값을 해체하고 꺼내고 선정할 수 있습니다. 배열과 객체에 적용할 수 있죠. 이들을 해체해 별개 변수 형태로 만들 수도 있고요. 그... 
-
- [바로가기](https://yozm.wishket.com/magazine/detail/2754/) 
 
 ---
 
