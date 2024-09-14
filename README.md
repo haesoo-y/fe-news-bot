@@ -1,17 +1,11 @@
 # 오늘의 포스팅 
-2024년 9월 13일 9시 기준 
+2024년 9월 14일 9시 기준 
 
-### How much do our Angular apps leak memory exactly? 
+### It was on Thursday night, I couldn't get a good night's sleep. 
 
- Is it one mistake and then the component tree is leaked forever?... 
+ The Voice in My Head.... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F3ff1afd660cb&operation=register&redirect=https%3A%2F%2Fitnext.io%2Fhow-much-do-our-angular-apps-leak-memory-exactly-3ff1afd660cb&source=------javascript---0-84----------javascript------bookmark_preview----f6a5f7ce_0cca_4197_aa4a_9eab559e8a12-------) 
-
-### Building a BMI Calculator App with Next.js 
-
- Day 11: BMI Calculator — 30 Days of 30 Projects Challenge... 
-
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fdd75f9a40414&operation=register&redirect=https%3A%2F%2Fasharibali.medium.com%2Fbuilding-a-bmi-calculator-app-with-next-js-dd75f9a40414&source=---------0-84----------typescript------bookmark_preview----a5250ab3_cf5b_400b_b6ff_b17d13c67d1d-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fcbd4db3e6898&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40miracmognew%2Fit-was-on-thursday-night-i-couldnt-get-a-good-night-s-sleep-cbd4db3e6898&source=------typescript---0-84----------typescript------bookmark_preview----8a69d506_4878_413f_bee7_fff8a14474cf-------) 
 
 ### My Experience Building the Blood Bank App 
 
@@ -24,6 +18,12 @@
  In this Article we will go through in detail on how to create a Tab component similar to that of Mat... 
 
  [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F11e6cba4c51a&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40sriramhssagar%2Fhow-to-create-tabs-component-like-mui-tabs-from-scratch-in-react-js-11e6cba4c51a&source=------reactjs---0-84----------reactjs------bookmark_preview----d6a5663c_3d0c_44eb_8878_85b0d1080066-------) 
+
+### Managing State in Next.js with Zustand 
+
+ Managing global state in React applications can sometimes feel over-complicated. While Redux is powe... 
+
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F17a52ac40818&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40divyanshsharma0631%2Fmanaging-state-in-next-js-with-zustand-17a52ac40818&source=------nextjs---0-84----------nextjs------bookmark_preview----60482625_01c1_4574_b7b1_55c8958edafc-------) 
 
 ### C++의 과거와 현재, 그리고 미래 
 
