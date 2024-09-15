@@ -1,29 +1,29 @@
 # 오늘의 포스팅 
-2024년 9월 14일 9시 기준 
+2024년 9월 15일 9시 기준 
 
-### It was on Thursday night, I couldn't get a good night's sleep. 
+### 3 mistakes beginners make in React useState hook 
 
- The Voice in My Head.... 
+ Avoid Common Errors in State Management with useState 🤟... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fcbd4db3e6898&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40miracmognew%2Fit-was-on-thursday-night-i-couldnt-get-a-good-night-s-sleep-cbd4db3e6898&source=------typescript---0-84----------typescript------bookmark_preview----8a69d506_4878_413f_bee7_fff8a14474cf-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F1cb268636eae&operation=register&redirect=https%3A%2F%2Fmedium.com%2Fbetterreact%2F3-mistakes-that-beginners-make-in-react-usestate-hook-1cb268636eae&source=------frontend---0-84----------frontend------bookmark_preview----4e465596_1b27_4a13_8891_0931e975c230-------) 
 
-### My Experience Building the Blood Bank App 
+### How much JavaScript do you need to know as a React developer? 
 
- I had the incredible opportunity to work on a life-saving project — the Blood Bank Web App. You can ... 
+ JavaScript is vast and full of surprises. If you’re starting with JavaScript or planning to learn Re... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Ff3e6bf7c6440&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40ayeshaquazi04%2Fmy-experience-building-the-blood-bank-app-f3e6bf7c6440&source=---------0-84----------frontend------bookmark_preview----7d6c2004_3e23_4490_98e7_9eb1cee11b0e-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F37f6f6e71300&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40s.chandrakethan9%2Fhow-much-javascript-do-you-need-to-know-as-a-react-developer-37f6f6e71300&source=------reactjs---0-84----------reactjs------bookmark_preview----26e3e279_4b35_43ab_a7df_7192667e1dd9-------) 
 
-### How to create Tabs Component like MUI Tabs from scratch in React JS. 
+### How ts-pattern can improve your code readability? 
 
- In this Article we will go through in detail on how to create a Tab component similar to that of Mat... 
+ My First Encounter with ts-pattern... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F11e6cba4c51a&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40sriramhssagar%2Fhow-to-create-tabs-component-like-mui-tabs-from-scratch-in-react-js-11e6cba4c51a&source=------reactjs---0-84----------reactjs------bookmark_preview----d6a5663c_3d0c_44eb_8878_85b0d1080066-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fd64996841646&operation=register&redirect=https%3A%2F%2Ftauantcamargo.medium.com%2Fhow-ts-pattern-can-improve-your-code-readability-d64996841646&source=------nextjs---0-84----------nextjs------bookmark_preview----b8c6aff9_efe9_4427_94fe_aebc04c2154f-------) 
 
-### Managing State in Next.js with Zustand 
+### The Fallacy of Federated Design Systems 
 
- Managing global state in React applications can sometimes feel over-complicated. While Redux is powe... 
+ Avoid the damage and distress of glorifying the wrong model... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F17a52ac40818&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40divyanshsharma0631%2Fmanaging-state-in-next-js-with-zustand-17a52ac40818&source=------nextjs---0-84----------nextjs------bookmark_preview----60482625_01c1_4574_b7b1_55c8958edafc-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F23b9a9a05542&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40nathanacurtis%2Fthe-fallacy-of-federated-design-systems-23b9a9a05542&source=------front_end_development---0-84----------front_end_development------bookmark_preview----335ab087_0ec4_436d_9a36_00ae2b6d630f-------) 
 
 ### C++의 과거와 현재, 그리고 미래 
 
