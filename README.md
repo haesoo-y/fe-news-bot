@@ -1,41 +1,41 @@
 # 오늘의 포스팅 
-2024년 9월 15일 9시 기준 
+2024년 9월 16일 9시 기준 
 
-### 3 mistakes beginners make in React useState hook 
+### How much JavaScript you need to know as a React developer? 
 
- Avoid Common Errors in State Management with useState 🤟... 
+ ... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F1cb268636eae&operation=register&redirect=https%3A%2F%2Fmedium.com%2Fbetterreact%2F3-mistakes-that-beginners-make-in-react-usestate-hook-1cb268636eae&source=------frontend---0-84----------frontend------bookmark_preview----4e465596_1b27_4a13_8891_0931e975c230-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F37f6f6e71300&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40s.chandrakethan9%2Fhow-much-javascript-do-you-need-to-know-as-a-react-developer-37f6f6e71300&source=------reactjs---0-84----------reactjs------bookmark_preview----c251311f_2512_472f_92a3_f93c0136f9fd-------) 
 
-### How much JavaScript do you need to know as a React developer? 
+### Building a Smooth Image Comparison Slider in Next.js 
 
- JavaScript is vast and full of surprises. If you’re starting with JavaScript or planning to learn Re... 
+ I’ve always been fascinated by how things work, which is one of the main reasons I started my web de... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F37f6f6e71300&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40s.chandrakethan9%2Fhow-much-javascript-do-you-need-to-know-as-a-react-developer-37f6f6e71300&source=------reactjs---0-84----------reactjs------bookmark_preview----26e3e279_4b35_43ab_a7df_7192667e1dd9-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Ff4022cecc74b&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40abiodunjayb%2Fbuilding-a-smooth-image-comparison-slider-in-next-js-f4022cecc74b&source=------nextjs---0-84----------nextjs------bookmark_preview----934df53a_7fe7_4813_b75f_29ad35feea3b-------) 
 
-### How ts-pattern can improve your code readability? 
+### React vs Angular — What are the real disadvantages of Angular? 
 
- My First Encounter with ts-pattern... 
+ In my view, reusability, abstractions, and wrappers are crucial for creating scalable user interface... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fd64996841646&operation=register&redirect=https%3A%2F%2Ftauantcamargo.medium.com%2Fhow-ts-pattern-can-improve-your-code-readability-d64996841646&source=------nextjs---0-84----------nextjs------bookmark_preview----b8c6aff9_efe9_4427_94fe_aebc04c2154f-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F7f023f9683bf&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40ezisfoglalt%2Freact-vs-angular-what-are-the-real-disadvantages-of-angular-7f023f9683bf&source=------front_end_development---0-84----------front_end_development------bookmark_preview----8af661eb_f554_4c65_941b_6f71853beb6b-------) 
 
-### The Fallacy of Federated Design Systems 
+### React vs Angular — What are the real disadvantages of Angular? 
 
- Avoid the damage and distress of glorifying the wrong model... 
+ In my view, reusability, abstractions, and wrappers are crucial for creating scalable user interface... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F23b9a9a05542&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40nathanacurtis%2Fthe-fallacy-of-federated-design-systems-23b9a9a05542&source=------front_end_development---0-84----------front_end_development------bookmark_preview----335ab087_0ec4_436d_9a36_00ae2b6d630f-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F7f023f9683bf&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40ezisfoglalt%2Freact-vs-angular-what-are-the-real-disadvantages-of-angular-7f023f9683bf&source=------react---0-84----------react------bookmark_preview----c1671111_1c66_43e1_b9a6_c8da16a27a53-------) 
+
+### 2024년을 뒤흔든 테크 이슈 3가지 
+
+ 2024 추석을 맞이해 요즘IT가 풍성한 글 모음을 선물로 준비했습니다. 벌써 올해도 얼마 남지 않았는데요. 하반기인 만큼 2024년을 되돌아보며 올해 IT 업계에선 어떤 일들이 ... 
+
+ [바로가기](https://yozm.wishket.com/magazine/detail/2763/) 
 
 ### C++의 과거와 현재, 그리고 미래 
 
  C++은 프로그래밍 언어로서 지난 수십 년간 소프트웨어 개발의 핵심 역할을 해왔습니다. 그러나 C++의 역사에 영광만 있지는 않았습니다. 도전과 기회, 위험이 공존하는 길이었죠. ... 
 
  [바로가기](https://yozm.wishket.com/magazine/detail/2761/) 
-
-### MySQL에서 SQL 문장 가독성 향상시키는 법 
-
- 이번 글에서는 SQL 문장의 가독성 향상을 위한 몇 가지 방안을 살펴보려고 합니다. 여기서 ‘가독성’은 단순히 쿼리가 눈에 보기 좋은 형태로 작성된 것을 의미하는 것이 아니라, 어... 
-
- [바로가기](https://yozm.wishket.com/magazine/detail/2758/) 
 
 ---
 
