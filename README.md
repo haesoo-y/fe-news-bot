@@ -1,41 +1,41 @@
 # 오늘의 포스팅 
-2024년 9월 16일 9시 기준 
+2024년 9월 17일 9시 기준 
 
-### How much JavaScript you need to know as a React developer? 
+### My Portfolio Website Journey: A Tale of Two Frameworks 
 
- ... 
+ As someone who primarily worked with Flutter, stepping into the world of web development felt like e... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F37f6f6e71300&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40s.chandrakethan9%2Fhow-much-javascript-do-you-need-to-know-as-a-react-developer-37f6f6e71300&source=------reactjs---0-84----------reactjs------bookmark_preview----c251311f_2512_472f_92a3_f93c0136f9fd-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F76fc1834a237&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40sanudasenod446%2Fmy-portfolio-website-journey-a-tale-of-two-frameworks-76fc1834a237&source=------nextjs---0-84----------nextjs------bookmark_preview----2d126f4b_cc3a_4cc0_8278_f8a74eed5baa-------) 
 
-### Building a Smooth Image Comparison Slider in Next.js 
+### Frontend Weekly Digest #380 (9–15 September 2024) 
 
- I’ve always been fascinated by how things work, which is one of the main reasons I started my web de... 
+ Web-development... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Ff4022cecc74b&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40abiodunjayb%2Fbuilding-a-smooth-image-comparison-slider-in-next-js-f4022cecc74b&source=------nextjs---0-84----------nextjs------bookmark_preview----934df53a_7fe7_4813_b75f_29ad35feea3b-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fe9b026f83a7f&operation=register&redirect=https%3A%2F%2Ffrontender-ua.medium.com%2Ffrontend-weekly-digest-380-9-15-september-2024-e9b026f83a7f&source=------front_end_development---0-84----------front_end_development------bookmark_preview----dfb08dda_511f_4160_8046_47f3698e0b4b-------) 
 
-### React vs Angular — What are the real disadvantages of Angular? 
+### Carbon and Figma Code Connect: Redefining the Design-to-Code Experience 
 
- In my view, reusability, abstractions, and wrappers are crucial for creating scalable user interface... 
+ There’s a reason why Dylan Field, Figma’s CEO, decided to devote a significant chunk of his 2024 Con... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F7f023f9683bf&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40ezisfoglalt%2Freact-vs-angular-what-are-the-real-disadvantages-of-angular-7f023f9683bf&source=------front_end_development---0-84----------front_end_development------bookmark_preview----8af661eb_f554_4c65_941b_6f71853beb6b-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F836eb3f454fc&operation=register&redirect=https%3A%2F%2Fmedium.com%2Fcarbondesign%2Fcarbon-and-figma-code-connect-redefining-the-design-to-code-experience-836eb3f454fc&source=------react---0-84----------react------bookmark_preview----238cb52b_c325_4026_8bd5_cf784c93dda2-------) 
 
-### React vs Angular — What are the real disadvantages of Angular? 
+### Frontend Weekly Digest #380 (9–15 September 2024) 
 
- In my view, reusability, abstractions, and wrappers are crucial for creating scalable user interface... 
+ Web-development... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F7f023f9683bf&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40ezisfoglalt%2Freact-vs-angular-what-are-the-real-disadvantages-of-angular-7f023f9683bf&source=------react---0-84----------react------bookmark_preview----c1671111_1c66_43e1_b9a6_c8da16a27a53-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fe9b026f83a7f&operation=register&redirect=https%3A%2F%2Ffrontender-ua.medium.com%2Ffrontend-weekly-digest-380-9-15-september-2024-e9b026f83a7f&source=------javascript---0-84----------javascript------bookmark_preview----3674be18_ddb5_4a6f_9102_302e38d7f427-------) 
+
+### 개발자는 정말로 사라질까? 
+
+ 추석을 맞아 요즘IT가 글 모음 선물을 준비했습니다. 이번 주제는 “개발자의 미래”입니다. 빠르게 성장하는 AI 도구가 개발의 영역을 침범하고 있습니다. 누군가는 개발자란 직업의 ... 
+
+ [바로가기](https://yozm.wishket.com/magazine/detail/2765/) 
 
 ### 2024년을 뒤흔든 테크 이슈 3가지 
 
  2024 추석을 맞이해 요즘IT가 풍성한 글 모음을 선물로 준비했습니다. 벌써 올해도 얼마 남지 않았는데요. 하반기인 만큼 2024년을 되돌아보며 올해 IT 업계에선 어떤 일들이 ... 
 
  [바로가기](https://yozm.wishket.com/magazine/detail/2763/) 
-
-### C++의 과거와 현재, 그리고 미래 
-
- C++은 프로그래밍 언어로서 지난 수십 년간 소프트웨어 개발의 핵심 역할을 해왔습니다. 그러나 C++의 역사에 영광만 있지는 않았습니다. 도전과 기회, 위험이 공존하는 길이었죠. ... 
-
- [바로가기](https://yozm.wishket.com/magazine/detail/2761/) 
 
 ---
 
