@@ -1,29 +1,29 @@
 # 오늘의 포스팅 
-2024년 9월 18일 9시 기준 
+2024년 9월 19일 9시 기준 
 
-### Frontend Weekly Digest #380 (9–15 September 2024) 
+### 4 Common React Mistakes You are Probably Making (And How to Fix Them) 
 
- Web-development... 
+ React has become one of the most popular libraries for building dynamic user interfaces. With its co... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fe9b026f83a7f&operation=register&redirect=https%3A%2F%2Ffrontender-ua.medium.com%2Ffrontend-weekly-digest-380-9-15-september-2024-e9b026f83a7f&source=------front_end_development---0-84----------front_end_development------bookmark_preview----d3643485_ab06_44dd_8485_d771c79fcbc7-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fca6fa70186ed&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40zakirhassan114%2F4-common-react-mistakes-you-are-probably-making-and-how-to-fix-them-ca6fa70186ed&source=------react---0-84----------react------bookmark_preview----21437a8a_7380_428c_bd2b_e2d41cfdbb59-------) 
 
-### Carbon and Figma Code Connect: Redefining the Design-to-Code Experience 
+### How I Hacked WhatsApp Web in 3 Days 
 
- There’s a reason why Dylan Field, Figma’s CEO, decided to devote a significant chunk of his 2024 Con... 
+ The process of exploring a WhatsApp Web ServiceWorker vulnerability causing a XSS with a significant... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F836eb3f454fc&operation=register&redirect=https%3A%2F%2Fmedium.com%2Fcarbondesign%2Fcarbon-and-figma-code-connect-redefining-the-design-to-code-experience-836eb3f454fc&source=------react---0-84----------react------bookmark_preview----4ceb892b_f70b_484a_8dd5_c5829c6173f2-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Ff23504ed5b42&operation=register&redirect=https%3A%2F%2Fmichalszorad.medium.com%2Fhow-i-hacked-whatsapp-web-in-3-days-f23504ed5b42&source=------javascript---0-84----------javascript------bookmark_preview----f84a1c0b_4aa4_439f_967a_c75274817204-------) 
 
-### What’s new in Graal Languages 24.1 
+### Better Vue Components with TypeScript [12 examples] 
 
- Today, along with GraalVM for JDK 23, we are also releasing a new version of Graal Languages: 24.1. ... 
+ The debate between JavaScript and TypeScript has been going on for years, and I thought by 2024 we w... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fb2452c9debae&operation=register&redirect=https%3A%2F%2Fmedium.com%2Fgraalvm%2Fwhats-new-in-graal-languages-24-1-b2452c9debae&source=------javascript---0-84----------javascript------bookmark_preview----9f292f01_70fa_4239_99c0_9c0beef46f06-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F3bf141d39784&operation=register&redirect=https%3A%2F%2Ffadamakis.com%2Fbetter-vue-components-with-typescript-12-examples-3bf141d39784&source=------typescript---0-84----------typescript------bookmark_preview----8e600440_e9d4_40b8_8828_c95a3fd5c4ea-------) 
 
-### We were three silly girls - Jane, Juliet, and I, Jennifer - who were broke but loved living the… 
+### 🎨 Tailwind CSS trick: managing opacity with alpha values. 🎨 
 
- My Last Smile ... 
+ How to define custom color names with alpha/opacity which also supporting dark & light mode in Tailw... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fa67af409cb2a&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40miracmognew%2Fwe-were-three-silly-girls-jane-juliet-and-i-jennifer-who-were-broke-but-loved-living-the-a67af409cb2a&source=------typescript---0-84----------typescript------bookmark_preview----d3e0716b_cc02_45e6_88a4_536586b707c7-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fce73bf3b14f9&operation=register&redirect=https%3A%2F%2Fbootcamp.uxdesign.cc%2Ftailwind-css-trick-managing-opacity-with-alpha-values-ce73bf3b14f9&source=------frontend---0-84----------frontend------bookmark_preview----588ece38_f84b_4f2e_85d3_c9a7612b731f-------) 
 
 ### 개발자는 정말로 사라질까? 
 
