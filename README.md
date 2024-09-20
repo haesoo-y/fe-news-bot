@@ -1,29 +1,29 @@
 # 오늘의 포스팅 
-2024년 9월 19일 9시 기준 
-
-### 4 Common React Mistakes You are Probably Making (And How to Fix Them) 
-
- React has become one of the most popular libraries for building dynamic user interfaces. With its co... 
-
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fca6fa70186ed&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40zakirhassan114%2F4-common-react-mistakes-you-are-probably-making-and-how-to-fix-them-ca6fa70186ed&source=------react---0-84----------react------bookmark_preview----21437a8a_7380_428c_bd2b_e2d41cfdbb59-------) 
+2024년 9월 20일 9시 기준 
 
 ### How I Hacked WhatsApp Web in 3 Days 
 
  The process of exploring a WhatsApp Web ServiceWorker vulnerability causing a XSS with a significant... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Ff23504ed5b42&operation=register&redirect=https%3A%2F%2Fmichalszorad.medium.com%2Fhow-i-hacked-whatsapp-web-in-3-days-f23504ed5b42&source=------javascript---0-84----------javascript------bookmark_preview----f84a1c0b_4aa4_439f_967a_c75274817204-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Ff23504ed5b42&operation=register&redirect=https%3A%2F%2Fmichalszorad.medium.com%2Fhow-i-hacked-whatsapp-web-in-3-days-f23504ed5b42&source=------javascript---0-84----------javascript------bookmark_preview----cc1bdf4d_40e4_4b08_a2f6_8ff07c3692a8-------) 
 
-### Better Vue Components with TypeScript [12 examples] 
+### Friendly TypeScript Errors: Custom Messages for Easier Debugging 
 
- The debate between JavaScript and TypeScript has been going on for years, and I thought by 2024 we w... 
+ Ever struggled with cryptic TypeScript errors that slow down your debugging process? In large projec... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F3bf141d39784&operation=register&redirect=https%3A%2F%2Ffadamakis.com%2Fbetter-vue-components-with-typescript-12-examples-3bf141d39784&source=------typescript---0-84----------typescript------bookmark_preview----8e600440_e9d4_40b8_8828_c95a3fd5c4ea-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F1bf96ef93323&operation=register&redirect=https%3A%2F%2Fmedium.com%2Fthe-really-good-blog%2Ffriendly-typescript-errors-custom-messages-for-easier-debugging-1bf96ef93323&source=------typescript---0-84----------typescript------bookmark_preview----6d627169_5ce6_4727_917c_50bd2e8ddc27-------) 
 
-### 🎨 Tailwind CSS trick: managing opacity with alpha values. 🎨 
+### Should we use name conventions for Signals 
 
- How to define custom color names with alpha/opacity which also supporting dark & light mode in Tailw... 
+ users$... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fce73bf3b14f9&operation=register&redirect=https%3A%2F%2Fbootcamp.uxdesign.cc%2Ftailwind-css-trick-managing-opacity-with-alpha-values-ce73bf3b14f9&source=------frontend---0-84----------frontend------bookmark_preview----588ece38_f84b_4f2e_85d3_c9a7612b731f-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Ffca33db85e62&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40frontendbase%2Fshould-we-use-name-conventions-for-signals-fca33db85e62&source=------frontend---0-84----------frontend------bookmark_preview----1a7c84c4_4687_439c_a203_a0cf8172543d-------) 
+
+### 4 Common React Mistakes You are Probably Making (And How to Fix Them) 
+
+ React has become one of the most popular libraries for building dynamic user interfaces. With its co... 
+
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fca6fa70186ed&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40zakirhassan114%2F4-common-react-mistakes-you-are-probably-making-and-how-to-fix-them-ca6fa70186ed&source=------reactjs---0-84----------reactjs------bookmark_preview----a661f4cd_dadf_4044_aa1b_214d07c14a62-------) 
 
 ### 개발자는 정말로 사라질까? 
 
