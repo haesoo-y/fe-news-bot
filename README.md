@@ -1,29 +1,29 @@
 # 오늘의 포스팅 
-2024년 9월 20일 9시 기준 
+2024년 9월 21일 9시 기준 
 
-### How I Hacked WhatsApp Web in 3 Days 
+### Crafting Reliable Workflows in a Microservices World using Temporal IO 
 
- The process of exploring a WhatsApp Web ServiceWorker vulnerability causing a XSS with a significant... 
+ Our Journey With Managing Workflows In Elementor Hosting... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Ff23504ed5b42&operation=register&redirect=https%3A%2F%2Fmichalszorad.medium.com%2Fhow-i-hacked-whatsapp-web-in-3-days-f23504ed5b42&source=------javascript---0-84----------javascript------bookmark_preview----cc1bdf4d_40e4_4b08_a2f6_8ff07c3692a8-------) 
-
-### Friendly TypeScript Errors: Custom Messages for Easier Debugging 
-
- Ever struggled with cryptic TypeScript errors that slow down your debugging process? In large projec... 
-
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F1bf96ef93323&operation=register&redirect=https%3A%2F%2Fmedium.com%2Fthe-really-good-blog%2Ffriendly-typescript-errors-custom-messages-for-easier-debugging-1bf96ef93323&source=------typescript---0-84----------typescript------bookmark_preview----6d627169_5ce6_4727_917c_50bd2e8ddc27-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F28ab68a405e6&operation=register&redirect=https%3A%2F%2Fmedium.com%2Felementor-engineers%2Fcrafting-reliable-workflows-in-a-microservices-world-using-temporal-io-28ab68a405e6&source=------typescript---0-84----------typescript------bookmark_preview----be14a3b3_2eb2_4f01_ab6f_449664f0e686-------) 
 
 ### Should we use name conventions for Signals 
 
  users$... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Ffca33db85e62&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40frontendbase%2Fshould-we-use-name-conventions-for-signals-fca33db85e62&source=------frontend---0-84----------frontend------bookmark_preview----1a7c84c4_4687_439c_a203_a0cf8172543d-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Ffca33db85e62&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40frontendbase%2Fshould-we-use-name-conventions-for-signals-fca33db85e62&source=------frontend---0-84----------frontend------bookmark_preview----27bf6167_19e9_43aa_b98b_e4ee206ac82c-------) 
 
-### 4 Common React Mistakes You are Probably Making (And How to Fix Them) 
+### NextJS 14 for Dummies: A Beginner’s Guide to the Latest Version 
 
- React has become one of the most popular libraries for building dynamic user interfaces. With its co... 
+ If you’re new to Next.js or haven’t yet explored its latest version, NextJS 14, you’re in the right ... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fca6fa70186ed&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40zakirhassan114%2F4-common-react-mistakes-you-are-probably-making-and-how-to-fix-them-ca6fa70186ed&source=------reactjs---0-84----------reactjs------bookmark_preview----a661f4cd_dadf_4044_aa1b_214d07c14a62-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F9894d77c0afa&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40shantotrs%2Fnextjs-14-for-dummies-a-beginners-guide-to-the-latest-version-9894d77c0afa&source=------reactjs---0-84----------reactjs------bookmark_preview----dd0b81cc_180c_48ed_bc1f_a0d883766ffd-------) 
+
+### Keep Your Next Viral AI App Free For Longer With Local Embeddings 
+
+ Patch an OpenAI client with Function LLM in one line of code.... 
+
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F33d209ceb8e1&operation=register&redirect=https%3A%2F%2Fblog.fxn.ai%2Fkeep-your-next-viral-ai-app-free-for-longer-with-local-embeddings-33d209ceb8e1&source=------nextjs---0-84----------nextjs------bookmark_preview----c919e3f0_687a_4caf_8ba5_65ee1df22d24-------) 
 
 ### 개발자는 정말로 사라질까? 
 
