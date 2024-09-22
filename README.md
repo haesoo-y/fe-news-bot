@@ -1,29 +1,29 @@
 # 오늘의 포스팅 
-2024년 9월 21일 9시 기준 
+2024년 9월 22일 9시 기준 
 
-### Crafting Reliable Workflows in a Microservices World using Temporal IO 
+### The Rise of the Design Engineer 
 
- Our Journey With Managing Workflows In Elementor Hosting... 
+ Having a Design Engineer (aka UX Engineer) on your team is a game changer. Attention to detail, prod... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F28ab68a405e6&operation=register&redirect=https%3A%2F%2Fmedium.com%2Felementor-engineers%2Fcrafting-reliable-workflows-in-a-microservices-world-using-temporal-io-28ab68a405e6&source=------typescript---0-84----------typescript------bookmark_preview----be14a3b3_2eb2_4f01_ab6f_449664f0e686-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fd428e7d681fd&operation=register&redirect=https%3A%2F%2Fleemunroe.medium.com%2Fthe-rise-of-the-design-engineer-d428e7d681fd&source=------frontend---0-84----------frontend------bookmark_preview----773a87ff_3de2_4654_abee_41f8b748d5e0-------) 
 
-### Should we use name conventions for Signals 
+### Visualizing React Memoization 
 
- users$... 
+ Visualizing how a component tree renders to its children and how to control that behavior.... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Ffca33db85e62&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40frontendbase%2Fshould-we-use-name-conventions-for-signals-fca33db85e62&source=------frontend---0-84----------frontend------bookmark_preview----27bf6167_19e9_43aa_b98b_e4ee206ac82c-------) 
-
-### NextJS 14 for Dummies: A Beginner’s Guide to the Latest Version 
-
- If you’re new to Next.js or haven’t yet explored its latest version, NextJS 14, you’re in the right ... 
-
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F9894d77c0afa&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40shantotrs%2Fnextjs-14-for-dummies-a-beginners-guide-to-the-latest-version-9894d77c0afa&source=------reactjs---0-84----------reactjs------bookmark_preview----dd0b81cc_180c_48ed_bc1f_a0d883766ffd-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fd734574ed2e7&operation=register&redirect=https%3A%2F%2Flevelup.gitconnected.com%2Fvisualizing-react-memoization-d734574ed2e7&source=------reactjs---0-84----------reactjs------bookmark_preview----e13552e0_6370_4861_a4cb_b89af240cb58-------) 
 
 ### Keep Your Next Viral AI App Free For Longer With Local Embeddings 
 
  Patch an OpenAI client with Function LLM in one line of code.... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F33d209ceb8e1&operation=register&redirect=https%3A%2F%2Fblog.fxn.ai%2Fkeep-your-next-viral-ai-app-free-for-longer-with-local-embeddings-33d209ceb8e1&source=------nextjs---0-84----------nextjs------bookmark_preview----c919e3f0_687a_4caf_8ba5_65ee1df22d24-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F33d209ceb8e1&operation=register&redirect=https%3A%2F%2Fblog.fxn.ai%2Fkeep-your-next-viral-ai-app-free-for-longer-with-local-embeddings-33d209ceb8e1&source=------nextjs---0-84----------nextjs------bookmark_preview----baaeeb57_2503_4e53_84cd_2c49cd74a0cb-------) 
+
+### Better Vue Components with TypeScript [12 examples] 
+
+ The debate between JavaScript and TypeScript has been going on for years, and I thought by 2024 we w... 
+
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F3bf141d39784&operation=register&redirect=https%3A%2F%2Ffadamakis.com%2Fbetter-vue-components-with-typescript-12-examples-3bf141d39784&source=------front_end_development---0-84----------front_end_development------bookmark_preview----e035c9c8_ddf2_4afe_afef_a134fd4f3af9-------) 
 
 ### 개발자는 정말로 사라질까? 
 
