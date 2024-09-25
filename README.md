@@ -1,29 +1,29 @@
 # 오늘의 포스팅 
-2024년 9월 24일 9시 기준 
-
-### Understanding JSX: How JavaScript Meets HTML 🖥️✨ 
-
- If you’ve just started learning React, one of the first things you’ll notice is that React looks a l... 
-
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F2cb637dff664&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40saurabhraut3102%2Funderstanding-jsx-how-javascript-meets-html-%25EF%25B8%258F-2cb637dff664&source=------nextjs---0-84----------nextjs------bookmark_preview----73ed8f3b_3030_445d_b52c_b6f35048671d-------) 
+2024년 9월 25일 9시 기준 
 
 ### Frontend Weekly Digest #381 (16–22 September 2024) 
 
  Web-development... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F51af154379ba&operation=register&redirect=https%3A%2F%2Ffrontender-ua.medium.com%2Ffrontend-weekly-digest-381-16-22-september-2024-51af154379ba&source=------front_end_development---0-84----------front_end_development------bookmark_preview----05e1b906_aae6_4e3c_9e4a_7ccaa9071abb-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F51af154379ba&operation=register&redirect=https%3A%2F%2Ffrontender-ua.medium.com%2Ffrontend-weekly-digest-381-16-22-september-2024-51af154379ba&source=------front_end_development---0-84----------front_end_development------bookmark_preview----f3e245e7_6dc7_41bb_933a_3d2ed954dd4a-------) 
 
-### Understanding JSX: How JavaScript Meets HTML 🖥️✨ 
+### Oracle owns JavaScript! 
 
- If you’ve just started learning React, one of the first things you’ll notice is that React looks a l... 
+ If you’ve ever wondered why you don’t see the term “JavaScript” in company names, conferences, or of... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F2cb637dff664&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40saurabhraut3102%2Funderstanding-jsx-how-javascript-meets-html-%25EF%25B8%258F-2cb637dff664&source=------react---0-84----------react------bookmark_preview----152d82a4_d669_4066_bbf2_31be590a8023-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fcf8eeb90fa9b&operation=register&redirect=https%3A%2F%2Flakin-mohapatra.medium.com%2Foracle-owns-javascript-cf8eeb90fa9b&source=------react---0-84----------react------bookmark_preview----ec34877e_66a3_4a62_ab46_c7d0c670577a-------) 
 
 ### Frontend Weekly Digest #381 (16–22 September 2024) 
 
  Web-development... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F51af154379ba&operation=register&redirect=https%3A%2F%2Ffrontender-ua.medium.com%2Ffrontend-weekly-digest-381-16-22-september-2024-51af154379ba&source=------javascript---0-84----------javascript------bookmark_preview----9fdcde4b_e01c_483d_89a3_0b7a640447d4-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F51af154379ba&operation=register&redirect=https%3A%2F%2Ffrontender-ua.medium.com%2Ffrontend-weekly-digest-381-16-22-september-2024-51af154379ba&source=------javascript---0-84----------javascript------bookmark_preview----19d1a8c6_ab6a_425a_9a09_7cb872490f03-------) 
+
+### What Is Simplified by the Upcoming Dispose Pattern in JavaScript? 
+
+ JavaScript is gaining a feature that many other languages, like C# and Java, have had for a long tim... 
+
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F0a3dac5bedd1&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40timoniann%2Fwhat-is-simplified-by-the-upcoming-dispose-pattern-in-javascript-0a3dac5bedd1&source=------typescript---0-84----------typescript------bookmark_preview----1a83e0bb_c9ea_4a62_91ae_220e5719e11a-------) 
 
 ### 개발자는 정말로 사라질까? 
 
