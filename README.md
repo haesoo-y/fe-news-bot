@@ -1,29 +1,29 @@
 # 오늘의 포스팅 
-2024년 9월 26일 9시 기준 
+2024년 9월 27일 9시 기준 
 
-### Oracle owns JavaScript! 
+### From Concept to NPM: Creating shujau-mock-factory 
 
- If you’ve ever wondered why you don’t see the term “JavaScript” in company names, conferences, or of... 
+ Inception... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fcf8eeb90fa9b&operation=register&redirect=https%3A%2F%2Flakin-mohapatra.medium.com%2Foracle-owns-javascript-cf8eeb90fa9b&source=------react---0-84----------react------bookmark_preview----ddf0bda7_95c4_4a43_859e_6d3526d6a07c-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F86fef21272b5&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40asadhshujau%2Ffrom-concept-to-npm-creating-shujau-mock-factory-86fef21272b5&source=------javascript---0-84----------javascript------bookmark_preview----83ed694e_c2f5_4d15_8faa_be0aaf953972-------) 
 
-### Oracle owns JavaScript! 
+### Building a GitHub Profile Viewer App with Next.js 
 
- If you’ve ever wondered why you don’t see the term “JavaScript” in company names, conferences, or of... 
+ Day 19: Github Profile Viewer — 30 Days of 30 Projects Challenge... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fcf8eeb90fa9b&operation=register&redirect=https%3A%2F%2Flakin-mohapatra.medium.com%2Foracle-owns-javascript-cf8eeb90fa9b&source=------javascript---0-84----------javascript------bookmark_preview----e25a37c5_4fe2_445f_bd3b_2960d2e83179-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F084bd3740742&operation=register&redirect=https%3A%2F%2Fasharibali.medium.com%2Fbuilding-a-github-profile-viewer-app-with-next-js-084bd3740742&source=------typescript---0-84----------typescript------bookmark_preview----877acaf4_0ed4_43b6_aa87_a46f77b3f953-------) 
 
-### What Is Simplified by the Upcoming Dispose Pattern in JavaScript? 
+### Interceptors in Angular: The Guardians of Your HTTP Requests 
 
- JavaScript is gaining a feature that many other languages, like C# and Java, have had for a long tim... 
+ What Are HTTP Interceptors?... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F0a3dac5bedd1&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40timoniann%2Fwhat-is-simplified-by-the-upcoming-dispose-pattern-in-javascript-0a3dac5bedd1&source=------typescript---0-84----------typescript------bookmark_preview----1a83e0bb_c9ea_4a62_91ae_220e5719e11a-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F9cf687b46290&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40madhavi792002%2Finterceptors-in-angular-the-guardians-of-your-http-requests-9cf687b46290&source=------frontend---0-84----------frontend------bookmark_preview----37adb592_c433_4151_b980_f7272f32a4e9-------) 
 
-### Understanding JSX: How JavaScript Meets HTML 🖥️✨ 
+### All about “Hooks” in React JS 
 
- If you’ve just started learning React, one of the first things you’ll notice is that React looks a l... 
+ Ever wondered how professional programmers write code that runs so quickly and looks incredibly opti... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F2cb637dff664&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40saurabhraut3102%2Funderstanding-jsx-how-javascript-meets-html-%25EF%25B8%258F-2cb637dff664&source=------frontend---0-84----------frontend------bookmark_preview----65a6dd21_c880_497a_ad50_92f80e033b93-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F9ac1c48a166d&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40adityaankitasingh%2Fall-about-hooks-in-react-js-9ac1c48a166d&source=------reactjs---0-84----------reactjs------bookmark_preview----495a7b8d_e189_4165_a221_ca778b902300-------) 
 
 ### round(0.5)는 0도 맞고 1도 맞습니다 
 
