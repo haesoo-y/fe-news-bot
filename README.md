@@ -1,11 +1,5 @@
 # 오늘의 포스팅 
-2024년 9월 28일 9시 기준 
-
-### Building a Notes App with Next.js 
-
- Day 20: Notes App — 30 Days of 30 Projects Challenge... 
-
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fe54022517878&operation=register&redirect=https%3A%2F%2Fasharibali.medium.com%2Fbuilding-a-notes-app-with-next-js-e54022517878&source=------typescript---0-84----------typescript------bookmark_preview----f223a29d_060f_44a6_b53a_c528daa3d9f3-------) 
+2024년 9월 29일 9시 기준 
 
 ### Interceptors in Angular: The Guardians of Your HTTP Requests 
 
@@ -19,11 +13,17 @@
 
  [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F9ac1c48a166d&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40adiii11%2Fall-about-hooks-in-react-js-9ac1c48a166d&source=------reactjs---0-84----------reactjs------bookmark_preview----0777f7d4_c7c7_4e9b_8dae_4ed29c059bca-------) 
 
-### A Comprehensive Guide to JavaScript Storage Methods 
+### Building a Recipe Search App with Next.js 
 
- JavaScript provides several storage mechanisms to manage data either on the client-side (in the brow... 
+ Day 21: Recipe Search — 30 Days of 30 Projects Challenge... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fd88147eff43a&operation=register&redirect=https%3A%2F%2Fjavascript.plainenglish.io%2Fa-comprehensive-guide-to-javascript-storage-methods-d88147eff43a&source=------nextjs---0-84----------nextjs------bookmark_preview----1e5f60a2_ba29_4d43_bd3b_b6df0453d994-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fd185071452ac&operation=register&redirect=https%3A%2F%2Fasharibali.medium.com%2Fbuilding-a-recipe-search-app-with-next-js-d185071452ac&source=------nextjs---0-84----------nextjs------bookmark_preview----9d663357_f016_4176_af42_23ae35fc15d3-------) 
+
+### 5 JavaScript Concepts Every Developer Should Know 
+
+ These are 5 features every JavaScript developer should learn... 
+
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F61111b00349a&operation=register&redirect=https%3A%2F%2Fmedium.com%2Fjavarevisited%2F5-javascript-concepts-every-developer-should-know-61111b00349a&source=------front_end_development---0-84----------front_end_development------bookmark_preview----227cec81_fe1e_4f51_8a17_2d463f89339d-------) 
 
 ### 프론트엔드와 백엔드, 무엇을 어떻게 시작할까? 
 
