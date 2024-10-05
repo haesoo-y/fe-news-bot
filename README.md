@@ -1,11 +1,5 @@
 # 오늘의 포스팅 
-2024년 10월 4일 9시 기준 
-
-### Lightning 3: The Basics of SolidJS 
-
- SolidJS is the fastest, full-featured frontend framework available today. Often compared to React, t... 
-
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fe6e21d73205e&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40chiefcll%2Flightning-3-the-basics-of-solidjs-e6e21d73205e&source=------javascript---0-84----------javascript------bookmark_preview----e3dbb286_6ee8_476d_beaf_4158b55b3b06-------) 
+2024년 10월 5일 9시 기준 
 
 ### Angular 19 New Features 
 
@@ -13,17 +7,24 @@
 
  [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F3764c8236b45&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40sergey.dudik%2Fangular-19-new-features-3764c8236b45&source=------typescript---0-84----------typescript------bookmark_preview----6b7fb79a_092a_4514_924a_a72360aff239-------) 
 
-### Why “11” + 1 is 111 or the beauty of JavaScript 
+### Optimizing Performance in React Applications 
 
- Yes, JavaScript weirdness is legendary and yes, the language can behave as you might not expect it t... 
+ Introduction :
+React has emerged as a preferred library for creating user interfaces, largely due to... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F598deebad505&operation=register&redirect=https%3A%2F%2Felena-blank.medium.com%2Fwhy-11-1-is-111-or-the-beauty-of-javascript-598deebad505&source=------frontend---0-84----------frontend------bookmark_preview----7d0670bd_eaa5_4ac9_8a5f_fc67f4b13525-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F5e99b2e43299&operation=register&redirect=https%3A%2F%2Fnikhil-nandeshwar.medium.com%2Foptimizing-performance-in-react-applications-5e99b2e43299&source=------frontend---0-84----------frontend------bookmark_preview----39365b3d_3447_4d65_baf7_d19781ee8988-------) 
 
 ### Integrating React Components into GWT: Making Modern and Legacy Frameworks Play Nice (With a Twist… 
 
  Problem Statement... 
 
  [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fc07c4ea058be&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40stressed83%2Fintegrating-react-components-into-gwt-making-modern-and-legacy-frameworks-play-nice-with-a-twist-c07c4ea058be&source=------reactjs---0-84----------reactjs------bookmark_preview----532c3abc_6297_4a7a_8aa9_38cced6d866e-------) 
+
+### Building a Url Shortener App with Next.js 
+
+ Day 27: Url Shortener — 30 Days of 30 Projects Challenge... 
+
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F887d57b493fe&operation=register&redirect=https%3A%2F%2Fasharibali.medium.com%2Fbuilding-a-url-shortener-app-with-next-js-887d57b493fe&source=------nextjs---0-84----------nextjs------bookmark_preview----5210bba2_4709_4162_9de7_dabe4baf1b97-------) 
 
 ### B2B 시장에서는 어떤 AI 서비스가 통할까? 
 
