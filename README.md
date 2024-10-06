@@ -1,30 +1,29 @@
 # 오늘의 포스팅 
-2024년 10월 5일 9시 기준 
+2024년 10월 6일 9시 기준 
 
-### Angular 19 New Features 
+### Creating an Nx Monorepo and Integrating Aceternity UI 
 
- Angular 19 is expected to bring several enhancements, building on the improvements from earlier vers... 
+ A Step-by-Step Guide to Integrating Aceternity UI with an Nx Monorepo... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F3764c8236b45&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40sergey.dudik%2Fangular-19-new-features-3764c8236b45&source=------typescript---0-84----------typescript------bookmark_preview----6b7fb79a_092a_4514_924a_a72360aff239-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F014c3e50c86b&operation=register&redirect=https%3A%2F%2Fkavania2002.medium.com%2Fcreating-an-nx-monorepo-and-integrating-aceternity-ui-014c3e50c86b&source=------frontend---0-84----------frontend------bookmark_preview----f600906e_7368_4d6e_b5d2_134c8e6b06cd-------) 
 
-### Optimizing Performance in React Applications 
+### Is Your Next.js/React.js Application Secure? 
 
- Introduction :
-React has emerged as a preferred library for creating user interfaces, largely due to... 
+ Security is critical for modern web applications, especially those built with frameworks like Next.j... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F5e99b2e43299&operation=register&redirect=https%3A%2F%2Fnikhil-nandeshwar.medium.com%2Foptimizing-performance-in-react-applications-5e99b2e43299&source=------frontend---0-84----------frontend------bookmark_preview----39365b3d_3447_4d65_baf7_d19781ee8988-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F7f97d03f90f4&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40devadeelahmad%2Fis-your-next-js-react-js-application-secure-7f97d03f90f4&source=------reactjs---0-84----------reactjs------bookmark_preview----95a09561_e1c9_40fb_99fb_a1948f918fa4-------) 
 
-### Integrating React Components into GWT: Making Modern and Legacy Frameworks Play Nice (With a Twist… 
+### Building a Todo List App with Next.js 
 
- Problem Statement... 
+ Day 28: Todo List — 30 Days of 30 Projects Challenge... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fc07c4ea058be&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40stressed83%2Fintegrating-react-components-into-gwt-making-modern-and-legacy-frameworks-play-nice-with-a-twist-c07c4ea058be&source=------reactjs---0-84----------reactjs------bookmark_preview----532c3abc_6297_4a7a_8aa9_38cced6d866e-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fed8228afff31&operation=register&redirect=https%3A%2F%2Fasharibali.medium.com%2Fbuilding-a-todo-list-app-with-next-js-ed8228afff31&source=------nextjs---0-84----------nextjs------bookmark_preview----b661eada_ab67_4eca_b98a_273ae9767d15-------) 
 
-### Building a Url Shortener App with Next.js 
+### Improving Web User Experience: Web Vitals with Diverse Network Conditions. 
 
- Day 27: Url Shortener — 30 Days of 30 Projects Challenge... 
+ To optimize Web Vitals and enhance the delivery of outstanding digital experiences, leveraging tools... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F887d57b493fe&operation=register&redirect=https%3A%2F%2Fasharibali.medium.com%2Fbuilding-a-url-shortener-app-with-next-js-887d57b493fe&source=------nextjs---0-84----------nextjs------bookmark_preview----5210bba2_4709_4162_9de7_dabe4baf1b97-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fb3ad7c9a9351&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40ferozali690%2Fimproving-web-user-experience-web-vitals-with-diverse-network-conditions-b3ad7c9a9351&source=------front_end_development---0-84----------front_end_development------bookmark_preview----7e20cf14_3502_4f58_991b_9007195b1413-------) 
 
 ### B2B 시장에서는 어떤 AI 서비스가 통할까? 
 
