@@ -1,11 +1,5 @@
 # 오늘의 포스팅 
-2024년 10월 6일 9시 기준 
-
-### Creating an Nx Monorepo and Integrating Aceternity UI 
-
- A Step-by-Step Guide to Integrating Aceternity UI with an Nx Monorepo... 
-
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F014c3e50c86b&operation=register&redirect=https%3A%2F%2Fkavania2002.medium.com%2Fcreating-an-nx-monorepo-and-integrating-aceternity-ui-014c3e50c86b&source=------frontend---0-84----------frontend------bookmark_preview----f600906e_7368_4d6e_b5d2_134c8e6b06cd-------) 
+2024년 10월 7일 9시 기준 
 
 ### Is Your Next.js/React.js Application Secure? 
 
@@ -13,17 +7,23 @@
 
  [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F7f97d03f90f4&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40devadeelahmad%2Fis-your-next-js-react-js-application-secure-7f97d03f90f4&source=------reactjs---0-84----------reactjs------bookmark_preview----95a09561_e1c9_40fb_99fb_a1948f918fa4-------) 
 
-### Building a Todo List App with Next.js 
+### How to host and deploy (Next.js) app on cloudflare 
 
- Day 28: Todo List — 30 Days of 30 Projects Challenge... 
+ I wanted to build a personal website and decided to host it on Cloudflare. Here are the steps, assum... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fed8228afff31&operation=register&redirect=https%3A%2F%2Fasharibali.medium.com%2Fbuilding-a-todo-list-app-with-next-js-ed8228afff31&source=------nextjs---0-84----------nextjs------bookmark_preview----b661eada_ab67_4eca_b98a_273ae9767d15-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fa224b06d73d3&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40valoherie%2Fhow-to-host-and-deploy-next-js-app-on-cloudflare-a224b06d73d3&source=------nextjs---0-84----------nextjs------bookmark_preview----3c68b998_83d4_4c1d_93a3_4a5765eea7b8-------) 
 
-### Improving Web User Experience: Web Vitals with Diverse Network Conditions. 
+### Container/Presentational Pattern 
 
- To optimize Web Vitals and enhance the delivery of outstanding digital experiences, leveraging tools... 
+ If you’ve been working with React, Vue.js or any other frontend framework, you might already be orga... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fb3ad7c9a9351&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40ferozali690%2Fimproving-web-user-experience-web-vitals-with-diverse-network-conditions-b3ad7c9a9351&source=------front_end_development---0-84----------front_end_development------bookmark_preview----7e20cf14_3502_4f58_991b_9007195b1413-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F7c2558de4131&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40divyansh.sri258%2Fcontainer-presentational-pattern-7c2558de4131&source=------front_end_development---0-84----------front_end_development------bookmark_preview----cebcb02f_bf5c_4337_96d4_605512470f16-------) 
+
+### How to Create a “Stunning Sticky Mask Zoom Parallax” Using CSS and JavaScript 
+
+ ... 
+
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fb1593052b630&operation=register&redirect=https%3A%2F%2Fmisterhamu.medium.com%2Fhow-to-create-a-stunning-sticky-mask-zoom-parallax-using-css-and-javascript-b1593052b630&source=------react---0-84----------react------bookmark_preview----cca3116c_578e_4eb8_94f0_440dc8ac2481-------) 
 
 ### B2B 시장에서는 어떤 AI 서비스가 통할까? 
 
