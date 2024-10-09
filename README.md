@@ -1,29 +1,29 @@
 # 오늘의 포스팅 
-2024년 10월 8일 9시 기준 
-
-### How to host your Next.js SSR application on VPS for free 
-
- Deploying next.js SSR application using Google Cloud VPS free tier... 
-
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F542741b70fb7&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40trofimchenko%2Fhow-to-host-your-next-js-ssr-application-on-vps-for-free-542741b70fb7&source=------nextjs---0-84----------nextjs------bookmark_preview----0dae52bb_67e0_42c5_9dda_9a5a5ecfc119-------) 
+2024년 10월 9일 9시 기준 
 
 ### Frontend Weekly Digest #383 (1–6 October 2024) 
 
  Web-development... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fb4a308b4b6c7&operation=register&redirect=https%3A%2F%2Ffrontender-ua.medium.com%2Ffrontend-weekly-digest-383-1-6-october-2024-b4a308b4b6c7&source=------front_end_development---0-84----------front_end_development------bookmark_preview----c50b227a_18b5_46bf_b9ac_b732951a9b73-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fb4a308b4b6c7&operation=register&redirect=https%3A%2F%2Ffrontender-ua.medium.com%2Ffrontend-weekly-digest-383-1-6-october-2024-b4a308b4b6c7&source=------front_end_development---0-84----------front_end_development------bookmark_preview----53938e6b_1a89_4572_a8dd_865d0cdd1912-------) 
 
-### Seamlessly Integrate Google Sign-In with FastAPI and React: A Step-by-Step Guide to Modern… 
+### From Angular to React: What Every Angular Expert Needs to Know 
 
- Hi There, So without streching it we’ll directly dive into the process of making the Authentication ... 
+ Transitioning from Angular to React? Learn key differences and essential skills to become proficient... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F6fa89a4bdc0a&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40vatsalgamit%2Fseamlessly-integrate-google-sign-in-with-fastapi-and-react-a-step-by-step-guide-to-modern-6fa89a4bdc0a&source=------react---0-84----------react------bookmark_preview----750d238b_4863_4325_a825_41f83f897ead-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F0ab8c783340e&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40erick.98zanetti.98%2Ffrom-angular-to-react-what-every-angular-expert-needs-to-know-0ab8c783340e&source=------react---0-84----------react------bookmark_preview----5be602d2_5984_4214_9e38_54eef625b423-------) 
 
-### 10 Powerful Tools For Faster Web Development 
+### Client-Side Rendering and Server-Side Rendering with Kid Example 
 
- 10 awesome🌟 tools to level up your productivity and quality of life as a web developer.... 
+ In the web world, websites can be rendered in different ways. The two main types are Client-Side Ren... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F2fc3e36e5b69&operation=register&redirect=https%3A%2F%2Fmedium.com%2Fcoding-beauty%2Fweb-dev-tools-2fc3e36e5b69&source=------javascript---0-84----------javascript------bookmark_preview----86c9b781_9831_4cb5_8c14_4a94ac7aa503-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fc06b27eacc82&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40jyothisree327%2Fclient-side-rendering-and-server-side-rendering-with-kid-example-c06b27eacc82&source=------javascript---0-84----------javascript------bookmark_preview----6b398a14_8d16_4f8a_8880_2dfb56373139-------) 
+
+### Printing “Hello, World!” in React TypeScript: The Overkill Approach 
+
+ Ah, the classic “Hello, World!” — the rite of passage for every programmer. But why settle for a sim... 
+
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fc6406a274c27&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40ashutosh7246%2Fprinting-hello-world-in-react-typescript-the-overkill-approach-c6406a274c27&source=------typescript---0-84----------typescript------bookmark_preview----ef4b1b29_796b_460a_8e06_ac1dd2267e28-------) 
 
 ### ‘OpenAI DevDay 2024’ 최고급 청바지를 선보이다 
 
