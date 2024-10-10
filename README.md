@@ -1,17 +1,11 @@
 # 오늘의 포스팅 
-2024년 10월 9일 9시 기준 
+2024년 10월 10일 9시 기준 
 
-### Frontend Weekly Digest #383 (1–6 October 2024) 
+### React + Stripe + AWS Lambda; a simple & serverless approach for your Payment System 
 
- Web-development... 
+ In this article, I’ll guide you through integrating React, Stripe, and AWS Lambda to build a smooth ... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fb4a308b4b6c7&operation=register&redirect=https%3A%2F%2Ffrontender-ua.medium.com%2Ffrontend-weekly-digest-383-1-6-october-2024-b4a308b4b6c7&source=------front_end_development---0-84----------front_end_development------bookmark_preview----53938e6b_1a89_4572_a8dd_865d0cdd1912-------) 
-
-### From Angular to React: What Every Angular Expert Needs to Know 
-
- Transitioning from Angular to React? Learn key differences and essential skills to become proficient... 
-
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F0ab8c783340e&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40erick.98zanetti.98%2Ffrom-angular-to-react-what-every-angular-expert-needs-to-know-0ab8c783340e&source=------react---0-84----------react------bookmark_preview----5be602d2_5984_4214_9e38_54eef625b423-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F3494e3a7a186&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40zeusjonass%2Freact-stripe-aws-lambda-a-simple-serverless-approach-for-your-payment-system-3494e3a7a186&source=------react---0-84----------react------bookmark_preview----ddca9489_3358_4d2d_a9f9_81d364949d79-------) 
 
 ### Client-Side Rendering and Server-Side Rendering with Kid Example 
 
@@ -19,11 +13,17 @@
 
  [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fc06b27eacc82&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40jyothisree327%2Fclient-side-rendering-and-server-side-rendering-with-kid-example-c06b27eacc82&source=------javascript---0-84----------javascript------bookmark_preview----6b398a14_8d16_4f8a_8880_2dfb56373139-------) 
 
-### Printing “Hello, World!” in React TypeScript: The Overkill Approach 
+### Using GraphQL with Vue.js 3 
 
- Ah, the classic “Hello, World!” — the rite of passage for every programmer. But why settle for a sim... 
+ This article explains step-by-step how to integrate the basics of GraphQL into a Vue 3 application.... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fc6406a274c27&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40ashutosh7246%2Fprinting-hello-world-in-react-typescript-the-overkill-approach-c6406a274c27&source=------typescript---0-84----------typescript------bookmark_preview----ef4b1b29_796b_460a_8e06_ac1dd2267e28-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F909ccb60fc82&operation=register&redirect=https%3A%2F%2Fmedium.com%2Faccor-digital-and-tech%2Fusing-graphql-with-vue-js-3-909ccb60fc82&source=------typescript---0-84----------typescript------bookmark_preview----d1078410_e27c_48d5_a0ad_2f4b57248b6a-------) 
+
+### How to get User’s IP Details from Web App for Security, Geographic Targeting, Analytics like… 
+
+ In this article, you can explore how to capture a user’s IP address when user visit your application... 
+
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F5adc3bf21110&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40shivamjaswal001%2Ffetching-ip-address-of-user-coming-to-web-app-for-security-geographic-targeting-analytics-like-5adc3bf21110&source=------frontend---0-84----------frontend------bookmark_preview----cb9d13c3_30ce_4f48_ba65_332a9c8c8950-------) 
 
 ### ‘OpenAI DevDay 2024’ 최고급 청바지를 선보이다 
 
