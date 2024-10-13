@@ -1,11 +1,5 @@
 # 오늘의 포스팅 
-2024년 10월 12일 9시 기준 
-
-### TypeScript: a new Frontier for Error Management 
-
- Shaping a Stronger Foundation for the Ecosystem... 
-
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F90db81bec30b&operation=register&redirect=https%3A%2F%2Flevelup.gitconnected.com%2Ftypescript-a-new-frontier-for-error-management-90db81bec30b&source=------typescript---0-84----------typescript------bookmark_preview----33c51cb6_7e62_4838_a441_92f39b816bea-------) 
+2024년 10월 13일 9시 기준 
 
 ### Ruby on Rails project with using SolidJS for frontend components 
 
@@ -13,17 +7,23 @@
 
  [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F6a3ee599082d&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40kortirso%2Fruby-on-rails-project-with-using-solidjs-for-frontend-components-6a3ee599082d&source=------frontend---0-84----------frontend------bookmark_preview----1ed7a3c9_3164_41b6_b64a_6edbcfcfa233-------) 
 
-### Building Dynamic Forms in React: It’s Easier Than You Think 
+### Enhancing Data Privacy Protection in Indonesia: Integrating Next.js 
 
- We all love dynamic forms, right? They are essential for creating flexible, user-friendly experience... 
+ This story start when in my current jobs there are regulations to add some security in data privacy ... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fd0760484cc1a&operation=register&redirect=https%3A%2F%2Fpinjarirehan.medium.com%2Fbuilding-dynamic-forms-in-react-its-easier-than-you-think-d0760484cc1a&source=------reactjs---0-84----------reactjs------bookmark_preview----dafeb2bf_502b_4983_89b1_d3c1e7d7f044-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F595d9c46b4f3&operation=register&redirect=https%3A%2F%2Fmuhammadsadewawicaksanawibowo.medium.com%2Fenhancing-data-privacy-protection-in-indonesia-integrating-next-js-595d9c46b4f3&source=------reactjs---0-84----------reactjs------bookmark_preview----40f43de5_5b2b_48e2_8234_513aab66ba0b-------) 
 
-### Building Dynamic Web Pages Using Virtual DOM 
+### Building a Real-Time ChatGPT App with Next.js, TypeScript, and Server-Sent Events (SSE) 
 
- Create secure, dynamic blogs using React Virtual DOM, eliminating XSS risks and ensuring efficient b... 
+ In this blog, I’ll walk you through building a simple, real-time chat application using Next.js and ... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F504639d993da&operation=register&redirect=https%3A%2F%2Fkartik-tomar.medium.com%2Fbuilding-dynamic-web-pages-using-virtual-dom-504639d993da&source=------nextjs---0-84----------nextjs------bookmark_preview----e983fb08_fc5f_49c1_8a1e_0c36818c329b-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fb7cc01e19dd3&operation=register&redirect=https%3A%2F%2Fmisterhamu.medium.com%2Fbuilding-a-real-time-chatgpt-app-with-next-js-typescript-and-server-sent-events-sse-b7cc01e19dd3&source=------nextjs---0-84----------nextjs------bookmark_preview----634d6fce_53c1_46ed_a25e_0ba8fcb963a0-------) 
+
+### Frontend application types explained to a backend developer 
+
+ By Casper Reiff... 
+
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F4242ee4e65d9&operation=register&redirect=https%3A%2F%2Ftechblog.novicell.com%2Ffrontend-application-types-explained-to-a-backend-developer-4242ee4e65d9&source=------front_end_development---0-84----------front_end_development------bookmark_preview----10ff6524_cfb6_48b3_9779_ce95d89bc308-------) 
 
 ### [파이콘 한국 2024 미리보기] 10번째 파이콘은 어떤 모습일까? 
 
