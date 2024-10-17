@@ -1,29 +1,29 @@
 # 오늘의 포스팅 
-2024년 10월 16일 9시 기준 
+2024년 10월 17일 9시 기준 
 
-### Ditch Git Checkout: Use Git Switch and Git Restore Instead 
+### Creating the iMessage CardStack Animation: Part 1 — The Timeline Design 
 
- Simplify Your Version Control with These Modern Git Commands... 
+ I was recently captured by this tweet from Natan Smith. The interaction looks super cool, and I wond... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F8b39cfc53b15&operation=register&redirect=https%3A%2F%2Fitnext.io%2Fditch-git-checkout-use-git-switch-and-git-restore-instead-8b39cfc53b15&source=------front_end_development---0-84----------front_end_development------bookmark_preview----afc06a81_bac3_44f7_894e_53a118944170-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F5a4375c3b0c5&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40lorenzomigliorero%2Fcreating-the-imessage-cardstack-animation-part-1-the-timeline-design-5a4375c3b0c5&source=------react---0-84----------react------bookmark_preview----aeec7eeb_791c_4c97_a256_d25273d00764-------) 
 
-### Angular vs React: Choosing the Right Tool for Your Next Big Project 
+### Deno 2.0 vs Node.js: A Comprehensive Comparison in 2024 
 
- Introduction... 
+ In October 2024, the release of Deno 2.0 marked a major milestone in the evolution of this modern ru... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F78ca9f54dd21&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40TahaDev%2Fangular-vs-react-choosing-the-right-tool-for-your-next-big-project-78ca9f54dd21&source=------react---0-84----------react------bookmark_preview----52e7885a_080e_4ad9_8644_756b9e570e15-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F43cba275465b&operation=register&redirect=https%3A%2F%2Fpremiseai.medium.com%2Fdeno-2-0-vs-node-js-a-comprehensive-comparison-in-2024-43cba275465b&source=------javascript---0-84----------javascript------bookmark_preview----b12fe470_3d7b_4624_be87_6db34521d06e-------) 
 
-### Ditch Git Checkout: Use Git Switch and Git Restore Instead 
+### Deno 2.0 vs Node.js: A Comprehensive Comparison in 2024 
 
- Simplify Your Version Control with These Modern Git Commands... 
+ In October 2024, the release of Deno 2.0 marked a major milestone in the evolution of this modern ru... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F8b39cfc53b15&operation=register&redirect=https%3A%2F%2Fitnext.io%2Fditch-git-checkout-use-git-switch-and-git-restore-instead-8b39cfc53b15&source=------javascript---0-84----------javascript------bookmark_preview----27b85a0f_d4b1_4461_bce1_c51260ede5d5-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F43cba275465b&operation=register&redirect=https%3A%2F%2Fpremiseai.medium.com%2Fdeno-2-0-vs-node-js-a-comprehensive-comparison-in-2024-43cba275465b&source=------typescript---0-84----------typescript------bookmark_preview----4f207e72_594d_4c8a_9e71_40d2ab365458-------) 
 
-### Hono.js Benchmark: Node.js vs. Deno 2.0 vs. Bun — Which Is the Fastest? 
+### Vue: Leveraging hot keys in your application 
 
- Compare the performance of Node.js, Deno 2.0, and Bun using Hono.js. Discover which JavaScript runti... 
+ Nowadays, IntelliJ, VS Code, Sublime Text, or other IDEs have a palette of useful commands and keybo... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F8be6c210f5d8&operation=register&redirect=https%3A%2F%2Fblog.probirsarkar.com%2Fhono-js-benchmark-node-js-vs-deno-2-0-vs-bun-which-is-the-fastest-8be6c210f5d8&source=------typescript---0-84----------typescript------bookmark_preview----921628ef_4b2c_43b9_8448_7c08ab24c243-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F104513df88da&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40ho.thdung%2Fvue-leveraging-hot-keys-in-your-application-104513df88da&source=------frontend---0-84----------frontend------bookmark_preview----476c8099_fddc_41e0_83ed_6ae77ee5f840-------) 
 
 ### 개발자를 위한 피그마(Figma) 사용 방법과 활용 팁 
 
