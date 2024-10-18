@@ -1,41 +1,41 @@
 # 오늘의 포스팅 
-2024년 10월 17일 9시 기준 
+2024년 10월 18일 9시 기준 
 
-### Creating the iMessage CardStack Animation: Part 1 — The Timeline Design 
+### Secure Your Node.js Applications From Critical Vulnerabilities And Prevent Major Threats 
 
- I was recently captured by this tweet from Natan Smith. The interaction looks super cool, and I wond... 
+ A Comprehensive Guide to Fortifying Your Node.js Applications Against Cyber Attacks (Top 10 Critical... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F5a4375c3b0c5&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40lorenzomigliorero%2Fcreating-the-imessage-cardstack-animation-part-1-the-timeline-design-5a4375c3b0c5&source=------react---0-84----------react------bookmark_preview----aeec7eeb_791c_4c97_a256_d25273d00764-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F3906f35111c6&operation=register&redirect=https%3A%2F%2Fkuldeepyadavky.medium.com%2Fsecure-your-node-js-applications-from-critical-vulnerabilities-and-prevent-major-threats-3906f35111c6&source=------javascript---0-84----------javascript------bookmark_preview----fc6a0390_c11f_4f61_bd8b_086785c7a42e-------) 
 
-### Deno 2.0 vs Node.js: A Comprehensive Comparison in 2024 
+### Keep Hydrated with Angular Incremental Hydration 💦 
 
- In October 2024, the release of Deno 2.0 marked a major milestone in the evolution of this modern ru... 
+ By leveraging deferrable views, or defer blocks, developers can control when and how different parts... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F43cba275465b&operation=register&redirect=https%3A%2F%2Fpremiseai.medium.com%2Fdeno-2-0-vs-node-js-a-comprehensive-comparison-in-2024-43cba275465b&source=------javascript---0-84----------javascript------bookmark_preview----b12fe470_3d7b_4624_be87_6db34521d06e-------) 
-
-### Deno 2.0 vs Node.js: A Comprehensive Comparison in 2024 
-
- In October 2024, the release of Deno 2.0 marked a major milestone in the evolution of this modern ru... 
-
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F43cba275465b&operation=register&redirect=https%3A%2F%2Fpremiseai.medium.com%2Fdeno-2-0-vs-node-js-a-comprehensive-comparison-in-2024-43cba275465b&source=------typescript---0-84----------typescript------bookmark_preview----4f207e72_594d_4c8a_9e71_40d2ab365458-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F0eb139aea78d&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40awaisshaikh94%2Fkeep-hydrated-with-angular-incremental-hydration-0eb139aea78d&source=------typescript---0-84----------typescript------bookmark_preview----1dbe1426_fded_4a9c_a8f6_03d5883f5cd5-------) 
 
 ### Vue: Leveraging hot keys in your application 
 
  Nowadays, IntelliJ, VS Code, Sublime Text, or other IDEs have a palette of useful commands and keybo... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F104513df88da&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40ho.thdung%2Fvue-leveraging-hot-keys-in-your-application-104513df88da&source=------frontend---0-84----------frontend------bookmark_preview----476c8099_fddc_41e0_83ed_6ae77ee5f840-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F104513df88da&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40ho.thdung%2Fvue-leveraging-hot-keys-in-your-application-104513df88da&source=------frontend---0-84----------frontend------bookmark_preview----5be3649d_6a64_44a7_aec9_e2665413e972-------) 
 
-### 개발자를 위한 피그마(Figma) 사용 방법과 활용 팁 
+### Mastering Modular Architecture with React and Atomic Design: Advanced Techniques and Hands-On… 
 
- 개발자는 소프트웨어 개발 프로젝트에서 디자이너와 협업할 일이 많습니다. 피그마(Figma)는 이러한 협업을 원활하게 해주는 툴로서 현재 다양한 UI/UX 디자인에 사용되고 있는데요... 
+ When structuring React applications, the Atomic Design Pattern offers a robust methodology for break... 
 
- [바로가기](https://yozm.wishket.com/magazine/detail/2802/) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F93e649654a06&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40abdulnasirolcan%2Fmastering-modular-architecture-with-react-and-atomic-design-advanced-techniques-and-hands-on-93e649654a06&source=------reactjs---0-84----------reactjs------bookmark_preview----79834387_e483_4ff5_8754_f1ffa0de169c-------) 
 
-### 7가지 플랫폼 서버로 프론트엔드 버프 마법 걸기 (2) 
+### DBMS는 RDB와 NoSQL만 있나요? 
 
- 이번 글에서는 프론트엔드에 거는 버프 마법, 애셋, 오픈 그래프, 웹 모듈 마법을 알아보려고 합니다. 나아가 7가지 마법의 절망 편도 알아보겠습니다. 7가지 마법을 잘 활용하면 안... 
+ 관계형 데이터베이스는 오랜 시간 데이터 관리의 중심에 자리 잡고 있었습니다. 그러나 인터넷과 모바일의 급격한 성장으로 대규모 비정형 데이터를 다루어야 하는 상황이 늘어났습니다. 그... 
 
- [바로가기](https://yozm.wishket.com/magazine/detail/2801/) 
+ [바로가기](https://yozm.wishket.com/magazine/detail/2806/) 
+
+### 개발자를 위한 ‘MLOps’ 기본 개념 정리 
+
+ 요즘 AI를 도입하지 않는 기업을 찾아보기 어렵습니다. 그만큼 모든 산업 분야에서 AI를 활용하여 업무 효율을 높이고, 서비스를 개선하려는 노력이 활발히 이루어지고 있습니다. 하지... 
+
+ [바로가기](https://yozm.wishket.com/magazine/detail/2805/) 
 
 ---
 
