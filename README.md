@@ -1,29 +1,29 @@
 # 오늘의 포스팅 
-2024년 10월 19일 9시 기준 
-
-### Keep Hydrated with Angular Incremental Hydration 💦 
-
- By leveraging deferrable views, or defer blocks, developers can control when and how different parts... 
-
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F0eb139aea78d&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40awaisshaikh94%2Fkeep-hydrated-with-angular-incremental-hydration-0eb139aea78d&source=------typescript---0-84----------typescript------bookmark_preview----2494e725_c856_4daf_8eed_db3f96a4b7d3-------) 
+2024년 10월 20일 9시 기준 
 
 ### The benefits of using a tool like Storybook 
 
  ... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F23c1020569ed&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40AsWeb85%2Fthe-benefits-of-using-a-tool-like-storybook-23c1020569ed&source=------frontend---0-84----------frontend------bookmark_preview----0e32a5af_de83_4315_917a_156141175da5-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F23c1020569ed&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40AsWeb85%2Fthe-benefits-of-using-a-tool-like-storybook-23c1020569ed&source=------frontend---0-84----------frontend------bookmark_preview----414ca884_8005_4e05_a0b4_d96c51db6f36-------) 
 
-### JSX — The Syntax Extension That Powers React 
+### React Toolset for Efficient Code Management 
 
- JSX stands for JavaScript XML, and it’s the syntax React uses to describe what the UI should look li... 
+ Introduction... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fea4b55a18db3&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40ofelipedbr%2Fjsx-the-syntax-extension-that-powers-react-ea4b55a18db3&source=------reactjs---0-84----------reactjs------bookmark_preview----3e9afdaa_f088_4b7b_a886_afa12a2f55ae-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fa72c4e6ba3db&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40huzaifamalik3216%2Freact-toolset-for-efficient-code-management-a72c4e6ba3db&source=------reactjs---0-84----------reactjs------bookmark_preview----340440a9_43db_4887_bc6d_9ca780e0ae8e-------) 
 
 ### AWS: How to Deploy a Simple Next.js Application to an S3 Bucket 
 
  Step-by-step instructions for hosting your Next.js website using Amazon S3 and CloudFront... 
 
  [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F5aaf92766b49&operation=register&redirect=https%3A%2F%2Fblog.stackademic.com%2Faws-how-to-deploy-a-simple-next-js-application-to-an-s3-bucket-5aaf92766b49&source=------nextjs---0-84----------nextjs------bookmark_preview----7e0b7388_e46f_4434_be98_81104206f7f6-------) 
+
+### Oxpecker goes full stack! 
+
+ Client-side development gets covered... 
+
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F45beb1f3da34&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40lanayx%2Foxpecker-goes-full-stack-45beb1f3da34&source=------front_end_development---0-84----------front_end_development------bookmark_preview----dd11bb7a_f670_4f33_93f6_1ffa000e7297-------) 
 
 ### 파이썬을 사랑하는 사람들의 축제: 파이콘 한국 2024는 어떨까? 
 
