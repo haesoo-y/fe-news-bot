@@ -1,11 +1,5 @@
 # 오늘의 포스팅 
-2024년 10월 20일 9시 기준 
-
-### The benefits of using a tool like Storybook 
-
- ... 
-
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F23c1020569ed&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40AsWeb85%2Fthe-benefits-of-using-a-tool-like-storybook-23c1020569ed&source=------frontend---0-84----------frontend------bookmark_preview----414ca884_8005_4e05_a0b4_d96c51db6f36-------) 
+2024년 10월 21일 9시 기준 
 
 ### React Toolset for Efficient Code Management 
 
@@ -13,17 +7,23 @@
 
  [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fa72c4e6ba3db&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40huzaifamalik3216%2Freact-toolset-for-efficient-code-management-a72c4e6ba3db&source=------reactjs---0-84----------reactjs------bookmark_preview----340440a9_43db_4887_bc6d_9ca780e0ae8e-------) 
 
-### AWS: How to Deploy a Simple Next.js Application to an S3 Bucket 
+### Key Updates in Next.js 15 
 
- Step-by-step instructions for hosting your Next.js website using Amazon S3 and CloudFront... 
+ This continuation highlights the key updates and enhancements introduced in Next.js 15, aimed at imp... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F5aaf92766b49&operation=register&redirect=https%3A%2F%2Fblog.stackademic.com%2Faws-how-to-deploy-a-simple-next-js-application-to-an-s3-bucket-5aaf92766b49&source=------nextjs---0-84----------nextjs------bookmark_preview----7e0b7388_e46f_4434_be98_81104206f7f6-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fb19bde244a69&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40onix_react%2Fkey-updates-in-next-js-15-b19bde244a69&source=------nextjs---0-84----------nextjs------bookmark_preview----8852be9d_a0a4_4d23_942f_4ba4dce95ddc-------) 
 
-### Oxpecker goes full stack! 
+### The Unseen Complexity of Front-End Engineering and Why It’s Awesome 
 
- Client-side development gets covered... 
+ Do you agree that the power of client side application increased exponentially? So as the scope and ... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F45beb1f3da34&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40lanayx%2Foxpecker-goes-full-stack-45beb1f3da34&source=------front_end_development---0-84----------front_end_development------bookmark_preview----dd11bb7a_f670_4f33_93f6_1ffa000e7297-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fb8dcd5ad2d25&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40gokulnathpalanivel%2Fthe-unseen-complexity-of-front-end-engineering-and-why-its-awesome-b8dcd5ad2d25&source=------front_end_development---0-84----------front_end_development------bookmark_preview----ce2e70b7_7745_4d94_bc81_fb2930003711-------) 
+
+### In Islam protecting girls from harassment is a collective responsibility 
+
+ ... 
+
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fada599a3ada3&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40exactlysycoumar%2Fin-islam-protecting-girls-from-harassment-is-a-collective-responsibility-ada599a3ada3&source=------react---0-84----------react------bookmark_preview----c5f379dc_4056_4dbf_935d_9e8ee5f20c2f-------) 
 
 ### 파이썬을 사랑하는 사람들의 축제: 파이콘 한국 2024는 어떨까? 
 
