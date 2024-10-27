@@ -1,11 +1,5 @@
 # 오늘의 포스팅 
-2024년 10월 26일 9시 기준 
-
-### Typescript 0 to 100 : Factory, Decorators and Meta Programming . (Part 4) 
-
- 1. What is a Factory Function?... 
-
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F82eeb7c1864c&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40dillirajtimalsina354%2Ftypescript-0-to-100-factory-decorators-and-meta-programming-part-4-82eeb7c1864c&source=------typescript---0-84----------typescript------bookmark_preview----41f86be3_808d_48b0_b46f_0f2905cea323-------) 
+2024년 10월 27일 9시 기준 
 
 ### Optimising Web Images, a high level look at Image Formats 
 
@@ -13,17 +7,23 @@
 
  [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fe71dd8c602a4&operation=register&redirect=https%3A%2F%2Fmedium.com%2Fjohn-lewis-software-engineering%2Foptimising-web-images-a-high-level-look-at-image-formats-e71dd8c602a4&source=------frontend---0-84----------frontend------bookmark_preview----44771fa7_15d2_472d_87b7_aad27b3d700a-------) 
 
-### How to create a Next.js + Express web application and on a single server 
+### My Experience with Microfrontends: A Comprehensive Guide 
 
- (Only the basics)... 
+ Over the past three years, I’ve had the opportunity to work extensively with microfrontends, an arch... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fd6ba91d745ac&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40samchandgaonkar%2Fhow-to-create-a-next-js-express-web-application-and-on-a-single-server-d6ba91d745ac&source=------reactjs---0-84----------reactjs------bookmark_preview----76b8fd5a_b348_4c40_b393_b6900b4fb88b-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F33bdbc34ff04&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40ranuranjan25%2Fmy-experience-with-microfrontends-a-comprehensive-guide-33bdbc34ff04&source=------reactjs---0-84----------reactjs------bookmark_preview----9a529dfe_71bb_4291_a80e_6673624f61e6-------) 
 
 ### Is gRPC an Alternative to REST for Front-end Developers? 
 
  A deep dive on the pros and cons of gRPC with a code tutorial on how to set it up using NextJS 15 an... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fde40edb8e19d&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40metalabtech%2Fis-grpc-an-alternative-to-rest-for-front-end-developers-de40edb8e19d&source=------nextjs---0-84----------nextjs------bookmark_preview----41def7cb_ec0d_41aa_bf2b_c57ad56422a0-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fde40edb8e19d&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40metalabtech%2Fis-grpc-an-alternative-to-rest-for-front-end-developers-de40edb8e19d&source=------nextjs---0-84----------nextjs------bookmark_preview----69205629_bd0e_480e_9479_1e5a26b44ca0-------) 
+
+### Creating high-performance apps: Tips you can’t ignore 
+
+ Developing high-performance apps is essential in today’s fast-paced digital world. Users have little... 
+
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F65c7d3324a59&operation=register&redirect=https%3A%2F%2Fmedium.com%2Ftech-x-humanity%2Fcreating-high-performance-apps-tips-you-cant-ignore-65c7d3324a59&source=------front_end_development---0-84----------front_end_development------bookmark_preview----e258c93b_5c8b_4c00_88ed_c51eddfeb94b-------) 
 
 ### 정적? 동적? 웹사이트 화면은 어떻게 채워질까? 
 
