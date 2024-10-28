@@ -1,11 +1,5 @@
 # 오늘의 포스팅 
-2024년 10월 27일 9시 기준 
-
-### Optimising Web Images, a high level look at Image Formats 
-
- The incorrect image format for your website can make or break your user experience, I’ll show you wh... 
-
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fe71dd8c602a4&operation=register&redirect=https%3A%2F%2Fmedium.com%2Fjohn-lewis-software-engineering%2Foptimising-web-images-a-high-level-look-at-image-formats-e71dd8c602a4&source=------frontend---0-84----------frontend------bookmark_preview----44771fa7_15d2_472d_87b7_aad27b3d700a-------) 
+2024년 10월 28일 9시 기준 
 
 ### My Experience with Microfrontends: A Comprehensive Guide 
 
@@ -13,17 +7,23 @@
 
  [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F33bdbc34ff04&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40ranuranjan25%2Fmy-experience-with-microfrontends-a-comprehensive-guide-33bdbc34ff04&source=------reactjs---0-84----------reactjs------bookmark_preview----9a529dfe_71bb_4291_a80e_6673624f61e6-------) 
 
-### Is gRPC an Alternative to REST for Front-end Developers? 
+### Embracing the Latest in Next.js 15 and React 19 : What Developers Need to Know! 
 
- A deep dive on the pros and cons of gRPC with a code tutorial on how to set it up using NextJS 15 an... 
+ As technology continuously evolves, developers are presented with new tools and versions that promis... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fde40edb8e19d&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40metalabtech%2Fis-grpc-an-alternative-to-rest-for-front-end-developers-de40edb8e19d&source=------nextjs---0-84----------nextjs------bookmark_preview----69205629_bd0e_480e_9479_1e5a26b44ca0-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fa21552fe867b&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40nadeemsangrasi903%2Fembracing-the-latest-in-next-js-15-and-react-19-what-developers-need-to-know-a21552fe867b&source=------nextjs---0-84----------nextjs------bookmark_preview----6a1e7609_6cd2_457c_bbd5_c54601a32ecc-------) 
 
-### Creating high-performance apps: Tips you can’t ignore 
+### Atomic Design in Frontend (english) 
 
- Developing high-performance apps is essential in today’s fast-paced digital world. Users have little... 
+ In the front-end, Atomic Design is an approach to creating component systems in a modular and scalab... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F65c7d3324a59&operation=register&redirect=https%3A%2F%2Fmedium.com%2Ftech-x-humanity%2Fcreating-high-performance-apps-tips-you-cant-ignore-65c7d3324a59&source=------front_end_development---0-84----------front_end_development------bookmark_preview----e258c93b_5c8b_4c00_88ed_c51eddfeb94b-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F042cb6b23d30&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40jullymac%2Fatomic-design-in-frontend-english-042cb6b23d30&source=------front_end_development---0-84----------front_end_development------bookmark_preview----ddbcc66f_f38d_436f_8f4d_c20f993931d4-------) 
+
+### 5 best practices to follow while learning NodeJs 
+
+ The ideal way of learning NodeJs... 
+
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F79fcfcc2fcd4&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40harshdobariya79%2F5-best-practices-to-follow-while-learning-nodejs-79fcfcc2fcd4&source=------react---0-84----------react------bookmark_preview----74277517_2594_46c8_8860_c41ef57d466a-------) 
 
 ### 정적? 동적? 웹사이트 화면은 어떻게 채워질까? 
 
