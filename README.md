@@ -1,23 +1,17 @@
 # 오늘의 포스팅 
-2024년 10월 28일 9시 기준 
+2024년 10월 29일 9시 기준 
 
-### My Experience with Microfrontends: A Comprehensive Guide 
+### The Essential Roadmap to Becoming a Full-Stack Developer in 2024 
 
- Over the past three years, I’ve had the opportunity to work extensively with microfrontends, an arch... 
+ Introduction: What is a Full Stack Developer, and Why Become One?... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F33bdbc34ff04&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40ranuranjan25%2Fmy-experience-with-microfrontends-a-comprehensive-guide-33bdbc34ff04&source=------reactjs---0-84----------reactjs------bookmark_preview----9a529dfe_71bb_4291_a80e_6673624f61e6-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Ff8e0163dea1c&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40Atharz%2Fthe-essential-roadmap-to-becoming-a-full-stack-developer-in-2024-f8e0163dea1c&source=------nextjs---0-84----------nextjs------bookmark_preview----8b92047c_d5e6_4a0e_a697_c2aa2578377d-------) 
 
-### Embracing the Latest in Next.js 15 and React 19 : What Developers Need to Know! 
+### Frontend Weekly Digest #385 (21–27 October 2024) 
 
- As technology continuously evolves, developers are presented with new tools and versions that promis... 
+ Web-development... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fa21552fe867b&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40nadeemsangrasi903%2Fembracing-the-latest-in-next-js-15-and-react-19-what-developers-need-to-know-a21552fe867b&source=------nextjs---0-84----------nextjs------bookmark_preview----6a1e7609_6cd2_457c_bbd5_c54601a32ecc-------) 
-
-### Atomic Design in Frontend (english) 
-
- In the front-end, Atomic Design is an approach to creating component systems in a modular and scalab... 
-
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F042cb6b23d30&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40jullymac%2Fatomic-design-in-frontend-english-042cb6b23d30&source=------front_end_development---0-84----------front_end_development------bookmark_preview----ddbcc66f_f38d_436f_8f4d_c20f993931d4-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F923dbd0fa473&operation=register&redirect=https%3A%2F%2Ffrontender-ua.medium.com%2Ffrontend-weekly-digest-385-21-27-october-2024-923dbd0fa473&source=------front_end_development---0-84----------front_end_development------bookmark_preview----1c452565_f4a6_4b65_9e50_52e21859d7d5-------) 
 
 ### 5 best practices to follow while learning NodeJs 
 
@@ -25,17 +19,23 @@
 
  [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F79fcfcc2fcd4&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40harshdobariya79%2F5-best-practices-to-follow-while-learning-nodejs-79fcfcc2fcd4&source=------react---0-84----------react------bookmark_preview----74277517_2594_46c8_8860_c41ef57d466a-------) 
 
-### 정적? 동적? 웹사이트 화면은 어떻게 채워질까? 
+### Variable Declarations in JavaScript: Best Practices for let, var, and const 
 
- 우리가 브라우저 주소창에 URL을 입력하면 무슨 일이 벌어질까요? 클라이언트가 서버에게 웹 페이지를 달라고 요청하면 서버는 이 페이지에 대한 코드를 브라우저한테 돌려줍니다. 이 H... 
+ In JavaScript, variable declarations are made using let, var, and const, each serving distinct purpo... 
 
- [바로가기](https://yozm.wishket.com/magazine/detail/2817/) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F5dd879807101&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40shubham992284%2Fvariable-declarations-in-javascript-best-practices-for-let-var-and-const-5dd879807101&source=------javascript---0-84----------javascript------bookmark_preview----2cf5768e_5777_498f_b0df_6574af413d1c-------) 
 
-### 테라폼의 원형, 베이그런트의 앞날은? 
+### 아마존, 삼성전자 등 데이터 리더 9인 추천 도서 30권 
 
- 클라우드 인프라 교육 목적으로 아주 많이 쓰이는 ‘베이그런트(Vagrant)’라는 도구가 있습니다. IaC 도구 중에 하나로, 이 영역에서 현업 개발자에게 더 유명한 도구로는 테라... 
+ 기술 말고 내공 있는 데이터 리더로서 성장하는 데 도움을 주는, 변치 않는 방정식을 아낌없이 알려주는 선배, 그리고 10년이 지나도 변치 않을 데이터 과학 원칙을 제시한 아마존 •... 
 
- [바로가기](https://yozm.wishket.com/magazine/detail/2815/) 
+ [바로가기](https://yozm.wishket.com/magazine/detail/2820/) 
+
+### 1인 스타트업 대표가 ‘엔지니어링’으로 비용을 절약하는 법 
+
+ 이력서 멘토링을 인연으로 저와 멘토/멘티 관계를 맺은 유남주 님은 주니어 백엔드 개발자입니다. 어느 날 커피챗을 신청한 유남주 님이 다짜고짜 게릴라 인터뷰를 해도 되겠냐고 묻습니다... 
+
+ [바로가기](https://yozm.wishket.com/magazine/detail/2819/) 
 
 ---
 
