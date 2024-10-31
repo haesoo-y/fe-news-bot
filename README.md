@@ -1,17 +1,11 @@
 # 오늘의 포스팅 
-2024년 10월 30일 9시 기준 
+2024년 10월 31일 9시 기준 
 
-### Frontend Weekly Digest #385 (21–27 October 2024) 
+### How we rewrite ChatGPT & YouTube Summary extensions 
 
- Web-development... 
+ the reasons behind the decision to rewrite it, as well as the technical choices we made during the i... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F923dbd0fa473&operation=register&redirect=https%3A%2F%2Ffrontender-ua.medium.com%2Ffrontend-weekly-digest-385-21-27-october-2024-923dbd0fa473&source=------front_end_development---0-84----------front_end_development------bookmark_preview----9c39e887_97d8_4d31_b012_985b8c01ad31-------) 
-
-### Demystifying React Server Components 
-
- Our tech talk on RSCs: a new approach to web performance.... 
-
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F7f6b45fcdd18&operation=register&redirect=https%3A%2F%2Fklaviyo.tech%2Fdemystifying-react-server-components-7f6b45fcdd18&source=------react---0-84----------react------bookmark_preview----ff627689_38a0_4870_93d5_50a6b58f9651-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F575752d68771&operation=register&redirect=https%3A%2F%2Fdevelopers.glasp.co%2Fhow-we-rewrite-chatgpt-youtube-summary-extensions-575752d68771&source=------react---0-84----------react------bookmark_preview----3e4ee662_eed5_46ed_9b6c_8ee3d1462aa1-------) 
 
 ### It’s not just MV3 - Chrome’s extension development experience is a problem 
 
@@ -23,19 +17,25 @@
 
  I think you’ve often encountered the task of caching data in Storage to show the user the saved data... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F67b87bf3d5f9&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40davidkasumovfrontend%2Fcombining-local-storage-with-behaviorsubject-meet-storablesubject-67b87bf3d5f9&source=------typescript---0-84----------typescript------bookmark_preview----ded74b97_2156_4b78_ad83_6cce36e10908-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F67b87bf3d5f9&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40davidkasumovfrontend%2Fcombining-local-storage-with-behaviorsubject-meet-storablesubject-67b87bf3d5f9&source=------typescript---0-84----------typescript------bookmark_preview----72fff254_248f_45cf_883b_0d33e3b57bdf-------) 
 
-### 아마존, 삼성전자 등 데이터 리더 9인 추천 도서 30권 
+### Mutability in Nodejs Exports 
 
- 기술 말고 내공 있는 데이터 리더로서 성장하는 데 도움을 주는, 변치 않는 방정식을 아낌없이 알려주는 선배, 그리고 10년이 지나도 변치 않을 데이터 과학 원칙을 제시한 아마존 •... 
+ Mutable vs. Immutable Exports... 
 
- [바로가기](https://yozm.wishket.com/magazine/detail/2820/) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F1d8f3c4f791d&operation=register&redirect=https%3A%2F%2Fskchawala.medium.com%2Fmutability-in-nodejs-exports-1d8f3c4f791d&source=------frontend---0-84----------frontend------bookmark_preview----d9935e3f_96ba_491a_92ae_78b2dfe88eab-------) 
 
-### 1인 스타트업 대표가 ‘엔지니어링’으로 비용을 절약하는 법 
+### ‘진짜 서비스’에 쓸 AI 모델 만들기: 서비스 요구 사항과 학습 데이터셋 
 
- 이력서 멘토링을 인연으로 저와 멘토/멘티 관계를 맺은 유남주 님은 주니어 백엔드 개발자입니다. 어느 날 커피챗을 신청한 유남주 님이 다짜고짜 게릴라 인터뷰를 해도 되겠냐고 묻습니다... 
+ “서비스를 위한 AI를 개발한다”라고 할 때는 학습 데이터셋이 없는 경우가 많습니다. 물론 준비된 경우도 있겠지만, 실무에서는 없는 경우가 꽤 많죠. 테스트 데이터셋도, 어떻게 테... 
 
- [바로가기](https://yozm.wishket.com/magazine/detail/2819/) 
+ [바로가기](https://yozm.wishket.com/magazine/detail/2824/) 
+
+### QA팀이 테스트 자동화 지표로 ‘신뢰성’ 회복한 방법 
+
+ 이미 많은 QA 조직에서 시행하고 있는 것처럼 29CM QA팀도 앱 테스트 자동화와 API 테스트 자동화가 실행되고 있습니다. API 테스트 자동화의 경우 API 자체의 수정이 그... 
+
+ [바로가기](https://yozm.wishket.com/magazine/detail/2823/) 
 
 ---
 
