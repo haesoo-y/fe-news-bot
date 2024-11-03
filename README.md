@@ -1,29 +1,29 @@
 # 오늘의 포스팅 
-2024년 11월 2일 9시 기준 
+2024년 11월 3일 9시 기준 
 
-### Effortless File Uploads in Next.js with TypeScript: Track Progress with Axios 
+### Angular 19 — linkedSignal Deep Dive 
 
- Implementing file uploads in a Next.js application can be straightforward, especially when using Typ... 
+ Angular 19 is on the horizon, and it’s bringing a host of exciting new features to the table. One of... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F10952c6f1f62&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40m.faiznoeris%2Feffortless-file-uploads-in-next-js-with-typescript-track-progress-with-axios-10952c6f1f62&source=---recommended_stories---typescript---0-84----------------bookmark_preview----011d1a3e_6281_46ff_a57c_e8a61e5a1025-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fc7be699420c9&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40ingila185%2Fangular-19-linkedsignal-deep-dive-c7be699420c9&source=---recommended_stories---frontend---0-84----------------bookmark_preview----a40e1269_3a81_4781_a540_bdb7c2153fd7-------) 
 
-### At “JetBrains JavaScript Day”, Jeremy Elbourn presented Angular’s long-term improvements and… 
+### Lifecycle Methods in ReactJS: A Comprehensive Guide 
 
- New Authoring Format... 
+ In ReactJS, a component’s lifecycle is divided into phases, each with its own set of lifecycle metho... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F5b842e0ddca6&operation=register&redirect=https%3A%2F%2Fmedium.com%2Fng-news%2Fat-jetbrains-javascript-day-jeremy-elbourn-presented-angulars-long-term-improvements-and-5b842e0ddca6&source=---recommended_stories---frontend---0-84----------------bookmark_preview----d1319681_a1fe_4d63_89f4_07279d593c7e-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fa2647da588b5&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40vedanty3%2Flifecycle-methods-in-reactjs-a-comprehensive-guide-a2647da588b5&source=---recommended_stories---reactjs---0-84----------------bookmark_preview----ded85062_194a_47c0_8603_372c6f8feee3-------) 
 
-### Building a Laravel-React Stack with RTK Query and Swagger 
+### Next.js 15: The Web Development Game-Changer You Need to Know About 
 
- Learn how to integrate Laravel with React using RTK Query and Swagger, with a seamless setup for eff... 
+ Next.js has always been at the cutting edge of web development, and Next.js 15 is no exception. With... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Ff66eb6fea874&operation=register&redirect=https%3A%2F%2Fmedium.com%2Factived%2Fbuilding-a-laravel-react-stack-with-rtk-query-and-swagger-f66eb6fea874&source=---recommended_stories---reactjs---0-84----------------bookmark_preview----85b19299_f790_4129_961e_a585cdabba64-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F04a0db03aea3&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40harisk2922%2Fnext-js-15-the-web-development-game-changer-you-need-to-know-about-04a0db03aea3&source=---recommended_stories---nextjs---0-84----------------bookmark_preview----85c8478a_37fb_4bb3_ba19_2f65336e5833-------) 
 
-### The Top 5 Coolest Features in Next.js 15 
+### Evolution of Web Tech and Browsers 
 
- If you don’t upgrade, you are missing out.... 
+ Hey, there! Have you ever wondered how exactly does web work and what really happens when you enter ... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F94c8ec76b32e&operation=register&redirect=https%3A%2F%2Flevelup.gitconnected.com%2Fthe-top-5-coolest-features-in-next-js-15-94c8ec76b32e&source=---recommended_stories---nextjs---0-84----------------bookmark_preview----e0bbcf98_8ff2_4b8a_b7d1_d10263d53ccb-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F8039d0fca347&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40charan_sajjanapu%2Fevolution-of-web-tech-and-browsers-8039d0fca347&source=---recommended_stories---front_end_development---0-84----------------bookmark_preview----29e6d1de_cc09_4ccc_af9c_86e2a4f4b34c-------) 
 
 ### 개발팀을 위한 Git branch 전략, 정답 있을까? 
 
