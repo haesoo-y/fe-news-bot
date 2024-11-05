@@ -1,41 +1,41 @@
 # 오늘의 포스팅 
-2024년 11월 4일 9시 기준 
+2024년 11월 5일 9시 기준 
 
-### How does the React fiber reconciler work? 
+### Downgrade from NextJS15 to NextJS14 
 
- In this article, I am going to deep dive into the React world and what is the core value proposition... 
+ Intro... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F77c3650127da&operation=register&redirect=https%3A%2F%2Fmaxtsh.medium.com%2Fhow-does-the-react-fiber-reconciler-work-77c3650127da&source=---recommended_stories---reactjs---0-107----------------bookmark_preview----5753f619_c3fd_4168_b1b1_5a21d7050c25-------) 
-
-### Faire Tech Talk: Scaling for Growth — our monorepo, Next.js, 
-
- How we build frontend and mobile systems for growth at Faire... 
-
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F37e55f66e0ab&operation=register&redirect=https%3A%2F%2Fcraft.faire.com%2Ffaire-tech-talk-scaling-for-growth-our-monorepo-next-js-37e55f66e0ab&source=---recommended_stories---nextjs---0-84----------------bookmark_preview----179e89f2_594f_4cf5_a309_7dfa911746b5-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F986211336b88&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40yevenic719%2Fdowngrade-to-nextjs-14-from-nextjs15-986211336b88&source=---recommended_stories---nextjs---0-84----------------bookmark_preview----733d3b59_afe6_4900_9e70_e72165ae17de-------) 
 
 ### The Ultimate Guide to tailwind dynamic class builder 
 
  ... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fc524c112ba7f&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40youcefkhoudjahaithem%2Fthe-ultimate-guide-to-tailwind-dynamic-class-builder-c524c112ba7f&source=---recommended_stories---front_end_development---0-84----------------bookmark_preview----a88d863e_34b6_4711_a83f_36b65d8893fd-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fc524c112ba7f&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40youcefkhoudjahaithem%2Fthe-ultimate-guide-to-tailwind-dynamic-class-builder-c524c112ba7f&source=---recommended_stories---front_end_development---0-84----------------bookmark_preview----184ea22a_1e5e_4e93_ba06_cee49deb7579-------) 
 
-### 📚 A Beginner’s Guide to Redux in React: Create a To-Do List Manager with Redux Toolkit! [Part 1] 
+### Rendering Large Tabular Data in the Browser 
 
- So, you want to build a React app where users can manage a to-do list, right? If you’re thinking abo... 
+ A high-level overview of how can we can render large amounts of tabular data in the browser without ... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fe6d3f7719e7f&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40subhranilsarkar_64929%2Fa-beginners-guide-to-redux-in-react-create-a-to-do-list-manager-with-redux-toolkit-part-1-e6d3f7719e7f&source=---recommended_stories---react---0-84----------------bookmark_preview----609f59cd_e2c1_4d0c_8931_604811da7e72-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F3e0717a38c17&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40julienetienne%2Frendering-large-tabular-data-in-the-browser-3e0717a38c17&source=---recommended_stories---react---0-107----------------bookmark_preview----2dd75e4a_686d_4ec2_8c94_b32f031d15ad-------) 
+
+### How does JavaScript handle syntax errors before running your code? 
+
+ If you’ve ever been puzzled by how JavaScript handles code execution in real-time, you’re not alone.... 
+
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F42da89e61a8c&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40a.shehata.cs%2Fhow-does-javascript-handle-syntax-errors-before-running-your-code-42da89e61a8c&source=---recommended_stories---javascript---0-84----------------bookmark_preview----d9d1fc1d_09b6_45fa_bfdc_7c250c64a5af-------) 
+
+### 개발자가 영어를 놓지 말아야 할 4가지 이유 
+
+ 저는 다국적 IT 회사에서 10년 가까이 일하면서 다양한 나라의 개발자와 엔지니어를 만났습니다. 오랜 기간 그들과 협업하는 과정에서 개발자의 영어 구사 능력에 자연스레 관심을 가지... 
+
+ [바로가기](https://yozm.wishket.com/magazine/detail/2829/) 
 
 ### 10분 만에 RAG 이해하기 
 
  소프트웨어 산업에는 하루에도 수십 개의 새로운 약어와 개념이 등장합니다. 특히나 빠르게 변하는 AI 기술 같은 경우라면 더욱 말입니다. AI를 제대로 맛보게 해 준 챗GPT와 같은... 
 
  [바로가기](https://yozm.wishket.com/magazine/detail/2828/) 
-
-### 개발팀을 위한 Git branch 전략, 정답 있을까? 
-
- 한창 MSA(Microservices Architecture)로의 전환을 진행하는 중이었던 저희 팀은 새로운 branch 전략이 필요한 상황이었습니다. MSA로 전환하면서 기존 정... 
-
- [바로가기](https://yozm.wishket.com/magazine/detail/2827/) 
 
 ---
 
