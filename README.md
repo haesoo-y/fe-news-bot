@@ -1,41 +1,41 @@
 # 오늘의 포스팅 
-2024년 11월 5일 9시 기준 
+2024년 11월 6일 9시 기준 
 
-### Downgrade from NextJS15 to NextJS14 
+### Frontend Weekly Digest #386 (28 October — 3 November 2024) 
 
- Intro... 
+ Web-development... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F986211336b88&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40yevenic719%2Fdowngrade-to-nextjs-14-from-nextjs15-986211336b88&source=---recommended_stories---nextjs---0-84----------------bookmark_preview----733d3b59_afe6_4900_9e70_e72165ae17de-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F388e6c81f4b4&operation=register&redirect=https%3A%2F%2Ffrontender-ua.medium.com%2Ffrontend-weekly-digest-386-28-october-3-november-2024-388e6c81f4b4&source=---recommended_stories---front_end_development---0-84----------------bookmark_preview----d38ce369_a54a_4bef_a86d_31c26a120b74-------) 
 
-### The Ultimate Guide to tailwind dynamic class builder 
+### Browser Extension using React, Vite, Typescript, Redux and ShadCN 
 
- ... 
+ Initialise the Base Repo... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fc524c112ba7f&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40youcefkhoudjahaithem%2Fthe-ultimate-guide-to-tailwind-dynamic-class-builder-c524c112ba7f&source=---recommended_stories---front_end_development---0-84----------------bookmark_preview----184ea22a_1e5e_4e93_ba06_cee49deb7579-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F09154b217c0e&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40sandeep_28177%2Fbrowser-extension-using-react-vite-typescript-redux-and-shadcn-09154b217c0e&source=---recommended_stories---react---0-84----------------bookmark_preview----241c6670_6260_4181_8f1a_84a135c90d56-------) 
 
-### Rendering Large Tabular Data in the Browser 
+### We went to hospital 
 
- A high-level overview of how can we can render large amounts of tabular data in the browser without ... 
+ That wasn’t a good experience if you ask me... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F3e0717a38c17&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40julienetienne%2Frendering-large-tabular-data-in-the-browser-3e0717a38c17&source=---recommended_stories---react---0-107----------------bookmark_preview----2dd75e4a_686d_4ec2_8c94_b32f031d15ad-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F6a2549fd126a&operation=register&redirect=https%3A%2F%2Fmedium.com%2Fsolo-leveling%2Fwe-went-to-hospital-6a2549fd126a&source=---recommended_stories---javascript---0-84----------------bookmark_preview----cd7e44bb_15b7_4074_be3c_291dcd4e751b-------) 
 
-### How does JavaScript handle syntax errors before running your code? 
+### Next.js 14+ Environment variables validation using Zod 
 
- If you’ve ever been puzzled by how JavaScript handles code execution in real-time, you’re not alone.... 
+ Introduction... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F42da89e61a8c&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40a.shehata.cs%2Fhow-does-javascript-handle-syntax-errors-before-running-your-code-42da89e61a8c&source=---recommended_stories---javascript---0-84----------------bookmark_preview----d9d1fc1d_09b6_45fa_bfdc_7c250c64a5af-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F6e1dd95c3406&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40akhunters%2Fnext-js-14-environment-variables-validation-using-zod-6e1dd95c3406&source=---recommended_stories---typescript---0-84----------------bookmark_preview----f70028a9_7668_4136_959c_80430b290bb1-------) 
 
-### 개발자가 영어를 놓지 말아야 할 4가지 이유 
+### 막막한 개발자 면접, 1분 자기소개 준비하기 
 
- 저는 다국적 IT 회사에서 10년 가까이 일하면서 다양한 나라의 개발자와 엔지니어를 만났습니다. 오랜 기간 그들과 협업하는 과정에서 개발자의 영어 구사 능력에 자연스레 관심을 가지... 
+ 최근 한 개발자 커뮤니티 대나무숲에서 자기소개에 대한 고민 글을 보게 되었습니다. “내일 면접인데 혹시 자기소개는 보통 어떤 식으로 하나요? 무슨 말로 자기소개를 해야 할지, 어느... 
 
- [바로가기](https://yozm.wishket.com/magazine/detail/2829/) 
+ [바로가기](https://yozm.wishket.com/magazine/detail/2832/) 
 
-### 10분 만에 RAG 이해하기 
+### 뷔페 같은 쿼리 언어, GraphQL 톺아보기 
 
- 소프트웨어 산업에는 하루에도 수십 개의 새로운 약어와 개념이 등장합니다. 특히나 빠르게 변하는 AI 기술 같은 경우라면 더욱 말입니다. AI를 제대로 맛보게 해 준 챗GPT와 같은... 
+ GraphQL은 클라이언트가 필요한 특정 데이터만 요청할 수 있도록 하여 보다 효율적이고 유연한 데이터 검색을 가능하게 하는 API 쿼리 언어입니다. 언어의 발전과 함께 점점 더 ... 
 
- [바로가기](https://yozm.wishket.com/magazine/detail/2828/) 
+ [바로가기](https://yozm.wishket.com/magazine/detail/2831/) 
 
 ---
 
