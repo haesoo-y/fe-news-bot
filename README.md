@@ -1,29 +1,29 @@
 # 오늘의 포스팅 
-2024년 11월 9일 9시 기준 
-
-### Announcing Growthbook on JSR 
-
- (Originally published on deno.com/blog.)... 
-
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F256b4b008f26&operation=register&redirect=https%3A%2F%2Fdenoland.medium.com%2Fannouncing-growthbook-on-jsr-256b4b008f26&source=---recommended_stories---typescript---0-84----------------bookmark_preview----b08712c7_3fc8_43bd_9380_576eaab402db-------) 
+2024년 11월 10일 9시 기준 
 
 ### Top React Packages You Can’t Miss in 2024 
 
  Hey React devs! Let’s be honest — keeping up with the React ecosystem feels like a full time job in ... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Ff0646e43ce23&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40charu.sharma517%2Ftop-react-packages-you-cant-miss-in-2024-f0646e43ce23&source=---recommended_stories---frontend---0-84----------------bookmark_preview----cad8672f_58e7_486e_8de2_7694a7db6e9c-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Ff0646e43ce23&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40charu.sharma517%2Ftop-react-packages-you-cant-miss-in-2024-f0646e43ce23&source=---recommended_stories---frontend---0-84----------------bookmark_preview----6ddb0846_5a41_461e_98e4_e55dba29f733-------) 
 
 ### Why React Components Must Start With a Capital Letter ?? 
 
  In React, it’s a common practice to capitalize the first letter of component names. But why do we do... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fc7e852922ced&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40ptamit7826%2Fwhy-react-components-must-start-with-a-capital-letter-c7e852922ced&source=---recommended_stories---reactjs---0-84----------------bookmark_preview----d96f0abd_366a_4512_9c92_a15d63d2cd4e-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fc7e852922ced&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40ptamit7826%2Fwhy-react-components-must-start-with-a-capital-letter-c7e852922ced&source=---recommended_stories---reactjs---0-84----------------bookmark_preview----0c662855_f2e1_4d64_a575_a5653c029019-------) 
 
-### Introducing 4Circles 
+### Build Forms 10x Faster with Shadcn Form Builder 
 
- AI based daily trivia game... 
+ Maybe next year, I’ll be able to create forms with my eyes closed.... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fbc7fcba984ad&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40svadrut%2Fintroducing-4circles-bc7fcba984ad&source=---recommended_stories---nextjs---0-84----------------bookmark_preview----a2dbdaba_8d73_4ffe_9a9d_324ab4adcc8e-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F1aa7313d598a&operation=register&redirect=https%3A%2F%2Fmedium.com%2Fremote-working-id%2Fbuild-forms-10x-faster-with-shadcn-form-builder-1aa7313d598a&source=---recommended_stories---nextjs---0-84----------------bookmark_preview----aa7c7c0b_fc7b_445c_9027_0d77fb3edd9b-------) 
+
+### Ng-News 24/44: RFC Style Guide 
+
+ Jeremy Elbourn’s new RFC outlines key updates to the Angular Style Guide, including removing suffixe... 
+
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fcd0132e22d38&operation=register&redirect=https%3A%2F%2Fmedium.com%2Fng-news%2Fng-news-24-44-rfc-style-guide-cd0132e22d38&source=---recommended_stories---front_end_development---0-84----------------bookmark_preview----90f04cc3_7716_4a32_aa4b_27d0fc1a6f75-------) 
 
 ### 우리가 ‘Redis’에서 ‘SQLite’로 재설계한 이유 
 
