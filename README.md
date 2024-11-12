@@ -1,29 +1,29 @@
 # 오늘의 포스팅 
-2024년 11월 11일 9시 기준 
+2024년 11월 12일 9시 기준 
 
-### Top React Packages You Can’t Miss in 2024 
+### Why React Needs Frameworks (but not always) 
 
- Hey React devs! Let’s be honest — keeping up with the React ecosystem feels like a full time job in ... 
+ In this article, I’ll try to explain some important concepts in React, including SSR (Server-Side Re... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Ff0646e43ce23&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40charu.sharma517%2Ftop-react-packages-you-cant-miss-in-2024-f0646e43ce23&source=---recommended_stories---reactjs---0-84----------------bookmark_preview----f2304851_6f63_4481_b5b2_4ce10f16736a-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F7c6161b9628f&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40EleneSh%2Fwhy-react-needs-frameworks-but-not-always-7c6161b9628f&source=---recommended_stories---nextjs---0-84----------------bookmark_preview----ad3c626e_75b0_4206_a449_0c61fe5d4677-------) 
 
-### SOLID Principles in Next.js: A Practical Guide 
+### Frontend Weekly Digest #387 (4 - 10 November 2024) 
 
- SOLID Principles in Next.js: A Practical Guide... 
+ Web-development... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F78eb09fb04b6&operation=register&redirect=https%3A%2F%2Ftaiyebnirjhor.medium.com%2Fsolid-principles-in-next-js-a-practical-guide-78eb09fb04b6&source=---recommended_stories---nextjs---0-84----------------bookmark_preview----87e3bbcc_96cf_4326_a56f_cfb680b3bc2b-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fcfcaa82a6e00&operation=register&redirect=https%3A%2F%2Ffrontender-ua.medium.com%2Ffrontend-weekly-digest-387-4-10-november-2024-cfcaa82a6e00&source=---recommended_stories---front_end_development---0-84----------------bookmark_preview----97339161_76f9_4c5b_bace_975e742003c0-------) 
 
-### Why Front-End Expertise is Crucial in Modern Software Development 
+### ‘I Was Actually Wearing Underwear’ -Singer Tiwa Savage Responds To Viral Toilet Photo In New Video 
 
- The Hidden Costs of Neglecting Front-End Architecture in IT Projects... 
+ ‘I Was Actually Wearing Underwear’... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fe1cf86702a14&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40designspluscodes%2Fwhy-front-end-expertise-is-crucial-in-modern-software-development-e1cf86702a14&source=---recommended_stories---front_end_development---0-84----------------bookmark_preview----6800a509_e300_408c_a055_bcdb88d30ca1-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F882bf0a9c393&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40Craxieblogspot%2Fi-was-actually-wearing-underwear-singer-tiwa-savage-responds-to-viral-toilet-photo-in-new-video-882bf0a9c393&source=---recommended_stories---react---0-84----------------bookmark_preview----0dc39fe6_2dd7_4f66_a293_ce592cbeb589-------) 
 
-### What to Expect from Expo SDK 52 
+### Frontend Weekly Digest #387 (4 - 10 November 2024) 
 
- The beta release of Expo SDK 52 is now available, giving developers a clear look at what the officia... 
+ Web-development... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F48c28c07db6a&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40onix_react%2Fwhat-to-expect-from-expo-sdk-52-48c28c07db6a&source=---recommended_stories---react---0-84----------------bookmark_preview----fd94c971_092e_4472_8022_a9eacc93f720-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fcfcaa82a6e00&operation=register&redirect=https%3A%2F%2Ffrontender-ua.medium.com%2Ffrontend-weekly-digest-387-4-10-november-2024-cfcaa82a6e00&source=---recommended_stories---javascript---0-84----------------bookmark_preview----0b330a0e_923a_46b2_a39f_09f756e81ab2-------) 
 
 ### 10분 만에 랭체인 이해하기 
 
