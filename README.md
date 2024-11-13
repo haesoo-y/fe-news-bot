@@ -1,29 +1,29 @@
 # 오늘의 포스팅 
-2024년 11월 12일 9시 기준 
+2024년 11월 13일 9시 기준 
 
-### Why React Needs Frameworks (but not always) 
+### Jotai under the Hood: Reactive Magic by a Simple Solution 
 
- In this article, I’ll try to explain some important concepts in React, including SSR (Server-Side Re... 
+ In this article, we will review the basic principles of a reactive state and how Jotai satisfies the... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F7c6161b9628f&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40EleneSh%2Fwhy-react-needs-frameworks-but-not-always-7c6161b9628f&source=---recommended_stories---nextjs---0-84----------------bookmark_preview----ad3c626e_75b0_4206_a449_0c61fe5d4677-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F54ba5b58da9c&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40tarasshevchuk%2Fjotai-under-the-hood-simple-magic-by-a-simple-solution-54ba5b58da9c&source=---recommended_stories---front_end_development---0-84----------------bookmark_preview----88fc1569_64f0_4f2b_8474_89a57968a3cb-------) 
 
-### Frontend Weekly Digest #387 (4 - 10 November 2024) 
+### Jotai under the Hood: Reactive Magic by a Simple Solution 
 
- Web-development... 
+ In this article, we will review the basic principles of a reactive state and how Jotai satisfies the... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fcfcaa82a6e00&operation=register&redirect=https%3A%2F%2Ffrontender-ua.medium.com%2Ffrontend-weekly-digest-387-4-10-november-2024-cfcaa82a6e00&source=---recommended_stories---front_end_development---0-84----------------bookmark_preview----97339161_76f9_4c5b_bace_975e742003c0-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F54ba5b58da9c&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40tarasshevchuk%2Fjotai-under-the-hood-simple-magic-by-a-simple-solution-54ba5b58da9c&source=---recommended_stories---react---0-84----------------bookmark_preview----0166ec13_7df6_4caf_a166_6ee4e1cca8fa-------) 
 
-### ‘I Was Actually Wearing Underwear’ -Singer Tiwa Savage Responds To Viral Toilet Photo In New Video 
+### Jotai under the Hood: Reactive Magic by a Simple Solution 
 
- ‘I Was Actually Wearing Underwear’... 
+ In this article, we will review the basic principles of a reactive state and how Jotai satisfies the... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F882bf0a9c393&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40Craxieblogspot%2Fi-was-actually-wearing-underwear-singer-tiwa-savage-responds-to-viral-toilet-photo-in-new-video-882bf0a9c393&source=---recommended_stories---react---0-84----------------bookmark_preview----0dc39fe6_2dd7_4f66_a293_ce592cbeb589-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F54ba5b58da9c&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40tarasshevchuk%2Fjotai-under-the-hood-simple-magic-by-a-simple-solution-54ba5b58da9c&source=---recommended_stories---javascript---0-84----------------bookmark_preview----972ac44d_d0d8_4094_be3a_a133bec917f7-------) 
 
-### Frontend Weekly Digest #387 (4 - 10 November 2024) 
+### Mastering Design Patterns in JavaScript: Part 7 — The Command Pattern 
 
- Web-development... 
+ Encapsulate actions as objects in JS with the Command Pattern, enabling undo/redo, task scheduling, ... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fcfcaa82a6e00&operation=register&redirect=https%3A%2F%2Ffrontender-ua.medium.com%2Ffrontend-weekly-digest-387-4-10-november-2024-cfcaa82a6e00&source=---recommended_stories---javascript---0-84----------------bookmark_preview----0b330a0e_923a_46b2_a39f_09f756e81ab2-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F851b0453fdf0&operation=register&redirect=https%3A%2F%2Fjavascript.plainenglish.io%2Fmastering-design-patterns-in-javascript-part-6-the-command-pattern-851b0453fdf0&source=---recommended_stories---typescript---0-84----------------bookmark_preview----5f53e992_37d4_4bb6_a5fa_b78780c397bb-------) 
 
 ### 10분 만에 랭체인 이해하기 
 
