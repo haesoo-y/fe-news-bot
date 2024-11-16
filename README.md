@@ -1,29 +1,30 @@
 # 오늘의 포스팅 
-2024년 11월 15일 9시 기준 
+2024년 11월 16일 9시 기준 
 
-### Let’s Understand angular.json Deeply in Your Angular Projects 
+### What Is TypeScript and How It Improves Your Code? 
 
- A Step-by-Step Guide to Mastering angular.json in Angular Projects with Best Practices... 
+ What is TypeScript?
+If we already have JavaScript, why do we need TypeScript? To understand this, le... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F2e156542940f&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40sehban.alam%2Flets-understand-angular-json-deeply-in-your-angular-projects-2e156542940f&source=---recommended_stories---javascript---0-84----------------bookmark_preview----d93a2f8f_6314_45a1_b064_c7c37127bbac-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Ff1c385afb118&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40pranayrah108%2Fwhat-is-typescript-and-how-it-improves-your-code-f1c385afb118&source=---recommended_stories---typescript---0-84----------------bookmark_preview----d46ec58c_a08b_41f7_b582_f84a7173da21-------) 
 
-### Adopting Bazel for Web at Scale 
+### Why I Created a Dependency Graph 
 
- How and Why We Migrated Airbnb’s Large-Scale Web Monorepo to Bazel... 
+ For Web Developers who Want to Write Efficient Code... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fa784b2dbe325&operation=register&redirect=https%3A%2F%2Fmedium.com%2Fairbnb-engineering%2Fadopting-bazel-for-web-at-scale-a784b2dbe325&source=---recommended_stories---typescript---0-84----------------bookmark_preview----d1b6c26f_9997_4a00_b7ec_8f1cfd7a918f-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fdde30bca915d&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40jnoncode%2Fwhy-i-created-a-dependency-graph-dde30bca915d&source=---recommended_stories---frontend---0-84----------------bookmark_preview----8840de45_950c_4d0e_a3f7_91c127b9bd9a-------) 
 
-### Ng-News 24/45: Rationale behind (potential) Authoring Format 
+### A seasoned developer's guide to learning Meteor.js 
 
- The Angular team’s exploration of new authoring formats has sparked confusion in the community, with... 
+ Since I joined Meteor Software 5 months ago, I have been busy with a lot of stuff: organizing the Re... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fbaea5dbb997c&operation=register&redirect=https%3A%2F%2Fmedium.com%2Fng-news%2Fng-news-24-45-rationale-behind-potential-authoring-format-baea5dbb997c&source=---recommended_stories---frontend---0-84----------------bookmark_preview----6de54269_8572_4f38_ab0b_aae4ab6b38bc-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F4b4d7242d5c6&operation=register&redirect=https%3A%2F%2Fblog.meteor.com%2Fa-seasoned-developers-guide-to-learning-meteor-js-4b4d7242d5c6&source=---recommended_stories---reactjs---0-84----------------bookmark_preview----656b5757_a35c_4907_adcc_83d07c54870a-------) 
 
-### Why Netflix Shifted from React to Vanilla JavaScript 
+### Understanding and Configuring Environment Variables in Next.js 
 
- Optimizing Performance with a Strategic Blend of Technologies... 
+ Is it undefined, or defined wrong?... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fbe5a479ca14e&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40lbq999%2Fwhy-netflix-shifted-from-react-to-vanilla-javascript-be5a479ca14e&source=---recommended_stories---reactjs---0-84----------------bookmark_preview----ecbd3f18_a248_4908_833d_09bcfcbd15ff-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F15b5a5a7e194&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40efefurkankarakaya%2Funderstanding-and-configuring-environment-variables-in-next-js-15b5a5a7e194&source=---recommended_stories---nextjs---0-84----------------bookmark_preview----8e334600_4157_4763_915a_709cdbd66a82-------) 
 
 ### 노벨 과학상을 휩쓴 인공지능의 대가들 
 
