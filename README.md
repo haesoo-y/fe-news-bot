@@ -1,12 +1,5 @@
 # 오늘의 포스팅 
-2024년 11월 16일 9시 기준 
-
-### What Is TypeScript and How It Improves Your Code? 
-
- What is TypeScript?
-If we already have JavaScript, why do we need TypeScript? To understand this, le... 
-
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Ff1c385afb118&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40pranayrah108%2Fwhat-is-typescript-and-how-it-improves-your-code-f1c385afb118&source=---recommended_stories---typescript---0-84----------------bookmark_preview----d46ec58c_a08b_41f7_b582_f84a7173da21-------) 
+2024년 11월 17일 9시 기준 
 
 ### Why I Created a Dependency Graph 
 
@@ -14,17 +7,23 @@ If we already have JavaScript, why do we need TypeScript? To understand this, le
 
  [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fdde30bca915d&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40jnoncode%2Fwhy-i-created-a-dependency-graph-dde30bca915d&source=---recommended_stories---frontend---0-84----------------bookmark_preview----8840de45_950c_4d0e_a3f7_91c127b9bd9a-------) 
 
-### A seasoned developer's guide to learning Meteor.js 
+### Modern UI Design Patterns That Power Enterprise Apps in 2024 
 
- Since I joined Meteor Software 5 months ago, I have been busy with a lot of stuff: organizing the Re... 
+ As web applications grow in complexity, choosing the right architectural patterns becomes crucial fo... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F4b4d7242d5c6&operation=register&redirect=https%3A%2F%2Fblog.meteor.com%2Fa-seasoned-developers-guide-to-learning-meteor-js-4b4d7242d5c6&source=---recommended_stories---reactjs---0-84----------------bookmark_preview----656b5757_a35c_4907_adcc_83d07c54870a-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fd14e941ad18e&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40charu.sharma517%2Fmodern-ui-design-patterns-that-power-enterprise-apps-in-2024-d14e941ad18e&source=---recommended_stories---reactjs---0-84----------------bookmark_preview----e3ab467d_62a3_45ac_bcab_b8cd2865deb8-------) 
 
 ### Understanding and Configuring Environment Variables in Next.js 
 
  Is it undefined, or defined wrong?... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F15b5a5a7e194&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40efefurkankarakaya%2Funderstanding-and-configuring-environment-variables-in-next-js-15b5a5a7e194&source=---recommended_stories---nextjs---0-84----------------bookmark_preview----8e334600_4157_4763_915a_709cdbd66a82-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F15b5a5a7e194&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40efefurkankarakaya%2Funderstanding-and-configuring-environment-variables-in-next-js-15b5a5a7e194&source=---recommended_stories---nextjs---0-84----------------bookmark_preview----579b1894_43ab_4885_9f61_4316fd030141-------) 
+
+### 11 Web Development Myths You Need to Stop Believing Today 
+
+ Some people find the word “web development” scary. With a growing need for developers and tech lover... 
+
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F0dd3e115ff00&operation=register&redirect=https%3A%2F%2Fpinjarirehan.medium.com%2F11-web-development-myths-you-need-to-stop-believing-today-0dd3e115ff00&source=---recommended_stories---front_end_development---0-84----------------bookmark_preview----b7f055f5_2363_4246_96b0_1b486a5bec1c-------) 
 
 ### 노벨 과학상을 휩쓴 인공지능의 대가들 
 
