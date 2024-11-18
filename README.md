@@ -1,23 +1,17 @@
 # 오늘의 포스팅 
-2024년 11월 17일 9시 기준 
+2024년 11월 18일 9시 기준 
 
-### Why I Created a Dependency Graph 
+### useOnlineStatus in React 
 
- For Web Developers who Want to Write Efficient Code... 
+ How to detect if a user is online or offline in better way using React... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fdde30bca915d&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40jnoncode%2Fwhy-i-created-a-dependency-graph-dde30bca915d&source=---recommended_stories---frontend---0-84----------------bookmark_preview----8840de45_950c_4d0e_a3f7_91c127b9bd9a-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F4accf5ff07a7&operation=register&redirect=https%3A%2F%2Fblog.classyendeavors.com%2Fuseonlinestatus-in-react-4accf5ff07a7&source=---recommended_stories---reactjs---0-84----------------bookmark_preview----57054b57_bc49_48c2_a3f6_aae2a7367e79-------) 
 
-### Modern UI Design Patterns That Power Enterprise Apps in 2024 
+### Debounce Control: React component to debounce state 
 
- As web applications grow in complexity, choosing the right architectural patterns becomes crucial fo... 
+ What is debounce? Debounce is a way to delay a function until an action stops. For example, in a sea... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fd14e941ad18e&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40charu.sharma517%2Fmodern-ui-design-patterns-that-power-enterprise-apps-in-2024-d14e941ad18e&source=---recommended_stories---reactjs---0-84----------------bookmark_preview----e3ab467d_62a3_45ac_bcab_b8cd2865deb8-------) 
-
-### Understanding and Configuring Environment Variables in Next.js 
-
- Is it undefined, or defined wrong?... 
-
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F15b5a5a7e194&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40efefurkankarakaya%2Funderstanding-and-configuring-environment-variables-in-next-js-15b5a5a7e194&source=---recommended_stories---nextjs---0-84----------------bookmark_preview----579b1894_43ab_4885_9f61_4316fd030141-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fdcf06e19eda6&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40pranaybajracharya%2Fdebounce-control-react-component-to-debounce-state-dcf06e19eda6&source=---recommended_stories---nextjs---0-84----------------bookmark_preview----247f9479_7738_4414_8c8a_0eb552225395-------) 
 
 ### 11 Web Development Myths You Need to Stop Believing Today 
 
@@ -25,17 +19,23 @@
 
  [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F0dd3e115ff00&operation=register&redirect=https%3A%2F%2Fpinjarirehan.medium.com%2F11-web-development-myths-you-need-to-stop-believing-today-0dd3e115ff00&source=---recommended_stories---front_end_development---0-84----------------bookmark_preview----b7f055f5_2363_4246_96b0_1b486a5bec1c-------) 
 
+### Deep Dive into React’s Internal Architecture: The Fiber Revolution 
+
+ Discover how React’s Fiber architecture works, clarifying common misunderstandings in efficient UI r... 
+
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F08dcf66b309d&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40canpolat.dev%2Fdeep-dive-into-reacts-internal-architecture-from-virtual-dom-to-fiber-08dcf66b309d&source=---recommended_stories---react---0-84----------------bookmark_preview----93932c82_cbb1_4955_80e4_12ebed549b38-------) 
+
+### 10분 만에 AI 에이전트 이해하기 
+
+ 요즘 기술업계에서 가장 핫한 단어는 아마도 AI 에이전트일 겁니다. 지금까지 들었던 에이전트는 영화에서나 나오는 FBI/CIA 에이전트 정도가 다였는데 말입니다. 그렇다고 미리 쫄... 
+
+ [바로가기](https://yozm.wishket.com/magazine/detail/2849/) 
+
 ### 노벨 과학상을 휩쓴 인공지능의 대가들 
 
  한 달 전, 한강 작가의 노벨 문학상 수상으로 세간이 떠들썩했습니다. 하지만 인공지능 업계 종사자들에게는 그보다 훨씬 더 가슴 뛰는 사건이 하나 있었습니다. 바로 노벨 과학상(물리... 
 
  [바로가기](https://yozm.wishket.com/magazine/detail/2847/) 
-
-### AI 커리어를 시작하려는 개발자를 위한 조언 
-
- 앞서 글에서는 “서비스향으로 AI 모델을 개발한다”라고 할 때, 무엇이 다를지 설명했습니다. 들여다봤더니 정말 많은 일이 있죠? 그 많은 업무는 결국 기술팀에서 감당해야 합니다. ... 
-
- [바로가기](https://yozm.wishket.com/magazine/detail/2845/) 
 
 ---
 
