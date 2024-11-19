@@ -1,29 +1,29 @@
 # 오늘의 포스팅 
-2024년 11월 18일 9시 기준 
+2024년 11월 19일 9시 기준 
 
-### useOnlineStatus in React 
+### The Last State of React 
 
- How to detect if a user is online or offline in better way using React... 
+ Here, we will discuss the developments made in the last two years in the React ecosystem. Two years ... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F4accf5ff07a7&operation=register&redirect=https%3A%2F%2Fblog.classyendeavors.com%2Fuseonlinestatus-in-react-4accf5ff07a7&source=---recommended_stories---reactjs---0-84----------------bookmark_preview----57054b57_bc49_48c2_a3f6_aae2a7367e79-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fad885f3bc0bd&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40selensr%2Fthe-last-state-of-react-ad885f3bc0bd&source=---recommended_stories---nextjs---0-84----------------bookmark_preview----969ed99e_a00a_47cc_9cb3_a92548e89f35-------) 
 
-### Debounce Control: React component to debounce state 
+### Frontend Weekly Digest #388 (11–17 November 2024) 
 
- What is debounce? Debounce is a way to delay a function until an action stops. For example, in a sea... 
+ Web-development... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fdcf06e19eda6&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40pranaybajracharya%2Fdebounce-control-react-component-to-debounce-state-dcf06e19eda6&source=---recommended_stories---nextjs---0-84----------------bookmark_preview----247f9479_7738_4414_8c8a_0eb552225395-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F5bd7bf6e5609&operation=register&redirect=https%3A%2F%2Ffrontender-ua.medium.com%2Ffrontend-weekly-digest-388-11-17-november-2024-5bd7bf6e5609&source=---recommended_stories---front_end_development---0-84----------------bookmark_preview----7eae0dbf_71a8_42d9_8940_35e6f8836e7c-------) 
 
-### 11 Web Development Myths You Need to Stop Believing Today 
+### What is React Component and Props ? 
 
- Some people find the word “web development” scary. With a growing need for developers and tech lover... 
+ In this story we will learn about react component and props.... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F0dd3e115ff00&operation=register&redirect=https%3A%2F%2Fpinjarirehan.medium.com%2F11-web-development-myths-you-need-to-stop-believing-today-0dd3e115ff00&source=---recommended_stories---front_end_development---0-84----------------bookmark_preview----b7f055f5_2363_4246_96b0_1b486a5bec1c-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fc81cd50fa829&operation=register&redirect=https%3A%2F%2Fjavascript.plainenglish.io%2Fwhat-is-react-component-and-props-c81cd50fa829&source=---recommended_stories---react---0-84----------------bookmark_preview----a406d842_cfd7_4215_b869_68cc2e5f847b-------) 
 
-### Deep Dive into React’s Internal Architecture: The Fiber Revolution 
+### Frontend Weekly Digest #388 (11–17 November 2024) 
 
- Discover how React’s Fiber architecture works, clarifying common misunderstandings in efficient UI r... 
+ Web-development... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F08dcf66b309d&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40canpolat.dev%2Fdeep-dive-into-reacts-internal-architecture-from-virtual-dom-to-fiber-08dcf66b309d&source=---recommended_stories---react---0-84----------------bookmark_preview----93932c82_cbb1_4955_80e4_12ebed549b38-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F5bd7bf6e5609&operation=register&redirect=https%3A%2F%2Ffrontender-ua.medium.com%2Ffrontend-weekly-digest-388-11-17-november-2024-5bd7bf6e5609&source=---recommended_stories---javascript---0-84----------------bookmark_preview----b6756220_dc97_4c7b_a719_00dc2027f9ba-------) 
 
 ### 10분 만에 AI 에이전트 이해하기 
 
