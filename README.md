@@ -1,41 +1,41 @@
 # 오늘의 포스팅 
-2024년 11월 21일 9시 기준 
-
-### NextJs server actions and forms with additional params 
-
- Next.js provides server actions that can be invoked from both client and server components. Below ar... 
-
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F28db351457ad&operation=register&redirect=https%3A%2F%2Flokeshdaiya.medium.com%2Fnextjs-server-actions-and-forms-with-additional-params-28db351457ad&source=---recommended_stories---react---0-84----------------bookmark_preview----1473670d_206e_474d_ba32_8676c1b538af-------) 
+2024년 11월 22일 9시 기준 
 
 ### Meet Angular v19 
 
  In the past two years we doubled down on our investment in developer experience and performance — in... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F7b29dfd05b84&operation=register&redirect=https%3A%2F%2Fblog.angular.dev%2Fmeet-angular-v19-7b29dfd05b84&source=---recommended_stories---javascript---0-84----------------bookmark_preview----e5f686eb_6180_491c_a337_a8f913ebcca2-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F7b29dfd05b84&operation=register&redirect=https%3A%2F%2Fblog.angular.dev%2Fmeet-angular-v19-7b29dfd05b84&source=---recommended_stories---javascript---0-84----------------bookmark_preview----8a28d71d_a7c0_4860_8be5_f61cff55dcf1-------) 
 
 ### Meet Angular v19 
 
  In the past two years we doubled down on our investment in developer experience and performance — in... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F7b29dfd05b84&operation=register&redirect=https%3A%2F%2Fblog.angular.dev%2Fmeet-angular-v19-7b29dfd05b84&source=---recommended_stories---typescript---0-84----------------bookmark_preview----48bc02a0_5295_449e_b523_8bd9b08806e6-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F7b29dfd05b84&operation=register&redirect=https%3A%2F%2Fblog.angular.dev%2Fmeet-angular-v19-7b29dfd05b84&source=---recommended_stories---typescript---0-84----------------bookmark_preview----25476bd2_f47a_4afe_bb18_63aa2a91bf2d-------) 
 
-### Angular 19 new resource API: the major point for getting into signals 
+### Lokalise: Simplifying Software Localization in Javascript Frontend Environments 
 
- Introduction to Angular 19 resource and rxResource APIs... 
+ This article aims to document the benefits of using Lokalise for localization, and best practices an... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F3b42fa60b982&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40toha.marko%2Fangular-19-new-resource-api-the-major-point-for-getting-into-signals-3b42fa60b982&source=---recommended_stories---frontend---0-84----------------bookmark_preview----c8628675_d651_4f1b_b9b8_78e7d01e3711-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F352d15ead9a1&operation=register&redirect=https%3A%2F%2Fmedium.com%2Fmobileaction-tech%2Flokalise-streamlining-software-localization-352d15ead9a1&source=---recommended_stories---frontend---0-84----------------bookmark_preview----59c29be1_fe47_4e17_8561_058aa16aa5cb-------) 
+
+### What is a State Machine & Why Use It in Frontend Apps(React.js/ Next.js)? 
+
+ What is a State Machine & Why Use It in React/Next.js App?... 
+
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F2cce026fffab&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40seemantkamlapuri88%2Fwhat-is-a-state-machine-why-use-it-in-frontend-applications-react-js-next-js-2cce026fffab&source=---recommended_stories---reactjs---0-84----------------bookmark_preview----532fa9e7_5af6_4fad_95b1_dc8fd9ac525c-------) 
+
+### 개발자를 위한 랭체인 기초 개념과 환경 설정법 
+
+ 랭체인. 도대체 무엇이, 얼마만큼 유용하길래 이렇게 인기가 많아졌을까요? 랭체인은 오픈 소스 프레임워크로, LLM 기반 애플리케이션을 구축하는 과정을 단순화시킵니다. 복잡한 LLM... 
+
+ [바로가기](https://yozm.wishket.com/magazine/detail/2858/) 
 
 ### 내가 ‘오픈소스’ 프로젝트를 진행하며 배운 것들 
 
  불과 2년 전까지만 해도 저는 서류 탈락과 면접 불합격 통보를 일상처럼 받아들이고 있었습니다. 그렇게 수십 통의 거절 메일을 받으며, 개발자로서 부족하다고 느끼던 시기가 있었죠. ... 
 
  [바로가기](https://yozm.wishket.com/magazine/detail/2856/) 
-
-### 파이썬 비동기는 성능 향상의 답이 아닙니다 
-
- 대부분의 개발자들은 비동기 파이썬이 더 높은 동시성을 제공한다는 것을 알고 있죠. 그래서 동적 웹사이트나 웹 API를 서빙하는 것과 같은 일반적인 작업에서 더 좋은 성능을 보일 거... 
-
- [바로가기](https://yozm.wishket.com/magazine/detail/2853/) 
 
 ---
 
