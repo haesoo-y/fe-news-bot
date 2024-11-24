@@ -1,29 +1,29 @@
 # 오늘의 포스팅 
-2024년 11월 23일 9시 기준 
+2024년 11월 24일 9시 기준 
 
-### Meet Angular v19 
+### WEB Alamanc 2024 is live! 
 
- In the past two years we doubled down on our investment in developer experience and performance — in... 
+ The Web Almanac 2024, published by HTTP Archive, is a comprehensive annual report analyzing the stat... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F7b29dfd05b84&operation=register&redirect=https%3A%2F%2Fblog.angular.dev%2Fmeet-angular-v19-7b29dfd05b84&source=---recommended_stories---typescript---0-84----------------bookmark_preview----99413271_2d04_4f7f_8727_65ccb8024b68-------) 
-
-### Lokalise: Simplifying Software Localization in Javascript Frontend Environments 
-
- This article aims to document the benefits of using Lokalise for localization, and best practices an... 
-
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F352d15ead9a1&operation=register&redirect=https%3A%2F%2Fmedium.com%2Fmobileaction-tech%2Flokalise-streamlining-software-localization-352d15ead9a1&source=---recommended_stories---frontend---0-84----------------bookmark_preview----54f20401_401a_4cd2_b09f_3ab8c4d6964b-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fff502002414c&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40elhammth%2Fweb-alamanc-2024-is-live-ff502002414c&source=---recommended_stories---frontend---0-84----------------bookmark_preview----9e597809_3cca_4830_a773_798db2acf9ad-------) 
 
 ### You’re Using Context Providers the Wrong Way! Here’s How to Fix It 
 
  If you’re cramming both state and logic into your Context Providers, you’re setting yourself up for ... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fc91247b6e828&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40landonwjohnson%2Fyoure-using-context-providers-the-wrong-way-here-s-how-to-fix-it-c91247b6e828&source=---recommended_stories---reactjs---0-84----------------bookmark_preview----b80bda75_5522_4614_976a_06ae2f6b4ded-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fc91247b6e828&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40landonwjohnson%2Fyoure-using-context-providers-the-wrong-way-here-s-how-to-fix-it-c91247b6e828&source=---recommended_stories---reactjs---0-84----------------bookmark_preview----27da58ac_316d_4565_9987_849fab5efe25-------) 
 
-### What is a State Machine & Why Use It in Frontend Apps(React.js/ Next.js)? 
+### Next.js State Management Patterns With React Server Components (Ep 4) 
 
- What is a State Machine & Why Use It in React/Next.js App?... 
+ Welcome to Episode 4! In this session, we’ll dive into the concept of *state*. What exactly is state... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F2cce026fffab&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40seemantkamlapuri88%2Fwhat-is-a-state-machine-why-use-it-in-frontend-applications-react-js-next-js-2cce026fffab&source=---recommended_stories---nextjs---0-84----------------bookmark_preview----cab00f1b_cb80_40bd_8456_40ffd6c27e2c-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fc06c073ed517&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40imranfarooq0306%2Fnext-js-state-management-patterns-with-react-server-components-ep-4-c06c073ed517&source=---recommended_stories---nextjs---0-84----------------bookmark_preview----1d1548c0_04b2_4ea9_8e12_c7499dcbff29-------) 
+
+### What are Promises in javascript ? 
+
+ Promise is an object which represents the eventual completion or failure of an asynchronous operatio... 
+
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F483fc69685cb&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40iaamsuneel%2Fwhat-are-promises-in-javascript-483fc69685cb&source=---recommended_stories---front_end_development---0-84----------------bookmark_preview----10feed23_9943_4513_83e9_e85a626b893a-------) 
 
 ### 개발자를 위한 랭체인 기초 개념과 환경 설정법 
 
