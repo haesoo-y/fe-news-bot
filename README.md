@@ -1,41 +1,42 @@
 # 오늘의 포스팅 
-2024년 11월 24일 9시 기준 
-
-### WEB Alamanc 2024 is live! 
-
- The Web Almanac 2024, published by HTTP Archive, is a comprehensive annual report analyzing the stat... 
-
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fff502002414c&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40elhammth%2Fweb-alamanc-2024-is-live-ff502002414c&source=---recommended_stories---frontend---0-84----------------bookmark_preview----9e597809_3cca_4830_a773_798db2acf9ad-------) 
+2024년 11월 25일 9시 기준 
 
 ### You’re Using Context Providers the Wrong Way! Here’s How to Fix It 
 
  If you’re cramming both state and logic into your Context Providers, you’re setting yourself up for ... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fc91247b6e828&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40landonwjohnson%2Fyoure-using-context-providers-the-wrong-way-here-s-how-to-fix-it-c91247b6e828&source=---recommended_stories---reactjs---0-84----------------bookmark_preview----27da58ac_316d_4565_9987_849fab5efe25-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fc91247b6e828&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40landonwjohnson%2Fyoure-using-context-providers-the-wrong-way-here-s-how-to-fix-it-c91247b6e828&source=---recommended_stories---reactjs---0-84----------------bookmark_preview----73e86f67_1908_4c1e_981a_26069e2eae52-------) 
 
-### Next.js State Management Patterns With React Server Components (Ep 4) 
+### Server Components with revalidatePath: A New Era to Replace State Management in Next.js 
 
- Welcome to Episode 4! In this session, we’ll dive into the concept of *state*. What exactly is state... 
+ In web development, managing state can be complex. 
+Traditional libraries like Redux and Zustand hav... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fc06c073ed517&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40imranfarooq0306%2Fnext-js-state-management-patterns-with-react-server-components-ep-4-c06c073ed517&source=---recommended_stories---nextjs---0-84----------------bookmark_preview----1d1548c0_04b2_4ea9_8e12_c7499dcbff29-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F7c13a874ba8d&operation=register&redirect=https%3A%2F%2Fqaffaf.medium.com%2Fserver-components-with-revalidatepath-a-new-era-to-replace-state-management-in-next-js-7c13a874ba8d&source=---recommended_stories---nextjs---0-84----------------bookmark_preview----006d4ad4_42dc_413e_ae9f_02b1d7b498b3-------) 
 
-### What are Promises in javascript ? 
+### Frontend Weekly Digest #389 (18–24 November 2024) 
 
- Promise is an object which represents the eventual completion or failure of an asynchronous operatio... 
+ Web-development... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F483fc69685cb&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40iaamsuneel%2Fwhat-are-promises-in-javascript-483fc69685cb&source=---recommended_stories---front_end_development---0-84----------------bookmark_preview----10feed23_9943_4513_83e9_e85a626b893a-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F201719594cf1&operation=register&redirect=https%3A%2F%2Ffrontender-ua.medium.com%2Ffrontend-weekly-digest-389-18-24-november-2024-201719594cf1&source=---recommended_stories---front_end_development---0-84----------------bookmark_preview----9e3de765_e22d_4a0a_98af_13aef97d350c-------) 
+
+### Graphic Designer. 
+
+ ... 
+
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fccafb4807ff1&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40kaifakram%2Fgraphic-designer-ccafb4807ff1&source=---recommended_stories---react---0-84----------------bookmark_preview----74b81287_eae9_4960_89e1_7788abd4b0ab-------) 
+
+### 10분 만에 AI 추천 엔진 이해하기 
+
+ 2022년 말부터 AI 기술 혁명이 시작되었지만, 아직 대부분의 소프트웨어 프로덕트/서비스 사용자는 ‘챗GPT’와 ‘자율 주행 자동차’를 가장 대표적인 AI 서비스로 이해하고 있습... 
+
+ [바로가기](https://yozm.wishket.com/magazine/detail/2860/) 
 
 ### 개발자를 위한 랭체인 기초 개념과 환경 설정법 
 
  랭체인. 도대체 무엇이, 얼마만큼 유용하길래 이렇게 인기가 많아졌을까요? 랭체인은 오픈 소스 프레임워크로, LLM 기반 애플리케이션을 구축하는 과정을 단순화시킵니다. 복잡한 LLM... 
 
  [바로가기](https://yozm.wishket.com/magazine/detail/2858/) 
-
-### 내가 ‘오픈소스’ 프로젝트를 진행하며 배운 것들 
-
- 불과 2년 전까지만 해도 저는 서류 탈락과 면접 불합격 통보를 일상처럼 받아들이고 있었습니다. 그렇게 수십 통의 거절 메일을 받으며, 개발자로서 부족하다고 느끼던 시기가 있었죠. ... 
-
- [바로가기](https://yozm.wishket.com/magazine/detail/2856/) 
 
 ---
 
