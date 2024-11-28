@@ -1,29 +1,29 @@
 # 오늘의 포스팅 
-2024년 11월 27일 9시 기준 
+2024년 11월 28일 9시 기준 
 
-### Frontend Weekly Digest #389 (18–24 November 2024) 
+### **The Affect of Social Media on Mental Health** 
 
- Web-development... 
+ The Affect of Social Media on Mental Health... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F201719594cf1&operation=register&redirect=https%3A%2F%2Ffrontender-ua.medium.com%2Ffrontend-weekly-digest-389-18-24-november-2024-201719594cf1&source=---recommended_stories---front_end_development---0-84----------------bookmark_preview----448c0c21_87cf_4a92_853f_0252f080d681-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F327368c693f3&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40muhammadanas_38611%2Fthe-affect-of-social-media-on-mental-health-327368c693f3&source=---recommended_stories---react---0-84----------------bookmark_preview----276bc7dc_a9b8_46bb_bbff_fffade6ce3a8-------) 
 
-### ReactJS and Higher-Order Functions: A Beginner’s Guide with Easy Analogies. 
+### Sampler Books on Sale, 2024 
 
- If you’re stepping into ReactJS, you’ve likely heard the term higher-order functions (HOFs). It migh... 
+ Black Friday Deals from The Pragmatic Bookshelf... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F08e0a4e1b35b&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40skylar_lorena%2Freactjs-and-higher-order-functions-a-beginners-guide-with-easy-analogies-08e0a4e1b35b&source=---recommended_stories---react---0-84----------------bookmark_preview----86dfa337_4994_423a_a363_63ca6f07b594-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F0c8081cbdaf8&operation=register&redirect=https%3A%2F%2Fmedium.com%2Fpragmatic-programmers%2Fsampler-books-on-sale-2024-0c8081cbdaf8&source=---recommended_stories---javascript---0-84----------------bookmark_preview----9043f009_61c2_4a5d_bab6_5c9dc550bfa7-------) 
 
-### Frontend Weekly Digest #389 (18–24 November 2024) 
+### MonoRepos powered by Turborepo 
 
- Web-development... 
+ A technical overview about the way we started using Monorepo’s, their benefits and some of the chall... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F201719594cf1&operation=register&redirect=https%3A%2F%2Ffrontender-ua.medium.com%2Ffrontend-weekly-digest-389-18-24-november-2024-201719594cf1&source=---recommended_stories---javascript---0-84----------------bookmark_preview----0cb20c64_83df_46b3_84eb_01a45b2f927b-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F3f22d39c3d28&operation=register&redirect=https%3A%2F%2Fmedium.com%2Fopenunisau-engineering%2Fmonorepos-powered-by-turborepo-3f22d39c3d28&source=---recommended_stories---typescript---0-84----------------bookmark_preview----3c7a031f_f64f_473a_bd16_464c580c5eb5-------) 
 
-### React with TypeScript: A Backend Engineer’s Descent into Madness 
+### Making Apache Airflow More Accessible 
 
- I have a confession to make: I tried React with TypeScript. Not because I wanted to, mind you, but b... 
+ A Colorblind-Friendly Task Status Enhancement... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F48e5b3839730&operation=register&redirect=https%3A%2F%2Faraujo88.medium.com%2Freact-with-typescript-a-backend-engineers-descent-into-madness-48e5b3839730&source=---recommended_stories---typescript---0-84----------------bookmark_preview----709484d3_809a_4087_a599_9f1ba7b679e1-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F31667b55c55d&operation=register&redirect=https%3A%2F%2Fmedium.com%2Fnamilink%2Fmaking-apache-airflow-more-accessible-31667b55c55d&source=---recommended_stories---frontend---0-84----------------bookmark_preview----8ed51ccf_beea_44dd_a1b4_1f80a53f1f33-------) 
 
 ### 나보다 더 뛰어난 시니어 엔지니어를 이끄는 방법 
 
