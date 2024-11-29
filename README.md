@@ -1,41 +1,41 @@
 # 오늘의 포스팅 
-2024년 11월 28일 9시 기준 
+2024년 11월 29일 9시 기준 
 
-### **The Affect of Social Media on Mental Health** 
+### How ChatGPT Fixed ChatGPT: Enabling Page Down And Page Up Support 
 
- The Affect of Social Media on Mental Health... 
+ I don’t know if anyone else has this problem, but when I use ChatGPT in Chrome, I can’t use Page Up ... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F327368c693f3&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40muhammadanas_38611%2Fthe-affect-of-social-media-on-mental-health-327368c693f3&source=---recommended_stories---react---0-84----------------bookmark_preview----276bc7dc_a9b8_46bb_bbff_fffade6ce3a8-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F649a3def121e&operation=register&redirect=https%3A%2F%2Ftomaszs2.medium.com%2Fhow-chatgpt-fixed-chatgpt-enabling-page-down-and-page-up-support-649a3def121e&source=---recommended_stories---javascript---0-84----------------bookmark_preview----36af3a39_0d44_4de2_8e4c_7f484214db53-------) 
 
-### Sampler Books on Sale, 2024 
+### _The Zesty Lemon: Unlocking its Secret History, Nutritional Benefits and Cultural Significance]] 
 
- Black Friday Deals from The Pragmatic Bookshelf... 
+ Lemon 🍋... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F0c8081cbdaf8&operation=register&redirect=https%3A%2F%2Fmedium.com%2Fpragmatic-programmers%2Fsampler-books-on-sale-2024-0c8081cbdaf8&source=---recommended_stories---javascript---0-84----------------bookmark_preview----9043f009_61c2_4a5d_bab6_5c9dc550bfa7-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F46db5f141cf8&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40ansarking8040%2Fthe-zesty-lemon-unlocking-its-secret-history-nutritional-benefits-and-cultural-significance-46db5f141cf8&source=---recommended_stories---typescript---0-84----------------bookmark_preview----a6defbbd_ee06_4a09_8f75_04cb6160d989-------) 
 
-### MonoRepos powered by Turborepo 
+### Diving into Javascript #2: Event Loop 
 
- A technical overview about the way we started using Monorepo’s, their benefits and some of the chall... 
+ Welcome to ‘Diving into Javascript’, a series dedicated to exploring and understanding the deeper co... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F3f22d39c3d28&operation=register&redirect=https%3A%2F%2Fmedium.com%2Fopenunisau-engineering%2Fmonorepos-powered-by-turborepo-3f22d39c3d28&source=---recommended_stories---typescript---0-84----------------bookmark_preview----3c7a031f_f64f_473a_bd16_464c580c5eb5-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F646d7a5504c0&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40yep35%2Fdiving-into-javascript-event-loop-646d7a5504c0&source=---recommended_stories---frontend---0-84----------------bookmark_preview----8b3db22c_2ec8_4835_b91a_7176d8518bd8-------) 
 
-### Making Apache Airflow More Accessible 
+### ReactJS and Higher-Order Functions: A Beginner’s Guide with Easy Analogies. 
 
- A Colorblind-Friendly Task Status Enhancement... 
+ If you’re stepping into ReactJS, you’ve likely heard the term higher-order functions (HOFs). It migh... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F31667b55c55d&operation=register&redirect=https%3A%2F%2Fmedium.com%2Fnamilink%2Fmaking-apache-airflow-more-accessible-31667b55c55d&source=---recommended_stories---frontend---0-84----------------bookmark_preview----8ed51ccf_beea_44dd_a1b4_1f80a53f1f33-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F08e0a4e1b35b&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40skylar_lorena%2Freactjs-and-higher-order-functions-a-beginners-guide-with-easy-analogies-08e0a4e1b35b&source=---recommended_stories---reactjs---0-84----------------bookmark_preview----1f12f053_9919_4eca_a1d2_1eb9e13e925c-------) 
 
-### 나보다 더 뛰어난 시니어 엔지니어를 이끄는 방법 
+### 랭체인으로 LLM 토큰 한도를 처리하는 3가지 전략 
 
- 엔지니어링 리더의 중요한 책임 중 하나는 팀원들이 스스로 성장할 수 있도록 돕는 것입니다. 지식과 경험이 풍부한 엔지니어들로 구성된 고성과(high-performing) 팀을 육성... 
+ 모든 LLM에는 토큰 한도가 미리 정해져 있죠, 아키텍처에 관계없이요. 보통 한 번의 상호작용에서 처리할 수 있는 토큰의 최대 개수가 있습니다. 현재 대부분 LLM은 토큰 한도를 ... 
 
- [바로가기](https://yozm.wishket.com/magazine/detail/2864/) 
+ [바로가기](https://yozm.wishket.com/magazine/detail/2868/) 
 
-### 코드 작성 시간 절반으로 줄여줄 5가지 개발 툴 
+### 자율보안체계, 핵심으로 바로 들어가시죠 
 
- 여러분은 매일 코드 작성과 디버깅에 얼마나 많은 시간을 소비하나요? 지금부터 소개해 드릴 AI와 자동화 툴 5가지만 제대로 활용해도 그 시간을 절반으로 줄일 수 있습니다. 개발자의... 
+ 지난 2024년 8월, 금융위원회가 『금융분야 망분리 개선 로드맵』을 발표했습니다. 망분리 규제 개선과 함께, 또 하나 눈길을 끈 것은 ‘자율보안체계’입니다. 로드맵에 따르면 금융... 
 
- [바로가기](https://yozm.wishket.com/magazine/detail/2863/) 
+ [바로가기](https://yozm.wishket.com/magazine/detail/2867/) 
 
 ---
 
