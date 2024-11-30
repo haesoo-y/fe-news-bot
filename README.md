@@ -1,41 +1,41 @@
 # 오늘의 포스팅 
-2024년 11월 29일 9시 기준 
+2024년 11월 30일 9시 기준 
 
-### How ChatGPT Fixed ChatGPT: Enabling Page Down And Page Up Support 
+### The power of Injection Context in Angular 
 
- I don’t know if anyone else has this problem, but when I use ChatGPT in Chrome, I can’t use Page Up ... 
+ In this article, I talk about the features of Injection Context and show some common cases in our pr... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F649a3def121e&operation=register&redirect=https%3A%2F%2Ftomaszs2.medium.com%2Fhow-chatgpt-fixed-chatgpt-enabling-page-down-and-page-up-support-649a3def121e&source=---recommended_stories---javascript---0-84----------------bookmark_preview----36af3a39_0d44_4de2_8e4c_7f484214db53-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F41460d423c1a&operation=register&redirect=https%3A%2F%2Fmedium.com%2Fits-tinkoff%2Fthe-power-of-injection-context-in-angular-41460d423c1a&source=---recommended_stories---typescript---0-84----------------bookmark_preview----a5839b72_e89f_4039_8726_e1a5e28d7911-------) 
 
-### _The Zesty Lemon: Unlocking its Secret History, Nutritional Benefits and Cultural Significance]] 
+### Making Apache Airflow More Accessible 
 
- Lemon 🍋... 
+ A Colorblind-Friendly Task Status Enhancement... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F46db5f141cf8&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40ansarking8040%2Fthe-zesty-lemon-unlocking-its-secret-history-nutritional-benefits-and-cultural-significance-46db5f141cf8&source=---recommended_stories---typescript---0-84----------------bookmark_preview----a6defbbd_ee06_4a09_8f75_04cb6160d989-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F31667b55c55d&operation=register&redirect=https%3A%2F%2Fmedium.com%2Fnamilink%2Fmaking-apache-airflow-more-accessible-31667b55c55d&source=---recommended_stories---frontend---0-84----------------bookmark_preview----6b505182_b728_44db_aa44_1154c5d8e843-------) 
 
-### Diving into Javascript #2: Event Loop 
+### Essential Questions to Ask Before Hiring a ReactJS Developer 🤔💼 
 
- Welcome to ‘Diving into Javascript’, a series dedicated to exploring and understanding the deeper co... 
+ When businesses seek to hire a ReactJS developer, the process can be daunting due to the competitive... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F646d7a5504c0&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40yep35%2Fdiving-into-javascript-event-loop-646d7a5504c0&source=---recommended_stories---frontend---0-84----------------bookmark_preview----8b3db22c_2ec8_4835_b91a_7176d8518bd8-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fc730451bcbc8&operation=register&redirect=https%3A%2F%2Fblog.stackademic.com%2Fessential-questions-to-ask-before-hiring-a-reactjs-developer-c730451bcbc8&source=---recommended_stories---reactjs---0-84----------------bookmark_preview----fb93e5e5_625d_48e8_9b8d_50031d4bf8e8-------) 
 
-### ReactJS and Higher-Order Functions: A Beginner’s Guide with Easy Analogies. 
+### How to Create a Conversational AI Voice Agent with OpenAI Realtime API A Step-by-Step Guide for… 
 
- If you’re stepping into ReactJS, you’ve likely heard the term higher-order functions (HOFs). It migh... 
+ Building a conversational AI voice agent has become incredibly accessible thanks to OpenAI’s real-ti... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F08e0a4e1b35b&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40skylar_lorena%2Freactjs-and-higher-order-functions-a-beginners-guide-with-easy-analogies-08e0a4e1b35b&source=---recommended_stories---reactjs---0-84----------------bookmark_preview----1f12f053_9919_4eca_a1d2_1eb9e13e925c-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Ffa879dd6743c&operation=register&redirect=https%3A%2F%2Flonare.medium.com%2Fhow-to-create-a-conversational-ai-voice-agent-with-openai-realtime-api-a-step-by-step-guide-for-fa879dd6743c&source=---recommended_stories---nextjs---0-84----------------bookmark_preview----62defc52_0faa_4f13_b812_5fe31b5ba247-------) 
+
+### 개발자 영어 공부, 제대로 다시 시작하는 법 
+
+ 손 놓고 있던 영어 공부, 다시 시작하려면 어떻게 해야 할까요? 막막한 개발자들을 위해 지난 10년간 다국적 IT 기업에서 고군분투하며 얻은 경험과 깨달음을 공유합니다. 우선 우리... 
+
+ [바로가기](https://yozm.wishket.com/magazine/detail/2869/) 
 
 ### 랭체인으로 LLM 토큰 한도를 처리하는 3가지 전략 
 
  모든 LLM에는 토큰 한도가 미리 정해져 있죠, 아키텍처에 관계없이요. 보통 한 번의 상호작용에서 처리할 수 있는 토큰의 최대 개수가 있습니다. 현재 대부분 LLM은 토큰 한도를 ... 
 
  [바로가기](https://yozm.wishket.com/magazine/detail/2868/) 
-
-### 자율보안체계, 핵심으로 바로 들어가시죠 
-
- 지난 2024년 8월, 금융위원회가 『금융분야 망분리 개선 로드맵』을 발표했습니다. 망분리 규제 개선과 함께, 또 하나 눈길을 끈 것은 ‘자율보안체계’입니다. 로드맵에 따르면 금융... 
-
- [바로가기](https://yozm.wishket.com/magazine/detail/2867/) 
 
 ---
 
