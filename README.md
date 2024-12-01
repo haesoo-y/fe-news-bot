@@ -1,29 +1,29 @@
 # 오늘의 포스팅 
-2024년 11월 30일 9시 기준 
+2024년 12월 1일 9시 기준 
 
-### The power of Injection Context in Angular 
+### Ng-News 24/47: Angular 19 
 
- In this article, I talk about the features of Injection Context and show some common cases in our pr... 
+ Angular 19 has been released!... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F41460d423c1a&operation=register&redirect=https%3A%2F%2Fmedium.com%2Fits-tinkoff%2Fthe-power-of-injection-context-in-angular-41460d423c1a&source=---recommended_stories---typescript---0-84----------------bookmark_preview----a5839b72_e89f_4039_8726_e1a5e28d7911-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F2df662a8a96a&operation=register&redirect=https%3A%2F%2Fmedium.com%2Fng-news%2Fng-news-24-47-angular-19-2df662a8a96a&source=---recommended_stories---frontend---0-84----------------bookmark_preview----83630d0c_287f_4c31_89bd_b2f269956e5f-------) 
 
-### Making Apache Airflow More Accessible 
+### Understanding useEffect: From Zero to Hero in React 
 
- A Colorblind-Friendly Task Status Enhancement... 
+ ... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F31667b55c55d&operation=register&redirect=https%3A%2F%2Fmedium.com%2Fnamilink%2Fmaking-apache-airflow-more-accessible-31667b55c55d&source=---recommended_stories---frontend---0-84----------------bookmark_preview----6b505182_b728_44db_aa44_1154c5d8e843-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F501c0e70117e&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40tharuneniyan%2Funderstanding-useeffect-from-zero-to-hero-in-react-501c0e70117e&source=---recommended_stories---reactjs---0-84----------------bookmark_preview----71ebaff2_9104_4cd7_bfe6_ae263471ff4e-------) 
 
-### Essential Questions to Ask Before Hiring a ReactJS Developer 🤔💼 
+### 5 Best Email Services for Next.js in 2025 
 
- When businesses seek to hire a ReactJS developer, the process can be daunting due to the competitive... 
+ Sending emails from a Next.js app is simple when you choose the right email services provider for Ne... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fc730451bcbc8&operation=register&redirect=https%3A%2F%2Fblog.stackademic.com%2Fessential-questions-to-ask-before-hiring-a-reactjs-developer-c730451bcbc8&source=---recommended_stories---reactjs---0-84----------------bookmark_preview----fb93e5e5_625d_48e8_9b8d_50031d4bf8e8-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F9fca1c3665d4&operation=register&redirect=https%3A%2F%2Fmedium.com%2Fstartup-nextjs%2F5-best-email-services-for-next-js-in-2025-9fca1c3665d4&source=---recommended_stories---nextjs---0-84----------------bookmark_preview----521aa2f7_4c2f_4387_81c2_30315b7985cd-------) 
 
-### How to Create a Conversational AI Voice Agent with OpenAI Realtime API A Step-by-Step Guide for… 
+### Angular 19: A Game Changer in Web Development 
 
- Building a conversational AI voice agent has become incredibly accessible thanks to OpenAI’s real-ti... 
+ Angular 19 introduces exciting features and upgrades, making it easier and faster to develop modern ... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Ffa879dd6743c&operation=register&redirect=https%3A%2F%2Flonare.medium.com%2Fhow-to-create-a-conversational-ai-voice-agent-with-openai-realtime-api-a-step-by-step-guide-for-fa879dd6743c&source=---recommended_stories---nextjs---0-84----------------bookmark_preview----62defc52_0faa_4f13_b812_5fe31b5ba247-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F327767e38134&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40habeebrahmanca22%2Fangular-19-a-game-changer-in-web-development-327767e38134&source=---recommended_stories---front_end_development---0-84----------------bookmark_preview----340c0523_2dc3_491e_9ca8_103f76dbdebd-------) 
 
 ### 개발자 영어 공부, 제대로 다시 시작하는 법 
 
