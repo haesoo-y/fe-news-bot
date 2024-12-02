@@ -1,41 +1,41 @@
 # 오늘의 포스팅 
-2024년 12월 1일 9시 기준 
+2024년 12월 2일 9시 기준 
 
-### Ng-News 24/47: Angular 19 
+### Next.js API Management: Implement Search, Pagination, Filter, Sort, and Limit Features 
 
- Angular 19 has been released!... 
+ In this article, I want to share how I handle APIs in a Next.js application, including fetching data... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F2df662a8a96a&operation=register&redirect=https%3A%2F%2Fmedium.com%2Fng-news%2Fng-news-24-47-angular-19-2df662a8a96a&source=---recommended_stories---frontend---0-84----------------bookmark_preview----83630d0c_287f_4c31_89bd_b2f269956e5f-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F61e001293141&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40rifkyalfarez%2Fnext-js-api-management-implement-search-pagination-filter-sort-and-limit-features-61e001293141&source=---recommended_stories---reactjs---0-84----------------bookmark_preview----a19bfeea_0146_4d78_8775_a617f322bff7-------) 
 
-### Understanding useEffect: From Zero to Hero in React 
+### Next.js vs React.js: Which One Should You Choose for Your Side Project? 
 
- ... 
+ If you’re a beginner web developer creating a side hustle project or prototyping an idea, at some po... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F501c0e70117e&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40tharuneniyan%2Funderstanding-useeffect-from-zero-to-hero-in-react-501c0e70117e&source=---recommended_stories---reactjs---0-84----------------bookmark_preview----71ebaff2_9104_4cd7_bfe6_ae263471ff4e-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F4fe22ddc0320&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40evicky2002%2Fnext-js-vs-react-js-which-one-should-you-choose-for-your-side-project-4fe22ddc0320&source=---recommended_stories---nextjs---0-84----------------bookmark_preview----917c51f8_6be3_4fef_84b0_03d077bf4f4f-------) 
 
-### 5 Best Email Services for Next.js in 2025 
+### How Developer Tools Help You Work Faster and Smarter 
 
- Sending emails from a Next.js app is simple when you choose the right email services provider for Ne... 
+ If you’ve ever written a piece of code, you’ve probably faced moments of frustration — hunting for b... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F9fca1c3665d4&operation=register&redirect=https%3A%2F%2Fmedium.com%2Fstartup-nextjs%2F5-best-email-services-for-next-js-in-2025-9fca1c3665d4&source=---recommended_stories---nextjs---0-84----------------bookmark_preview----521aa2f7_4c2f_4387_81c2_30315b7985cd-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F9af272c1e465&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40Saidat-Taiwo%2Fhow-developer-tools-help-you-work-faster-and-smarter-9af272c1e465&source=---recommended_stories---front_end_development---0-84----------------bookmark_preview----d8cbec28_b7d0_4208_9848_33f8d35b603d-------) 
 
-### Angular 19: A Game Changer in Web Development 
+### **The Influence of Social Media on Mental Health** 
 
- Angular 19 introduces exciting features and upgrades, making it easier and faster to develop modern ... 
+ The Influence of Social Media on Mental Health... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F327767e38134&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40habeebrahmanca22%2Fangular-19-a-game-changer-in-web-development-327767e38134&source=---recommended_stories---front_end_development---0-84----------------bookmark_preview----340c0523_2dc3_491e_9ca8_103f76dbdebd-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F3c449cb07ba1&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40muhammadanas_38611%2Fthe-influence-of-social-media-on-mental-health-3c449cb07ba1&source=---recommended_stories---react---0-84----------------bookmark_preview----feb5d368_2acf_40e5_a47b_1602b6a2d5d7-------) 
+
+### 대기업 주니어 개발자의 기술사 도전기 
+
+ 정보처리기사, SQLD, ADsP, CKA, AWS 자격증 등 IT분야에는 수많은 자격증이 있습니다. 시작은 어렵지만 대체로 3개월 이내에 자격을 취득할 수 있습니다. 반면에, 자... 
+
+ [바로가기](https://yozm.wishket.com/magazine/detail/2870/) 
 
 ### 개발자 영어 공부, 제대로 다시 시작하는 법 
 
  손 놓고 있던 영어 공부, 다시 시작하려면 어떻게 해야 할까요? 막막한 개발자들을 위해 지난 10년간 다국적 IT 기업에서 고군분투하며 얻은 경험과 깨달음을 공유합니다. 우선 우리... 
 
  [바로가기](https://yozm.wishket.com/magazine/detail/2869/) 
-
-### 랭체인으로 LLM 토큰 한도를 처리하는 3가지 전략 
-
- 모든 LLM에는 토큰 한도가 미리 정해져 있죠, 아키텍처에 관계없이요. 보통 한 번의 상호작용에서 처리할 수 있는 토큰의 최대 개수가 있습니다. 현재 대부분 LLM은 토큰 한도를 ... 
-
- [바로가기](https://yozm.wishket.com/magazine/detail/2868/) 
 
 ---
 
