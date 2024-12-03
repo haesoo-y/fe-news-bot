@@ -1,41 +1,41 @@
 # 오늘의 포스팅 
-2024년 12월 2일 9시 기준 
+2024년 12월 3일 9시 기준 
 
-### Next.js API Management: Implement Search, Pagination, Filter, Sort, and Limit Features 
+### Ever heard of the Justin Bieber problem in Instagram database queries? 
 
- In this article, I want to share how I handle APIs in a Next.js application, including fetching data... 
+ Picture this: Justin Bieber drops a post on Instagram, and 𝘉𝘖𝘖𝘔! 💥 Millions of likes, comments,... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F61e001293141&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40rifkyalfarez%2Fnext-js-api-management-implement-search-pagination-filter-sort-and-limit-features-61e001293141&source=---recommended_stories---reactjs---0-84----------------bookmark_preview----a19bfeea_0146_4d78_8775_a617f322bff7-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F9e974b42238b&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40surksha8%2Fever-heard-of-the-justin-bieber-problem-in-instagram-database-queries-9e974b42238b&source=---recommended_stories---nextjs---0-84----------------bookmark_preview----56637475_227f_4761_a138_bbb37ede7725-------) 
 
-### Next.js vs React.js: Which One Should You Choose for Your Side Project? 
+### Modern Credit Card UI app with Zoneless Angular and the CSS @property 
 
- If you’re a beginner web developer creating a side hustle project or prototyping an idea, at some po... 
+ As frontend developers, we’re always looking for innovative ways to deliver seamless and visually ap... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F4fe22ddc0320&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40evicky2002%2Fnext-js-vs-react-js-which-one-should-you-choose-for-your-side-project-4fe22ddc0320&source=---recommended_stories---nextjs---0-84----------------bookmark_preview----917c51f8_6be3_4fef_84b0_03d077bf4f4f-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F6b2d76cef2c1&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40monsieur_ricky%2Fmodern-credit-card-ui-app-with-zoneless-angular-and-the-css-property-6b2d76cef2c1&source=---recommended_stories---front_end_development---0-84----------------bookmark_preview----b82b3143_3e49_4e40_ad09_a2563cbe1139-------) 
 
-### How Developer Tools Help You Work Faster and Smarter 
+### Why I’m Starting Craftify: A New Hobby Project Journey 
 
- If you’ve ever written a piece of code, you’ve probably faced moments of frustration — hunting for b... 
+ Let’s build with Craftify... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F9af272c1e465&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40Saidat-Taiwo%2Fhow-developer-tools-help-you-work-faster-and-smarter-9af272c1e465&source=---recommended_stories---front_end_development---0-84----------------bookmark_preview----d8cbec28_b7d0_4208_9848_33f8d35b603d-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F32014a73b2e0&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40franciscocguerrero%2Fwhy-im-starting-craftify-a-new-hobby-project-journey-32014a73b2e0&source=---recommended_stories---react---0-84----------------bookmark_preview----ebc3b70b_77b1_434a_ad89_f1a3bcca5d3d-------) 
 
-### **The Influence of Social Media on Mental Health** 
+### Frontend Weekly Digest #390 (25–30 November 2024) 
 
- The Influence of Social Media on Mental Health... 
+ Web-development... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F3c449cb07ba1&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40muhammadanas_38611%2Fthe-influence-of-social-media-on-mental-health-3c449cb07ba1&source=---recommended_stories---react---0-84----------------bookmark_preview----feb5d368_2acf_40e5_a47b_1602b6a2d5d7-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F27435da7ebef&operation=register&redirect=https%3A%2F%2Ffrontender-ua.medium.com%2Ffrontend-weekly-digest-390-25-30-november-2024-27435da7ebef&source=---recommended_stories---javascript---0-84----------------bookmark_preview----3c3126a3_c845_4a3e_9e17_a1c4cdb29be8-------) 
 
-### 대기업 주니어 개발자의 기술사 도전기 
+### 파이썬 3.13 성능 향상 완전 정복: Free-Threading 
 
- 정보처리기사, SQLD, ADsP, CKA, AWS 자격증 등 IT분야에는 수많은 자격증이 있습니다. 시작은 어렵지만 대체로 3개월 이내에 자격을 취득할 수 있습니다. 반면에, 자... 
+ 지난 10월에 출시된 파이썬 3.13은 최근 릴리스 중에서도 성능 향상에 가장 큰 중점을 둔 버전입니다. 릴리스 노트를 살펴보면 성능에 큰 영향을 미칠 수 있는 주요 변경 사항들이... 
 
- [바로가기](https://yozm.wishket.com/magazine/detail/2870/) 
+ [바로가기](https://yozm.wishket.com/magazine/detail/2872/) 
 
-### 개발자 영어 공부, 제대로 다시 시작하는 법 
+### DDD Seoul 2024: 첫 번째 아시아 DDD는 어떨까? 
 
- 손 놓고 있던 영어 공부, 다시 시작하려면 어떻게 해야 할까요? 막막한 개발자들을 위해 지난 10년간 다국적 IT 기업에서 고군분투하며 얻은 경험과 깨달음을 공유합니다. 우선 우리... 
+ 마이크로소프트(Microsoft)는 단순히 소프트웨어를 제공하는 기업을 넘어, 개발자와 가장 밀접하게 연결된 곳이기도 한데요. ‘DDD(Developer! Developer! De... 
 
- [바로가기](https://yozm.wishket.com/magazine/detail/2869/) 
+ [바로가기](https://yozm.wishket.com/magazine/detail/2871/) 
 
 ---
 
