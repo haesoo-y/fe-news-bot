@@ -1,17 +1,11 @@
 # 오늘의 포스팅 
-2024년 12월 3일 9시 기준 
+2024년 12월 4일 9시 기준 
 
-### Ever heard of the Justin Bieber problem in Instagram database queries? 
+### Are Frontend Developers Becoming Full-Stack as Backend Shifts to DevOps? 
 
- Picture this: Justin Bieber drops a post on Instagram, and 𝘉𝘖𝘖𝘔! 💥 Millions of likes, comments,... 
+ Over the years, JavaScript and its frameworks have evolved significantly. However, in the last three... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F9e974b42238b&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40surksha8%2Fever-heard-of-the-justin-bieber-problem-in-instagram-database-queries-9e974b42238b&source=---recommended_stories---nextjs---0-84----------------bookmark_preview----56637475_227f_4761_a138_bbb37ede7725-------) 
-
-### Modern Credit Card UI app with Zoneless Angular and the CSS @property 
-
- As frontend developers, we’re always looking for innovative ways to deliver seamless and visually ap... 
-
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F6b2d76cef2c1&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40monsieur_ricky%2Fmodern-credit-card-ui-app-with-zoneless-angular-and-the-css-property-6b2d76cef2c1&source=---recommended_stories---front_end_development---0-84----------------bookmark_preview----b82b3143_3e49_4e40_ad09_a2563cbe1139-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fd6aeea66ba3f&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40nourhansaed6%2Fare-frontend-developers-becoming-full-stack-as-backend-shifts-to-devops-d6aeea66ba3f&source=---recommended_stories---front_end_development---0-84----------------bookmark_preview----cefbf037_e7b9_45c5_a9e3_b944730cd437-------) 
 
 ### Why I’m Starting Craftify: A New Hobby Project Journey 
 
@@ -23,7 +17,13 @@
 
  Web-development... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F27435da7ebef&operation=register&redirect=https%3A%2F%2Ffrontender-ua.medium.com%2Ffrontend-weekly-digest-390-25-30-november-2024-27435da7ebef&source=---recommended_stories---javascript---0-84----------------bookmark_preview----3c3126a3_c845_4a3e_9e17_a1c4cdb29be8-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F27435da7ebef&operation=register&redirect=https%3A%2F%2Ffrontender-ua.medium.com%2Ffrontend-weekly-digest-390-25-30-november-2024-27435da7ebef&source=---recommended_stories---javascript---0-84----------------bookmark_preview----9d0abaec_60c7_4b40_9190_ed435465939f-------) 
+
+### Exploring Angular 19 Render Modes: Seamless Client, Server, and Pre-rendering Strategies 
+
+ Angular 19 introduces a refined and powerful approach to rendering with the RenderMode feature. By l... 
+
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fbe4ed0c57d09&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40sausi%2Fexploring-angular-19-render-modes-seamless-client-server-and-pre-rendering-strategies-be4ed0c57d09&source=---recommended_stories---typescript---0-84----------------bookmark_preview----45e4c1ba_4e4f_461b_bda5_e9d88904f89f-------) 
 
 ### 파이썬 3.13 성능 향상 완전 정복: Free-Threading 
 
