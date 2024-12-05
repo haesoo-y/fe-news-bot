@@ -1,29 +1,29 @@
 # 오늘의 포스팅 
-2024년 12월 4일 9시 기준 
+2024년 12월 5일 9시 기준 
+
+### Mastering Client-Side Data Fetching in Next.js with SWR. 
+
+ Building a robust React or Next.js project comes with its own set of challenges, especially when fet... 
+
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Faa125191681a&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40shubhamsrmn%2Fmastering-client-side-data-fetching-in-next-js-with-swr-aa125191681a&source=---recommended_stories---react---0-84----------------bookmark_preview----480ebbf5_b900_4de7_9011_742174aa775c-------) 
 
 ### Are Frontend Developers Becoming Full-Stack as Backend Shifts to DevOps? 
 
  Over the years, JavaScript and its frameworks have evolved significantly. However, in the last three... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fd6aeea66ba3f&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40nourhansaed6%2Fare-frontend-developers-becoming-full-stack-as-backend-shifts-to-devops-d6aeea66ba3f&source=---recommended_stories---front_end_development---0-84----------------bookmark_preview----cefbf037_e7b9_45c5_a9e3_b944730cd437-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fd6aeea66ba3f&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40nourhansaed6%2Fare-frontend-developers-becoming-full-stack-as-backend-shifts-to-devops-d6aeea66ba3f&source=---recommended_stories---javascript---0-84----------------bookmark_preview----43799e50_f5bb_4123_b6d2_6a656cbf1bb0-------) 
 
-### Why I’m Starting Craftify: A New Hobby Project Journey 
+### Angular Directives: What, Why, When, and How (2025 Edition) 
 
- Let’s build with Craftify... 
+ Discover the latest guide on Angular Directives with real-world examples, best practices, and tips f... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F32014a73b2e0&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40franciscocguerrero%2Fwhy-im-starting-craftify-a-new-hobby-project-journey-32014a73b2e0&source=---recommended_stories---react---0-84----------------bookmark_preview----ebc3b70b_77b1_434a_ad89_f1a3bcca5d3d-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fcd08dbac2f24&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40sehban.alam%2Fangular-directives-what-why-when-and-how-2025-edition-cd08dbac2f24&source=---recommended_stories---typescript---0-84----------------bookmark_preview----bfa90e1b_1c31_4c28_bfef_4dbc77ed41b7-------) 
 
-### Frontend Weekly Digest #390 (25–30 November 2024) 
+### Designing a Modern Video Streaming Application: A Comprehensive Guide 
 
- Web-development... 
+ Building a video streaming application like Netflix, YouTube, or Hulu is both challenging and reward... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F27435da7ebef&operation=register&redirect=https%3A%2F%2Ffrontender-ua.medium.com%2Ffrontend-weekly-digest-390-25-30-november-2024-27435da7ebef&source=---recommended_stories---javascript---0-84----------------bookmark_preview----9d0abaec_60c7_4b40_9190_ed435465939f-------) 
-
-### Exploring Angular 19 Render Modes: Seamless Client, Server, and Pre-rendering Strategies 
-
- Angular 19 introduces a refined and powerful approach to rendering with the RenderMode feature. By l... 
-
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fbe4ed0c57d09&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40sausi%2Fexploring-angular-19-render-modes-seamless-client-server-and-pre-rendering-strategies-be4ed0c57d09&source=---recommended_stories---typescript---0-84----------------bookmark_preview----45e4c1ba_4e4f_461b_bda5_e9d88904f89f-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F21562c38e303&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40satish789748%2Fdesigning-a-modern-video-streaming-application-a-comprehensive-guide-21562c38e303&source=---recommended_stories---frontend---0-84----------------bookmark_preview----9b0c62cd_3d20_4b12_96c8_46bf280f0b45-------) 
 
 ### 파이썬 3.13 성능 향상 완전 정복: Free-Threading 
 
