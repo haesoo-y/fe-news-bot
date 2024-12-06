@@ -1,41 +1,41 @@
 # 오늘의 포스팅 
-2024년 12월 5일 9시 기준 
+2024년 12월 6일 9시 기준 
 
-### Mastering Client-Side Data Fetching in Next.js with SWR. 
+### A leap in the evolution of Airtable’s codebase: Scaling TypeScript to thousands of projects 
 
- Building a robust React or Next.js project comes with its own set of challenges, especially when fet... 
+ By: Michael Mitchell, Patrick Hayes... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Faa125191681a&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40shubhamsrmn%2Fmastering-client-side-data-fetching-in-next-js-with-swr-aa125191681a&source=---recommended_stories---react---0-84----------------bookmark_preview----480ebbf5_b900_4de7_9011_742174aa775c-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F734326c3a553&operation=register&redirect=https%3A%2F%2Fmedium.com%2Fairtable-eng%2Fa-leap-in-the-evolution-of-airtables-codebase-scaling-typescript-to-thousands-of-projects-734326c3a553&source=---recommended_stories---javascript---0-84----------------bookmark_preview----d41f5a67_e330_4c7d_8901_3dcb9931353b-------) 
 
-### Are Frontend Developers Becoming Full-Stack as Backend Shifts to DevOps? 
+### A leap in the evolution of Airtable’s codebase: Scaling TypeScript to thousands of projects 
 
- Over the years, JavaScript and its frameworks have evolved significantly. However, in the last three... 
+ By: Michael Mitchell, Patrick Hayes... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fd6aeea66ba3f&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40nourhansaed6%2Fare-frontend-developers-becoming-full-stack-as-backend-shifts-to-devops-d6aeea66ba3f&source=---recommended_stories---javascript---0-84----------------bookmark_preview----43799e50_f5bb_4123_b6d2_6a656cbf1bb0-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F734326c3a553&operation=register&redirect=https%3A%2F%2Fmedium.com%2Fairtable-eng%2Fa-leap-in-the-evolution-of-airtables-codebase-scaling-typescript-to-thousands-of-projects-734326c3a553&source=---recommended_stories---typescript---0-84----------------bookmark_preview----08b0d846_b707_4fbd_a81f_12325c2e0380-------) 
 
-### Angular Directives: What, Why, When, and How (2025 Edition) 
+### The Art of Clear Errors: 3 Steps to Build Robust React Error Handling 
 
- Discover the latest guide on Angular Directives with real-world examples, best practices, and tips f... 
+ Create a type-safe error handling system for React apps with custom errors and clear user feedback.... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fcd08dbac2f24&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40sehban.alam%2Fangular-directives-what-why-when-and-how-2025-edition-cd08dbac2f24&source=---recommended_stories---typescript---0-84----------------bookmark_preview----bfa90e1b_1c31_4c28_bfef_4dbc77ed41b7-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F161e79f43ac0&operation=register&redirect=https%3A%2F%2Fjavascript.plainenglish.io%2Fthe-art-of-clear-errors-3-steps-to-build-robust-react-error-handling-161e79f43ac0&source=---recommended_stories---frontend---0-84----------------bookmark_preview----1355dd90_0d1a_4ee8_9e07_2b6ba19daf20-------) 
 
-### Designing a Modern Video Streaming Application: A Comprehensive Guide 
+### React Best Practices Ever Developer Should Know 
 
- Building a video streaming application like Netflix, YouTube, or Hulu is both challenging and reward... 
+ In this story, we will understand which best practices we need to follow to become a good developer ... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F21562c38e303&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40satish789748%2Fdesigning-a-modern-video-streaming-application-a-comprehensive-guide-21562c38e303&source=---recommended_stories---frontend---0-84----------------bookmark_preview----9b0c62cd_3d20_4b12_96c8_46bf280f0b45-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fbabd6d5a1805&operation=register&redirect=https%3A%2F%2Fblog.stackademic.com%2Freact-best-practices-ever-developer-should-know-babd6d5a1805&source=---recommended_stories---reactjs---0-84----------------bookmark_preview----925e2647_76da_4ef4_a6ff_a7f1d0cb7dcc-------) 
 
-### 파이썬 3.13 성능 향상 완전 정복: Free-Threading 
+### 랭체인으로 LLM에 기억을 만들어 주는 방법 
 
- 지난 10월에 출시된 파이썬 3.13은 최근 릴리스 중에서도 성능 향상에 가장 큰 중점을 둔 버전입니다. 릴리스 노트를 살펴보면 성능에 큰 영향을 미칠 수 있는 주요 변경 사항들이... 
+ 이번에는 메모리에 관한 모든 것을 소개합니다. 정확히 말하면 ‘랭체인’에서의 메모리에 관한 것이죠. 상호참조해결(Coreference Resolution), 랭체인에서 메모리를 다... 
 
- [바로가기](https://yozm.wishket.com/magazine/detail/2872/) 
+ [바로가기](https://yozm.wishket.com/magazine/detail/2879/) 
 
-### DDD Seoul 2024: 첫 번째 아시아 DDD는 어떨까? 
+### 쉽고 편리한 E2E 테스트 자동화를 꿈꾸며 (2) 
 
- 마이크로소프트(Microsoft)는 단순히 소프트웨어를 제공하는 기업을 넘어, 개발자와 가장 밀접하게 연결된 곳이기도 한데요. ‘DDD(Developer! Developer! De... 
+ E2E 테스트의 중요한 마지막 단계인 모듈화를 통한 재사용, 나아가 Playwright를 다시 개선한 내용에 대해 알아보겠습니다. 모듈화 과정에서 저는 완전한 자동화를 위해 다양한... 
 
- [바로가기](https://yozm.wishket.com/magazine/detail/2871/) 
+ [바로가기](https://yozm.wishket.com/magazine/detail/2878/) 
 
 ---
 
