@@ -1,17 +1,11 @@
 # 오늘의 포스팅 
-2024년 12월 7일 9시 기준 
+2024년 12월 8일 9시 기준 
 
-### A leap in the evolution of Airtable’s codebase: Scaling TypeScript to thousands of projects 
+### Reactive Web Components Are Here 
 
- By: Michael Mitchell, Patrick Hayes... 
+ I love web components! Even better now with all the improvements they received over the last few yea... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F734326c3a553&operation=register&redirect=https%3A%2F%2Fmedium.com%2Fairtable-eng%2Fa-leap-in-the-evolution-of-airtables-codebase-scaling-typescript-to-thousands-of-projects-734326c3a553&source=---recommended_stories---typescript---0-84----------------bookmark_preview----2a471da0_bb7b_4e1c_8c04_1fe36c1b1bf0-------) 
-
-### The Art of Clear Errors: 3 Steps to Build Robust React Error Handling 
-
- Create a type-safe error handling system for React apps with custom errors and clear user feedback.... 
-
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F161e79f43ac0&operation=register&redirect=https%3A%2F%2Fjavascript.plainenglish.io%2Fthe-art-of-clear-errors-3-steps-to-build-robust-react-error-handling-161e79f43ac0&source=---recommended_stories---frontend---0-84----------------bookmark_preview----0b5f46d4_ecac_4323_87e5_4d8fa08e0505-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fad99c892962d&operation=register&redirect=https%3A%2F%2Fmedium.com%2Fbefore-semicolon%2Freactive-web-components-are-here-ad99c892962d&source=---recommended_stories---frontend---0-84----------------bookmark_preview----008c2efa_a8c3_4e50_a535_48a06cc84e1e-------) 
 
 ### React.js 30 Days Roadmap & Free Learning Resource 📍👇 
  
@@ -19,13 +13,19 @@
 
  📍Day 1: Introduction to React.js... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fbd0ae94525fd&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40nexusgktechnology%2Freact-js-30-days-roadmap-free-learning-resource-days-1-7-introduction-and-bd0ae94525fd&source=---recommended_stories---reactjs---0-84----------------bookmark_preview----d6124b19_d73d_453d_a42c_bd2eb8fea718-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fbd0ae94525fd&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40nexusgktechnology%2Freact-js-30-days-roadmap-free-learning-resource-days-1-7-introduction-and-bd0ae94525fd&source=---recommended_stories---reactjs---0-84----------------bookmark_preview----98b86e06_3a4f_4480_8f74_43797982b4e2-------) 
 
 ### Next.js vs. Spring Boot: A Modern Web Development Comparison 
 
  From Spring Boot to Next.js: A Developer’s Perspective... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F5a9c897ccad8&operation=register&redirect=https%3A%2F%2Fmedium.com%2Fandamp%2Fnext-js-vs-spring-boot-a-modern-web-development-comparison-5a9c897ccad8&source=---recommended_stories---nextjs---0-84----------------bookmark_preview----3812f3c2_1cfa_4f9d_b1c1_086ba5b55e69-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F5a9c897ccad8&operation=register&redirect=https%3A%2F%2Fmedium.com%2Fandamp%2Fnext-js-vs-spring-boot-a-modern-web-development-comparison-5a9c897ccad8&source=---recommended_stories---nextjs---0-84----------------bookmark_preview----460013e7_f629_4809_b7c5_d6268b573da6-------) 
+
+### CSS Variables vs. SASS Variables: Which Should You Use in 2025? 
+
+ In the world of web development, the debate between CSS variables and SASS variables has been quietl... 
+
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F6b9ceaba256a&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40asierr%2Fcss-variables-vs-sass-variables-which-should-you-use-in-2025-6b9ceaba256a&source=---recommended_stories---front_end_development---0-84----------------bookmark_preview----830c1379_2ad7_4347_a62f_28c010ae3c23-------) 
 
 ### 랭체인으로 LLM에 기억을 만들어 주는 방법 
 
