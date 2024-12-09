@@ -1,43 +1,41 @@
 # 오늘의 포스팅 
-2024년 12월 8일 9시 기준 
+2024년 12월 9일 9시 기준 
 
-### Reactive Web Components Are Here 
+### Top GitHub Tools This Week, #41 
 
- I love web components! Even better now with all the improvements they received over the last few yea... 
+ Empowering with Innovative and Adaptive Digital Tools... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fad99c892962d&operation=register&redirect=https%3A%2F%2Fmedium.com%2Fbefore-semicolon%2Freactive-web-components-are-here-ad99c892962d&source=---recommended_stories---frontend---0-84----------------bookmark_preview----008c2efa_a8c3_4e50_a535_48a06cc84e1e-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Ff419ec2c694c&operation=register&redirect=https%3A%2F%2Fmedium.com%2Fsourcescribes%2Ftop-github-tools-this-week-41-f419ec2c694c&source=---recommended_stories---reactjs---0-84----------------bookmark_preview----d21897fd_9ef6_45d0_a939_ee770a765e67-------) 
 
-### React.js 30 Days Roadmap & Free Learning Resource 📍👇 
- 
-👨🏻‍💻Days 1-7: Introduction and… 
+### A Beginner’s Guide to Setting Up a Next.js Project 
 
- 📍Day 1: Introduction to React.js... 
+ Note:- Read this article for free... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fbd0ae94525fd&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40nexusgktechnology%2Freact-js-30-days-roadmap-free-learning-resource-days-1-7-introduction-and-bd0ae94525fd&source=---recommended_stories---reactjs---0-84----------------bookmark_preview----98b86e06_3a4f_4480_8f74_43797982b4e2-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F63bd9b610818&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40rajanraj8979%2Fa-beginners-guide-to-setting-up-a-next-js-project-63bd9b610818&source=---recommended_stories---nextjs---0-84----------------bookmark_preview----3fd8d47c_9a37_4ca1_b1f8_54bc1bd51afe-------) 
 
-### Next.js vs. Spring Boot: A Modern Web Development Comparison 
+### Initial Steps before you start writing code for Frontend development 
 
- From Spring Boot to Next.js: A Developer’s Perspective... 
+ From planning to launch the 7 key steps in Frontend development ... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F5a9c897ccad8&operation=register&redirect=https%3A%2F%2Fmedium.com%2Fandamp%2Fnext-js-vs-spring-boot-a-modern-web-development-comparison-5a9c897ccad8&source=---recommended_stories---nextjs---0-84----------------bookmark_preview----460013e7_f629_4809_b7c5_d6268b573da6-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F72cb0ee7e91c&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40nodeninja%2Finitial-steps-before-you-start-writing-code-for-frontend-development-72cb0ee7e91c&source=---recommended_stories---front_end_development---0-84----------------bookmark_preview----526c7407_d74f_404e_b418_be7a265e4860-------) 
 
-### CSS Variables vs. SASS Variables: Which Should You Use in 2025? 
+###  
 
- In the world of web development, the debate between CSS variables and SASS variables has been quietl... 
+ ... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F6b9ceaba256a&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40asierr%2Fcss-variables-vs-sass-variables-which-should-you-use-in-2025-6b9ceaba256a&source=---recommended_stories---front_end_development---0-84----------------bookmark_preview----830c1379_2ad7_4347_a62f_28c010ae3c23-------) 
+ [바로가기](https://medium.comundefined) 
+
+### 기술사 준비 기간, 어디까지 알아보셨어요? 
+
+ 기술사 자격 취득을 목표로 신변 정리를 시작한 뒤, 학원에 처음 입성했던 날이 생각납니다. 다양한 연령대의 사람들이 큰 강의실에 빽빽이 들어앉아 있었죠. 모두 마스크를 쓰고 있음에... 
+
+ [바로가기](https://yozm.wishket.com/magazine/detail/2881/) 
 
 ### 랭체인으로 LLM에 기억을 만들어 주는 방법 
 
  이번에는 메모리에 관한 모든 것을 소개합니다. 정확히 말하면 ‘랭체인’에서의 메모리에 관한 것이죠. 상호참조해결(Coreference Resolution), 랭체인에서 메모리를 다... 
 
  [바로가기](https://yozm.wishket.com/magazine/detail/2879/) 
-
-### 쉽고 편리한 E2E 테스트 자동화를 꿈꾸며 (2) 
-
- E2E 테스트의 중요한 마지막 단계인 모듈화를 통한 재사용, 나아가 Playwright를 다시 개선한 내용에 대해 알아보겠습니다. 모듈화 과정에서 저는 완전한 자동화를 위해 다양한... 
-
- [바로가기](https://yozm.wishket.com/magazine/detail/2878/) 
 
 ---
 
