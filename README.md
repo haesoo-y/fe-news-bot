@@ -1,29 +1,29 @@
 # 오늘의 포스팅 
-2024년 12월 9일 9시 기준 
+2024년 12월 10일 9시 기준 
 
-### Top GitHub Tools This Week, #41 
+### Using Yup validations with AntD Forms in Next.js 15 
 
- Empowering with Innovative and Adaptive Digital Tools... 
+ Ant Design (AntD) is one of the most popular React UI libraries, offering a robust set of pre-built ... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Ff419ec2c694c&operation=register&redirect=https%3A%2F%2Fmedium.com%2Fsourcescribes%2Ftop-github-tools-this-week-41-f419ec2c694c&source=---recommended_stories---reactjs---0-84----------------bookmark_preview----d21897fd_9ef6_45d0_a939_ee770a765e67-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F18602af2db7e&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40vaibhav11t%2Fusing-yup-validations-with-antd-forms-in-next-js-15-18602af2db7e&source=---recommended_stories---nextjs---0-84----------------bookmark_preview----ff2bea10_1366_45f0_92eb_f9fa9ac66dfc-------) 
 
-### A Beginner’s Guide to Setting Up a Next.js Project 
+### Frontend Weekly Digest #391 (2–8 December 2024) 
 
- Note:- Read this article for free... 
+ Web-development... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F63bd9b610818&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40rajanraj8979%2Fa-beginners-guide-to-setting-up-a-next-js-project-63bd9b610818&source=---recommended_stories---nextjs---0-84----------------bookmark_preview----3fd8d47c_9a37_4ca1_b1f8_54bc1bd51afe-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F35fe18049f8d&operation=register&redirect=https%3A%2F%2Ffrontender-ua.medium.com%2Ffrontend-weekly-digest-391-2-8-december-2024-35fe18049f8d&source=---recommended_stories---front_end_development---0-84----------------bookmark_preview----559ff523_53f4_4eaf_b4e0_0d80681cda3f-------) 
 
-### Initial Steps before you start writing code for Frontend development 
+### MVVM in the Declarative UI Era: Still Relevant? 
 
- From planning to launch the 7 key steps in Frontend development ... 
+ Has MVVM outlived its purpose in today’s declarative UI era? Let’s see why it’s no longer a must — a... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F72cb0ee7e91c&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40nodeninja%2Finitial-steps-before-you-start-writing-code-for-frontend-development-72cb0ee7e91c&source=---recommended_stories---front_end_development---0-84----------------bookmark_preview----526c7407_d74f_404e_b418_be7a265e4860-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fef55088f407c&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40Yellowtoast%2Fmvvm-in-the-declarative-ui-era-still-relevant-ef55088f407c&source=---recommended_stories---react---0-84----------------bookmark_preview----9531d1ab_4c4c_4798_81bc_8d5b8527e317-------) 
 
-###  
+### Use alias to fetch related record attributes 
 
- ... 
+ Are you using multiple Xrm.WebApi.retrieve in JavaScript to fetch data from drill down related recor... 
 
- [바로가기](https://medium.comundefined) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fe8530bb99ca6&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40uthamreddy%2Fuse-alias-to-fetch-related-record-attributes-e8530bb99ca6&source=---recommended_stories---javascript---0-84----------------bookmark_preview----a241d2c0_63ea_4667_9e16_19908f821105-------) 
 
 ### 기술사 준비 기간, 어디까지 알아보셨어요? 
 
