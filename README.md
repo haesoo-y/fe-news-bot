@@ -1,41 +1,41 @@
 # 오늘의 포스팅 
-2024년 12월 10일 9시 기준 
-
-### Using Yup validations with AntD Forms in Next.js 15 
-
- Ant Design (AntD) is one of the most popular React UI libraries, offering a robust set of pre-built ... 
-
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F18602af2db7e&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40vaibhav11t%2Fusing-yup-validations-with-antd-forms-in-next-js-15-18602af2db7e&source=---recommended_stories---nextjs---0-84----------------bookmark_preview----ff2bea10_1366_45f0_92eb_f9fa9ac66dfc-------) 
+2024년 12월 11일 9시 기준 
 
 ### Frontend Weekly Digest #391 (2–8 December 2024) 
 
  Web-development... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F35fe18049f8d&operation=register&redirect=https%3A%2F%2Ffrontender-ua.medium.com%2Ffrontend-weekly-digest-391-2-8-december-2024-35fe18049f8d&source=---recommended_stories---front_end_development---0-84----------------bookmark_preview----559ff523_53f4_4eaf_b4e0_0d80681cda3f-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F35fe18049f8d&operation=register&redirect=https%3A%2F%2Ffrontender-ua.medium.com%2Ffrontend-weekly-digest-391-2-8-december-2024-35fe18049f8d&source=---recommended_stories---front_end_development---0-84----------------bookmark_preview----6d0eb67b_cb3e_4d22_a481_947beda950fb-------) 
 
-### MVVM in the Declarative UI Era: Still Relevant? 
+### What Are Higher-Order Components (HOCs)? A Comprehensive Guide 
 
- Has MVVM outlived its purpose in today’s declarative UI era? Let’s see why it’s no longer a must — a... 
+ Higher-order components (HOCs) have been a staple in React development for years. They are a design ... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fef55088f407c&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40Yellowtoast%2Fmvvm-in-the-declarative-ui-era-still-relevant-ef55088f407c&source=---recommended_stories---react---0-84----------------bookmark_preview----9531d1ab_4c4c_4798_81bc_8d5b8527e317-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fd17fa1ca99cf&operation=register&redirect=https%3A%2F%2Fmedium.com%2Fdevlander%2Fwhat-are-higher-order-components-hocs-a-comprehensive-guide-d17fa1ca99cf&source=---recommended_stories---react---0-84----------------bookmark_preview----cdb7c5ad_4995_491c_980a_815429d9a30c-------) 
 
-### Use alias to fetch related record attributes 
+### Frontend Weekly Digest #391 (2–8 December 2024) 
 
- Are you using multiple Xrm.WebApi.retrieve in JavaScript to fetch data from drill down related recor... 
+ Web-development... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fe8530bb99ca6&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40uthamreddy%2Fuse-alias-to-fetch-related-record-attributes-e8530bb99ca6&source=---recommended_stories---javascript---0-84----------------bookmark_preview----a241d2c0_63ea_4667_9e16_19908f821105-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F35fe18049f8d&operation=register&redirect=https%3A%2F%2Ffrontender-ua.medium.com%2Ffrontend-weekly-digest-391-2-8-december-2024-35fe18049f8d&source=---recommended_stories---javascript---0-84----------------bookmark_preview----ab5a310e_4da1_44d7_aa9d_00c4648b6caa-------) 
 
-### 기술사 준비 기간, 어디까지 알아보셨어요? 
+### React Performance Optimization: Tips and Tricks for a Faster UI 
 
- 기술사 자격 취득을 목표로 신변 정리를 시작한 뒤, 학원에 처음 입성했던 날이 생각납니다. 다양한 연령대의 사람들이 큰 강의실에 빽빽이 들어앉아 있었죠. 모두 마스크를 쓰고 있음에... 
+ As the front-end landscape continues to evolve, building highly interactive user interfaces has beco... 
 
- [바로가기](https://yozm.wishket.com/magazine/detail/2881/) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F15f684f89c76&operation=register&redirect=https%3A%2F%2Fjhcxavier.medium.com%2Freact-performance-optimization-tips-and-tricks-for-a-faster-ui-15f684f89c76&source=---recommended_stories---typescript---0-84----------------bookmark_preview----445339da_5255_41bf_aa88_ac5425cc5104-------) 
 
-### 랭체인으로 LLM에 기억을 만들어 주는 방법 
+### 만약 개발자가 RPG 게임 캐릭터라면 
 
- 이번에는 메모리에 관한 모든 것을 소개합니다. 정확히 말하면 ‘랭체인’에서의 메모리에 관한 것이죠. 상호참조해결(Coreference Resolution), 랭체인에서 메모리를 다... 
+ 개발자라는 말에 여러분은 어떤 이미지를 떠올리나요? 영화나 드라마에서 자주 등장하는 대로 검은 화면에 빠르게 코드를 치며 해킹하는 모습이 생각날지도 모르겠습니다. 물론 해킹도 개발... 
 
- [바로가기](https://yozm.wishket.com/magazine/detail/2879/) 
+ [바로가기](https://yozm.wishket.com/magazine/detail/2885/) 
+
+### 마이크로서비스 아키텍처의 사실과 오해 
+
+ 최근에 마이크로서비스 아키텍처에 대해 다시금 생각하게 만드는 두 가지 일이 있었습니다. 하나는 가까운 지인이 자신의 회사 서비스에 마이크로 서비스를 도입하며 겪은 경험담을 듣는 일... 
+
+ [바로가기](https://yozm.wishket.com/magazine/detail/2884/) 
 
 ---
 
