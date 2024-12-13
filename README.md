@@ -1,41 +1,41 @@
 # 오늘의 포스팅 
-2024년 12월 12일 9시 기준 
+2024년 12월 13일 9시 기준 
 
-### How NOT to Rely on Copilot and ChatGPT in Your Developer Workflow 
+### Release Next.js 15.1 
 
- In today’s development world, tools like GitHub Copilot and ChatGPT are becoming more popular becaus... 
+ Next.js 15.1 introduces a suite of updates and enhancements aimed at improving developer workflows, ... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F1c64d9384739&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40aleksandrovich.mikita%2Fhow-not-to-rely-on-copilot-and-chatgpt-in-your-developer-workflow-1c64d9384739&source=---recommended_stories---react---0-84----------------bookmark_preview----73df61a8_578d_4ff6_946d_fd38349c79f6-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F8c5121b41f71&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40onix_react%2Frelease-next-js-15-1-8c5121b41f71&source=---recommended_stories---javascript---0-84----------------bookmark_preview----80ab6c0d_5e07_409e_9bab_a604985a3432-------) 
 
-### TypeScript: Zero To Hero Plus Cheat Sheet 
+### TikTok YouTube earning Facebook 
 
- To be competitive you have to know TypeScript. Let’s get you from zero to hero!... 
+ TikTok YouTube Fasebook earning magical... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fc11ff20efdb1&operation=register&redirect=https%3A%2F%2Flevelup.gitconnected.com%2Ftypescript-zero-to-hero-plus-cheat-sheet-c11ff20efdb1&source=---recommended_stories---javascript---0-84----------------bookmark_preview----6fa6202c_9dbc_4aed_a160_4b1661c26f75-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F7b7db7945e30&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40ansarking8040%2Ftiktok-youtube-earning-facebook-7b7db7945e30&source=---recommended_stories---typescript---0-84----------------bookmark_preview----afb6b655_640e_4092_9310_b42396d9db2d-------) 
 
-### TypeScript: Zero To Hero Plus Cheat Sheet 
+### 5 lessons learned migrating core app from AngularJS to Angular 
 
- To be competitive you have to know TypeScript. Let’s get you from zero to hero!... 
+ Intro... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fc11ff20efdb1&operation=register&redirect=https%3A%2F%2Flevelup.gitconnected.com%2Ftypescript-zero-to-hero-plus-cheat-sheet-c11ff20efdb1&source=---recommended_stories---typescript---0-84----------------bookmark_preview----37be9f17_b747_46d1_aa09_2f0b51c9d99b-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F8e04b11b730d&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40piotrmorek%2F5-lessons-learned-migrating-core-app-from-angularjs-to-angular-8e04b11b730d&source=---recommended_stories---frontend---0-84----------------bookmark_preview----aa3edf17_a92b_48a4_96a6_6f7e1a4499ca-------) 
 
-### Angular Web Development vs. Android Mobile Development: A Technical Comparison 
+### Introduction to Web Components 
 
- When choosing between building a web application or a mobile app, developers often evaluate framewor... 
+ In an era where the race between frameworks is rapidly evolving, things are becoming highly abstract... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fcaec649722b3&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40abhiram.pataneni%2Fangular-web-development-vs-android-mobile-development-a-technical-comparison-caec649722b3&source=---recommended_stories---frontend---0-84----------------bookmark_preview----9d6a4a5e_17ed_4a41_884c_b8de8a9d911c-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F73d4e4b08439&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40nirajnsp5%2Fintroduction-to-web-components-73d4e4b08439&source=---recommended_stories---reactjs---0-84----------------bookmark_preview----2656b8bc_7086_405a_8d15_29a32555f7cc-------) 
 
-### 자바스크립트는 왜 이렇게 작동할까? 스코프와 호이스팅 개념 정리 
+### LLM 서비스 개발할 때 알아두면 좋을 3가지 툴 
 
- 자바스크립트(Javascript)는 단순히 웹 브라우저에서 실행되는 스크립트 언어를 넘어, 웹 개발은 물론 백엔드, 모바일 앱, 그리고 데스크톱 애플리케이션까지 다양한 분야에서 널... 
+ LLM 애플리케이션을 개발할 때 유용한 툴을 소개하려고 합니다. 질 좋은 프롬프트를 모아둔 랭체인 허브(LangChain Hub), 텍스트 분할 작업을 도와줄 텍스트 스플리터 플레... 
 
- [바로가기](https://yozm.wishket.com/magazine/detail/2886/) 
+ [바로가기](https://yozm.wishket.com/magazine/detail/2889/) 
 
-### 만약 개발자가 RPG 게임 캐릭터라면 
+### 더 이상 외면할 수 없는 양자컴퓨터 
 
- 개발자라는 말에 여러분은 어떤 이미지를 떠올리나요? 영화나 드라마에서 자주 등장하는 대로 검은 화면에 빠르게 코드를 치며 해킹하는 모습이 생각날지도 모르겠습니다. 물론 해킹도 개발... 
+ 언제부턴가 우리들 마음속 한편을 불편하게 만드는 것이 있습니다. 바로 오늘의 주인공 ‘양자컴퓨터’입니다. AI에 이어 차세대 기술로 주목받고 있지만, 그 복잡한 개념 때문에 이해를... 
 
- [바로가기](https://yozm.wishket.com/magazine/detail/2885/) 
+ [바로가기](https://yozm.wishket.com/magazine/detail/2888/) 
 
 ---
 
