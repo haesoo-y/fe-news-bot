@@ -1,11 +1,5 @@
 # 오늘의 포스팅 
-2024년 12월 13일 9시 기준 
-
-### Release Next.js 15.1 
-
- Next.js 15.1 introduces a suite of updates and enhancements aimed at improving developer workflows, ... 
-
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F8c5121b41f71&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40onix_react%2Frelease-next-js-15-1-8c5121b41f71&source=---recommended_stories---javascript---0-84----------------bookmark_preview----80ab6c0d_5e07_409e_9bab_a604985a3432-------) 
+2024년 12월 14일 9시 기준 
 
 ### TikTok YouTube earning Facebook 
 
@@ -17,13 +11,19 @@
 
  Intro... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F8e04b11b730d&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40piotrmorek%2F5-lessons-learned-migrating-core-app-from-angularjs-to-angular-8e04b11b730d&source=---recommended_stories---frontend---0-84----------------bookmark_preview----aa3edf17_a92b_48a4_96a6_6f7e1a4499ca-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F8e04b11b730d&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40piotrmorek%2F5-lessons-learned-migrating-core-app-from-angularjs-to-angular-8e04b11b730d&source=---recommended_stories---frontend---0-84----------------bookmark_preview----6a6c7de8_46d4_4247_8095_a03fe8d9506e-------) 
 
 ### Introduction to Web Components 
 
  In an era where the race between frameworks is rapidly evolving, things are becoming highly abstract... 
 
  [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F73d4e4b08439&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40nirajnsp5%2Fintroduction-to-web-components-73d4e4b08439&source=---recommended_stories---reactjs---0-84----------------bookmark_preview----2656b8bc_7086_405a_8d15_29a32555f7cc-------) 
+
+### The Most Awaited Prisma Course Is Here! 😍 
+
+ I’m beyond excited to unveil the “Mastering Prisma with Next.js 15”, a beginner-friendly course desi... 
+
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Faae3ce54ff7d&operation=register&redirect=https%3A%2F%2Fyogeshchavan.medium.com%2Fthe-most-awaited-prisma-course-is-here-aae3ce54ff7d&source=---recommended_stories---nextjs---0-84----------------bookmark_preview----a09898a6_57ee_4723_8f60_5acf002d9d72-------) 
 
 ### LLM 서비스 개발할 때 알아두면 좋을 3가지 툴 
 
