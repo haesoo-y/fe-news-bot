@@ -1,29 +1,29 @@
 # 오늘의 포스팅 
-2024년 12월 14일 9시 기준 
+2024년 12월 15일 9시 기준 
 
-### TikTok YouTube earning Facebook 
+### React 19: The 3 Simplifications You’ll Love 
 
- TikTok YouTube Fasebook earning magical... 
+ The wait is over — React 19 is officially stable! Curious about how the latest changes could impact ... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F7b7db7945e30&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40ansarking8040%2Ftiktok-youtube-earning-facebook-7b7db7945e30&source=---recommended_stories---typescript---0-84----------------bookmark_preview----afb6b655_640e_4092_9310_b42396d9db2d-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F584b9843c05f&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40janek.lewandoski%2Freact-19-the-3-simplifications-youll-love-584b9843c05f&source=---recommended_stories---frontend---0-84----------------bookmark_preview----207be720_fb42_45d2_83d5_817c816781c4-------) 
 
-### 5 lessons learned migrating core app from AngularJS to Angular 
+### How to use Lottie Animation in a React App 
 
- Intro... 
+ Animations make any web app or mobile app more attractive and user-friendly. Animation can be done b... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F8e04b11b730d&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40piotrmorek%2F5-lessons-learned-migrating-core-app-from-angularjs-to-angular-8e04b11b730d&source=---recommended_stories---frontend---0-84----------------bookmark_preview----6a6c7de8_46d4_4247_8095_a03fe8d9506e-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fc572656d2eeb&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40prateek.kumar_04%2Fhow-to-use-lottie-animation-in-a-react-app-c572656d2eeb&source=---recommended_stories---reactjs---0-84----------------bookmark_preview----0aaba044_36de_4e3b_ab3d_372c02f2e809-------) 
 
-### Introduction to Web Components 
+### Simplify Your Menus in Next.js with Centralized Variables 
 
- In an era where the race between frameworks is rapidly evolving, things are becoming highly abstract... 
+ Managing menus in a growing application can quickly become a tedious task, especially if links are s... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F73d4e4b08439&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40nirajnsp5%2Fintroduction-to-web-components-73d4e4b08439&source=---recommended_stories---reactjs---0-84----------------bookmark_preview----2656b8bc_7086_405a_8d15_29a32555f7cc-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F2af917d4995a&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40gritchmond%2Fsimplify-your-menus-in-next-js-with-centralized-variables-2af917d4995a&source=---recommended_stories---nextjs---0-84----------------bookmark_preview----0b85a407_0c58_46cf_80cd_f89ec4b2e732-------) 
 
-### The Most Awaited Prisma Course Is Here! 😍 
+### Advance State Management in React js 
 
- I’m beyond excited to unveil the “Mastering Prisma with Next.js 15”, a beginner-friendly course desi... 
+ Decoding state management exploring context API and beyond ... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Faae3ce54ff7d&operation=register&redirect=https%3A%2F%2Fyogeshchavan.medium.com%2Fthe-most-awaited-prisma-course-is-here-aae3ce54ff7d&source=---recommended_stories---nextjs---0-84----------------bookmark_preview----a09898a6_57ee_4723_8f60_5acf002d9d72-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Ff6964d8e038c&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40nodeninja%2Fadvance-state-management-in-react-js-f6964d8e038c&source=---recommended_stories---front_end_development---0-84----------------bookmark_preview----14480957_0f37_4fc4_b6c1_cfdacaa67819-------) 
 
 ### LLM 서비스 개발할 때 알아두면 좋을 3가지 툴 
 
