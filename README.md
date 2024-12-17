@@ -1,29 +1,29 @@
 # 오늘의 포스팅 
-2024년 12월 16일 9시 기준 
-
-### AI Tools Now Built Into Your Browser 
-
- Built-in AI features in browsers make adding AI to the front end faster and easier.... 
-
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F7d7dc551f0d0&operation=register&redirect=https%3A%2F%2Fmedium.com%2Flevel-up-js%2Fai-tools-now-built-into-your-browser-7d7dc551f0d0&source=---recommended_stories---reactjs---0-84----------------bookmark_preview----e5b005db_326c_4347_8056_054b62e78d82-------) 
+2024년 12월 17일 9시 기준 
 
 ### Simplify Your Menus in Next.js with Centralized Variables 
 
  Managing menus in a growing application can quickly become a tedious task, especially if links are s... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F2af917d4995a&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40gritchmond%2Fsimplify-your-menus-in-next-js-with-centralized-variables-2af917d4995a&source=---recommended_stories---nextjs---0-84----------------bookmark_preview----0b85a407_0c58_46cf_80cd_f89ec4b2e732-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F2af917d4995a&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40gritchmond%2Fsimplify-your-menus-in-next-js-with-centralized-variables-2af917d4995a&source=---recommended_stories---nextjs---0-84----------------bookmark_preview----605da41d_1663_4c5e_ab75_d247567b45a6-------) 
 
-### Advance State Management in React js 
+### Frontend Weekly Digest #392 (9–15 December 2024) 
 
- Decoding state management exploring context API and beyond ... 
+ Web-development... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Ff6964d8e038c&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40nodeninja%2Fadvance-state-management-in-react-js-f6964d8e038c&source=---recommended_stories---front_end_development---0-84----------------bookmark_preview----e36a9241_2f5d_41da_80e1_1f2bced01198-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F5e3f9125f232&operation=register&redirect=https%3A%2F%2Ffrontender-ua.medium.com%2Ffrontend-weekly-digest-392-9-15-december-2024-5e3f9125f232&source=---recommended_stories---front_end_development---0-84----------------bookmark_preview----4f614a55_b66a_4648_9a1e_4d0b07270bf6-------) 
 
-### Simplify Your Menus in Next.js with Centralized Variables 
+### React Diffing and Reconciliation 
 
- Managing menus in a growing application can quickly become a tedious task, especially if links are s... 
+ Understanding the core concepts of how React efficiently updates the DOM using diffing and reconcili... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F2af917d4995a&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40gritchmond%2Fsimplify-your-menus-in-next-js-with-centralized-variables-2af917d4995a&source=---recommended_stories---react---0-84----------------bookmark_preview----d9c0a0e2_02cc_44d8_a9fa_b9be64275a63-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F8922a144ab70&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40imonhossain02_4840%2Freact-diffing-and-reconciliation-8922a144ab70&source=---recommended_stories---react---0-84----------------bookmark_preview----1722b855_57d9_4093_9f2e_5dcc5752d0dc-------) 
+
+### Frontend Weekly Digest #392 (9–15 December 2024) 
+
+ Web-development... 
+
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F5e3f9125f232&operation=register&redirect=https%3A%2F%2Ffrontender-ua.medium.com%2Ffrontend-weekly-digest-392-9-15-december-2024-5e3f9125f232&source=---recommended_stories---javascript---0-84----------------bookmark_preview----413acbda_4b2f_4fd6_911e_ba6527c05cb1-------) 
 
 ### 아이 키우면서 기술사 취득할 수 있나요? 
 
