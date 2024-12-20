@@ -1,29 +1,29 @@
 # 오늘의 포스팅 
-2024년 12월 19일 9시 기준 
+2024년 12월 20일 9시 기준 
 
-### Written code out of React makes life easier. 
+### Creating Snow Effect in Angular 18 Using Signals (2025) 
 
- By the end of 2024, all code that could be written out of React should be written out of React.... 
+ Add a festive, lightweight snowfall animation to your Angular application using Angular 18’s reactiv... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F623843c0a974&operation=register&redirect=https%3A%2F%2Fe7h4n.medium.com%2Fwritten-code-out-of-react-makes-life-easier-623843c0a974&source=---recommended_stories---react---0-84----------------bookmark_preview----581b4d81_a67a_4144_a41c_516fee74a4a4-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F21ef0a40204e&operation=register&redirect=https%3A%2F%2Fitnext.io%2Fcreating-snow-effect-in-angular-18-using-signals-2025-21ef0a40204e&source=---recommended_stories---javascript---0-84----------------bookmark_preview----adc52a80_c341_48b8_804a_36183766b920-------) 
 
-### How to use Supabase Auth in Next.js without middleware and load pages faster 
+### Creating Snow Effect in Angular 18 Using Signals (2025) 
 
- Prevent unnecessary calls to the Supabase auth server when using Next.js server components... 
+ Add a festive, lightweight snowfall animation to your Angular application using Angular 18’s reactiv... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F33a045d15c78&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40jamesleeht%2Fhow-to-use-supabase-auth-in-next-js-without-extra-latency-and-make-pages-load-faster-33a045d15c78&source=---recommended_stories---javascript---0-84----------------bookmark_preview----f221ff29_524b_4524_89d8_058d04fdc588-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F21ef0a40204e&operation=register&redirect=https%3A%2F%2Fitnext.io%2Fcreating-snow-effect-in-angular-18-using-signals-2025-21ef0a40204e&source=---recommended_stories---typescript---0-84----------------bookmark_preview----c84e5fe2_c05d_46ea_8da4_606c65fbc2ac-------) 
 
-### Jerome k Novel . 
+### Why I Create a CSS Library for Next.js App Router 
 
- Who is Jerome k ... 
+ A Powerful Styling Solution for the Next.js... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F7d43ab426f37&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40guruprasaath0211%2Fjerome-k-novel-7d43ab426f37&source=---recommended_stories---typescript---0-84----------------bookmark_preview----c9181ef2_71f9_4291_a25d_f689a26c30fa-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fde5a4c7388b3&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40vectordxy%2Fwhy-i-create-a-css-library-for-next-js-app-router-de5a4c7388b3&source=---recommended_stories---frontend---0-84----------------bookmark_preview----58f1ca7b_b0fb_4a63_8f26_713dbbc109c6-------) 
 
-### Recently visited pages implementation using LRU Cache 
+### Your React App Isn’t Great — Here’s Why. 
 
- In this blog post, we’ll explore LRU Cache, why it matters, and how you can implement it in ReactJS ... 
+ How to Make Your Colleagues Fall in Love with Your React Applications.... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F4eff7eabae65&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40avhishekydv%2Frecently-visited-pages-implementation-using-lru-cache-4eff7eabae65&source=---recommended_stories---frontend---0-84----------------bookmark_preview----f242da79_a874_4ede_9f2c_e0c00802fd70-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F5eb61b3f110b&operation=register&redirect=https%3A%2F%2Flevelup.gitconnected.com%2Fyour-react-app-isnt-great-here-s-why-5eb61b3f110b&source=---recommended_stories---reactjs---0-84----------------bookmark_preview----95e98d8f_0276_41ce_adea_38701615e072-------) 
 
 ### 오픈 API 인증은 어떻게 이루어질까? 
 
