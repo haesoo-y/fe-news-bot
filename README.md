@@ -1,29 +1,29 @@
 # 오늘의 포스팅 
-2024년 12월 21일 9시 기준 
+2024년 12월 22일 9시 기준 
 
-### THE STORY OF : 
+### Time to Stop Using BEM 
 
- Tamil Kadavul Murugan 🙏... 
+ CSS architecture was much different 14 years ago. Having all the styles under a single global namesp... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F5fd9813ebe94&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40himself.mahi%2Fthe-story-of-5fd9813ebe94&source=---recommended_stories---typescript---0-84----------------bookmark_preview----004a2882_a4ad_4508_aceb_1ddb7d1b1f0c-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fabff3a5bd048&operation=register&redirect=https%3A%2F%2Ffadamakis.com%2Ftime-to-stop-using-bem-abff3a5bd048&source=---recommended_stories---frontend---0-84----------------bookmark_preview----385c4a84_c33c_4785_b284_899320c34bab-------) 
 
-### Why I Create a CSS Library for Next.js App Router 
+### Your React App Isn’t Great — Here’s Why. 
 
- A Powerful Styling Solution for the Next.js... 
+ How to Make Your Colleagues Fall in Love with Your React Applications.... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fde5a4c7388b3&operation=register&redirect=https%3A%2F%2Ftowardsdev.com%2Fwhy-i-create-a-css-library-for-next-js-app-router-de5a4c7388b3&source=---recommended_stories---frontend---0-84----------------bookmark_preview----b204301f_b4a6_4a6e_99a0_6426976270f3-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F5eb61b3f110b&operation=register&redirect=https%3A%2F%2Flevelup.gitconnected.com%2Fyour-react-app-isnt-great-here-s-why-5eb61b3f110b&source=---recommended_stories---reactjs---0-107----------------bookmark_preview----ae066c51_b138_4319_8268_7c4db61fab3f-------) 
 
-### Creating a Trello Clone with React 
+### How to use Supabase Auth in Next.js without middleware and load pages faster 
 
- Trello’s simplicity makes it a standout tool for project management. Here’s how to recreate its magi... 
+ Prevent unnecessary calls to the Supabase auth server when using Next.js server components... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Ff395570b344d&operation=register&redirect=https%3A%2F%2Fdaoleo.medium.com%2Fcreating-a-trello-clone-with-react-f395570b344d&source=---recommended_stories---reactjs---0-84----------------bookmark_preview----a5386dec_d989_4dd9_a57e_8d832ade3d14-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F33a045d15c78&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40jamesleeht%2Fhow-to-use-supabase-auth-in-next-js-without-extra-latency-and-make-pages-load-faster-33a045d15c78&source=---recommended_stories---nextjs---0-84----------------bookmark_preview----f80ad322_3f8c_4308_b3f3_adacf9d9354f-------) 
 
-### 100% Free Vector Search with OpenLlama, Postgres, Node.js and Next.js 
+### Creating Snow Effect in Angular 18 Using Signals (2025) 
 
- So you want to try out vector search but you don’t want to pay OpenAI, or use Huggingface, and you d... 
+ Add a festive, lightweight snowfall animation to your Angular application using Angular 18’s reactiv... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fe496856766f7&operation=register&redirect=https%3A%2F%2Fjavascript.plainenglish.io%2F100-free-vector-search-with-openllama-postgres-nodejs-and-nextjs-e496856766f7&source=---recommended_stories---nextjs---0-107----------------bookmark_preview----6243f0ad_fbe3_4783_89fd_0b1f607901b9-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F21ef0a40204e&operation=register&redirect=https%3A%2F%2Fitnext.io%2Fcreating-snow-effect-in-angular-18-using-signals-2025-21ef0a40204e&source=---recommended_stories---front_end_development---0-84----------------bookmark_preview----0add5aa5_bd2c_4166_b7d7_2e0fbd2dde96-------) 
 
 ### 2025년 쿠버네티스 표준 아키텍처 
 
