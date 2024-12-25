@@ -1,29 +1,29 @@
 # 오늘의 포스팅 
-2024년 12월 24일 9시 기준 
+2024년 12월 25일 9시 기준 
 
-### React Dropzone for AWS (S3 + Cloudfront) using ShadCN/UI and React Hook Form. 
+### Front-end development Overview 
 
- Everytime I work with forms to upload files to S3, I have to work with a few tools like React DropZo... 
+ ... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F244c79372130&operation=register&redirect=https%3A%2F%2Fshrinidhinhegde.medium.com%2Freact-dropzone-for-aws-s3-cloudfront-using-shadcn-ui-and-react-hook-form-244c79372130&source=---recommended_stories---nextjs---0-84----------------bookmark_preview----82adc4e7_2962_408e_8c39_811a09e694ce-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fb89efd00833f&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40rameshst%2Ffront-end-development-overview-b89efd00833f&source=---recommended_stories---front_end_development---0-84----------------bookmark_preview----80a8056a_8a23_4ad0_8482_f7552e16ad8e-------) 
 
-### 11 Hidden Gems of Front-End Development: Tips You Should Know 🌟 
+### Types Biryani and History 
 
- Front-end development is an ever-evolving field where small changes can make a huge difference. Here... 
+ The Flavorful Icon of Indian Cuisine :... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F328b3aca394e&operation=register&redirect=https%3A%2F%2Fclicktogain.medium.com%2F11-hidden-gems-of-front-end-development-tips-you-should-know-328b3aca394e&source=---recommended_stories---front_end_development---0-84----------------bookmark_preview----17c3722d_3c73_4a80_a1bf_ba79ece79914-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F5451e5f3a848&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40Ahmii007%2Ftypes-biryani-and-history-5451e5f3a848&source=---recommended_stories---react---0-84----------------bookmark_preview----1e5504f3_473b_487c_8d47_97952cea09fd-------) 
 
-### Your React App Isn’t Great — Here’s Why. 
+### Your First Steps into Java Programming : 
 
- How to Make Your Colleagues Fall in Love with Your React Applications.... 
+ Learn Java Basics... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F5eb61b3f110b&operation=register&redirect=https%3A%2F%2Flevelup.gitconnected.com%2Fyour-react-app-isnt-great-here-s-why-5eb61b3f110b&source=---recommended_stories---react---0-107----------------bookmark_preview----0563e886_25e8_492c_9f12_a61bf8415931-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F7dd865d47c77&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40HARI__VJ%2Fyour-first-steps-into-java-programming-7dd865d47c77&source=---recommended_stories---javascript---0-84----------------bookmark_preview----e0d7f941_d0dd_45e0_bd84_746425e14918-------) 
 
-### Frontend Weekly Digest #393 (16–22 December 2024) 
+### DRAGON BALL Z REVIEW 
 
- Web Development... 
+ Dragon Ball Z Has a AMAZING entry, I love this show, Even though not being a true anime fan back the... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Faca50cd80c66&operation=register&redirect=https%3A%2F%2Ffrontender-ua.medium.com%2Ffrontend-weekly-digest-393-16-22-december-2024-aca50cd80c66&source=---recommended_stories---javascript---0-84----------------bookmark_preview----3c2cf9da_a5fd_49bf_a143_fdd75b292203-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F0fcdd4a04070&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40ajayrenald%2Fdragon-ball-z-review-0fcdd4a04070&source=---recommended_stories---typescript---0-84----------------bookmark_preview----40c04f83_d685_4a43_aace_fdee6a82f53e-------) 
 
 ### 개발자에게 “개발 문서 꼭 써 달라” 말했습니다 
 
