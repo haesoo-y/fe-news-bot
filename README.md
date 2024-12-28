@@ -1,41 +1,29 @@
 # 오늘의 포스팅 
-2024년 12월 27일 9시 기준 
+2024년 12월 28일 9시 기준 
 
-### How to Identify Sensitive Data in JavaScript Files (JSRecon) 
+### TypeScript: Zero To Hero Plus Cheat Sheet 
 
- Introduction... 
+ To be competitive you have to know TypeScript. Let’s get you from zero to hero!... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F306b8a2e6462&operation=register&redirect=https%3A%2F%2Fcoffinxp.medium.com%2Fhow-to-identify-sensitive-data-in-javascript-files-jsrecon-306b8a2e6462&source=---recommended_stories---javascript---0-84----------------bookmark_preview----bde58d65_1399_4263_a8ba_b73f1e52534c-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fc11ff20efdb1&operation=register&redirect=https%3A%2F%2Flevelup.gitconnected.com%2Ftypescript-zero-to-hero-plus-cheat-sheet-c11ff20efdb1&source=---recommended_stories---typescript---0-107----------------bookmark_preview----19c3087e_cf80_4dcc_91b1_99d29269cc1a-------) 
 
-### Bok Choy: Unlock the Secrets of Asian Greens' Nutrition and Food 
+### Day 8 of 100 Days of Something to learn in Frontend 
 
- Bok choy is one of the humble Asian greens that, for thousands of years, has been part of Chinese cu... 
+ Today, I am picking a topic from css: Transitions & Animation... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F633f4fa42102&operation=register&redirect=https%3A%2F%2Fmedium.com%2Fwealth-sphere%2Fbok-choy-unlock-the-secrets-of-asian-greens-nutrition-and-food-633f4fa42102&source=---recommended_stories---typescript---0-84----------------bookmark_preview----c86efde3_fc45_415c_a5bf_5024cf031c9d-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F4c118fe7a0f4&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40priyasharma_49934%2Fday-8-of-100-days-of-something-to-learn-in-frontend-4c118fe7a0f4&source=---recommended_stories---frontend---0-84----------------bookmark_preview----f352cad0_b769_4df4_95fe_097cf1508040-------) 
 
-### Introduction to PlutoGrid in Flutter 
+### 데이터의 보관 창고, 데이터베이스 기초 이해하기 
 
- Suppose you are making an application and you want to include table layout then what comes to your m... 
+ 데이터베이스는 쉽게 데이터를 보관해 두는 창고라고 생각하면 됩니다. 그런데, 이 데이터를 우리가 메모장에 대충 기록해 두듯이 아무렇게나 쌓아 두는 게 아니라 ‘체계적으로 관리’하는... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F864e7b92fe44&operation=register&redirect=https%3A%2F%2Fcodestax.medium.com%2Fintroduction-to-plutogrid-in-flutter-864e7b92fe44&source=---recommended_stories---frontend---0-84----------------bookmark_preview----0bbe19b0_13e7_4f1b_aa96_42eaad3d466e-------) 
-
-### Day 3 of 30 day react series 
-
- Understanding State in React: Making Components Dynamic... 
-
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F6fd76d5a0bf9&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40haricharan30082005%2Fday-3-of-30-day-react-series-6fd76d5a0bf9&source=---recommended_stories---reactjs---0-84----------------bookmark_preview----4439b08f_6838_4207_a2de_d977aca523f3-------) 
+ [바로가기](https://yozm.wishket.com/magazine/detail/2908/) 
 
 ### 2024년 개발자 회고: 무엇을 배우고 성장했을까? 
 
  2024년은 개발자에게 있어 다사다난한 해였습니다. 경기 악화에 따른 개발자 채용 감소는 물론, ChatGPT와 Gemini를 포함한 AI 서비스들이 출시 시점과는 비교할 수 없을... 
 
  [바로가기](https://yozm.wishket.com/magazine/detail/2907/) 
-
-### 프론트엔드 개발자의 게임 플랫폼 서버 개발 체험기 
-
- 나는 게임 회사에 웹 프론트엔드 엔지니어로 입사해, 게임 운영을 지원하는 어드민 툴과 사내 공통 UI 라이브러리 개발에 참여했다. 이 일은 꽤 흥미로웠지만, 내가 만든 기능이 실제... 
-
- [바로가기](https://yozm.wishket.com/magazine/detail/2905/) 
 
 ---
 
