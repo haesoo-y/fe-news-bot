@@ -1,17 +1,29 @@
 # 오늘의 포스팅 
-2024년 12월 28일 9시 기준 
+2024년 12월 29일 9시 기준 
 
-### TypeScript: Zero To Hero Plus Cheat Sheet 
+### Differences Between let, const, and var in JavaScript and How to Use Them 
 
- To be competitive you have to know TypeScript. Let’s get you from zero to hero!... 
+ Master the Key Differences Between var, let, and const in JavaScript and Learn How to Write Cleaner,... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fc11ff20efdb1&operation=register&redirect=https%3A%2F%2Flevelup.gitconnected.com%2Ftypescript-zero-to-hero-plus-cheat-sheet-c11ff20efdb1&source=---recommended_stories---typescript---0-107----------------bookmark_preview----19c3087e_cf80_4dcc_91b1_99d29269cc1a-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F83ca862d3745&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40mansoor_anwari%2Fdifferences-between-let-const-and-var-in-javascript-and-how-to-use-them-83ca862d3745&source=---recommended_stories---frontend---0-84----------------bookmark_preview----205f5e79_6c4b_42bb_a042_acc3df451054-------) 
 
-### Day 8 of 100 Days of Something to learn in Frontend 
+### Topic 1: Optimize your Next.js App: Performance Enhancement Strategies 
 
- Today, I am picking a topic from css: Transitions & Animation... 
+ Next.js is a popular React-based framework for building server-rendered, statically generated, and p... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F4c118fe7a0f4&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40priyasharma_49934%2Fday-8-of-100-days-of-something-to-learn-in-frontend-4c118fe7a0f4&source=---recommended_stories---frontend---0-84----------------bookmark_preview----f352cad0_b769_4df4_95fe_097cf1508040-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fad585f029b9b&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40kumarramalingam.1990%2Ftopic-1-optimize-your-next-js-app-performance-enhancement-strategies-ad585f029b9b&source=---recommended_stories---reactjs---0-84----------------bookmark_preview----9350bc0f_7eba_4d3a_88c0_d76a6e4c5e04-------) 
+
+### 19 Open-Source Tools for Web Development, AI, and Beyond 
+
+ Tools Empowering Web Development, AI, and Distributed Systems... 
+
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F4f836e434eca&operation=register&redirect=https%3A%2F%2Fmedium.com%2Fsourcescribes%2F19-open-source-tools-for-web-development-ai-and-beyond-4f836e434eca&source=---recommended_stories---nextjs---0-84----------------bookmark_preview----e01c3432_3e9b_43f2_a20e_be0a140ebc6c-------) 
+
+### CSS is a frameworks that help to speed up the development of websites as it offers styles, grids… 
+
+ CSS frameworks:What to choose ... 
+
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F6128ae173fbf&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40haricharan30082005%2Fcss-is-a-frameworks-that-help-to-speed-up-the-development-of-websites-as-it-offers-styles-grids-6128ae173fbf&source=---recommended_stories---front_end_development---0-84----------------bookmark_preview----adb73e63_41ae_4be7_9b62_61b77cd60288-------) 
 
 ### 데이터의 보관 창고, 데이터베이스 기초 이해하기 
 
