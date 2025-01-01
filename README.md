@@ -1,29 +1,33 @@
 # 오늘의 포스팅 
-2024년 12월 31일 9시 기준 
+2025년 1월 1일 9시 기준 
 
-### 19 Open-Source Tools for Web Development, AI, and Beyond 
+### Frontend Weekly Digest #394 (23–29 December 2024) 
 
- Tools Empowering Web Development, AI, and Distributed Systems... 
+ Web-development... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F4f836e434eca&operation=register&redirect=https%3A%2F%2Fmedium.com%2Fsourcescribes%2F19-open-source-tools-for-web-development-ai-and-beyond-4f836e434eca&source=---recommended_stories---nextjs---0-84----------------bookmark_preview----b29a785e_5fcf_4289_903f_b61315d2e9e5-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F4367b8ecd5c1&operation=register&redirect=https%3A%2F%2Ffrontender-ua.medium.com%2Ffrontend-weekly-digest-394-23-29-december-2024-4367b8ecd5c1&source=---recommended_stories---front_end_development---0-84----------------bookmark_preview----fb4c2771_74cf_4b98_abe1_36f967312bb8-------) 
 
-### Day 1 of JavaScript: A Beginner’s Experience 
+### The Future of Server-Side Rendering: Trends for 2025 
 
- A Beginner's Guide to Understand JavaScript Basics and Its Applications... 
+ SSR is evolving, and 2025 promises innovations that will change how we build the web — faster, smart... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fe3af04ee5946&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40Alone3273%2Fday-1-of-javascript-a-beginners-experience-e3af04ee5946&source=---recommended_stories---front_end_development---0-84----------------bookmark_preview----37d1d7f9_7400_4b21_b42a_45d811f00a49-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F650ca8508625&operation=register&redirect=https%3A%2F%2Fitnext.io%2Fthe-future-of-server-side-rendering-trends-for-2025-650ca8508625&source=---recommended_stories---react---0-84----------------bookmark_preview----fe62f570_5b82_4a41_aafe_325876562077-------) 
 
-### You’ve made an excellent point about prioritizing financial discipline over trying to impress… 
+### Java Booleans
+Very often, in programming, you will need a data type that can only have one of two… 
 
- Don't show off... 
+ YES / NO
+ON / OFF
+TRUE / FALSE
+For this, Java has a boolean data type, which can store true or false... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fed4132a27e60&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40gudiyavaishnav%2Fyouve-made-an-excellent-point-about-prioritizing-financial-discipline-over-trying-to-impress-ed4132a27e60&source=---recommended_stories---react---0-84----------------bookmark_preview----00bb721a_cdfc_4451_88a9_cf96449a0b0d-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F78adaf890a9e&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40settivarirahul%2Fjava-booleans-very-often-in-programming-you-will-need-a-data-type-that-can-only-have-one-of-two-78adaf890a9e&source=---recommended_stories---javascript---0-84----------------bookmark_preview----9d3f05a0_f87b_4ca9_9918_e2c77956cc8a-------) 
 
-### What is Claude AI? 
+### How trackBy improves performance of your Angular app 
 
- Claude AI ... 
+ ngFor and for directive (Angular 17) is used almost everywhere to display list of information. But, ... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fad8e4d01bf31&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40sakethnarravula13%2Fwhat-is-claude-ai-ad8e4d01bf31&source=---recommended_stories---javascript---0-84----------------bookmark_preview----5d6a3a7e_b25b_4ffb_9f04_143d5bc213f3-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F43def8b6f88c&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40suyashjs%2Fhow-trackby-improves-performance-of-your-angular-app-43def8b6f88c&source=---recommended_stories---typescript---0-84----------------bookmark_preview----566230de_b763_4224_b12b_26e23da8744a-------) 
 
 ### 27,797시간 강의 데이터로 챗봇 진화시키기 (Note by 패스트캠퍼스) 
 
