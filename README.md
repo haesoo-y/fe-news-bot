@@ -1,11 +1,5 @@
 # 오늘의 포스팅 
-2025년 1월 1일 9시 기준 
-
-### Frontend Weekly Digest #394 (23–29 December 2024) 
-
- Web-development... 
-
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F4367b8ecd5c1&operation=register&redirect=https%3A%2F%2Ffrontender-ua.medium.com%2Ffrontend-weekly-digest-394-23-29-december-2024-4367b8ecd5c1&source=---recommended_stories---front_end_development---0-84----------------bookmark_preview----fb4c2771_74cf_4b98_abe1_36f967312bb8-------) 
+2025년 1월 2일 9시 기준 
 
 ### The Future of Server-Side Rendering: Trends for 2025 
 
@@ -13,21 +7,23 @@
 
  [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F650ca8508625&operation=register&redirect=https%3A%2F%2Fitnext.io%2Fthe-future-of-server-side-rendering-trends-for-2025-650ca8508625&source=---recommended_stories---react---0-84----------------bookmark_preview----fe62f570_5b82_4a41_aafe_325876562077-------) 
 
-### Java Booleans
-Very often, in programming, you will need a data type that can only have one of two… 
+### Understanding Inheritance: A Comprehensive Guide 
 
- YES / NO
-ON / OFF
-TRUE / FALSE
-For this, Java has a boolean data type, which can store true or false... 
+ Preserving Wealth, Protecting Legacies: A Guide to Understanding Inheritance... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F78adaf890a9e&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40settivarirahul%2Fjava-booleans-very-often-in-programming-you-will-need-a-data-type-that-can-only-have-one-of-two-78adaf890a9e&source=---recommended_stories---javascript---0-84----------------bookmark_preview----9d3f05a0_f87b_4ca9_9918_e2c77956cc8a-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F2e8b73c651f7&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40King27%2Funderstanding-inheritance-a-comprehensive-guide-2e8b73c651f7&source=---recommended_stories---javascript---0-84----------------bookmark_preview----a950b875_d071_4c40_94e6_4151c10b08bc-------) 
 
-### How trackBy improves performance of your Angular app 
+### NPM Packages: What They Are, Where They Came From, and When to Use Them 
 
- ngFor and for directive (Angular 17) is used almost everywhere to display list of information. But, ... 
+ If you’ve worked with JavaScript, you’re probably familiar with NPM packages — reusable code compone... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F43def8b6f88c&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40suyashjs%2Fhow-trackby-improves-performance-of-your-angular-app-43def8b6f88c&source=---recommended_stories---typescript---0-84----------------bookmark_preview----566230de_b763_4224_b12b_26e23da8744a-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F7304c411c1c5&operation=register&redirect=https%3A%2F%2Fmedium.landonjohnson.dev%2Fnpm-packages-what-they-are-where-they-came-from-and-when-to-use-them-7304c411c1c5&source=---recommended_stories---typescript---0-84----------------bookmark_preview----a0861211_6f7d_4d7e_987f_35491b38105e-------) 
+
+### Enhancing Angular Forms with OOP Patterns 
+
+ Hey 😀! Season’s greetings and best wishes for the new year ahead!... 
+
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fc6b447ce7d93&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40aalamu%2Fenhancing-angular-forms-with-oop-patterns-c6b447ce7d93&source=---recommended_stories---frontend---0-84----------------bookmark_preview----cd9972ef_1753_4a19_a6d9_093002790bc0-------) 
 
 ### 27,797시간 강의 데이터로 챗봇 진화시키기 (Note by 패스트캠퍼스) 
 
