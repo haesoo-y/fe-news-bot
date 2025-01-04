@@ -1,29 +1,29 @@
 # 오늘의 포스팅 
-2025년 1월 3일 9시 기준 
+2025년 1월 4일 9시 기준 
 
-### NPM Packages: What They Are, Where They Came From, and When to Use Them 
+### How I Spend My Free Time 
 
- If you’ve worked with JavaScript, you’re probably familiar with NPM packages — reusable code compone... 
+ Free Time... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F7304c411c1c5&operation=register&redirect=https%3A%2F%2Fmedium.landonjohnson.dev%2Fnpm-packages-what-they-are-where-they-came-from-and-when-to-use-them-7304c411c1c5&source=---recommended_stories---javascript---0-84----------------bookmark_preview----63bbb2e7_4287_4486_be3e_53a7f1e8113d-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F734e268b18b0&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40Annu_Rathore__%2Fhow-i-spend-my-free-time-734e268b18b0&source=---recommended_stories---typescript---0-84----------------bookmark_preview----fdd79307_ce63_4007_969c_63f4a6764514-------) 
 
-### NPM Packages: What They Are, Where They Came From, and When to Use Them 
+### Ng-News 24/52: Observable Standardization, State of JavaScript & more 
 
- If you’ve worked with JavaScript, you’re probably familiar with NPM packages — reusable code compone... 
+ This is the final episode of 2024, and it’s been a busy holiday season! From Observable Standardizat... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F7304c411c1c5&operation=register&redirect=https%3A%2F%2Fmedium.landonjohnson.dev%2Fnpm-packages-what-they-are-where-they-came-from-and-when-to-use-them-7304c411c1c5&source=---recommended_stories---typescript---0-84----------------bookmark_preview----a0861211_6f7d_4d7e_987f_35491b38105e-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fc941d77333e9&operation=register&redirect=https%3A%2F%2Fmedium.com%2Fng-news%2Fng-news-24-52-observable-standardization-state-of-javascript-more-c941d77333e9&source=---recommended_stories---frontend---0-84----------------bookmark_preview----a3672299_6db5_440c_b216_863a6f7b80ff-------) 
 
-### Enhancing Angular Forms with OOP Patterns 
+### Constructing a Changing Dashboard Using React, Vite, and Reusable Elements 
 
- Hey 😀! Season’s greetings and best wishes for the new year ahead!... 
+ Introduction... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fc6b447ce7d93&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40aalamu%2Fenhancing-angular-forms-with-oop-patterns-c6b447ce7d93&source=---recommended_stories---frontend---0-84----------------bookmark_preview----2e7fd940_b41e_4704_aa95_e35e59de775c-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F3c7a722217bd&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40munagalavamsi37%2Fconstructing-a-changing-dashboard-using-react-vite-and-reusable-elements-3c7a722217bd&source=---recommended_stories---reactjs---0-84----------------bookmark_preview----1e404f9e_4d9e_4e61_9477_8648dc7f7516-------) 
 
-### Developing the UI as a Back-End Engineer: My Journey to Front-End Development 
+### Vercel’s Costing Sucks: How to Deploy Your Next.js App on Hostinger VPS | Guide 
 
- Six months ago, I embarked on a journey to develop a new application called FlowInquiry. Coming from... 
+ Vercel’s pricing can be frustrating. Learn how to deploy your Next.js app on Hostinger VPS for bette... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F8a69ab13f5d5&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40hai79%2Fdeveloping-the-ui-as-a-back-end-engineer-my-journey-to-front-end-development-8a69ab13f5d5&source=---recommended_stories---reactjs---0-84----------------bookmark_preview----c70282a7_0145_4c24_a492_4163026db1ca-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F4b72513d9bbe&operation=register&redirect=https%3A%2F%2Fsandydev.medium.com%2Fvercels-costing-sucks-how-to-deploy-your-next-js-app-on-hostinger-vps-guide-4b72513d9bbe&source=---recommended_stories---nextjs---0-84----------------bookmark_preview----21a0b502_fda1_45f1_9040_0707d6d64b5c-------) 
 
 ### 27,797시간 강의 데이터로 챗봇 진화시키기 (Note by 패스트캠퍼스) 
 
