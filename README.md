@@ -1,29 +1,29 @@
 # 오늘의 포스팅 
-2025년 1월 4일 9시 기준 
-
-### How I Spend My Free Time 
-
- Free Time... 
-
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F734e268b18b0&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40Annu_Rathore__%2Fhow-i-spend-my-free-time-734e268b18b0&source=---recommended_stories---typescript---0-84----------------bookmark_preview----fdd79307_ce63_4007_969c_63f4a6764514-------) 
+2025년 1월 5일 9시 기준 
 
 ### Ng-News 24/52: Observable Standardization, State of JavaScript & more 
 
  This is the final episode of 2024, and it’s been a busy holiday season! From Observable Standardizat... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fc941d77333e9&operation=register&redirect=https%3A%2F%2Fmedium.com%2Fng-news%2Fng-news-24-52-observable-standardization-state-of-javascript-more-c941d77333e9&source=---recommended_stories---frontend---0-84----------------bookmark_preview----a3672299_6db5_440c_b216_863a6f7b80ff-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fc941d77333e9&operation=register&redirect=https%3A%2F%2Fmedium.com%2Fng-news%2Fng-news-24-52-observable-standardization-state-of-javascript-more-c941d77333e9&source=---recommended_stories---frontend---0-84----------------bookmark_preview----4dcc6412_52c4_4665_9bba_f756a69857ed-------) 
 
 ### Constructing a Changing Dashboard Using React, Vite, and Reusable Elements 
 
  Introduction... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F3c7a722217bd&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40munagalavamsi37%2Fconstructing-a-changing-dashboard-using-react-vite-and-reusable-elements-3c7a722217bd&source=---recommended_stories---reactjs---0-84----------------bookmark_preview----1e404f9e_4d9e_4e61_9477_8648dc7f7516-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F3c7a722217bd&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40BatmanBabai%2Fconstructing-a-changing-dashboard-using-react-vite-and-reusable-elements-3c7a722217bd&source=---recommended_stories---reactjs---0-84----------------bookmark_preview----1d437e07_6e93_4773_a03f_f8f730d0083c-------) 
 
-### Vercel’s Costing Sucks: How to Deploy Your Next.js App on Hostinger VPS | Guide 
+### React Server Components Without Frameworks 
 
- Vercel’s pricing can be frustrating. Learn how to deploy your Next.js app on Hostinger VPS for bette... 
+ Do you know how React Server Components work? I doubt that unless you are part of the React team, wh... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F4b72513d9bbe&operation=register&redirect=https%3A%2F%2Fsandydev.medium.com%2Fvercels-costing-sucks-how-to-deploy-your-next-js-app-on-hostinger-vps-guide-4b72513d9bbe&source=---recommended_stories---nextjs---0-84----------------bookmark_preview----21a0b502_fda1_45f1_9040_0707d6d64b5c-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F7c61c1ce0561&operation=register&redirect=https%3A%2F%2Fitnext.io%2Freact-server-components-without-frameworks-7c61c1ce0561&source=---recommended_stories---nextjs---0-84----------------bookmark_preview----cf4dcdd2_31b5_41c0_949b_0d3fc231c83a-------) 
+
+### The Myth of “Clean Code” in Front-End Development 
+
+ Does “clean” always mean better?... 
+
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fae05442747d5&operation=register&redirect=https%3A%2F%2Fitnext.io%2Fthe-myth-of-clean-code-in-front-end-development-ae05442747d5&source=---recommended_stories---front_end_development---0-84----------------bookmark_preview----9351272a_bfcf_409f_95a4_0e58d01b0cc5-------) 
 
 ### 27,797시간 강의 데이터로 챗봇 진화시키기 (Note by 패스트캠퍼스) 
 
