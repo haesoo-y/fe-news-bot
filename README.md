@@ -1,29 +1,29 @@
 # 오늘의 포스팅 
-2025년 1월 5일 9시 기준 
+2025년 1월 6일 9시 기준 
 
-### Ng-News 24/52: Observable Standardization, State of JavaScript & more 
+### How to Remove Duplicate Items from an Array in JavaScript. 
 
- This is the final episode of 2024, and it’s been a busy holiday season! From Observable Standardizat... 
+ When working with JavaScript, dealing with duplicate items in an array is a common problem. Whether ... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fc941d77333e9&operation=register&redirect=https%3A%2F%2Fmedium.com%2Fng-news%2Fng-news-24-52-observable-standardization-state-of-javascript-more-c941d77333e9&source=---recommended_stories---frontend---0-84----------------bookmark_preview----4dcc6412_52c4_4665_9bba_f756a69857ed-------) 
-
-### Constructing a Changing Dashboard Using React, Vite, and Reusable Elements 
-
- Introduction... 
-
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F3c7a722217bd&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40BatmanBabai%2Fconstructing-a-changing-dashboard-using-react-vite-and-reusable-elements-3c7a722217bd&source=---recommended_stories---reactjs---0-84----------------bookmark_preview----1d437e07_6e93_4773_a03f_f8f730d0083c-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F13ab29ef2765&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40prince.14.mishra%2Fhow-to-remove-duplicate-items-from-an-array-in-javascript-13ab29ef2765&source=---recommended_stories---reactjs---0-84----------------bookmark_preview----30dc40c4_1a17_4831_88f5_5dd96c90fe52-------) 
 
 ### React Server Components Without Frameworks 
 
  Do you know how React Server Components work? I doubt that unless you are part of the React team, wh... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F7c61c1ce0561&operation=register&redirect=https%3A%2F%2Fitnext.io%2Freact-server-components-without-frameworks-7c61c1ce0561&source=---recommended_stories---nextjs---0-84----------------bookmark_preview----cf4dcdd2_31b5_41c0_949b_0d3fc231c83a-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F7c61c1ce0561&operation=register&redirect=https%3A%2F%2Fitnext.io%2Freact-server-components-without-frameworks-7c61c1ce0561&source=---recommended_stories---nextjs---0-84----------------bookmark_preview----33067b24_28fe_4aa9_a58a_5078af948232-------) 
 
-### The Myth of “Clean Code” in Front-End Development 
+### How to Remove Duplicate Items from an Array in JavaScript. 
 
- Does “clean” always mean better?... 
+ When working with JavaScript, dealing with duplicate items in an array is a common problem. Whether ... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fae05442747d5&operation=register&redirect=https%3A%2F%2Fitnext.io%2Fthe-myth-of-clean-code-in-front-end-development-ae05442747d5&source=---recommended_stories---front_end_development---0-84----------------bookmark_preview----9351272a_bfcf_409f_95a4_0e58d01b0cc5-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F13ab29ef2765&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40prince.14.mishra%2Fhow-to-remove-duplicate-items-from-an-array-in-javascript-13ab29ef2765&source=---recommended_stories---front_end_development---0-84----------------bookmark_preview----a4ea9dc2_db63_4a77_b6bb_adc9e309e929-------) 
+
+### Gaza  Pyramids Made by Extra terroristial or Humans ?? 
+
+ Top 10 facts about Gaza Pyramid... 
+
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fb9ec3d783c1c&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40gautamamitkr102%2Fgaza-pyramids-made-by-extra-terroristial-or-humans-b9ec3d783c1c&source=---recommended_stories---react---0-84----------------bookmark_preview----51581b7f_0675_422a_a92a_06a38b3fb246-------) 
 
 ### 27,797시간 강의 데이터로 챗봇 진화시키기 (Note by 패스트캠퍼스) 
 
