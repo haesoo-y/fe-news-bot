@@ -1,41 +1,41 @@
 # 오늘의 포스팅 
-2025년 1월 6일 9시 기준 
+2025년 1월 7일 9시 기준 
 
-### How to Remove Duplicate Items from an Array in JavaScript. 
+### 10 Best Large Open Source Next.js Projects to Study 
 
- When working with JavaScript, dealing with duplicate items in an array is a common problem. Whether ... 
+ One of the best ways to sharpen your skills as a developer is by dissecting real-world projects. In ... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F13ab29ef2765&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40prince.14.mishra%2Fhow-to-remove-duplicate-items-from-an-array-in-javascript-13ab29ef2765&source=---recommended_stories---reactjs---0-84----------------bookmark_preview----30dc40c4_1a17_4831_88f5_5dd96c90fe52-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fff9e9d79d695&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40letscodefuture%2F10-best-large-open-source-next-js-projects-to-study-ff9e9d79d695&source=---recommended_stories---nextjs---0-84----------------bookmark_preview----5f3e0cef_450e_42bd_82af_746d16598203-------) 
 
-### React Server Components Without Frameworks 
+### Frontend Weekly Digest #395 (30 December 2024–5 January 2025) 
 
- Do you know how React Server Components work? I doubt that unless you are part of the React team, wh... 
+ Web-development... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F7c61c1ce0561&operation=register&redirect=https%3A%2F%2Fitnext.io%2Freact-server-components-without-frameworks-7c61c1ce0561&source=---recommended_stories---nextjs---0-84----------------bookmark_preview----33067b24_28fe_4aa9_a58a_5078af948232-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fa65f494cf82b&operation=register&redirect=https%3A%2F%2Ffrontender-ua.medium.com%2Ffrontend-weekly-digest-395-30-december-2024-5-january-2025-a65f494cf82b&source=---recommended_stories---front_end_development---0-84----------------bookmark_preview----bb5e8c15_e86f_47fb_be8c_35f8eaf4f86f-------) 
 
-### How to Remove Duplicate Items from an Array in JavaScript. 
+### Configuring VSCode Extensions: Webpack, React, and TypeScript Demystified 
 
- When working with JavaScript, dealing with duplicate items in an array is a common problem. Whether ... 
+ Master VSCode Setup for React-Powered Extensions: From Challenges to Solutions... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F13ab29ef2765&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40prince.14.mishra%2Fhow-to-remove-duplicate-items-from-an-array-in-javascript-13ab29ef2765&source=---recommended_stories---front_end_development---0-84----------------bookmark_preview----a4ea9dc2_db63_4a77_b6bb_adc9e309e929-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F10ea25cb983f&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40captaincolinr%2Fvscode-react-extension-guide-10ea25cb983f&source=---recommended_stories---react---0-84----------------bookmark_preview----d47c4efe_0056_4c5a_8af5_b3c76df1002f-------) 
 
-### Gaza  Pyramids Made by Extra terroristial or Humans ?? 
+### Boosting Node.js Performance with Clustering: A Story-Based Guide 
 
- Top 10 facts about Gaza Pyramid... 
+ Introduction... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fb9ec3d783c1c&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40gautamamitkr102%2Fgaza-pyramids-made-by-extra-terroristial-or-humans-b9ec3d783c1c&source=---recommended_stories---react---0-84----------------bookmark_preview----51581b7f_0675_422a_a92a_06a38b3fb246-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F0cf9f3bf492f&operation=register&redirect=https%3A%2F%2Fahmadshaik.medium.com%2Fboosting-node-js-performance-with-clustering-a-story-based-guide-0cf9f3bf492f&source=---recommended_stories---javascript---0-84----------------bookmark_preview----e4c7fa69_1ee7_4056_ba64_48d437fa8121-------) 
 
-### 27,797시간 강의 데이터로 챗봇 진화시키기 (Note by 패스트캠퍼스) 
+### 내가 ‘차트 라이브러리’를 만들며 배운 것들 
 
- AI가 대세라는 말, 이제는 너무 흔한 말입니다. 그만큼 우리 서비스에 적용해야 한다는 생각도 누구나 하죠. 문제는 기술의 정체를 잘 모른다는 겁니다. 어디서, 어떻게 시작해야 할... 
+ “죄송하지만, 라이브러리에서 지원하지 않는 기능이라…” 프론트엔드 개발자라면 누구나 한 번쯤 이런 말을 해본 적이 있을 겁니다. 특히 데이터 시각화가 중요한 프로젝트를 진행할 때면... 
 
- [바로가기](https://yozm.wishket.com/magazine/detail/2911/) 
+ [바로가기](https://yozm.wishket.com/magazine/detail/2919/) 
 
-### 2024년 회고와 2025년 웹 개발 트렌드 전망 
+### 실전 교훈: 비동기/대기보다 스레드가 유리한 이유 
 
- 2024년은 우리나라뿐만 아니라 전 세계적으로도 많은 사건과 변화가 있었던 한 해였습니다. AI의 발전과 더불어 글로벌 IT 업계에도 많은 지각변동이 있었으며, 개인적으로도 많은 ... 
+ 비동기/대기(async/await) 기반 시스템의 어려움과 백프레셔*를 제대로 지원하지 못하는 문제에 대해 글을 쓴 지 몇 년이 지났습니다. 몇 년이 지난 지금도 이 문제가 크게 ... 
 
- [바로가기](https://yozm.wishket.com/magazine/detail/2910/) 
+ [바로가기](https://yozm.wishket.com/magazine/detail/2918/) 
 
 ---
 
