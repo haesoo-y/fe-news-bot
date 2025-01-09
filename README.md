@@ -1,11 +1,5 @@
 # 오늘의 포스팅 
-2025년 1월 8일 9시 기준 
-
-### Hammer is dead. Long live Hammer for Mac 
-
- In the ever-evolving landscape of front-end development, tools come and go. Some leave a fleeting im... 
-
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F712a366200ee&operation=register&redirect=https%3A%2F%2Fblog.beach.io%2Fhammer-is-dead-long-live-hammer-for-mac-712a366200ee&source=---recommended_stories---front_end_development---0-84----------------bookmark_preview----7d9738c8_d761_4828_a754_9ca162ff40d9-------) 
+2025년 1월 9일 9시 기준 
 
 ### Building a multivendor marketplace with Medusa.js 2.0: Super Admin 
 
@@ -13,29 +7,35 @@
 
  [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fd899353b0b1e&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40igorkhomenko%2Fbuilding-a-multivendor-marketplace-with-medusa-js-2-0-super-admin-d899353b0b1e&source=---recommended_stories---react---0-84----------------bookmark_preview----7f78312e_95b0_49de_996d_7bd5a789aea1-------) 
 
-### Chargebee’s Node.js SDK Gets a (Long-Due) Makeover 
+### OOP in Modern JavaScript Frameworks: A Guide to Principles and Applications 
 
- tl;dr: Chargebee Node.js SDK has a new, unified update: Version 3. Rewritten from the ground up with... 
+ Object-oriented programming (OOP) is a key method for software development that provides a way to de... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F2b58a5dde632&operation=register&redirect=https%3A%2F%2Fmedium.com%2Fchargebee-engineering%2Fchargebees-node-js-sdk-gets-a-long-due-makeover-2b58a5dde632&source=---recommended_stories---javascript---0-84----------------bookmark_preview----adf716e7_f429_445b_a4cd_ce674fa8fdfd-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fae50b89f2038&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40Savvypulse%2Foop-in-modern-javascript-frameworks-a-guide-to-principles-and-applications-ae50b89f2038&source=---recommended_stories---javascript---0-84----------------bookmark_preview----393f92bf_69ec_4413_8770_aff549a6f5f6-------) 
 
-### Chargebee’s Node.js SDK Gets a (Long-Due) Makeover 
+### Incremental Builds with Nx 
 
- tl;dr: Chargebee Node.js SDK has a new, unified update: Version 3. Rewritten from the ground up with... 
+ If you are facing slow build times in your Nx monorepo and you have a lot of projects, incremental b... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F2b58a5dde632&operation=register&redirect=https%3A%2F%2Fmedium.com%2Fchargebee-engineering%2Fchargebees-node-js-sdk-gets-a-long-due-makeover-2b58a5dde632&source=---recommended_stories---typescript---0-84----------------bookmark_preview----92c09e78_a8c6_4d3c_8796_777af2c1cb20-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F5b6c258524b6&operation=register&redirect=https%3A%2F%2Fstefan-haas.medium.com%2Fincremental-builds-with-nx-5b6c258524b6&source=---recommended_stories---typescript---0-84----------------bookmark_preview----2a14a8e1_7152_48d4_ba1c_afe67218eebf-------) 
+
+### Meta Frontend Developer Interview Questions with Expert Answers 
+
+ Ace your Meta frontend developer interview! Explore top questions with expert answers to boost your ... 
+
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F7890d2fd9a13&operation=register&redirect=https%3A%2F%2Fjavascript.plainenglish.io%2Fmeta-frontend-developer-interview-questions-with-expert-answers-7890d2fd9a13&source=---recommended_stories---frontend---0-84----------------bookmark_preview----af8359fe_e5ed_4c36_af6c_13faf54a1890-------) 
+
+### CEL만 알면 나도 쿠버네티스 보안 정책 전문가! 
+
+ 쿠버네티스는 지금도 발전하고 있습니다. 이번 글에서는 CEL을 활용해 쿠버네티스 보안 정책을 어떻게 적용할 수 있을지 알아보겠습니다.... 
+
+ [바로가기](https://yozm.wishket.com/magazine/detail/2922/) 
 
 ### 파란 잠바를 얻기 위한 여정: KCNA, CKA, CKAD 편 
 
  Kubestronaut 자격증 체계는 쿠버네티스(Kubernetes)와 클라우드 네이티브 기술에 특화된 인증 프로그램입니다. 이 기초 프로그램은 총 5가지 자격증으로 구성되어 있습... 
 
  [바로가기](https://yozm.wishket.com/magazine/detail/2920/) 
-
-### 내가 ‘차트 라이브러리’를 만들며 배운 것들 
-
- “죄송하지만, 라이브러리에서 지원하지 않는 기능이라…” 프론트엔드 개발자라면 누구나 한 번쯤 이런 말을 해본 적이 있을 겁니다. 특히 데이터 시각화가 중요한 프로젝트를 진행할 때면... 
-
- [바로가기](https://yozm.wishket.com/magazine/detail/2919/) 
 
 ---
 
