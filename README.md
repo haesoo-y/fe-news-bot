@@ -1,17 +1,11 @@
 # 오늘의 포스팅 
-2025년 1월 10일 9시 기준 
+2025년 1월 11일 9시 기준 
 
-### Subscribe is Deprecated: New way of using .subscribe() RxJs 
+### TypeScript: when it helps & when it’s worse! 
 
- You’re not alone. This can be confusing at first, but don’t worry. The core of the issue lies in the... 
+ I love TS until the point I hate it and this post is about the latter part.... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F6192685cfedc&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40awaisshaikh94%2Fsubscribe-is-deprecated-new-way-of-using-subscribe-rxjs-6192685cfedc&source=---recommended_stories---javascript---0-84----------------bookmark_preview----b98da2f4_b876_4381_9167_0b7df5eb296f-------) 
-
-### Error Handling in RxJS: Observer Error Handler vs catchError Operator 
-
- When working with RxJS in Angular or any other project, handling errors gracefully is crucial for ma... 
-
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F686396638f5f&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40awaisshaikh94%2Ferror-handling-in-rxjs-observer-error-handler-vs-catcherror-operator-686396638f5f&source=---recommended_stories---typescript---0-84----------------bookmark_preview----6d2cdc10_96ff_4387_9526_745eb933589d-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F9acfe6301220&operation=register&redirect=https%3A%2F%2Fwebreflection.medium.com%2Ftypescript-when-it-helps-when-its-worse-9acfe6301220&source=---recommended_stories---typescript---0-84----------------bookmark_preview----57870369_e62d_4ad0_938f_87ed7e0d30a2-------) 
 
 ### Frontend Developer Roadmap 2025: The Complete Guide 
 
@@ -19,11 +13,17 @@
 
  [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fb209a9c3a22b&operation=register&redirect=https%3A%2F%2Flevelup.gitconnected.com%2Ffrontend-developer-roadmap-2025-the-complete-guide-b209a9c3a22b&source=---recommended_stories---frontend---0-84----------------bookmark_preview----a57c99e0_11e3_4079_b877_b3c514578159-------) 
 
-### A simple way to know all about Promise.all 
+### Advanced Tips for Efficient React Development from a former MS Dev 
 
- When multiple asynchronous tasks (e.g., API calls) need to be executed, using Promise.all can signif... 
+ Tips to using React in your development work... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F119ab86c4e2d&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40mamunhowlader707%2Fa-simple-way-to-know-alll-about-promise-all-119ab86c4e2d&source=---recommended_stories---reactjs---0-84----------------bookmark_preview----d57c645e_21f4_4e49_baf8_642444d03eb9-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F271a74a16726&operation=register&redirect=https%3A%2F%2Fmedium.com%2Fsourcescribes%2Fadvanced-tips-for-efficient-react-development-from-a-former-ms-dev-271a74a16726&source=---recommended_stories---reactjs---0-84----------------bookmark_preview----11f06f4a_5fa5_40c9_851c_c86a3f0371a8-------) 
+
+### How to Use the useOptimistic Hook in React and Next.js: A Practical Guide 
+
+ When working with React and Next.js, managing the state during asynchronous operations can often be ... 
+
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fe92c34ed0813&operation=register&redirect=https%3A%2F%2Fcodewithpinkz.medium.com%2Fhow-to-use-the-useoptimistic-hook-in-react-and-next-js-a-practical-guide-e92c34ed0813&source=---recommended_stories---nextjs---0-84----------------bookmark_preview----c086b8e5_f1de_4dbc_8dce_44c93ab75d42-------) 
 
 ### 알다가도 모를 API, 제대로 잡고 가기 
 
