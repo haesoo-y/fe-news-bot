@@ -1,29 +1,29 @@
 # 오늘의 포스팅 
-2025년 1월 11일 9시 기준 
+2025년 1월 12일 9시 기준 
 
-### TypeScript: when it helps & when it’s worse! 
+### Simplifying Chakra UI v3: Recipes vs. Chakra Factory — A Developer’s Perspective 
 
- I love TS until the point I hate it and this post is about the latter part.... 
+ Learn the key differences between Recipes & Chakra Factory in Chakra UI v3! Simplify theming & styli... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F9acfe6301220&operation=register&redirect=https%3A%2F%2Fwebreflection.medium.com%2Ftypescript-when-it-helps-when-its-worse-9acfe6301220&source=---recommended_stories---typescript---0-84----------------bookmark_preview----57870369_e62d_4ad0_938f_87ed7e0d30a2-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F4020b62f1b4d&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40a.heydari.dev%2Fsimplifying-chakra-ui-v3-recipes-vs-chakra-factory-a-developers-perspective-4020b62f1b4d&source=---recommended_stories---frontend---0-84----------------bookmark_preview----1966e398_fb61_4f82_9800_aa848d9c01d3-------) 
 
-### Frontend Developer Roadmap 2025: The Complete Guide 
+### Understanding Shadcn-UI: A Deep Dive into Tailwind-Styled Radix Components 
 
- Master frontend development in 2025 with this complete roadmap! Learn essential skills, bonus tips, ... 
+ My attempt at understanding the shadcn-ui component library which has some beautifully designed comp... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fb209a9c3a22b&operation=register&redirect=https%3A%2F%2Flevelup.gitconnected.com%2Ffrontend-developer-roadmap-2025-the-complete-guide-b209a9c3a22b&source=---recommended_stories---frontend---0-84----------------bookmark_preview----a57c99e0_11e3_4079_b877_b3c514578159-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F12854eae2909&operation=register&redirect=https%3A%2F%2Fsauravmishra1710.medium.com%2Funderstanding-shadcn-ui-a-deep-dive-into-tailwind-styled-radix-components-12854eae2909&source=---recommended_stories---reactjs---0-84----------------bookmark_preview----794e2761_f7a9_44d2_8166_8c20288483ab-------) 
 
-### Advanced Tips for Efficient React Development from a former MS Dev 
+### Simplifying Chakra UI v3: Recipes vs. Chakra Factory — A Developer’s Perspective 
 
- Tips to using React in your development work... 
+ Learn the key differences between Recipes & Chakra Factory in Chakra UI v3! Simplify theming & styli... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F271a74a16726&operation=register&redirect=https%3A%2F%2Fmedium.com%2Fsourcescribes%2Fadvanced-tips-for-efficient-react-development-from-a-former-ms-dev-271a74a16726&source=---recommended_stories---reactjs---0-84----------------bookmark_preview----11f06f4a_5fa5_40c9_851c_c86a3f0371a8-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F4020b62f1b4d&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40a.heydari.dev%2Fsimplifying-chakra-ui-v3-recipes-vs-chakra-factory-a-developers-perspective-4020b62f1b4d&source=---recommended_stories---nextjs---0-84----------------bookmark_preview----d054ecc4_5365_4135_9030_1869a6bebe18-------) 
 
-### How to Use the useOptimistic Hook in React and Next.js: A Practical Guide 
+### Mastering forms in Next.js 15 and React 19 
 
- When working with React and Next.js, managing the state during asynchronous operations can often be ... 
+ Creating forms in modern React has evolved significantly with the latest releases. In this post we’l... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fe92c34ed0813&operation=register&redirect=https%3A%2F%2Fcodewithpinkz.medium.com%2Fhow-to-use-the-useoptimistic-hook-in-react-and-next-js-a-practical-guide-e92c34ed0813&source=---recommended_stories---nextjs---0-84----------------bookmark_preview----c086b8e5_f1de_4dbc_8dce_44c93ab75d42-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fe3d2d783946b&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40kolbysisk%2Fmastering-forms-in-next-js-15-and-react-19-e3d2d783946b&source=---recommended_stories---front_end_development---0-84----------------bookmark_preview----3bf70cd6_5607_437c_ba3b_da2fa9103314-------) 
 
 ### 알다가도 모를 API, 제대로 잡고 가기 
 
