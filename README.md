@@ -1,11 +1,5 @@
 # 오늘의 포스팅 
-2025년 1월 16일 9시 기준 
-
-### I’ve built you the ultimate React Hooks playground 
-
- Hooks are the bread & butter of React. Essentially, they’re functions that let you “hook into” core ... 
-
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fa1611c82da8c&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40alexfirebrand%2Fthe-ultimate-react-hooks-playground-a1611c82da8c&source=---recommended_stories---react---0-84----------------bookmark_preview----0f166508_80ce_4245_8302_8ff5a7edb87c-------) 
+2025년 1월 17일 9시 기준 
 
 ### User Authentication in React and Express: Using Local Storage and VerifyToken Middleware 
 
@@ -19,11 +13,17 @@
 
  [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F9ca333dfc334&operation=register&redirect=https%3A%2F%2Fblog.angular.dev%2Fangular-2025-strategy-9ca333dfc334&source=---recommended_stories---typescript---0-84----------------bookmark_preview----2e32a1a9_b491_47fa_a167_c09cb551c0b3-------) 
 
-### Understanding Signals in Angular: The Future of Reactive Programming 
+### The Best Websites for Front-End Developer Inspiration🚀 
 
- Angular is constantly evolving to improve the developer experience and boost application performance... 
+ As a front-end developer, staying inspired and updated with the latest design trends and technologie... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F322b274f635b&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40shubh9911am%2Funderstanding-signals-in-angular-the-future-of-reactive-programming-322b274f635b&source=---recommended_stories---frontend---0-84----------------bookmark_preview----4f3741d8_db0e_4cdc_a262_2cda4cf24282-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F45cb33a37145&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40annasaaddev%2Fthe-best-websites-for-front-end-developer-inspiration-45cb33a37145&source=---recommended_stories---frontend---0-84----------------bookmark_preview----56f730ac_5b64_45df_8610_f3ac3769d792-------) 
+
+### Why Create a Custom Starter?in Springboot 
+
+ A custom starter in Spring Boot is a reusable module or library designed to simplify the inclusion o... 
+
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F6fd502bb5c68&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40gaddamnaveen192%2Fwhy-create-a-custom-starter-in-springboot-6fd502bb5c68&source=---recommended_stories---reactjs---0-84----------------bookmark_preview----3bb1961f_9c86_4ffb_a53d_eafcf8adb8b2-------) 
 
 ---
 
