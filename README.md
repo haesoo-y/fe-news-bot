@@ -1,29 +1,29 @@
 # 오늘의 포스팅 
-2025년 1월 17일 9시 기준 
+2025년 1월 18일 9시 기준 
 
-### User Authentication in React and Express: Using Local Storage and VerifyToken Middleware 
+### Authenticator in Axios with RTK Query in a React Native Application 
 
- Introduction... 
+ In modern applications, implementing secure and seamless authentication mechanisms is crucial. One c... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Ffc21fa8088fc&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40tushalkhatri902%2Fuser-authentication-in-react-and-express-using-local-storage-and-verifytoken-middleware-fc21fa8088fc&source=---recommended_stories---javascript---0-84----------------bookmark_preview----d2b8c70e_a3ad_4530_a2e4_363d8c1a975b-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fc9610c8e288d&operation=register&redirect=https%3A%2F%2Fpiashcse.medium.com%2Fauthenticator-in-axios-with-rtk-query-in-a-react-native-application-c9610c8e288d&source=---recommended_stories---typescript---0-84----------------bookmark_preview----db42efa9_e096_4b64_ba14_c639e0e4cb7a-------) 
 
-### Angular 2025 Strategy 
+### Addressing the Ambiguity of Feature-Sliced Design (FSD) and Introducing a New Frontend-Friendly… 
 
- For the past two and a half years, we’ve been laser focused on improving developer experience and pe... 
+ Feature-Sliced Design (FSD) has gained traction in recent years for its structured approach to organ... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F9ca333dfc334&operation=register&redirect=https%3A%2F%2Fblog.angular.dev%2Fangular-2025-strategy-9ca333dfc334&source=---recommended_stories---typescript---0-84----------------bookmark_preview----2e32a1a9_b491_47fa_a167_c09cb551c0b3-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fc31541977953&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40cj.allen.jung.0110%2Faddressing-the-ambiguity-of-feature-sliced-design-fsd-and-introducing-a-new-frontend-friendly-c31541977953&source=---recommended_stories---frontend---0-84----------------bookmark_preview----b23fc89b_c2bc_4cc7_9f80_b78479815a6a-------) 
 
-### The Best Websites for Front-End Developer Inspiration🚀 
+### Give Your React Code a Makeover with Reusable Components 
 
- As a front-end developer, staying inspired and updated with the latest design trends and technologie... 
+ I recently refactored a React component that was a classic example of code bloat. It handled API cal... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F45cb33a37145&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40annasaaddev%2Fthe-best-websites-for-front-end-developer-inspiration-45cb33a37145&source=---recommended_stories---frontend---0-84----------------bookmark_preview----56f730ac_5b64_45df_8610_f3ac3769d792-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F1add92de4933&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40divyamanda42%2Fgive-your-react-code-a-makeover-with-reusable-components-1add92de4933&source=---recommended_stories---reactjs---0-84----------------bookmark_preview----e3848ab2_2343_4a06_95ea_f0a7360856a1-------) 
 
-### Why Create a Custom Starter?in Springboot 
+### Addressing the Ambiguity of Feature-Sliced Design (FSD) and Introducing a New Frontend-Friendly… 
 
- A custom starter in Spring Boot is a reusable module or library designed to simplify the inclusion o... 
+ Feature-Sliced Design (FSD) has gained traction in recent years for its structured approach to organ... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F6fd502bb5c68&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40gaddamnaveen192%2Fwhy-create-a-custom-starter-in-springboot-6fd502bb5c68&source=---recommended_stories---reactjs---0-84----------------bookmark_preview----3bb1961f_9c86_4ffb_a53d_eafcf8adb8b2-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fc31541977953&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40cj.allen.jung.0110%2Faddressing-the-ambiguity-of-feature-sliced-design-fsd-and-introducing-a-new-frontend-friendly-c31541977953&source=---recommended_stories---nextjs---0-84----------------bookmark_preview----36415587_8306_44b0_8a18_9b880e111995-------) 
 
 ---
 
