@@ -1,11 +1,5 @@
 # 오늘의 포스팅 
-2025년 1월 21일 9시 기준 
-
-### This Free React Library Will Blow Your Mind 😮— A Total Game-Changer! 
-
- React Bits is a versatile library of animated and interactive React components that revolutionizes U... 
-
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F15054bee0acb&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40letscodefuture%2Fthis-free-react-library-will-blow-your-mind-a-total-game-changer-15054bee0acb&source=---recommended_stories---nextjs---0-84----------------bookmark_preview----86edbba6_7fe4_4ce4_b539_4018f67b0918-------) 
+2025년 1월 22일 9시 기준 
 
 ### Frontend Weekly Digest #397 (13–19 January 2025) 
 
@@ -13,17 +7,23 @@
 
  [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fd3cfa6ba4725&operation=register&redirect=https%3A%2F%2Ffrontender-ua.medium.com%2Ffrontend-weekly-digest-397-13-19-january-2025-d3cfa6ba4725&source=---recommended_stories---front_end_development---0-84----------------bookmark_preview----cf3d5cd8_9271_460e_9082_68310d3e3d3d-------) 
 
-### Understanding JavaScript Event Loop with Real-Life Example 
+### How To Build A Base Web Dev Template Repo 
 
- JavaScript is a single-threaded language that uses an event loop to handle asynchronous tasks. Under... 
+ Building a base template repo is probably the best thing you could do to push your career and projec... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F83079094df33&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40pawankumartadagsingh%2Funderstanding-javascript-event-loop-with-real-life-example-83079094df33&source=---recommended_stories---react---0-84----------------bookmark_preview----a5999346_3795_4f22_ab84_8c4e097c1f74-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fd4172ebfa915&operation=register&redirect=https%3A%2F%2Flevelup.gitconnected.com%2Fhow-to-build-a-base-web-dev-template-repo-d4172ebfa915&source=---recommended_stories---react---0-107----------------bookmark_preview----e170b3c7_7c05_430f_9e96_3f7960c2eae6-------) 
 
-### Essential Design Patterns Every JavaScript Developer Should Master — Part 1 
+### Frontend Weekly Digest #397 (13–19 January 2025) 
 
- Master Creational Design Patterns in JavaScript: Boost Code Efficiency and Scalability with These Ke... 
+ Web-development... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F436a01c110ae&operation=register&redirect=https%3A%2F%2Fratheshprabakar.medium.com%2Fessential-design-patterns-every-javascript-developer-should-master-part-1-436a01c110ae&source=---recommended_stories---javascript---0-84----------------bookmark_preview----3fcbd10d_422a_4744_99d3_f641f1bc6b93-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fd3cfa6ba4725&operation=register&redirect=https%3A%2F%2Ffrontender-ua.medium.com%2Ffrontend-weekly-digest-397-13-19-january-2025-d3cfa6ba4725&source=---recommended_stories---javascript---0-84----------------bookmark_preview----3aca7273_e729_4554_8163_37eb3be249a4-------) 
+
+### Specifying Types for Functions in TypeScript 
+
+ how to declare functions and specify types in TypeScript, covering basic arguments, optional paramet... 
+
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F49d3dcb338ee&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40seonggil%2Fspecifying-types-for-functions-in-typescript-49d3dcb338ee&source=---recommended_stories---typescript---0-84----------------bookmark_preview----d8050d2c_fb98_49f8_8203_0aa01d01fa47-------) 
 
 ---
 
