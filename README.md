@@ -1,33 +1,30 @@
 # 오늘의 포스팅 
-2025년 1월 27일 9시 기준 
+2025년 1월 28일 9시 기준 
 
-### This Week In React #218 : React-Scan, Server Functions, Portals, Forms, Storybook, React Aria… 
+### React useCallback()-Avoid Re-rendering 
 
- Hi everyone!... 
+ Prevent unnecessary re-renders with React useCallback(). Learn the power of useCallback Hook and whe... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F081194f6d50f&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40sebastienlorber%2Fthis-week-in-react-218-react-scan-server-functions-portals-forms-storybook-react-aria-081194f6d50f&source=---recommended_stories---reactjs---0-84----------------bookmark_preview----8c77eb15_3461_45ce_bbbe_ec8cf2be9906-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F7df1d72f4bdd&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40taiye.akinlade1%2Freact-usecallback-avoid-re-rendering-7df1d72f4bdd&source=---recommended_stories---nextjs---0-84----------------bookmark_preview----9e54954f_1b80_4a16_9eee_3da3520edd81-------) 
 
-### Composition and Partial Component Pattern in React 
+### Frontend Weekly Digest #398 (20–26 January 2025) 
 
- Reusable components are the backbone of efficient UI development in React. In this article, we’ll ex... 
+ Web-development... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fae352fa39a74&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40vaibhav11t%2Fcomposition-and-partial-component-pattern-in-react-ae352fa39a74&source=---recommended_stories---nextjs---0-84----------------bookmark_preview----65510b0e_72d8_474f_9090_a481cea6f952-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F32d060b76bb0&operation=register&redirect=https%3A%2F%2Ffrontender-ua.medium.com%2Ffrontend-weekly-digest-398-20-26-january-2025-32d060b76bb0&source=---recommended_stories---front_end_development---0-84----------------bookmark_preview----9eeb4c8d_67c2_42bb_a4b6_7446e7c42890-------) 
 
-### Why IT Systems Fail to Scale — and 3 Design Patterns to Future-Proof Them 
+### ToDo List App with Bun+Vite+React+MUI 
 
- Why do 70% of IT systems fail to scale?... 
+ bless2k@gmail.com
+Jan 21,2025... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fd7d1f5d9211b&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40mohammedsaket%2Fwhy-it-systems-fail-to-scale-and-3-design-patterns-to-future-proof-them-d7d1f5d9211b&source=---recommended_stories---front_end_development---0-84----------------bookmark_preview----7598d806_ec77_4350_b6df_9f3ee941d565-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fe77afd94567d&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40bless2k%2Ftodo-list-app-with-bun-react-part-1-e77afd94567d&source=---recommended_stories---react---0-84----------------bookmark_preview----a373d7a6_d3c2_4f0a_9d4e_930659e734aa-------) 
 
-### IPL winners: Chennai Super Kings, Mumbai Indians five-time champions each - full list
-There have… 
+### Enhancing Angular Templates with Untagged Template Literals 
 
- 2 min
-By Anjishnu Roy
-Updated on 26 May 2024 22:25 GMT+5:30
-disciplineCricket... 
+ Angular’s latest release, 19.2.0-next.0, introduces a powerful enhancement that developers will love... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Ffd058c8ebff5&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40hemantjani910%2Fipl-winners-chennai-super-kings-mumbai-indians-five-time-champions-each-full-list-there-have-fd058c8ebff5&source=---recommended_stories---react---0-84----------------bookmark_preview----cc0d17c5_c41e_4277_89bb_a092aadca2da-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F0baa5b4f8371&operation=register&redirect=https%3A%2F%2Fmedium.com%2Fnetanelbasal%2Fenhancing-angular-templates-with-untagged-template-literals-0baa5b4f8371&source=---recommended_stories---javascript---0-84----------------bookmark_preview----b7a08975_e0f4_4a7d_8740_c2f48caded27-------) 
 
 ---
 
