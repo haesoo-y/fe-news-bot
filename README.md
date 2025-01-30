@@ -1,29 +1,29 @@
 # 오늘의 포스팅 
-2025년 1월 29일 9시 기준 
+2025년 1월 30일 9시 기준 
 
-### Frontend Weekly Digest #398 (20–26 January 2025) 
+### How TanStack React Query made my life easy 
 
- Web-development... 
+ Before using react-query, everything in the app was still working great, however, there was a lot of... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F32d060b76bb0&operation=register&redirect=https%3A%2F%2Ffrontender-ua.medium.com%2Ffrontend-weekly-digest-398-20-26-january-2025-32d060b76bb0&source=---recommended_stories---front_end_development---0-84----------------bookmark_preview----81ab5b03_6bcb_4c88_bded_1801b8817da9-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F8bc8e8949470&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40usman_qb%2Fhow-tanstack-react-query-made-my-life-easy-8bc8e8949470&source=---recommended_stories---react---0-84----------------bookmark_preview----8c17c670_d43c_48a6_b114_d7b0dc0294a6-------) 
 
-### FASTEST Way to Install React 19 with Vite in 3 min 
+### Slots: Make your Angular API flexible 
 
- Learn how to set up a React 19 project with Vite, upgrade from React 18, and stay ahead before Vite ... 
+ Let’s explore all content projection approaches in Angular from the perspective of UI library develo... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F5250a037e11e&operation=register&redirect=https%3A%2F%2Fjavascript.plainenglish.io%2Ffastest-way-to-install-react-19-with-vite-in-3-min-5250a037e11e&source=---recommended_stories---react---0-84----------------bookmark_preview----3fcf298d_edb5_4b30_b59c_d2b4951318be-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F89e707ffae4c&operation=register&redirect=https%3A%2F%2Fmedium.com%2Fcoreteq%2Fslots-make-your-angular-api-flexible-89e707ffae4c&source=---recommended_stories---javascript---0-84----------------bookmark_preview----1f1fa96d_9084_475e_b033_4461ac2f7f16-------) 
 
-### Enhancing Angular Templates with Untagged Template Literals 
+### How to upload file in Nest JS Using Native Libraries and Decorators 
 
- Angular’s latest release, 19.2.0-next.0, introduces a powerful enhancement that developers will love... 
+ NestJS is a powerful framework for building scalable server-side applications, and efficient file ha... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F0baa5b4f8371&operation=register&redirect=https%3A%2F%2Fmedium.com%2Fnetanelbasal%2Fenhancing-angular-templates-with-untagged-template-literals-0baa5b4f8371&source=---recommended_stories---javascript---0-84----------------bookmark_preview----4a7237f0_96a4_41ff_922a_4ea0908c081e-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fe35765f5b87e&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40alannixon2520%2Fhow-to-upload-file-in-nest-js-using-native-libraries-and-decorators-e35765f5b87e&source=---recommended_stories---typescript---0-84----------------bookmark_preview----7839abd7_ff34_487e_af90_e88847a8b890-------) 
 
-### The best of Angular: a collection of my favorite resources of 2024 
+### How to obfuscate your JS bundles — Protect your frontend applications 
 
- Learn about what happened in the world of Angular last year... 
+ Surely you have already done some process on the frontend that needed to be protected. I mean, some ... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F664f6d527739&operation=register&redirect=https%3A%2F%2Fjavascript.plainenglish.io%2Fthe-best-of-angular-a-collection-of-my-favorite-resources-of-2024-664f6d527739&source=---recommended_stories---typescript---0-84----------------bookmark_preview----d605609b_77cd_4374_8d29_45de5db8c75b-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F3533bb52ce12&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40victorfjansen%2Fhow-to-obfuscate-your-js-bundles-3533bb52ce12&source=---recommended_stories---frontend---0-84----------------bookmark_preview----8db775e4_446b_42b6_a11e_186e234e6678-------) 
 
 ---
 
