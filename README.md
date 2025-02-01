@@ -1,11 +1,5 @@
 # 오늘의 포스팅 
-2025년 1월 31일 9시 기준 
-
-### Slots: Make your Angular API flexible 
-
- Let’s explore all content projection approaches in Angular from the perspective of UI library develo... 
-
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F89e707ffae4c&operation=register&redirect=https%3A%2F%2Fmedium.com%2Fcoreteq%2Fslots-make-your-angular-api-flexible-89e707ffae4c&source=---recommended_stories---javascript---0-84----------------bookmark_preview----cc1d3b26_e045_45e3_913e_21c93da3b577-------) 
+2025년 2월 1일 9시 기준 
 
 ### Slots: Make your Angular API flexible 
 
@@ -13,17 +7,23 @@
 
  [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F89e707ffae4c&operation=register&redirect=https%3A%2F%2Fmedium.com%2Fcoreteq%2Fslots-make-your-angular-api-flexible-89e707ffae4c&source=---recommended_stories---typescript---0-84----------------bookmark_preview----d9ccd8b8_f837_4aa8_a5a8_f63e775115ef-------) 
 
-### Upgrading Angular 18 to Angular 19: A Step-by-Step Guide 
+### Rspack: An Engineer’s Approach to Build System Innovation 
 
- Upgrading your Angular application ensures that you stay up-to-date with the latest features, perfor... 
+ A Pragmatic Look at Rspack’s Features, Performance, and Benefits... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F420867e551df&operation=register&redirect=https%3A%2F%2Fmedium.com%2Fzestgeek%2Fupgrading-angular-18-to-angular-19-a-step-by-step-guide-420867e551df&source=---recommended_stories---frontend---0-84----------------bookmark_preview----b2a0cb24_378a_4f2f_abd9_fd0a2e2401de-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F924e57c596a0&operation=register&redirect=https%3A%2F%2Fmedium.com%2Fekino-france%2Frspack-an-engineers-approach-to-build-system-innovation-924e57c596a0&source=---recommended_stories---frontend---0-84----------------bookmark_preview----05cb39b9_9328_4466_9971_17f78d61f6d2-------) 
 
-### How TanStack React Query made my life easy 
+### React Hook Form: The Basics 
 
- Before using react-query, everything in the app was still working great, however, there was a lot of... 
+ There are two ways to create a form using React Hook Form. The first uses the register function, whi... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F8bc8e8949470&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40usman_qb%2Fhow-tanstack-react-query-made-my-life-easy-8bc8e8949470&source=---recommended_stories---reactjs---0-84----------------bookmark_preview----c31731c6_8dbf_441a_888d_d549136075d9-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F11d25db8f8b3&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40Sophie_s%2Freact-hook-form-the-basics-11d25db8f8b3&source=---recommended_stories---reactjs---0-84----------------bookmark_preview----c57795b7_b26c_4339_8587_c469aca4171e-------) 
+
+### How to Use Framer Motion with Next.js Server Components (Without Breaking a Sweat) 
+
+ 🚀 Learn How to Create Custom Motion Wrappers to Animate Server Components... 
+
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F64ca5452c8a3&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40mirazhs%2Fhow-to-use-framer-motion-with-next-js-server-components-without-breaking-a-sweat-64ca5452c8a3&source=---recommended_stories---nextjs---0-84----------------bookmark_preview----36a96fce_5b52_42f1_87b0_f84d07726747-------) 
 
 ---
 
