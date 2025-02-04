@@ -1,29 +1,29 @@
 # 오늘의 포스팅 
-2025년 2월 3일 9시 기준 
+2025년 2월 4일 9시 기준 
 
-### Top 10 Best React Libraries You Should Try in 2025 
+### [Part 1] Build a CLI tool: Setup the tsonfig.json 
 
- Hey there, fellow developers! I’m Sachin, and today I want to share some of my favorite React compon... 
+ Introduction... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F3bb0db2ecffa&operation=register&redirect=https%3A%2F%2Fmedium.com%2Flets-code-future%2Ftop-10-best-react-libraries-you-should-try-in-2025-3bb0db2ecffa&source=---recommended_stories---reactjs---0-84----------------bookmark_preview----986c2437_47ae_4a8e_a02a_b5ae9cf3346c-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Ffe330dc1bdb5&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40thinkthroo%2Fpart-1-build-a-cli-tool-setup-the-tsonfig-json-fe330dc1bdb5&source=---recommended_stories---nextjs---0-84----------------bookmark_preview----1c3fa89a_1337_4be3_82eb_1bee63023841-------) 
 
-### Generic Components in React 
+### Frontend Weekly Digest #399 (27 Jan — 2 Feb 2025) 
 
- Stuck with a problem where you are making components after components for small changes in data? Thi... 
+ Web-development... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F4616d591c425&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40somasuryadev6%2Fgeneric-components-in-react-4616d591c425&source=---recommended_stories---nextjs---0-84----------------bookmark_preview----cb43f901_9e13_45e4_917e_6af0ddb212e6-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fe93a05b2a861&operation=register&redirect=https%3A%2F%2Ffrontender-ua.medium.com%2Ffrontend-weekly-digest-399-27-jan-2-feb-2025-e93a05b2a861&source=---recommended_stories---front_end_development---0-84----------------bookmark_preview----e3e33cf5_4bda_470f_b6ef_61ff21f958ac-------) 
 
-### Rspack: An Engineer’s Approach to Build System Innovation 
+### I Replaced my App’s Core JavaScript Logic with AI — Is this the future? 
 
- A Pragmatic Look at Rspack’s Features, Performance, and Benefits... 
+ The app’s logic and functionality are outlined in plain English, with the LLM managing all decisions... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F924e57c596a0&operation=register&redirect=https%3A%2F%2Fmedium.com%2Fekino-france%2Frspack-an-engineers-approach-to-build-system-innovation-924e57c596a0&source=---recommended_stories---front_end_development---0-84----------------bookmark_preview----4a0ba4bf_a3c9_49a9_9f90_153ef888ae2d-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fd71d3ee4ed72&operation=register&redirect=https%3A%2F%2Fmatemarschalko.medium.com%2Fi-replaced-my-apps-core-javascript-logic-with-ai-is-this-the-future-d71d3ee4ed72&source=---recommended_stories---react---0-84----------------bookmark_preview----74686721_ce56_478e_af41_4d8b4e45be01-------) 
 
-### React’s declarative model isn’t perfect 
+### Frontend Weekly Digest #399 (27 Jan — 2 Feb 2025) 
 
- And ignorance of testing internals doesn’t excuse a horrible experience... 
+ Web-development... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Ff198296f4db2&operation=register&redirect=https%3A%2F%2Fblog.bennett.ink%2Freacts-model-isn-t-perfect-f198296f4db2&source=---recommended_stories---react---0-84----------------bookmark_preview----34c7f050_616c_44bc_91c7_8ecca92b7471-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fe93a05b2a861&operation=register&redirect=https%3A%2F%2Ffrontender-ua.medium.com%2Ffrontend-weekly-digest-399-27-jan-2-feb-2025-e93a05b2a861&source=---recommended_stories---javascript---0-84----------------bookmark_preview----0203d32c_f3c4_4f2a_b62f_5b0624e1bc74-------) 
 
 ---
 
