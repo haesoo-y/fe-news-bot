@@ -1,29 +1,30 @@
 # 오늘의 포스팅 
-2025년 2월 6일 9시 기준 
+2025년 2월 7일 9시 기준 
 
-### I Replaced my App’s Core JavaScript Logic with AI — Is this the future? 
+### Solving Concurrent API Requests with Expired JWTs: A Mutex-Based Approach 
 
- The app’s logic and functionality are outlined in plain English, with the LLM managing all decisions... 
+ Struggling with expired JWTs and race conditions? Here’s how mutex locks can save your API requests.... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fd71d3ee4ed72&operation=register&redirect=https%3A%2F%2Fmatemarschalko.medium.com%2Fi-replaced-my-apps-core-javascript-logic-with-ai-is-this-the-future-d71d3ee4ed72&source=---recommended_stories---react---0-84----------------bookmark_preview----064dc100_baff_43bb_8eae_c3b1736e2fb9-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F9cfd6fdbdf39&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40k.katsinaris%2Fsolving-concurrent-api-requests-with-expired-jwts-a-mutex-based-approach-9cfd6fdbdf39&source=---recommended_stories---javascript---0-84----------------bookmark_preview----6aa9111c_344d_4c13_95ea_978dbcf638b1-------) 
 
-### Some insight of building a Component Library with React / React Native 
+### Content Creation: 
+Content creation is the process through which information is generated, curated… 
 
- Our team was recently working on a brand-new reusable component library for React projects. The goal... 
+ 1. What is Content Creation?... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F470ebc84823c&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40shinecita%2Fsome-insight-of-building-a-component-library-with-react-react-native-470ebc84823c&source=---recommended_stories---javascript---0-84----------------bookmark_preview----376edc70_27f6_4c69_872b_e2fbb73780cb-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F048e1cc04bd2&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40zaibs5194%2Fcontent-creation-content-creation-is-the-process-through-which-information-is-generated-curated-048e1cc04bd2&source=---recommended_stories---typescript---0-84----------------bookmark_preview----5634d71a_77cc_42a1_a56c_5245ce774d24-------) 
 
-### Why You Should Migrate to Express 5.0 Now 
+### Microfrontends: Are We Solving Problems or Creating Them? 
 
- The web development world is buzzing with the recent debut of Express 5.0, a release that promises n... 
+ Microfrontend Multiplicity: The Confusion of Complexity vs. the Pursuit of Simplicity... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F8bebaeaea734&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40mehdibafdil%2Fwhy-you-should-migrate-to-express-5-0-now-8bebaeaea734&source=---recommended_stories---typescript---0-84----------------bookmark_preview----d0df4d40_4ee6_4e7a_9b41_02092119016a-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F35f1098b0820&operation=register&redirect=https%3A%2F%2Flevelup.gitconnected.com%2Fmicrofrontends-are-we-solving-problems-or-creating-them-35f1098b0820&source=---recommended_stories---frontend---0-84----------------bookmark_preview----02109a79_7f9e_41ac_b5ee_085e2c471541-------) 
 
-### My SDE II Frontend Interview Experience at Swiggy: A Learning Journey 
+### Complete guide to building a complex IOS live activity in React Native — Part 1 
 
- Embarking on the interview process for the SDE II Frontend role at Swiggy was both exhilarating and ... 
+ Introduction... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F00776096028b&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40chauhan27.abhay%2Fmy-sde-ii-frontend-interview-experience-at-swiggy-a-learning-journey-00776096028b&source=---recommended_stories---frontend---0-84----------------bookmark_preview----4acb606b_6eaa_4fd1_a6f1_ad4b7ec1b032-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fe2dda684f41f&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40amavictor%2Fcomplete-guide-to-building-a-complex-ios-live-activity-in-react-native-part-1-e2dda684f41f&source=---recommended_stories---reactjs---0-84----------------bookmark_preview----61bb77a0_5b64_4ed3_adbe_006e6e4e86f2-------) 
 
 ---
 
