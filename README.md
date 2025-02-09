@@ -1,29 +1,29 @@
 # 오늘의 포스팅 
-2025년 2월 8일 9시 기준 
+2025년 2월 9일 9시 기준 
 
-### Make LocalStorage SSR Compatible in Angular 
+### Expected Behaviors of Basic React Hooks — with Examples 
 
- Angular SSR uses a default engine, requiring our code to be fully compatible with server-side render... 
+ React hooks can be challenging to manage, and a lot of the documentation on the web is confusing. Th... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F431d7ce5714e&operation=register&redirect=https%3A%2F%2Fmedium.com%2Fngverse%2Fmake-localstorage-ssr-compatible-in-angular-431d7ce5714e&source=---recommended_stories---typescript---0-84----------------bookmark_preview----4a3aefb1_5630_4b9d_83a0_f2a37b1b6970-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F3cee81715184&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40qyang1997%2Fexpected-behaviors-of-basic-react-hooks-with-examples-3cee81715184&source=---recommended_stories---frontend---0-84----------------bookmark_preview----48099304_af24_44b9_b68d_3dfd4c6a3dbf-------) 
 
-### Rippling | SDE1 Online Assessment — Frontend 
+### Simple class-based React view model in 50 lines of code 
 
- Rippling conducted an SDE1 Frontend Online Assessment on HackerRank, lasting 120 minutes. The assess... 
+ With no external dependencies... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fc9f7ddf5b75a&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40chauhan27.abhay%2Frippling-sde1-online-assessment-frontend-c9f7ddf5b75a&source=---recommended_stories---frontend---0-84----------------bookmark_preview----f5e5dcf2_2177_44d7_a003_c785ff9a2b61-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F10241b7daf27&operation=register&redirect=https%3A%2F%2Fblog.bennett.ink%2Fsimple-class-based-react-view-model-in-50-lines-of-code-10241b7daf27&source=---recommended_stories---reactjs---0-84----------------bookmark_preview----551ea9bf_1d32_4798_bcc7_02fb1c09dd9c-------) 
 
-### Complete guide to building a complex IOS live activity in React Native — Part 1 
+### Google Authentication in just 5mins in React/Next.JS 
 
- Introduction... 
+ How to use Google O Auth in React & Next.js... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fe2dda684f41f&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40amavictor%2Fcomplete-guide-to-building-a-complex-ios-live-activity-in-react-native-part-1-e2dda684f41f&source=---recommended_stories---reactjs---0-84----------------bookmark_preview----61bb77a0_5b64_4ed3_adbe_006e6e4e86f2-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F3284758c575c&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40abhisingh72065%2Fgoogle-one-tap-authentication-in-react-next-js-3284758c575c&source=---recommended_stories---nextjs---0-84----------------bookmark_preview----5f263591_44b5_4c2e_986b_9ff4aa32ca48-------) 
 
-### Managing State in Next.js Using URL Parameters 🌐 
+### 7 JavaScript Design Patterns Every Developer Should Know 
 
- Manage state in Next.js using URL parameters for improved shareability, SEO, and a simpler approach ... 
+ JavaScript is a powerful and flexible language, but as projects grow, maintaining clean and efficien... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F2aaad21b480c&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40nandeepbarochiya%2Fmanaging-state-in-next-js-using-url-parameters-2aaad21b480c&source=---recommended_stories---nextjs---0-84----------------bookmark_preview----42fed4a5_ae07_49ff_9c09_be24d8ca0c9b-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F0a045d046e6f&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40sanjay3722%2F7-javascript-design-patterns-every-developer-should-know-0a045d046e6f&source=---recommended_stories---front_end_development---0-84----------------bookmark_preview----629f31d1_6eac_4189_ae23_dad3a77f6e85-------) 
 
 ---
 
