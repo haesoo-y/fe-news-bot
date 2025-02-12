@@ -1,29 +1,29 @@
 # 오늘의 포스팅 
-2025년 2월 11일 9시 기준 
-
-### Nextjs Middleware Matcher Authentication Protection 
-
- Implementing Next.js Middleware for Authentication Protection... 
-
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fdce48e8f7397&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40ahmadtibibi%2Fnextjs-middleware-matcher-authentication-protection-dce48e8f7397&source=---recommended_stories---nextjs---0-84----------------bookmark_preview----edaf0cf1_84ce_4e47_aebe_5bb7f9cf2ced-------) 
+2025년 2월 12일 9시 기준 
 
 ### Mastering Advanced ReactJS Concepts: Essential Knowledge for Every Frontend Developer 
 
  After reading this blog, you can clear every frontend developer interview.... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F8123cf0b13ab&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40shivambhadani_%2Fmastering-advanced-reactjs-concepts-essential-knowledge-for-every-frontend-developer-8123cf0b13ab&source=---recommended_stories---front_end_development---0-84----------------bookmark_preview----98573393_d4ed_4482_ba02_471f9ccb655d-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F8123cf0b13ab&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40shivambhadani_%2Fmastering-advanced-reactjs-concepts-essential-knowledge-for-every-frontend-developer-8123cf0b13ab&source=---recommended_stories---front_end_development---0-84----------------bookmark_preview----cead5479_b3e4_4eed_923d_d6aced36a42e-------) 
 
-### Not your usual React Countdown Timer Hook. 
+### Mastering Advanced ReactJS Concepts: Essential Knowledge for Every Frontend Developer 
 
- Ever wanted to create a countdown timer in React? Well, you’re in the right place!... 
+ After reading this blog, you can clear every frontend developer interview.... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F20156d5e1256&operation=register&redirect=https%3A%2F%2Fachinthaisuru444.medium.com%2Fnot-your-usual-react-countdown-timer-hook-20156d5e1256&source=---recommended_stories---react---0-84----------------bookmark_preview----41fdeb96_d571_4a84_9dd1_7ef516289f76-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F8123cf0b13ab&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40shivambhadani_%2Fmastering-advanced-reactjs-concepts-essential-knowledge-for-every-frontend-developer-8123cf0b13ab&source=---recommended_stories---react---0-84----------------bookmark_preview----f09350b3_b4c6_424f_8f61_52def7168711-------) 
 
-### Frontend Weekly Digest #400 (3–9 Feb 2025) 
+### 🚀 Effortless Motion for Your UI: The Ultimate Animation Library You Need! 🎭 
 
- Web-development... 
+ In today’s fast-paced digital world, smooth and engaging UI animations are no longer a luxury — they... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fb09148b0499e&operation=register&redirect=https%3A%2F%2Ffrontender-ua.medium.com%2Ffrontend-weekly-digest-400-3-9-feb-2025-b09148b0499e&source=---recommended_stories---javascript---0-84----------------bookmark_preview----18ed4025_4f02_4a35_8b93_daa34c47fe83-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F75747c5f6ce3&operation=register&redirect=https%3A%2F%2Fmedium.com%2Flets-code-future%2Feffortless-motion-for-your-ui-the-ultimate-animation-library-you-need-75747c5f6ce3&source=---recommended_stories---javascript---0-84----------------bookmark_preview----c7b270de_a891_40b7_8cba_06e3dfb6f600-------) 
+
+### Starting a Modern Angular Application 
+
+ In this article, I’ll review the tools and options we have when creating a modern Angular app and wh... 
+
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F9cbe409ee610&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40eugeniyoz%2Fstarting-a-modern-angular-application-9cbe409ee610&source=---recommended_stories---typescript---0-84----------------bookmark_preview----3f4244e3_f69b_45fe_8487_fc6511b5cfe2-------) 
 
 ---
 
