@@ -1,11 +1,5 @@
 # 오늘의 포스팅 
-2025년 2월 14일 9시 기준 
-
-### Vue is Too Easy 
-
- Front end development is a very polarized industry. We argue about programming languages, frameworks... 
-
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F3d4ecca5e454&operation=register&redirect=https%3A%2F%2Ffadamakis.com%2Fvue-is-too-easy-3d4ecca5e454&source=---recommended_stories---javascript---0-84----------------bookmark_preview----6286c201_dd1c_4334_bbaa_940b6005200a--------------) 
+2025년 2월 15일 9시 기준 
 
 ### Starting a Modern Angular Application 
 
@@ -13,17 +7,23 @@
 
  [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F9cbe409ee610&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40eugeniyoz%2Fstarting-a-modern-angular-application-9cbe409ee610&source=---recommended_stories---typescript---0-84----------------bookmark_preview----3b14ffa4_48e0_4c7e_a62b_5bf10b294042--------------) 
 
-### Step-by-Step Guide: Enhancing UX with Parallel Routes & Interceptors in Next.js 
+### Understanding JavaScript Memory Management: Heap, Stack & Garbage Collection 
 
- Learn how to combine Next.js Parallel Routes and Interceptors to create seamless and dynamic user ex... 
+ JavaScript is an automatically garbage-collected language, which means memory allocation and dealloc... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F9bac4a34e4ff&operation=register&redirect=https%3A%2F%2Fmedium.com%2Fdesign-bootcamp%2Fstep-by-step-guide-enhancing-ux-with-parallel-routes-interceptors-in-next-js-9bac4a34e4ff&source=---recommended_stories---frontend---0-84----------------bookmark_preview----7b685ab2_395e_4819_9239_402a437ed06e-------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Ffff33579dea0&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40vardaanbhatia55%2Funderstanding-javascript-memory-management-heap-stack-garbage-collection-fff33579dea0&source=---recommended_stories---frontend---0-84----------------bookmark_preview----44bbc512_49ad_4aa7_b71b_a2afa9f3aa70--------------) 
 
-### The New use() Hook in React 19 
+### Comprehensive Guide to Next.js 15 App Router 
 
- React 19 introduces a revolutionary hook called use(), designed to simplify asynchronous operations ... 
+ Basic knowledge of web frameworks and UI libraries such as React.js will be helpful for working thro... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F6c67a4e246ee&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40kapildadhich075%2Fthe-new-use-hook-in-react-19-6c67a4e246ee&source=---recommended_stories---reactjs---0-84----------------bookmark_preview----6c85fe84_bf4b_4f86_ae57_b455fc59a164--------------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F64e967d700f8&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40abdullah_95%2Fcomprehensive-guide-to-next-js-15-app-router-64e967d700f8&source=---recommended_stories---reactjs---0-84----------------bookmark_preview----c28327bb_0dcf_4f98_80a5_b691b80fa194--------------) 
+
+### AI-Powered Frontend: How I Ship Faster and Smarter 
+
+ How I use AI tools like GitHub Copilot, v0.dev, and shadcn to speed up frontend development while ke... 
+
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F2de56b316f99&operation=register&redirect=https%3A%2F%2Fmedium.com%2Fdevdotcom%2Fai-powered-frontend-how-i-ship-faster-and-smarter-2de56b316f99&source=---recommended_stories---nextjs---0-84----------------bookmark_preview----7281bda2_fd45_4bef_9d08_9e8750e89ed6--------------) 
 
 ---
 
