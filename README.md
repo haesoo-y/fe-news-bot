@@ -1,11 +1,5 @@
 # 오늘의 포스팅 
-2025년 2월 20일 9시 기준 
-
-### Handling Device Orientation in Next.js 
-
- Introduction... 
-
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fb86fffc0f50f&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40karthick221%2Fhandling-device-orientation-in-next-js-b86fffc0f50f&source=---recommended_stories---react---0-84----------------bookmark_preview----abc247f8_1250_4ee2_83ba_edf365249167--------------) 
+2025년 2월 21일 9시 기준 
 
 ### Custom elements under the hood 
 
@@ -13,17 +7,23 @@
 
  [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fcadc0d229fc3&operation=register&redirect=https%3A%2F%2Fblog.etereo.io%2Fcustom-elements-under-the-hood-cadc0d229fc3&source=---recommended_stories---javascript---0-84----------------bookmark_preview----8e3e560d_d731_4174_b759_8c197083b831--------------) 
 
-### SDET: Building a simple configuration mechanism for your Playwright project 
+### 🅰️ Angular 19.2 — Fewer Explicit Type Assertions And Better Conditional Return Type Checking 
 
- Hello dear readers and all those who want to make this world a better place. I have never hidden the... 
+ Angular 19.2.0 is shaping up with fixes, including improved Hot Module Replacement (HMR), which now ... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fc49ffc29cb06&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40dneprokos%2Fsdet-building-a-simple-configuration-mechanism-for-your-playwright-project-c49ffc29cb06&source=---recommended_stories---typescript---0-84----------------bookmark_preview----73ed957c_fb46_4fea_a60a_be2c06ea1d3b--------------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F7f990d01d34e&operation=register&redirect=https%3A%2F%2Ftomaszs2.medium.com%2F%25EF%25B8%258F-angular-19-2-fewer-explicit-type-assertions-and-better-conditional-return-type-checking-7f990d01d34e&source=---recommended_stories---typescript---0-84----------------bookmark_preview----6dd16951_2759_4926_9237_04039f6ce7b2--------------) 
 
-### The End of Create React App: Why the React Team Won’t Recommend Vite 
+### Simple To-do app in React 
 
- Exploring the React Team’s Reluctance to Embrace Vite as the Default Starter... 
+ With raw thoughts and intuition... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fe1c437e1aae0&operation=register&redirect=https%3A%2F%2Ftomas-svojanovsky.medium.com%2Fthe-end-of-create-react-app-why-the-react-team-wont-recommend-vite-e1c437e1aae0&source=---recommended_stories---frontend---0-84----------------bookmark_preview----cc0581c3_1b9a_4201_93d5_1e29cd9bfecb--------------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F1293486f39a6&operation=register&redirect=https%3A%2F%2Fmedium.com%2Fthe-research-nest%2Fsimple-to-do-app-in-react-1293486f39a6&source=---recommended_stories---frontend---0-84----------------bookmark_preview----909c8712_43ee_4ab5_b82c_f8ea6c18b350--------------) 
+
+### React vs Javascript 
+
+ React vs. JavaScript​: Key Differences Every Developer Needs to Know !!... 
+
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F6859a04e5090&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40contactmanoharbatra%2Freact-vs-javascript-6859a04e5090&source=---recommended_stories---reactjs---0-84----------------bookmark_preview----9df2b99d_2a4f_4e71_9510_05e4a4f732e0--------------) 
 
 ---
 
