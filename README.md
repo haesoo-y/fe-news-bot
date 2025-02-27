@@ -1,29 +1,29 @@
 # 오늘의 포스팅 
-2025년 2월 26일 9시 기준 
+2025년 2월 27일 9시 기준 
 
-### Frontend Weekly Digest #402 (17–23 Feb 2025) 
+### React 19 Reinvented: Form Actions, Server, And much more 
 
- Web-development... 
+ When did you hear React being obsolete and Frameworks overtaking it? Well in this war of framework, ... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Ffc4695e0250f&operation=register&redirect=https%3A%2F%2Ffrontender-ua.medium.com%2Ffrontend-weekly-digest-402-17-23-feb-2025-fc4695e0250f&source=---recommended_stories---front_end_development---0-84----------------bookmark_preview----baed00f9_7944_4365_9bb8_c6967ec7f0de--------------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F2284bd468669&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40srsdevka%2Freact-19-reinvented-form-actions-server-and-much-more-2284bd468669&source=---recommended_stories---react---0-84----------------bookmark_preview----4dabd59d_7ece_4c99_81a2_c84b04a01e97--------------) 
 
-### RAG — Building an AI-Powered SQL Query System for Large-Scale Databases 
+### Implement Search Functionality in Angular 19 
 
- Handling large-scale databases can be challenging, especially for non-technical users who need insig... 
+ 1: Create a Search Component... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Ffe3bf6e624cb&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40priom7197%2Fbuilding-an-ai-powered-sql-query-system-for-large-scale-databases-fe3bf6e624cb&source=---recommended_stories---react---0-84----------------bookmark_preview----7d77d69d_66be_46b0_8b3d_28391763ecd7--------------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F7b90659429f2&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40manojprabhakar675%2Fimplement-search-functionality-in-angular-19-7b90659429f2&source=---recommended_stories---javascript---0-84----------------bookmark_preview----8fba35d2_9e1e_431f_9de5_9cd2b18fe10a--------------) 
 
-### Frontend Weekly Digest #402 (17–23 Feb 2025) 
+### Prisma ORM — are you seriously offering to reset my production DB? Really? 
 
- Web-development... 
+ If you want to learn how to recover your DB after you hit a schema drift issue or any other scenario... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Ffc4695e0250f&operation=register&redirect=https%3A%2F%2Ffrontender-ua.medium.com%2Ffrontend-weekly-digest-402-17-23-feb-2025-fc4695e0250f&source=---recommended_stories---javascript---0-84----------------bookmark_preview----013398b9_e01c_47f0_bfa8_deeb0f4ebc48--------------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Faa99756099e2&operation=register&redirect=https%3A%2F%2Fmedium.com%2Fisraeli-tech-radar%2Fprisma-orm-are-you-seriously-offering-to-reset-my-production-db-really-aa99756099e2&source=---recommended_stories---typescript---0-84----------------bookmark_preview----19208036_a3cf_4345_93f3_e7d3df453376--------------) 
 
-### The Ultimate Guide to Making Money on Ysense :- 
+### Understanding Angular Material Dialog Lifecycle: A Deep Dive 
 
- How to earn money online from ysense website... 
+ As I was working on a UI component that rendered a form using FormGroup, I wanted to understand its ... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F3344cccdfbca&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40bestdeals4uuinfo%2Fthe-ultimate-guide-to-making-money-on-ysense-3344cccdfbca&source=---recommended_stories---typescript---0-84----------------bookmark_preview----0451be7d_2ebc_40bc_9703_9eeb4c5a6773--------------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fac071e8072ab&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40vedhasagaran7%2Funderstanding-angular-material-dialog-lifecycle-a-deep-dive-ac071e8072ab&source=---recommended_stories---frontend---0-84----------------bookmark_preview----5007a235_3fd5_4d05_8688_db76ac9a1a06--------------) 
 
 ---
 
