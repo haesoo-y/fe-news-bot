@@ -1,29 +1,29 @@
 # 오늘의 포스팅 
-2025년 3월 2일 9시 기준 
+2025년 3월 3일 9시 기준 
+
+### Stop Writing Loops in JavaScript — Here’s What Senior Devs Do Instead 🚀 
+
+ 💡Discover how modern JavaScript methods like map, filter, and reduce can make your code cleaner, mo... 
+
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F0fdc9bd8c735&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40javaScriptwithvinay%2Fstop-writing-loops-in-javascript-heres-what-senior-devs-do-instead-0fdc9bd8c735&source=---recommended_stories---reactjs---0-84----------------bookmark_preview----00ffb098_7710_4bee_8570_a22b3646b438--------------) 
 
 ### Authentication in Next.js with an External Backend 
 
  How to securely authenticate a Next.js app with an external backend while keeping server-side render... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F262fc2748158&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40urboifox%2Fauthentication-in-next-ajs-with-an-external-backend-262fc2748158&source=---recommended_stories---frontend---0-84----------------bookmark_preview----8dde2522_1c0e_4f11_97f9_b86be7e7706f--------------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F262fc2748158&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40urboifox%2Fauthentication-in-next-ajs-with-an-external-backend-262fc2748158&source=---recommended_stories---nextjs---0-84----------------bookmark_preview----e5a4a071_023f_44ab_b265_62184f2fb111--------------) 
 
-### React 19 Reinvented: Form Actions, Server, And much more 
+### Vaadin — Time Picker AM-PM React Implementation 
 
- When did you hear React being obsolete and Frameworks overtaking it? Well in this war of framework, ... 
+ Hi everyone,... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F2284bd468669&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40srsdevka%2Freact-19-reinvented-form-actions-server-and-much-more-2284bd468669&source=---recommended_stories---reactjs---0-84----------------bookmark_preview----81de1218_53a5_474f_92ed_0165d5230512--------------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fb0bc0684c480&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40aplu%2Fvaadin-time-picker-am-pm-react-implementation-b0bc0684c480&source=---recommended_stories---front_end_development---0-84----------------bookmark_preview----310a2ec2_24f4_4fe3_9dae_fa9372843926--------------) 
 
-### Authentication in Next.js with an External Backend 
-
- How to securely authenticate a Next.js app with an external backend while keeping server-side render... 
-
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F262fc2748158&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40urboifox%2Fauthentication-in-next-ajs-with-an-external-backend-262fc2748158&source=---recommended_stories---nextjs---0-84----------------bookmark_preview----1abc7202_6173_40d8_9f0f_68ccb0117985--------------) 
-
-### The Latest in SCSS: Features, Best Practices and Trends in 2025 
+### The Secret Behind React Keys: What Every Developer Must Know 
 
  Introduction... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F244921be6724&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40vrutika.premani12%2Fthe-latest-in-scss-features-best-practices-and-trends-in-2025-244921be6724&source=---recommended_stories---front_end_development---0-84----------------bookmark_preview----32b3ea93_e2eb_428a_ad34_8ea44e998e1c--------------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fb5b7b367887c&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40skrohilla1%2Fthe-secret-behind-react-keys-what-every-developer-must-know-b5b7b367887c&source=---recommended_stories---react---0-84----------------bookmark_preview----1fe757e3_cf38_4013_8203_39ad2e3e5c06--------------) 
 
 ---
 
