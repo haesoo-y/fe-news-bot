@@ -1,29 +1,29 @@
 # 오늘의 포스팅 
-2025년 3월 3일 9시 기준 
+2025년 3월 4일 9시 기준 
 
-### Stop Writing Loops in JavaScript — Here’s What Senior Devs Do Instead 🚀 
+### Implementing UTM Parameter Tracking in Next.js Applications 
 
- 💡Discover how modern JavaScript methods like map, filter, and reduce can make your code cleaner, mo... 
+ This article details the technical implementation of UTM parameter tracking in a Next.js application... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F0fdc9bd8c735&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40javaScriptwithvinay%2Fstop-writing-loops-in-javascript-heres-what-senior-devs-do-instead-0fdc9bd8c735&source=---recommended_stories---reactjs---0-84----------------bookmark_preview----00ffb098_7710_4bee_8570_a22b3646b438--------------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F36691eb1e524&operation=register&redirect=https%3A%2F%2Fyusufie.medium.com%2Fimplementing-utm-parameter-tracking-in-next-js-applications-36691eb1e524&source=---recommended_stories---nextjs---0-84----------------bookmark_preview----aefca0c6_7ec1_48f8_a7bd_954de21873f8--------------) 
 
-### Authentication in Next.js with an External Backend 
+### Frontend Weekly Digest #403 (24 Feb — 2 March 2025) 
 
- How to securely authenticate a Next.js app with an external backend while keeping server-side render... 
+ Web-development... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F262fc2748158&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40urboifox%2Fauthentication-in-next-ajs-with-an-external-backend-262fc2748158&source=---recommended_stories---nextjs---0-84----------------bookmark_preview----e5a4a071_023f_44ab_b265_62184f2fb111--------------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F1bc66cd5f2b1&operation=register&redirect=https%3A%2F%2Ffrontender-ua.medium.com%2Ffrontend-weekly-digest-403-24-feb-2-march-2025-1bc66cd5f2b1&source=---recommended_stories---front_end_development---0-84----------------bookmark_preview----a7ae7fea_fa27_448c_b67e_3165818c0845--------------) 
 
-### Vaadin — Time Picker AM-PM React Implementation 
+### React Native Interview Experience! 
 
- Hi everyone,... 
+ Yesterday, I had an interview for a React Native Developer role. Although I don’t have much experien... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fb0bc0684c480&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40aplu%2Fvaadin-time-picker-am-pm-react-implementation-b0bc0684c480&source=---recommended_stories---front_end_development---0-84----------------bookmark_preview----310a2ec2_24f4_4fe3_9dae_fa9372843926--------------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fd3cff58504c4&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40saurowankhade%2Freact-native-internship-interview-experience-d3cff58504c4&source=---recommended_stories---react---0-84----------------bookmark_preview----2b72bdae_7f04_437d_bd5e_1fd5c8a2edb0--------------) 
 
-### The Secret Behind React Keys: What Every Developer Must Know 
+### Angular Global Reactive State To Make Your Senior Cringe 
 
- Introduction... 
+ This is the first of the Oh No You Did Not — A Modern Angular Story series. This series assumes you ... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fb5b7b367887c&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40skrohilla1%2Fthe-secret-behind-react-keys-what-every-developer-must-know-b5b7b367887c&source=---recommended_stories---react---0-84----------------bookmark_preview----1fe757e3_cf38_4013_8203_39ad2e3e5c06--------------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F5c09b8d3f118&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40donald.murillo07%2Fangular-global-reactive-state-to-make-your-senior-cringe-5c09b8d3f118&source=---recommended_stories---javascript---0-84----------------bookmark_preview----12f6b970_65d0_417f_bbfd_26304fd72bd5--------------) 
 
 ---
 
