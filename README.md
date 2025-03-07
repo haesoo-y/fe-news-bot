@@ -1,17 +1,11 @@
 # 오늘의 포스팅 
-2025년 3월 6일 9시 기준 
+2025년 3월 7일 9시 기준 
 
-### 11 Essential Skills for React Developers :My Hard-Earned Lessons 
+### Guideline to be QA Web3: Complete E2E DeFi Project with Synpress (Playwright) and Hardhat/Anvil 
 
- A Developer’s Journey Through React: Mastering Skills, Optimizing Performance, and Building Scalable... 
+ In my previous blog, QA Blockchain Testing: Smart Contract & Network Performance with Hardhat, we ex... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fadd5d993471e&operation=register&redirect=https%3A%2F%2Fblog.stackademic.com%2F11-essential-skills-for-react-developers-my-hard-earned-lessons-add5d993471e&source=---recommended_stories---react---0-84----------------bookmark_preview----e7da25a9_4aca_44bb_bb1e_20ca3a1f9f59--------------) 
-
-### The Curious Case of Over-Engineered JavaScript: When LLMs Bring Back Patterns We Left Behind 
-
- Recent code reviews have led me to an interesting observation: as LLM-assisted coding becomes more c... 
-
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F5390626ec65c&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40ashishks.lko%2Fthe-curious-case-of-over-engineered-javascript-when-llms-bring-back-patterns-we-left-behind-5390626ec65c&source=---recommended_stories---javascript---0-84----------------bookmark_preview----8aef3a69_102d_4766_b960_1f75d570d8c8--------------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F5e3af494cca4&operation=register&redirect=https%3A%2F%2Fmedium.com%2Fcoinmonks%2Fguideline-to-be-qa-web3-complete-e2e-defi-project-with-synpress-playwright-and-hardhat-anvil-5e3af494cca4&source=---recommended_stories---javascript---0-84----------------bookmark_preview----d0d8b254_1fde_4087_aae8_352e2f9d4c19--------------) 
 
 ### SAML SSO in Next.js: A Step-by-Step Guide for Okta, Google & Microsoft Entra 
 
@@ -19,11 +13,17 @@
 
  [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fdbdd215b98d3&operation=register&redirect=https%3A%2F%2Fitnext.io%2Fsaml-sso-in-next-js-a-step-by-step-guide-for-okta-google-microsoft-entra-dbdd215b98d3&source=---recommended_stories---typescript---0-84----------------bookmark_preview----baaf1c41_3500_4d48_b897_f9f0b602c19e--------------) 
 
-### Making Local Storage Async in JavaScript 
+### How to build websites/products 
 
- Local Storage is a simple and widely used method for storing key-value pairs in a web browser. Howev... 
+ Start from scratch and build for millions... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Ff7b55336c2f5&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40vardaanbhatia55%2Fmaking-local-storage-async-in-javascript-f7b55336c2f5&source=---recommended_stories---frontend---0-84----------------bookmark_preview----e1a81754_4ff2_4927_b511_b9f916866609--------------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Ff38c3be03f70&operation=register&redirect=https%3A%2F%2Fshreyvijayvargiya26.medium.com%2Fhow-to-build-websites-products-f38c3be03f70&source=---recommended_stories---frontend---0-84----------------bookmark_preview----243a3f1b_c145_43d3_81e2_75e93b35a6dc--------------) 
+
+### React Hooks Simplified: Quick Guide to Each Hook in Three Lines 
+
+ React Hooks in a Nutshell: Concise Explanations for Every Hook... 
+
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F28880ada36a4&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40keerthi.appasani1%2Freact-hooks-simplified-quick-guide-to-each-hook-in-three-lines-28880ada36a4&source=---recommended_stories---reactjs---0-84----------------bookmark_preview----6202e8b2_6d71_4df8_9995_a748336df448--------------) 
 
 ---
 
