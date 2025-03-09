@@ -1,29 +1,29 @@
 # 오늘의 포스팅 
-2025년 3월 8일 9시 기준 
+2025년 3월 9일 9시 기준 
 
-### useEffect vs useQuery: Simplifying Data Fetching in React 
+### The Return of Server-Side Rendering: Are We Just Rebuilding PHP? 
 
- When building React applications, one task we all face at one point or another is fetching data from... 
+ We said goodbye to PHP years ago, so why are we rebuilding it with more complexity?... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F87f9ef9012e5&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40maishaChow%2Fuseeffect-vs-usequery-simplifying-data-fetching-in-react-87f9ef9012e5&source=---recommended_stories---typescript---0-84----------------bookmark_preview----f6aecb98_7d90_469c_823c_5c754959d73c--------------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Ff0ca2c514a86&operation=register&redirect=https%3A%2F%2Fitnext.io%2Fthe-return-of-server-side-rendering-are-we-just-rebuilding-php-f0ca2c514a86&source=---recommended_stories---frontend---0-84----------------bookmark_preview----f8be7b53_1670_4906_a5f6_59fc370e331f--------------) 
 
-### The Journey of Eleva.js: A Solo Developer’s Quest for Pure Frontend Excellence 
+### Next.js 15 Just Dropped a Wild Caching Update That’s Got Me Hyped! 
 
- Discover how a passion for pure vanilla JavaScript led to the creation of a minimalist framework des... 
+ Blazing-Fast Performance & Smarter Caching — Next.js 15 Redefines Speed!... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F35e686a0127f&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40tarekraafat%2Fthe-journey-of-eleva-js-a-solo-developers-quest-for-pure-frontend-excellence-35e686a0127f&source=---recommended_stories---frontend---0-84----------------bookmark_preview----616b08a4_3a58_42a4_b988_7ea05b83fdca--------------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F752fded8fcc5&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40letscodefuture%2Fnext-js-15-just-dropped-a-wild-caching-update-thats-got-me-hyped-752fded8fcc5&source=---recommended_stories---reactjs---0-84----------------bookmark_preview----eba9210a_fc96_4006_9754_44c30e514049--------------) 
 
-### Next.js 15: Establish Database Connection I Learned from a 10-Year Experienced Developer 
+### Crafting Delightful Interactions: A Heart Button with Smooth Motion 
 
- Mastering Database Connections in Next.js 15 with Pro-Level Insights... 
+ Enhancing User Experience with Fluid Animations and Engaging Micro-Interactions... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F92d4cca47c99&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40letscodefuture%2Fnext-js-15-establish-database-connection-i-learned-from-a-10-year-experienced-developer-92d4cca47c99&source=---recommended_stories---reactjs---0-84----------------bookmark_preview----45cdc292_3764_4af6_97c7_24b7d3ac26f1--------------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fb717e39b4ea2&operation=register&redirect=https%3A%2F%2Fhappyhackingspace.blog%2Fcrafting-delightful-interactions-a-heart-button-with-smooth-motion-b717e39b4ea2&source=---recommended_stories---nextjs---0-84----------------bookmark_preview----4fa01971_c72c_4f3c_add4_5cbbbc40c2dd--------------) 
 
-### Next.js 15: Establish Database Connection I Learned from a 10-Year Experienced Developer 
+### Create a Design System to your app. The future new members of your team will be thankful 
 
- Mastering Database Connections in Next.js 15 with Pro-Level Insights... 
+ When you are developing a huge app, the visual identity is one of the most important aspects indeed.... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F92d4cca47c99&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40letscodefuture%2Fnext-js-15-establish-database-connection-i-learned-from-a-10-year-experienced-developer-92d4cca47c99&source=---recommended_stories---nextjs---0-84----------------bookmark_preview----2103f138_a993_417c_8f29_fab365512419--------------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F8e3852d526d1&operation=register&redirect=https%3A%2F%2Fmedium.com%2Fcodandotv%2Fcreate-a-design-system-to-your-app-the-future-new-members-of-your-team-will-be-thankful-8e3852d526d1&source=---recommended_stories---front_end_development---0-84----------------bookmark_preview----fc7fbdd7_3a0a_415a_b7b4_6f47575845f9--------------) 
 
 ---
 
