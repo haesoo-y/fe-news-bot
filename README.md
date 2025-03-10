@@ -1,29 +1,31 @@
 # 오늘의 포스팅 
-2025년 3월 9일 9시 기준 
-
-### The Return of Server-Side Rendering: Are We Just Rebuilding PHP? 
-
- We said goodbye to PHP years ago, so why are we rebuilding it with more complexity?... 
-
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Ff0ca2c514a86&operation=register&redirect=https%3A%2F%2Fitnext.io%2Fthe-return-of-server-side-rendering-are-we-just-rebuilding-php-f0ca2c514a86&source=---recommended_stories---frontend---0-84----------------bookmark_preview----f8be7b53_1670_4906_a5f6_59fc370e331f--------------) 
+2025년 3월 10일 9시 기준 
 
 ### Next.js 15 Just Dropped a Wild Caching Update That’s Got Me Hyped! 
 
  Blazing-Fast Performance & Smarter Caching — Next.js 15 Redefines Speed!... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F752fded8fcc5&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40letscodefuture%2Fnext-js-15-just-dropped-a-wild-caching-update-thats-got-me-hyped-752fded8fcc5&source=---recommended_stories---reactjs---0-84----------------bookmark_preview----eba9210a_fc96_4006_9754_44c30e514049--------------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F752fded8fcc5&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40letscodefuture%2Fnext-js-15-just-dropped-a-wild-caching-update-thats-got-me-hyped-752fded8fcc5&source=---recommended_stories---reactjs---0-84----------------bookmark_preview----a558cc1d_7e92_4d9b_b260_4854965a7b4e--------------) 
 
-### Crafting Delightful Interactions: A Heart Button with Smooth Motion 
+### Every AI Engineer should learn Next JS. 
 
- Enhancing User Experience with Fluid Animations and Engaging Micro-Interactions... 
+ I Earned $150 Building an SEO Landing Page in 4 Days — And It’s More Than That: Create UIs Fast with... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fb717e39b4ea2&operation=register&redirect=https%3A%2F%2Fhappyhackingspace.blog%2Fcrafting-delightful-interactions-a-heart-button-with-smooth-motion-b717e39b4ea2&source=---recommended_stories---nextjs---0-84----------------bookmark_preview----4fa01971_c72c_4f3c_add4_5cbbbc40c2dd--------------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F554f634a5f47&operation=register&redirect=https%3A%2F%2Flevelup.gitconnected.com%2Fevery-ai-engineer-should-learn-next-js-554f634a5f47&source=---recommended_stories---nextjs---0-84----------------bookmark_preview----c29836d1_8efa_4ffa_b94b_fe3bf3861aab--------------) 
 
-### Create a Design System to your app. The future new members of your team will be thankful 
+### Must-Have Utilities to Supercharge Your Front-End Project🚀 
 
- When you are developing a huge app, the visual identity is one of the most important aspects indeed.... 
+ Hi there👋
+Here are some useful utilities you may wish to use in your projects.
+Some of them are TS ... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F8e3852d526d1&operation=register&redirect=https%3A%2F%2Fmedium.com%2Fcodandotv%2Fcreate-a-design-system-to-your-app-the-future-new-members-of-your-team-will-be-thankful-8e3852d526d1&source=---recommended_stories---front_end_development---0-84----------------bookmark_preview----fc7fbdd7_3a0a_415a_b7b4_6f47575845f9--------------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fc495182d47c0&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40matinshamsaei%2Fmust-have-utilities-to-supercharge-your-front-end-project-c495182d47c0&source=---recommended_stories---front_end_development---0-84----------------bookmark_preview----3510c52e_4798_4938_a845_457c2860f262--------------) 
+
+### Lovable.dev — The AI-Powered Web Development Tool Revolutionizing App Creation 
+
+ Introduction... 
+
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fcfa061fd7306&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40officewajidali%2Flovable-dev-the-ai-powered-web-development-tool-revolutionizing-app-creation-cfa061fd7306&source=---recommended_stories---react---0-84----------------bookmark_preview----6341b7be_9223_4c4e_a2b3_59b9b82e46bd--------------) 
 
 ---
 
