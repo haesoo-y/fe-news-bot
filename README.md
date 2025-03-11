@@ -1,31 +1,29 @@
 # 오늘의 포스팅 
-2025년 3월 10일 9시 기준 
+2025년 3월 11일 9시 기준 
 
-### Next.js 15 Just Dropped a Wild Caching Update That’s Got Me Hyped! 
+### How to Downgrade to Tailwind CSS v3 in Next.js And React.js 
 
- Blazing-Fast Performance & Smarter Caching — Next.js 15 Redefines Speed!... 
+ The recent release of Tailwind CSS v4 has brought about significant changes.... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F752fded8fcc5&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40letscodefuture%2Fnext-js-15-just-dropped-a-wild-caching-update-thats-got-me-hyped-752fded8fcc5&source=---recommended_stories---reactjs---0-84----------------bookmark_preview----a558cc1d_7e92_4d9b_b260_4854965a7b4e--------------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Ff2e37b2e1111&operation=register&redirect=https%3A%2F%2Fyogeshchavan.medium.com%2Fhow-to-downgrade-to-tailwind-css-v3-in-next-js-and-react-js-f2e37b2e1111&source=---recommended_stories---nextjs---0-84----------------bookmark_preview----00aa42ca_d6ba_4d6a_9d4c_ed73d2bb16a4--------------) 
 
-### Every AI Engineer should learn Next JS. 
+### Frontend Weekly Digest #404 (2–9 March 2025) 
 
- I Earned $150 Building an SEO Landing Page in 4 Days — And It’s More Than That: Create UIs Fast with... 
+ Web-development... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F554f634a5f47&operation=register&redirect=https%3A%2F%2Flevelup.gitconnected.com%2Fevery-ai-engineer-should-learn-next-js-554f634a5f47&source=---recommended_stories---nextjs---0-84----------------bookmark_preview----c29836d1_8efa_4ffa_b94b_fe3bf3861aab--------------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F862c9c801106&operation=register&redirect=https%3A%2F%2Ffrontender-ua.medium.com%2Ffrontend-weekly-digest-404-2-9-march-2025-862c9c801106&source=---recommended_stories---front_end_development---0-84----------------bookmark_preview----4d2ceb32_0776_4030_a7bf_a3256d6e8e6c--------------) 
 
-### Must-Have Utilities to Supercharge Your Front-End Project🚀 
+### React Animated Sprites 
 
- Hi there👋
-Here are some useful utilities you may wish to use in your projects.
-Some of them are TS ... 
+ I recently wrote a React Animated Sprite component to add juice to a project. It’s primarily used fo... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fc495182d47c0&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40matinshamsaei%2Fmust-have-utilities-to-supercharge-your-front-end-project-c495182d47c0&source=---recommended_stories---front_end_development---0-84----------------bookmark_preview----3510c52e_4798_4938_a845_457c2860f262--------------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F68ace2564a27&operation=register&redirect=https%3A%2F%2Fcardboardshark.medium.com%2Freact-animated-sprites-68ace2564a27&source=---recommended_stories---react---0-84----------------bookmark_preview----a56e5170_fe8a_4395_8b24_ae5e0d2f1ce3--------------) 
 
-### Lovable.dev — The AI-Powered Web Development Tool Revolutionizing App Creation 
+### Frontend Weekly Digest #404 (2–9 March 2025) 
 
- Introduction... 
+ Web-development... 
 
- [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fcfa061fd7306&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40officewajidali%2Flovable-dev-the-ai-powered-web-development-tool-revolutionizing-app-creation-cfa061fd7306&source=---recommended_stories---react---0-84----------------bookmark_preview----6341b7be_9223_4c4e_a2b3_59b9b82e46bd--------------) 
+ [바로가기](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F862c9c801106&operation=register&redirect=https%3A%2F%2Ffrontender-ua.medium.com%2Ffrontend-weekly-digest-404-2-9-march-2025-862c9c801106&source=---recommended_stories---javascript---0-84----------------bookmark_preview----c8ef613e_a44c_4e99_97b8_0e7c71c3de06--------------) 
 
 ---
 
